@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "highland": "^2.13.0",
-    "mkdirp": "^0.5.1",
-    "pdfjs-dist": "^2.0.489"
-  }
-}
