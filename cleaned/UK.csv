@@ -1,0 +1,467 @@
+Country,Location,Currency,Room rate,Breakfast,Lunch,Dinner,Other,Drinks,Hotel to office,Total residual,Note
+AFGHANISTAN,Kabul,USD,72.5,0,16.0,18.5,2.5,7.0,9.0,53.0,
+AFGHANISTAN,Elsewhere,,,,,,,,,,Actuals + £4 per day
+ALBANIA,Tirana,ALL,EUR 120.50,0,"2,925.0","4,152.5",573.5,459.0,809.0,"8,919.0",
+ALBANIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+ALGERIA,Algiers,DZD,"23,383.5","1,804.0","2,383.5","4,638.5",0,515.5,631.5,"9,973.0",
+ALGERIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+ANGOLA,Luanda,AOA,USD 417.00,0,"5,582.5","9,822.0",935.0,"1,597.5",824.5,"18,761.5",
+ANGOLA,Elsewhere,,,,,,,,,,As for Luanda
+ANGUILLA,Anguilla,USD,235.5,15.5,31.0,75.5,4.0,15.5,9.0,150.5,
+ANGUILLA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+ANTIGUA AND BARBUDA,St John's,XCD,USD 200.00,52.0,102.5,192.5,0,22.0,23.5,392.5,
+ANTIGUA AND BARBUDA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+ARGENTINA,Buenos Aires,ARS,USD 215.50,0,131.5,184.5,0,30.5,44.5,391.0,
+ARGENTINA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+ARMENIA,Yerevan,AMD,"73,645.0",0,"10,310.5","14,394.5","1,607.0","2,678.0","3,240.5","32,230.5",
+ARMENIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+ASCENSION ISLAND,Ascension Island,,,,,,,,,,Actuals + £4 per day
+AUSTRALIA,Adelaide,AUD,262.5,33.5,51.0,70.5,0,11.5,9.5,176.0,
+AUSTRALIA,Brisbane,AUD,291.0,18.5,44.0,73.5,0,11.0,9.5,156.5,
+AUSTRALIA,Canberra,AUD,238.5,22.0,50.0,73.0,0,9.5,10.0,164.5,
+AUSTRALIA,Darwin,AUD,230.0,30.0,40.5,68.0,0,9.5,9.5,157.5,
+AUSTRALIA,Hobart,AUD,251.0,26.0,48.5,78.5,0,9.5,9.5,172.0,
+AUSTRALIA,Melbourne,AUD,262.5,46.0,71.0,97.0,0,13.0,9.5,236.5,
+AUSTRALIA,Perth,AUD,245.0,40.0,43.0,88.0,0,10.5,9.5,191.0,
+AUSTRALIA,Sydney,AUD,227.0,38.0,51.5,84.5,0,11.5,9.5,195.0,
+AUSTRALIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+AUSTRIA,"Vienna (also applies to Graz, Bregenz, Linz, Klagenfurt, Salzburg, Innsbruck)",EUR,123.5,0,28.5,46.5,0,9.0,5.5,89.5,
+AUSTRIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+AZERBAIJAN,Baku,AZN,195.0,0,24.5,34.0,6.0,12.5,8.5,85.5,
+AZERBAIJAN,Elsewhere,,,,,,,,,,Actuals + £4 per day
+BAHAMAS,Nassau and Elsewhere,,,,,,,,,,Actuals + £4 per day
+BAHRAIN,Bahrain,BHD,115.5,13.0,14.5,21.5,0,4.5,3.0,56.5,
+BAHRAIN,Elsewhere,,,,,,,,,,Actuals + £4 per day
+BANGLADESH,Dhaka,BDT,USD 139.00,0,968.5,"1,667.5",0,326.5,791.0,"3,753.5",
+BANGLADESH,Elsewhere,,,,,,,,,,Actuals + £4 per day
+BARBADOS,Bridgetown,BBD,USD 170.50,0,51.5,114.5,0,13.0,20.5,199.5,
+BARBADOS,Elsewhere,,,,,,,,,,Actuals + £4 per day
+BELARUS,Minsk,USD,160.5,0,21.0,37.0,7.5,5.0,9.0,79.5,
+BELARUS,Elsewhere,,,,,,,,,,Actuals + £4 per day
+BELGIUM,Brussels,EUR,165.5,0,23.0,40.0,0,8.0,5.0,76.0,
+BELGIUM,Elsewhere,,,,,,,,,,80% of Brussels rate plus
+BELIZE,Belize City,BZD,USD 141.00,24.5,37.5,80.0,0,7.5,17.5,167.0,
+BELIZE,Belmopan,BZD,150.5,13.0,19.0,33.0,0,2.5,17.5,85.0,
+BELIZE,Elsewhere,,,,,,,,,,
+BENIN,Cotonou and Elsewhere,,,,,,,,,,Actuals + £4 per day
+BERMUDA,Hamilton,BMD,356.5,0,35.0,65.0,0,13.0,8.5,121.5,
+BERMUDA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+BOLIVIA,La Paz,BOB,888.5,0,92.5,140.5,23.5,26.0,73.0,355.5,
+BOLIVIA,Cochabamba,BOB,USD 56.00,0,70.5,106.5,9.5,13.0,73.0,272.5,
+BOLIVIA,Santa Cruz,USD,96.0,0,13.0,22.0,3.5,4.0,9.0,51.5,
+BOLIVIA,Elsewhere,BAM,actuals,0,19.5,29.5,0,4.5,9.5,63.0,65% of La Paz rate plus Hotel to Office BOB 73
+BOTSWANA,Gaborone,BWP,853.0,0,196.5,273.0,0,34.0,68.0,571.5,
+BOTSWANA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+BRAZIL,Brasilia,BRL,442.5,0,55.0,88.0,4.5,12.0,18.0,177.5,
+BRAZIL,Rio de Janeiro,BRL,601.5,0,92.5,130.5,7.5,19.5,18.5,268.5,
+BRAZIL,Sao Paulo,BRL,453.0,0,95.5,164.5,7.5,12.0,21.0,300.5,
+BRAZIL,Elsewhere,,,,,,,,,,Actuals + £4 per day
+BRITISH VIRGIN ISLANDS,Tortola,USD,157.5,15.5,26.5,49.5,0,4.0,9.0,104.5,
+BRUNEI,Bandar Seri Begawan,BND,203.0,0,31.0,79.0,0,11.5,13.0,134.5,
+BRUNEI,Elsewhere,,,,,,,,,,Actuals + £4 per day
+BULGARIA,Sofia,BGN,EUR 154.00,0,38.0,51.5,0,9.0,10.0,108.5,
+BULGARIA,Elsewhere,BGN,actuals,8.0,15.0,22.5,3.5,4.5,10.0,63.5,
+BURKINA FASO,Ouagadougou and Elsewhere,,,,,,,,,,Actuals + £4 per day
+BURUNDI,Bujumbura,BIF,USD 111.50,0,"21,580.5","38,536.5","3,854.0","4,624.5","11,906.5","80,502.0",
+BURUNDI,Elsewhere,,,,,,,,,,Actuals + £4 per day
+CAMBODIA,Phnom Penh,USD,102.0,0,27.0,38.5,6.5,8.5,6.5,87.0,
+CAMBODIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+CAMEROON,Douala,XAF,"88,871.0","12,055.5","16,692.5","29,542.0","2,777.5","5,035.0","3,703.0","69,805.5",
+CAMEROON,Yaounde,XAF,"100,679.5","11,664.5","14,653.0","20,107.0","2,222.0","3,999.5","3,703.0","56,349.0",
+CAMEROON,Elsewhere,,,,,,,,,,Actuals + £4 per day
+CANADA,"Calgary, Alberta",CAD,156.0,27.5,56.5,75.5,0,10.0,10.0,179.5,
+CANADA,"Edmonton, Alberta",CAD,132.5,16.5,25.0,41.0,0,6.5,10.5,99.5,
+CANADA,"Halifax, Nova Scotia",CAD,175.5,16.5,32.5,58.0,0,7.5,8.5,123.0,
+CANADA,"Montreal, Quebec",CAD,223.5,27.5,42.0,67.0,0,10.0,10.0,156.5,
+CANADA,"Ottawa, Ontario",CAD,212.0,24.0,42.5,72.5,0,9.0,8.5,156.5,
+CANADA,"Quebec City, Quebec",CAD,254.5,27.5,48.5,68.5,0,10.0,10.0,164.5,
+CANADA,"Regina, Saskatchewan",CAD,159.5,0,35.5,55.0,0,8.0,8.5,107.0,
+CANADA,"Saskatoon, Saskatchewan",CAD,226.0,18.5,33.0,51.0,0,6.5,8.5,117.5,
+CANADA,"St John's, New Foundland",CAD,186.5,23.0,43.0,65.5,0,8.5,8.5,148.5,
+CANADA,"Toronto, Ontario",CAD,181.0,24.0,41.5,67.5,0,9.0,9.5,151.5,
+CANADA,"Vancouver, British Columbia",CAD,224.0,20.0,33.5,41.0,0,10.0,10.0,114.5,
+CANADA,"Victoria, British Columbia",CAD,195.5,22.0,35.5,51.0,0,7.5,10.0,126.0,
+CANADA,"Winnipeg, Manitoba",CAD,191.0,27.5,45.0,70.0,0,9.0,8.5,160.0,
+CANADA,"Yellowknife, NW Territories",CAD,148.5,14.0,31.0,48.0,0,7.0,8.5,108.5,
+CANADA,Elsewhere,,,,,,,,,,
+CAPE VERDE,Praia and Elsewhere,,,,,,,,,,Actuals + £4 per day
+CAYMAN ISLANDS,Grand Cayman,KYD,USD 211.0,20.0,30.5,56.0,0,6.0,6.0,118.5,
+CAYMAN ISLANDS,Elsewhere,,,,,,,,,,Actuals + £4 per day
+CHAD,N'djamena and Elsewhere,,,,,,,,,,Actuals + £4 per day
+CHILE,Santiago,CLP,USD 156.0,0,"15,042.5","23,186.0",0,"3,167.0","4,101.5","45,497.0",
+CHILE,Elsewhere,,,,,,,,,,As for Santiago
+CHINA,Beijing,CNY,"1,344.5",0,205.0,304.0,0,54.0,42.5,605.5,
+CHINA,Chongqing,CNY,582.5,0,205.0,304.0,0,54.0,42.5,605.5,
+CHINA,Guangzhou,CNY,818.5,0,205.0,304.0,0,54.0,42.5,605.5,
+CHINA,Shanghai,CNY,"1,328.5",0,205.0,304.0,0,54.0,42.5,605.5,
+CHINA,Elsewhere,,,,,,,,,,80% of Beijing rate plus Hotel to Office CNY 42.5
+COLOMBIA,Bogota,COP,"412,244.0",0,"45,537.5","64,124.5","5,505.0","8,578.5","16,308.5","140,054.0",
+COLOMBIA,Cali,COP,"288,446.0",0,"51,471.0","81,496.0","5,004.5","7,149.0","15,885.0","161,005.5",
+COLOMBIA,Cartagena,COP,"597,997.5",0,"63,658.0","106,096.5","7,489.5","12,482.0","16,308.5","206,034.5",
+COLOMBIA,Medellin,COP,"280,276.0",0,"41,440.0","64,032.5","6,116.5","4,743.5","16,308.5","132,641.0",
+COLOMBIA,Elsewhere,USD,208.5,0,31.5,49.0,8.0,9.0,9.5,107.0,"75% of Bogota, Cali, Cartagena, Medellin rate plus Hotel to Office COP 16308.5"
+COOK ISLANDS,Rarotonga,NZD,436.5,0,40.5,68.5,5.0,10.0,11.5,135.5,
+COSTA RICA,San Jose,USD,149.5,0,28.0,40.0,5.5,6.0,9.0,88.5,
+COSTA RICA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+CROATIA,Dubrovnik,HRK,EUR 285.50,0,225.5,258.5,0,31.0,37.5,552.5,
+CROATIA,Split,HRK,EUR 126.50,0,121.5,176.5,0,35.5,37.5,371.0,
+CROATIA,Zagreb,HRK,"1,020.0",0,151.0,213.5,0,39.5,37.5,441.5,
+CROATIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+CUBA,Havana,CUC,USD 133.50,0,15.5,35.5,2.5,4.5,7.0,65.0,
+CUBA,Elsewhere,,,,,,,,,,As for Havana
+CYPRUS,Nicosia,EUR,108.0,0,31.5,46.0,0,10.5,6.0,94.0,
+CYPRUS,Elsewhere,,,,,,,,,,75% of Nicosia rate plus Hotel to Office EUR 6
+CZECH REPUBLIC,Prague,CZK,EUR 126.0,0,390.0,633.5,0,130.0,143.0,"1,296.5",
+CZECH REPUBLIC,Elsewhere,,,,,,,,,,75% of Prague rate plus Hotel to Office CZK 143
+DENMARK,Copenhagen,DKK,"1,200.0",164.0,213.0,426.0,0,44.0,48.5,895.5,
+DENMARK,Elsewhere,,,,,,,,,,As for Copenhagen
+DJIBOUTI,Djibouti,DJF,"35,640.5",0,"3,861.5","5,524.5",0,832.0,"1,535.0","11,753.0",
+DJIBOUTI,Elsewhere,,,,,,,,,,Actuals + £4 per day
+DOMINICA,Roseau,XCD,USD 119.5,0,61.5,89.5,0,11.5,22.5,185.0,
+DOMINICA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+DOMINICAN REPUBLIC,Santo Domingo,DOP,USD 140.5,0,975.5,"1,281.0",106.5,146.0,337.0,"2,846.0",
+DOMINICAN REPUBLIC,Elsewhere,,,,,,,,,,Actuals + £4 per day
+EAST TIMOR,Dili and Elsewhere,,,,,,,,,,Actuals + £4 per day
+ECUADOR,Guayaquil,USD,140.0,0,22.0,36.5,4.0,5.0,7.5,75.0,
+ECUADOR,Quito,USD,163.0,25.5,26.0,35.5,4.5,6.0,7.5,105.0,
+ECUADOR,Elsewhere,,,,,,,,,,Actuals + £4 per day
+EGYPT,Alexandria,EGP,"1,118.0",0,138.0,201.0,0,31.5,74.5,445.0,
+EGYPT,Cairo,EGP,USD 181.5,0,247.0,391.5,0,63.5,59.0,761.0,
+EGYPT,Elsewhere,,,,,,,,,,Actuals + £4 per day
+EL SALVADOR,San Salvador,USD,136.5,0,20.0,34.5,5.0,5.0,7.5,72.0,
+EL SALVADOR,Elsewhere,,,,,,,,,,Actuals + £4 per day
+EQUATORIAL GUINEA,Malabo,XAF,"210,274.5","18,993.0","23,741.0","41,377.0","6,105.0","5,426.5","4,748.5","100,391.0",
+ERITREA,Asmara,ERN,USD 133.50,0,350.0,708.5,0,25.5,211.0,"1,295.0",
+ESTONIA,Tallinn,EUR,116.0,0,10.0,40.0,0,3.0,7.0,60.0,
+ESTONIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+ETHIOPIA,Addis Ababa,ETB,USD 274.50,0,610.0,805.0,0,133.5,171.0,"1,719.5",
+ETHIOPIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+FALKLAND ISLANDS,Stanley,FKP,91.5,0,12.5,26.5,0,2.5,5.0,46.5,
+FALKLAND ISLANDS,Elsewhere,,,,,,,,,,Actuals + £4 per day
+FIJI,Nadi,FJD,295.5,0,64.0,92.0,12.0,13.0,15.5,196.5,
+FIJI,Suva,FJD,254.5,0,62.5,80.5,0,12.0,17.0,172.0,
+FIJI,Elsewhere,,,,,,,,,,Actuals + £4 per day
+FINLAND,Helsinki,EUR,146.5,0,28.5,38.0,0,9.0,6.5,82.0,
+FINLAND,Elsewhere,EUR,actuals,0,28.5,38.0,0,9.0,6.5,82.0,
+FRANCE,Bordeaux,EUR,120.0,15.5,40.5,66.5,0,7.0,5.5,135.0,
+FRANCE,Lille,EUR,183.5,16.0,22.0,36.5,0,4.5,5.5,84.5,
+FRANCE,Lyon,EUR,122.0,0,25.5,43.0,0,4.5,6.5,79.5,
+FRANCE,Marseilles,EUR,190.5,0,24.5,53.5,0,8.0,6.5,92.5,
+FRANCE,Paris,EUR,199.5,24.0,35.5,42.0,0,9.0,6.5,117.0,
+FRANCE,Strasbourg,EUR,108.0,14.5,20.5,32.5,0,6.5,6.5,80.5,
+FRANCE,Elsewhere,XPF,"16,541.0","3,705.0","3,077.5","5,129.0",497.0,427.5,575.0,"13,411.0",
+GAMBIA,Banjul,GMD,EUR 90.00,0,480.5,903.0,102.0,102.0,273.0,"1,860.5",
+GAMBIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+GEORGIA,Tbilisi,GEL,USD 233.50,0,63.0,77.0,9.0,20.5,12.5,182.0,
+GEORGIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+GERMANY,Berlin,EUR,167.5,0,18.5,40.5,0,6.5,6.5,72.0,
+GERMANY,Dusseldorf,EUR,110.5,0,19.5,33.0,0,6.5,7.0,66.0,
+GERMANY,Munich,EUR,147.0,0,25.5,41.0,0,6.5,6.5,79.5,
+GERMANY,Elsewhere,,,,,,,,,,Actuals + £4 per day
+GHANA,Accra,GHS,USD 200.50,0,38.0,80.5,5.5,9.0,16.5,149.5,
+GHANA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+GIBRALTAR,Gibraltar,GIP,115.0,15.0,17.0,32.5,0,5.5,5.0,75.0,
+GIBRALTAR,Elsewhere,,,,,,,,,,Actuals + £4 per day
+GREECE,Athens,EUR,153.5,0,25.0,30.5,0,7.0,5.0,67.5,
+GREECE,Corfu,EUR,92.5,0,28.0,43.0,0,5.0,6.5,82.5,
+GREECE,Crete,EUR,83.0,0,19.5,27.5,0,7.0,6.0,60.0,
+GREECE,Rhodes,EUR,82.5,0,19.5,33.0,0,4.0,7.0,63.5,
+GREECE,Thessalonki,EUR,155.0,0,25.5,45.5,0,9.0,6.5,86.5,
+GREECE,Elsewhere,,,,,,,,,,80% of Athens rate plus Hotel to Office EUR 5
+GRENADA,St George's,XCD,USD 144.50,45.5,58.0,115.0,0,15.5,21.0,255.0,
+GRENADA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+GUATEMALA,Guatemala City,USD,160.5,15.0,26.5,38.0,5.0,7.5,7.5,99.5,
+GUATEMALA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+GUINEA,Conakry,GNF,USD 100.50,0,"128,552.5","177,524.5","20,405.5","32,648.5","84,681.5","443,812.5",
+GUINEA,Elsewhere,,,,,,,,,,80% of Conakry rate plus Hotel to Office GNF 84681.5
+GUINEA BISSAU,Bissau and Elsewhe,,,,,,,,,,Actuals + £4 per day
+GUYANA,Georgetown,GYD,USD 181.00,"3,002.0","3,853.5","5,490.5",0,819.0,"1,788.0","14,953.0",
+GUYANA,Elsewhere,,,,,,,,,,As for Georgetown
+HAITI,Port au Prince,USD,132.5,10.5,18.0,28.0,0,2.5,8.5,67.5,
+HAITI,Elsewhere,,,,,,,,,,Actuals + £4 per day
+HONDURAS,San Pedro Sula,USD,164.0,12.5,24.0,39.5,4.5,3.5,9.0,93.0,
+HONDURAS,Tegucigalpa,USD,177.0,0,29.5,35.0,4.5,5.5,7.5,82.0,
+HONDURAS,Elsewhere,,,,,,,,,,As for Tegucigalpa
+HONG KONG,Hong Kong,HKD,"2,376.5",0,253.0,429.5,0,79.0,55.0,816.5,
+HONG KONG,Elsewhere,,,,,,,,,,Actuals + £4 per day
+HUNGARY,Budapest,HUF,EUR 137.00,0,"5,136.0","7,465.0",0,"1,911.5","1,488.5","16,001.0",
+HUNGARY,Elsewhere,,,,,,,,,,Actuals + £4 per day
+ICELAND,Reykjavik,ISK,"15,990.5","2,008.5","3,489.5","12,125.0",0,753.5,885.5,"19,262.0",
+ICELAND,Elsewhere,,,,,,,,,,Actuals + £4 per day
+INDIA,Ahmedabad,INR,"9,420.5",0,893.0,"1,073.5",0,246.0,540.5,"2,753.0",
+INDIA,Bangalore,INR,"16,809.5",0,"1,406.0","1,781.0",369.0,559.0,514.5,"4,629.5",
+INDIA,Chandigarh,INR,"10,485.5",922.0,"1,520.5","1,935.5",0,461.0,525.5,"5,364.5",
+INDIA,Chennai (Madras),INR,"14,540.5",0,"1,843.5","2,534.5",305.0,719.5,514.5,"5,917.0",
+INDIA,Hyderabad,INR,"13,926.0",0,"1,630.5","2,081.0",369.0,475.5,514.5,"5,070.5",
+INDIA,Jalandhar,INR,"6,267.0",0,"1,124.5","1,631.5",0,369.0,525.5,"3,650.5",
+INDIA,Kolkata (Calcutta),INR,"13,418.0",0,"1,884.5","2,662.5",0,573.5,529.5,"5,650.0",
+INDIA,Ludhiana,INR,"6,062.0",0,"1,106.0","1,364.0",0,203.0,525.5,"3,198.5",
+INDIA,Mumbai (Bombay),INR,"14,888.5",0,"1,950.5","2,146.5",0,470.5,540.5,"5,108.0",
+INDIA,Nashik,INR,"7,569.5",0,819.5,"1,171.5",0,246.0,540.5,"2,777.5",
+INDIA,New Delhi,INR,"13,926.0",0,"2,020.5","2,924.5",0,627.0,528.5,"6,100.5",
+INDIA,Pune,INR,"16,219.5",0,"1,217.5","1,871.0",0,387.0,540.5,"4,016.0",
+INDIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+INDONESIA,Jakarta,IDR,USD 155.00,0,"299,802.0","328,993.0","165,680.0","94,674.5","97,677.5","986,827.0",
+INDONESIA,Semarang,IDR,"606,384.5",0,"157,790.5","268,244.0","15,779.5","50,493.0","93,169.5","585,476.5",
+INDONESIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+IRAN,Tehran,IRR,USD 139.0,0,"498,631.0","692,089.0",0,"122,614.5","196,183.0","1,509,517.5",
+IRAN,Elsewhere,,,,,,,,,,80% of Tehran rate plus Hotel to Office IRR 196183
+IRAQ,Baghdad and Elsewhere,,,,,,,,,,Actuals + £4 per day
+IRELAND,Dublin,EUR,149.0,0,34.0,51.5,0,8.5,5.0,99.0,
+IRELAND,Elsewhere,USD,183.5,0,28.5,42.5,7.0,8.5,8.5,95.0,Actuals + £4 per day
+ITALY,"Bologna, Florence, Genoa, Milan, Turin and Venice",EUR,230.0,0,31.5,48.0,6.5,5.0,5.5,96.5,
+ITALY,Rome and Naples,EUR,170.0,0,31.5,42.5,2.5,7.5,6.0,90.0,
+ITALY,Elsewhere,,,,,,,,,,As for Rome
+JAMAICA,Kingston,USD,216.5,6.0,25.5,57.5,5.0,11.5,9.0,114.5,
+JAMAICA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+JAPAN,Osaka,JPY,"15,333.5","2,359.0","1,634.0","4,718.0",0,"1,887.5",875.5,"11,474.0",
+JAPAN,Tokyo,JPY,"18,381.5",0,"3,641.0","5,285.0",0,"1,608.5",756.0,"11,290.5",
+JAPAN,Elsewhere,,,,,,,,,,90% of Tokyo rate plus Hotel to Office JPY 756
+JORDAN,Amman,JOD,131.5,0,25.5,38.0,3.5,10.0,7.5,84.5,
+JORDAN,Aqaba,JOD,107.0,0,22.5,29.0,0,6.5,7.5,65.5,
+JORDAN,Petra,JOD,99.5,0,22.5,29.0,0,6.5,7.5,65.5,
+JORDAN,Elsewhere,,,,,,,,,,Actuals + £4 per day
+KAZAKHSTAN,Almaty,KZT,"43,626.5",0,"8,347.0","13,077.0",0,"2,226.0","1,386.0","25,036.0",
+KAZAKHSTAN,Astana,USD,263.0,0,35.5,70.0,4.0,14.5,7.0,131.0,
+KAZAKHSTAN,Atyrau,KZT,"27,595.0",0,"4,599.5","8,722.5",634.5,"1,269.0","1,002.0","16,227.5",
+KAZAKHSTAN,Elsewhere,,,,,,,,,,Actuals + £4 per day
+KENYA,Mombasa,KES,USD 84.50,0,"1,582.0","2,401.5",116.5,348.5,741.5,"5,190.0",
+KENYA,Nairobi,KES,"11,318.0",0,"1,480.0","2,242.0",290.5,348.5,741.5,"5,102.5",
+KENYA,Elsewhere,,,,,,,,,,80% of Nairobi rate plus Hotel to Office KES 741.5
+KIRIBATI,Tarawa,KRW,"277,384.0",0,"53,447.5","71,037.5","11,276.0","23,003.0","9,227.0","167,991.0",Actuals + £4 per day
+KOSOVO,Pristina,EUR,81.0,0,13.0,21.0,1.5,3.5,5.5,44.5,
+KOSOVO,Elsewhere,,,,,,,,,,Actuals + £4 per day
+KUWAIT,Kuwait,KWD,74.5,0,11.5,17.5,0,4.5,3.0,36.5,
+KUWAIT,Elsewhere,,,,,,,,,,Actuals + £4 per day
+KYRGYZSTAN,Bishkek,USD,161.5,0,24.5,44.0,0,7.0,7.0,82.5,
+KYRGYZSTAN,Elsewhere,,,,,,,,,,Actuals + £4 per day
+LAOS,Vientiane,LAK,"929,071.0",0,"273,014.5","369,372.5","160,597.0","128,477.5","65,647.0","997,108.5",
+LAOS,Elsewhere,,,,,,,,,,Actuals + £4 per day
+LATVIA,Riga,EUR,115.0,0,19.5,30.0,0,5.5,5.0,60.0,
+LATVIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+LEBANON,Beirut and Elsewhere,,,,,,,,,,Actuals + £4 per day
+LESOTHO,Maseru and Elsewhere,,,,,,,,,,Actuals + £4 per day
+LIBERIA,Monrovia,,,,,,,,,,Actuals + £4 per day
+LIBYA,Tripoli and Elsewhere,,,,,,,,,,Actuals + £4 per day
+LITHUANIA,Vilinius,LTL,EUR 93.00,0,89.0,118.5,9.0,17.5,22.0,256.0,
+LITHUANIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+LUXEMBOURG,Luxembourg,EUR,241.0,28.5,28.5,52.0,0,8.5,5.5,123.0,
+LUXEMBOURG,Elsewhere,,,,,,,,,,Actuals + £4 per day
+MACAU SAR,Macao,HKD,"2,484.5",183.5,291.0,423.0,0,118.0,74.0,"1,089.5",
+MACAU SAR,Elsewhere,,,,,,,,,,Actuals + £4 per day
+MACEDONIA,Skopje,MKD,"8,314.0",0,566.0,699.5,0,222.0,414.0,"1,901.5",
+MACEDONIA,Ohrid and Elsewhere,MKD,"3,350.5",0,411.0,577.5,0,111.0,414.0,"1,513.5",
+MADAGASCAR,Antananarivo,MGA,"471,687.5","45,828.0","50,920.0","85,715.5","6,789.5","10,184.0","20,226.5","219,663.5",
+MADAGASCAR,Elsewhere,,,,,,,,,,60% of Antananarivo rate plus Hotel to Office MGA 20226.5
+MALAWI,Lilongwe,MWK,USD 111.5,0,"5,727.0","9,040.5",543.5,"1,146.0","2,737.0","19,194.0",
+MALAWI,Elsewhere,,,,,,,,,,Actuals + £4 per day
+MALAYSIA,Kuala Lumpur,MYR,374.0,0,94.5,140.5,23.5,44.0,31.5,334.0,
+MALAYSIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+MALDIVES,Male and Elsewhere,,,,,,,,,,Actuals + £4 per day
+MALI,Bamako,XOF,"61,759.5","9,459.0","10,571.5","20,030.0","2,003.0","3,338.5","3,227.5","48,629.5",
+MALI,Elsewhere,,,,,,,,,,Actuals + £4 per day
+MALTA,Gozo,,,,,,,,,,Actuals + £4 per day
+MALTA,Valletta,EUR,116.0,0,24.5,33.5,4.5,6.0,6.0,74.5,
+MALTA,Elsewhere,,,,,,,,,,As for Valletta
+MARSHALL ISLANDS,Majuro and Elsewhere,,,,,,,,,,Actuals + £4 per day
+MAURITANIA,Nouakchott,EUR,128.5,14.0,15.0,28.5,0,6.5,5.0,69.0,
+MAURITIUS,Port Louis,MUR,"5,781.0",0,686.0,997.5,0,198.5,278.5,"2,160.5",
+MAURITIUS,Elsewhere,,,,,,,,,,Actuals + £4 per day
+MEXICO,Mexico City,MXN,USD 215.00,279.5,201.0,402.0,0,45.0,107.0,"1,034.5",
+MEXICO,Elsewhere,,,,,,,,,,Actuals + £4 per day
+MOLDOVA,Chisinau,MDL,EUR 130.50,0,352.0,478.0,80.0,159.5,95.5,"1,165.0",
+MOLDOVA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+MONACO,Monaco,,,,,,,,,,Actuals + £4 per day
+MONGOLIA,Ulaanbaatar,MNT,USD 111.50,0,"28,125.5","36,349.0","2,961.0","6,579.0","15,658.0","89,672.5",
+MONGOLIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+MONTENEGRO,Podgorica,EUR,119.0,0,13.5,21.5,3.0,4.0,7.0,49.0,
+MONTSERRAT,Plymouth,XCD,USD 132.50,44.5,47.0,105.5,0,12.5,20.0,229.5,
+MONTSERRAT,Elsewhere,,,,,,,,,,Actuals + £4 per day
+MOROCCO,Agadir,MAD,"1,304.0",0,183.0,324.0,37.0,52.5,52.0,648.5,
+MOROCCO,Casablanca,MAD,"2,036.0",272.0,318.5,475.5,94.0,94.0,51.5,"1,305.5",
+MOROCCO,Fes,MAD,"1,086.5",0,157.0,303.0,0,42.0,51.5,553.5,
+MOROCCO,Marrakech,MAD,917.5,125.5,151.5,277.0,31.5,52.5,51.5,689.5,
+MOROCCO,Rabat,MAD,"1,531.0",0,204.0,318.5,0,63.0,51.5,637.0,
+MOROCCO,Tangier,MAD,"1,863.5",0,219.5,365.5,0,84.0,51.5,720.5,
+MOROCCO,Elsewhere,,,,,,,,,,Actuals + £4 per day
+MOZAMBIQUE,Maputo,MZN,USD 195.00,0,"1,016.5","1,316.5",95.5,273.0,222.5,"2,924.0",
+MOZAMBIQUE,Elsewhere,USD,64.5,0,19.5,25.5,0,7.0,7.5,59.5,Actuals + £4 per day
+NAMIBIA,Windhoek,NAD,"1,150.0",0,96.0,164.5,0,24.0,74.0,358.5,
+NAMIBIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+NAURU,Nauru,,,,,,,,,,Actuals + £4 per day
+NEPAL,Kathmandu,NPR,USD 124.50,0,"1,766.0","2,511.5",0,471.0,706.5,"5,455.0",
+NEPAL,Elsewhere,,,,,,,,,,Actuals + £4 per day
+NETHERLANDS,Amsterdam,EUR,150.0,0,22.0,37.5,0,5.5,7.0,72.0,
+NETHERLANDS,The Hague,EUR,163.5,25.0,26.0,55.0,0,6.5,5.0,117.5,
+NETHERLANDS,Elsewhere,,,,,,,,,,80% of The Hague rate plus Hotel to Office EUR 5
+NETHERLANDS ANTILLES,Aruba and Elsewhere,,,,,,,,,,Actuals + £4 per day
+NEW CALEDONIA,Noumea and Elsewhere,,,,,,,,,,Actuals + £4 per day
+NEW ZEALAND,Auckland,NZD,205.5,36.0,48.0,73.5,0,11.5,11.5,180.5,
+NEW ZEALAND,Christchurch,NZD,110.0,27.0,39.0,62.0,0,8.0,11.5,147.5,
+NEW ZEALAND,Wellington,NZD,225.0,33.5,49.0,88.5,0,9.0,11.5,191.5,
+NEW ZEALAND,Elsewhere,,,,,,,,,,75% of Auckland rate plus Hotel to Office NZD 11.5
+NICARAGUA,Managua,USD,192.0,0,22.5,34.5,4.5,3.0,9.0,73.5,
+NICARAGUA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+NIGER,Niamey and Elsewhere,,,,,,,,,,Actuals + £4 per day
+NIGERIA,Abuja,NGN,"79,560.0","7,233.0","6,986.5","9,534.5","1,068.5","1,315.5","1,391.0","27,529.0",
+NIGERIA,Lagos,NGN,"68,217.5","6,329.0","5,605.5","7,233.0",850.0,"1,917.0","1,545.5","23,480.0",
+NIGERIA,Port Harcourt,NGN,"75,943.5","3,945.5","4,816.5","7,907.0",0,"1,512.5","1,670.5","19,852.0",
+NIGERIA,Elsewhere,,,,,,,,,,60% of Abuja rate plus Hotel to Office NGN 1391
+NORWAY,Bergen,NOK,"1,388.5",0,381.5,672.0,0,81.0,41.5,"1,176.0",
+NORWAY,Oslo,NOK,"1,192.5",0,296.5,451.0,0,59.0,41.5,848.0,
+NORWAY,Stavanger,NOK,"1,301.5",0,353.0,636.0,0,54.5,41.5,"1,085.0",
+NORWAY,Elsewhere,,,,,,,,,,As for Oslo
+OCCUPIED TERRITORIES,Jerusalem,USD,208.0,0,24.5,56.0,4.0,7.5,8.5,100.5,
+OCCUPIED TERRITORIES,Elsewhere,,,,,,,,,,Actuals + £4 per day
+OMAN,Muscat,OMR,104.5,0,19.5,32.0,0,7.5,4.0,63.0,
+OMAN,Elsewhere,,,,,,,,,,Actuals + £4 per day
+PAKISTAN,Karachi,PKR,"16,001.5",0,"1,281.5","1,894.0",0,339.5,718.5,"4,233.5",
+PAKISTAN,Lahore,PKR,USD 173.00,0,"1,356.5","2,374.0",0,547.5,791.5,"5,069.5",
+PAKISTAN,Peshawar,PKR,"15,072.5",0,895.0,"1,347.5",0,301.5,804.5,"3,348.5",
+PAKISTAN,Quetta,PKR,"13,263.5",0,"1,017.5","1,545.0",0,245.0,792.0,"3,599.5",
+PAKISTAN,Elsewhere,,,,,,,,,,Actuals + £4 per day
+PANAMA,Panama City,USD,157.0,0,29.0,35.0,0,7.0,10.0,81.0,
+PANAMA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+PAPUA NEW GUINEA,Port Moresby,PGK,719.0,0,70.5,111.0,7.0,28.0,30.0,246.5,
+PAPUA NEW GUINEA,Elsewhere,,,,,,,,,,As for Port Moresby
+PARAGUAY,Asuncion and Elsewhere,,,,,,,,,,Actuals + £4 per day
+PERU,Lima,PEN,USD 179.5,0,110.0,148.0,0,41.5,27.0,326.5,
+PERU,Elsewhere,,,,,,,,,,Actuals + £4 per day
+PHILIPPINES,Cebu,PHP,USD 129.50,0,880.5,"1,280.0",149.5,312.0,411.0,"3,033.0",
+PHILIPPINES,Manila,PHP,"7,323.5",0,"1,315.0","2,009.5",183.0,426.5,411.0,"4,345.0",
+PHILIPPINES,Elsewhere,,,,,,,,,,Actuals + £4 per day
+POLAND,Warsaw,PLN,EUR 115.00,0,136.0,201.0,0,35.5,20.5,393.0,
+POLAND,Elsewhere,,,,,,,,,,As for Warsaw
+PORTUGAL,Azores,EUR,107.0,0,14.0,26.0,0,4.5,5.0,49.5,
+PORTUGAL,Funchal (Madeira),EUR,103.0,0,20.5,34.0,0,5.5,5.0,65.0,
+PORTUGAL,Lisbon,EUR,106.5,0,22.5,41.5,0,5.5,5.0,74.5,
+PORTUGAL,Oporto,EUR,130.0,0,32.5,49.5,0,6.0,5.0,93.0,
+PORTUGAL,Portimao,EUR,123.5,0,19.0,25.5,0,3.0,5.0,52.5,
+PORTUGAL,Elsewhere,,,,,,,,,,Actuals + £4 per day
+QATAR,Doha,QAR,711.5,45.5,197.0,268.0,15.5,59.5,32.0,617.5,
+QATAR,Elsewhere,,,,,,,,,,Actuals + £4 per day
+ROMANIA,Bucharest,RON,EUR 147.00,0,86.5,113.5,0,18.5,24.5,243.0,
+ROMANIA,Elsewhere,,,,,,,,,,75% of Bucharest rate plus Hotel to Office RON 24.5
+RUSSIA,Ekaterinburg,RUB,"6,639.0",0,852.5,"1,227.0",0,222.0,258.0,"2,559.5",
+RUSSIA,Moscow,RUB,"12,474.0",0,"1,670.5","2,481.0",478.5,416.0,267.0,"5,313.0",
+RUSSIA,St Petersburg,RUB,"13,299.5",0,"1,757.5","2,899.5",0,527.0,267.5,"5,451.5",
+RUSSIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+RWANDA,Kigali,RWF,USD 156.00,0,"9,452.5","18,536.5","2,701.0","3,928.5","4,463.5","39,082.0",
+RWANDA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+SAMOA,Apia,WST,USD 133.00,28.0,57.0,78.5,11.5,11.5,19.0,205.5,
+SAMOA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+SAUDI ARABIA,Al Khobar,SAR,532.5,78.5,99.5,129.0,11.5,28.5,27.5,374.5,
+SAUDI ARABIA,Jeddah,SAR,639.0,105.0,152.0,280.0,20.0,43.0,37.0,637.0,
+SAUDI ARABIA,Riyadh,SAR,674.5,106.5,118.0,192.0,0,34.5,33.5,484.5,
+SAUDI ARABIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+SENEGAL,Dakar,XOF,"70,019.5","11,670.0","10,609.0","19,096.5",0,"3,183.0","4,092.0","48,650.5",
+SENEGAL,Elsewhere,,,,,,,,,,75% of Dakar rate plus Hotel to Office XOF 4092
+SERBIA,Belgrade,RSD,EUR 190.5,0,"2,575.5","4,339.0",0,616.0,560.0,"8,090.5",
+SERBIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+SEYCHELLES,Victoria,SCR,"3,734.0",0,321.5,448.5,63.5,99.0,120.0,"1,052.5",
+SEYCHELLES,Elsewhere,,,,,,,,,,Actuals + £4 per day
+SIERRA LEONE,Freetown,SLL,USD 145.00,0,"129,530.0","182,616.5","8,494.0","21,234.5","33,819.0","375,694.0",
+SIERRA LEONE,Elsewhere,,,,,,,,,,Actuals + £4 per day
+SINGAPORE,Singapore,SGD,318.0,0,79.0,102.5,0,25.0,11.5,218.0,
+SINGAPORE,Elsewhere,,,,,,,,,,Actuals + £4 per day
+SLOVAKIA,Bratislava,EUR,110.5,0,16.0,26.5,0,5.5,5.5,53.5,
+SLOVAKIA,Kosice,EUR,83.0,0,14.0,18.5,0,4.5,5.5,42.5,
+SLOVENIA,Ljubljana,EUR,148.5,0,19.0,35.5,0,4.5,6.5,65.5,
+SLOVENIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+SOLOMON ISLANDS,Honiara,SBD,"1,524.5",136.5,179.5,285.0,0,37.5,70.5,709.0,
+SOLOMON ISLANDS,Elsewhere,,,,,,,,,,Actuals + £4 per day
+SOUTH AFRICA,Cape Town,ZAR,"2,051.5",0,130.0,224.5,0,34.0,67.5,456.0,
+SOUTH AFRICA,Pretoria,ZAR,"1,177.5",0,114.0,195.0,0,26.5,68.0,403.5,
+SOUTH AFRICA,Elsewhere,,,,,,,,,,As for Pretoria
+SOUTH SUDAN,Juba,SSP,USD 278.00,0,116.5,163.0,9.5,28.0,38.0,355.0,
+SPAIN,Barcelona,EUR,176.0,20.0,24.5,44.5,0,7.0,5.5,101.5,
+SPAIN,Madrid,EUR,172.5,23.0,29.5,51.5,0,5.0,5.5,114.5,
+SPAIN,Elsewhere,,,,,,,,,,85% of Madrid rate plus
+SRI LANKA,Colombo,LKR,USD 123.50,0,"1,271.5","1,768.0",253.0,404.5,598.0,"4,295.0",
+SRI LANKA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+ST HELENA,St Helena,,,,,,,,,,Actuals + £4 per day
+ST KITTS AND NEVIS,Basseterre,XCD,USD 179.00,41.0,89.5,88.5,0,9.0,22.0,250.0,
+ST LUCIA,Castries,XCD,357.0,37.0,46.5,96.5,0,11.0,25.5,216.5,
+ST LUCIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+ST VINCENT,Kingstown,XCD,328.5,0,75.5,121.0,0,13.0,21.5,231.0,
+ST VINCENT,Elsewhere,,,,,,,,,,Actuals + £4 per day
+SUDAN,Khartoum,SDG,"1,520.0",0,185.0,340.5,33.5,44.5,52.5,656.0,
+SUDAN,Elsewhere,,,,,,,,,,Actuals + £4 per day
+SURINAM,Paramaribo,USD,137.5,0,17.5,38.5,0,5.5,9.0,70.5,
+SURINAM,Elsewhere,,,,,,,,,,Actuals + £4 per day
+SWAZILAND,Mbabane and Elsewhere,,,,,,,,,,Actuals + £4 per day
+SWEDEN,Stockholm,SEK,"1,939.5",0,345.0,445.0,0,67.5,60.0,917.5,
+SWEDEN,Elsewhere,,,,,,,,,,Actuals + £4 per day
+SWITZERLAND,Berne,CHF,184.5,0,43.0,59.0,0,7.5,8.5,118.0,
+SWITZERLAND,Geneva,CHF,207.5,28.0,40.0,69.0,0,8.5,10.0,155.5,
+SWITZERLAND,Elsewhere,,,,,,,,,,Actuals + £4 per day
+SYRIA,Damascus and Elsewhere,,,,,,,,,,Actuals + £4 per day
+TAIWAN,Taipei,TWD,"6,126.0",0,"1,402.0","2,038.0",0,542.0,228.5,"4,210.5",
+TAIWAN,Elsewhere,,,,,,,,,,Actuals + £4 per day
+TAJIKISTAN,Dushanbe,TJS,USD 320.50,0,211.5,289.0,0,70.5,30.5,601.5,
+TAJIKISTAN,Elsewhere,,,,,,,,,,Actuals + £4 per day
+TANZANIA,Dar Es Salaam,TZS,USD 179.00,0,"40,951.5","67,871.5",0,"5,873.5","15,467.0","130,163.5",
+TANZANIA,Zanzibar,TZS,USD 111.50,0,"33,446.5","49,761.5","1,632.0","3,263.5","15,937.0","104,040.5",
+TANZANIA,Elsewhere,,,,,,,,,,50% of the Dar Es Salaam rate plus Hotel to Office TZS 15467
+THAILAND,Bangkok,THB,"5,442.5",0,884.5,"1,354.0",163.5,327.0,236.0,"2,965.0",
+THAILAND,Elsewhere,THB,"2,023.0",0,626.0,803.0,136.5,218.0,236.0,"2,019.5",
+TRISTAN DA CUNHA,Tristan da Cunha,,,,,,,,,,Actuals + £4 per day
+TOGO,Lome and Elsewhere,,,,,,,,,,Actuals + £4 per day
+TONGA,Nuku Alofa,TOP,196.5,19.0,61.0,100.5,12.5,11.0,19.0,223.0,
+TONGA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+TRINIDAD AND TOBAGO,Port of Spain,TTD,USD 281.5,222.0,310.5,612.0,0,71.0,69.0,"1,284.5",
+TRINIDAD AND TOBAGO,Tobago,TTD,"1,304.0",0,258.0,454.0,0,42.5,69.0,823.5,
+TUNISIA,Tunis,TND,163.5,29.5,38.5,54.0,0,13.0,11.5,146.5,
+TUNISIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+TURKEY,Ankara,TRY,EUR 160.0,0,79.5,117.5,0,26.5,16.0,239.5,
+TURKEY,Istanbul,TRY,EUR 136.00,0,60.5,86.5,0,26.5,14.5,188.0,
+TURKEY,Izmir,TRY,EUR 198.00,0,67.5,95.5,0,15.0,16.0,194.0,
+TURKEY,Elsewhere,,,,,,,,,,75% of Ankara rate plus Hotel to Office TRY 16
+TURKMENISTAN,Ashgabat,TMT,USD 72.50,0,40.0,67.5,4.0,10.0,21.5,143.0,
+TURKMENISTAN,Elsewhere,,,,,,,,,,Actuals + £4 per day
+TURKS & CAICOS ISLANDS,Grand Turk,USD,166.5,13.0,25.5,45.0,4.5,4.0,9.0,101.0,
+TURKS & CAICOS ISLANDS,Providenciales,USD,206.0,20.0,30.5,46.5,5.5,10.0,9.0,121.5,
+TURKS & CAICOS ISLANDS,Elsewhere,,,,,,,,,,Actuals + £4 per day
+TUVALU,Fongafale,,,,,,,,,,Actuals + £4 per day
+UGANDA,Kampala,USD,130.5,0,11.5,17.0,1.0,3.5,8.5,41.5,
+UGANDA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+UKRAINE,Kyiv,UAH,EUR 219.00,0,180.5,231.0,37.0,48.0,58.0,554.5,
+UKRAINE,Elsewhere,,,,,,,,,,As for Kyiv
+UNITED ARAB EMIRATES,Abu Dhabi,AED,673.0,85.5,82.0,128.5,15.0,32.0,30.5,373.5,
+UNITED ARAB EMIRATES,Dubai,AED,949.5,127.0,139.5,250.0,23.5,42.5,32.0,614.5,
+UNITED ARAB EMIRATES,Elsewhere,,,,,,,,,,Actuals + £4 per day
+UNITED STATES OF AMERICA,Atlanta,USD,127.0,15.0,27.5,42.0,0,5.5,8.5,98.5,
+UNITED STATES OF AMERICA,Atlanta Elsewhere,USD,actuals,15.0,27.5,42.0,0,5.5,8.5,98.5,
+UNITED STATES OF AMERICA,Boston,USD,239.0,13.0,29.0,41.5,0,6.0,8.0,97.5,
+UNITED STATES OF AMERICA,Boston Elsewhere,USD,actuals,7.0,19.0,34.0,0,4.0,8.0,72.0,
+UNITED STATES OF AMERICA,Chicago,USD,198.0,21.0,30.0,45.0,0,9.0,7.5,112.5,
+UNITED STATES OF AMERICA,Chicago Elsewhere,USD,actuals,21.0,30.0,45.0,0,9.0,7.5,112.5,
+UNITED STATES OF AMERICA,Houston,USD,113.5,14.0,21.0,40.0,0,5.5,7.5,88.0,
+UNITED STATES OF AMERICA,Houston Elsewhere,USD,actuals,14.0,21.0,40.0,0,5.5,7.5,88.0,
+UNITED STATES OF AMERICA,Los Angeles,USD,193.0,12.5,24.5,40.0,0,7.5,8.5,93.0,
+UNITED STATES OF AMERICA,Los Angeles Elsewhere,USD,actuals,12.5,24.5,40.0,0,7.5,8.5,93.0,
+UNITED STATES OF AMERICA,Miami,USD,221.5,14.5,24.5,44.5,0,6.5,8.5,98.5,
+UNITED STATES OF AMERICA,New York,USD,216.0,18.0,27.0,42.0,0,7.5,8.0,102.5,
+UNITED STATES OF AMERICA,New York Elsewhere,USD,actuals,18.0,27.0,42.0,0,7.5,8.0,102.5,
+UNITED STATES OF AMERICA,San Francisco,USD,190.5,20.5,16.5,46.5,0,8.5,7.5,99.5,
+UNITED STATES OF AMERICA,San Francisco Elsewhere,USD,actuals,20.5,16.5,46.5,0,8.5,7.5,99.5,
+UNITED STATES OF AMERICA,Seattle,USD,184.0,12.5,21.5,35.0,0,5.5,6.5,81.0,
+UNITED STATES OF AMERICA,Washington,USD,177.0,13.5,27.0,37.0,0,6.5,7.5,91.5,
+UNITED STATES OF AMERICA,Washington Elsewhere,USD,actuals,13.5,27.0,37.0,0,6.5,7.5,91.5,
+URUGUAY,Montevideo,USD,143.5,0,40.5,60.0,0,11.0,9.0,120.5,
+URUGUAY,Elsewhere,,,,,,,,,,Actuals + £4 per day
+UZBEKISTAN,Tashkent,USD,100.5,0,27.5,36.5,0,9.0,6.5,79.5,
+UZBEKISTAN,Elsewhere,,,,,,,,,,Actuals + £4 per day
+VANUATU,Port Vila,VUV,"16,056.5","1,606.0","4,271.0","6,198.0",749.5,642.5,761.5,"14,228.5",
+VANUATU,Elsewhere,,,,,,,,,,Actuals + £4 per day
+VENEZUELA,Caracas,VEF,"3,567.0",0,443.5,585.0,88.0,78.0,52.5,"1,247.0",
+VENEZUELA,Valencia,VEF,"1,785.0",285.5,385.0,551.5,71.5,76.5,68.0,"1,438.0",
+VENEZUELA,Elsewhere,VEF,"2,340.5",340.0,330.5,675.5,57.5,57.5,52.5,"1,513.5",
+VIETNAM,Hanoi,USD,154.5,0,12.5,51.0,4.0,10.5,7.5,85.5,
+VIETNAM,Ho Chi Minh City,USD,134.0,0,37.5,42.5,0,8.0,9.0,97.0,
+VIETNAM,Elsewhere,,,,,,,,,,Actuals + £4 per day
+YEMEN,Sana'a,USD,160.5,0,20.0,28.5,3.0,5.0,9.0,65.5,
+YEMEN,Elsewhere,,,,,,,,,,Actuals + £4 per day
+ZAMBIA,Lusaka,ZMW,927.0,0,126.5,159.0,18.0,35.5,45.0,384.0,
+ZAMBIA,Elsewhere,,,,,,,,,,Actuals + £4 per day
+ZIMBABWE,Harare,USD,187.0,17.0,28.0,33.5,0,7.0,7.0,92.5,

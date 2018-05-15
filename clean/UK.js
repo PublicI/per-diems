@@ -8,6 +8,8 @@ let rows = dsv.csvParseRows(data);
 let cleanedRows = [];
 
 let fields = null;
+let firstRow = false;
+let noTable = false;
 
 for (let row of rows) {
     // console.log(row.join('  '));
@@ -15,7 +17,7 @@ for (let row of rows) {
     let rowValues = [];
 
     for (i in row) {
-        let parts = row[i].split(/( {2,}|\n|\r)/g);
+        let parts = row[i].split(/[\r\n ]{2,}/g);
 
         for (i2 in parts) {
             rowValues.push(parts[i2]);
@@ -30,6 +32,32 @@ for (let row of rows) {
 
         fields = {};
         fields['Country'] = rowValues[0].replace('"', '');
+
+        firstRow = true;
+
+        if (
+            rowValues.length > 1 &&
+            rowValues[1].trim() !== '' &&
+            !rowValues[1].includes('Currency')
+        ) {
+            fields['Location'] = rowValues[1].trim().replace('"', '');
+        }
+    } else if (firstRow) {
+        firstRow = false;
+
+        if (rowValues[0].trim() !== '' && !fields.Location) {
+            fields['Location'] = rowValues[0].trim().replace('"', '');
+        }
+
+        if (!fields.Currency) {
+            noTable = true;
+        }
+    } else if (noTable) {
+        noTable = false;
+
+        if (rowValues[0].trim() !== '') {
+            fields['Note'] = rowValues[0].trim();
+        }
     }
 
     let fieldValue = '';
@@ -59,4 +87,22 @@ for (let row of rows) {
     }
 }
 
-console.log(cleanedRows);
+cleanedRows = cleanedRows.map((fields) => {
+    if (fields.Currency) {
+        fields.Currency = fields.Currency.replace(
+            ' (unless stated otherwise)',
+            ''
+        );
+    }
+
+    if (fields.Breakfast) {
+        fields.Breakfast = fields.Breakfast.replace(
+            ' (included in room rate)',
+            ''
+        );
+    }
+
+    return fields;
+});
+
+fs.writeFileSync(__dirname + '/../cleaned/UK.csv', dsv.csvFormat(cleanedRows), 'utf8');
