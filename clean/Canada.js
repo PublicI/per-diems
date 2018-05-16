@@ -23,8 +23,8 @@ let headers = [
 rows = rows
     .map(row => {
         if (row[1] === '') {
-            country = row[0].split(/ [––] Currency: /)[0];
-            currency = row[0].split(/ [––] Currency: /)[1];
+            country = row[0].split(/ – Currency:\W/)[0];
+            currency = row[0].split(/ – Currency:\W/)[1];
         } else {
             row.unshift(currency);
             row.unshift(country);
