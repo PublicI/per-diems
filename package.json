@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "csv-parser": "^1.12.1",
+    "currency-convert": "^1.0.0",
     "d3-dsv": "^1.0.8"
   }
 }
