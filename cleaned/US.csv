@@ -1,4 +1,4 @@
-﻿Country Name,Location Name,Season Code ,Season Start Date ,Season End Date,Lodging ,Meals & Incidentals ,Per Diem,Effective Date ,Footnote Reference,Location Code
+Country,Location,Season Code,Season Start Date,Season End Date,Lodging,Meals & Incidentals,Per Diem,Effective Date ,Footnote Reference,Location Code
 AFGHANISTAN,[Other],S1,1-Jan,31-Dec,0,15,15,1-Aug-03,"19,2",11804
 AFGHANISTAN,Kabul,S1,1-Jan,31-Dec,0,33,33,1-Jul-16,"19,2",10323
 ALBANIA,[Other],S1,1-Jan,31-Dec,89,42,131,1-Mar-18,,11908
