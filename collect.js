@@ -1,6 +1,7 @@
 let dsv = require('d3-dsv');
 let fs = require('fs');
 let money = require('money');
+let slugify = require('slugify');
 
 let path = __dirname + '/cleaned/';
 
@@ -22,12 +23,18 @@ files.map(file => {
         let location = '';
         if (row.Location) {
             location =
-                row.Location.includes('Other')
-                    ? 'Elsewhere'
-                    : row.Location.split(' (')[0];
+                row.Location.includes('Other') ||
+                row.Location.includes('Elsewhere') ||
+                row.Location.includes('All Areas') ||
+                row.Location.toUpperCase().includes(row.Country.toUpperCase())
+                    ? ''
+                    : '-' + row.Location.split(' (')[0];
         }
 
-        let slug = (row.Country + '-' + row.Location).toUpperCase();
+        let slug = slugify(row.Country + location, {
+            replacement: '-',
+            lower: true
+        });
 
         if (!(slug in locations)) {
             locations[slug] = {};
@@ -43,22 +50,34 @@ files.map(file => {
             .map(key => row[key])
             .find(value => value);
 
-        if (typeof moneyTotal !== 'undefined') {
+        if (
+            typeof moneyTotal !== 'undefined' &&
+            moneyTotal !== '*' &&
+            (!row['Season Code'] || row['Season Code'] === 'S1')
+        ) {
             moneyTotal = parseFloat(moneyTotal.replace(',', ''));
 
+            if (row['Amount (Euros)']) {
+                row.Currency = 'EUR';
+            }
+
             if (row.Currency) {
-                let from = row.Currency.match(/\(*[A-Z]{3}\)*/)
+                let from = row.Currency.match(/\(*[A-Z]{3}\)*/);
+
+                if (row['First 60 Days US$']) {
+                    from = null;
+                }
 
                 if (from) {
-                    from[0]
-                        .replace('(', '')
-                        .replace(')', '');
+                    from = from[0].replace('(', '').replace(')', '');
 
                     if (from in currency.rates) {
                         moneyTotal = money.convert(moneyTotal, {
                             from,
                             to: 'USD'
                         });
+                    } else {
+                        console.error(from + ' not in rates');
                     }
                 }
             }
