@@ -17,6 +17,8 @@ let locations = {};
 files.map(file => {
     let data = fs.readFileSync(path + file, 'utf8');
 
+    data = data.replace(/^\uFEFF/, ''); // strip UTF8 byte order mark, see https://github.com/nodejs/node-v0.x-archive/issues/1918
+
     let rows = dsv.csvParse(data);
 
     rows.forEach(row => {
