@@ -81,6 +81,22 @@ files.map(file => {
             // convert the rate to a float
             moneyTotal = parseFloat(moneyTotal.replace(',', ''));
 
+            // if we're in the UK, add the room rate after possible conversion
+            if ('Room rate' in row) {
+                let roomRate = row['Room rate'];
+                let roomRateCurrency = roomRate.match(/\(*[A-Z]{3}\)*/);
+                roomRate = parseFloat(row['Room rate'].replace(/[^0-9.]*/g,''));
+
+                if (roomRateCurrency) {
+                    roomRate = money.convert(roomRate, {
+                        from: roomRateCurrency[0],
+                        to: 'USD'
+                    });
+                }
+
+                moneyTotal += roomRate;
+            }
+
             // if the column header says this should be in Euros, respect that
             if (row['Amount (Euros)']) {
                 row.Currency = 'EUR';
@@ -116,6 +132,12 @@ files.map(file => {
 
             // store the rate in its corresponding map location
             locations[slug][file.replace('.csv', '')] = moneyTotal;
+
+            // include US meals & incidentals as a separate column for comparison to Canada
+            if ('Meals & Incidentals' in row) {
+                locations[slug]['US meals & incidentals'] = parseFloat(row['Meals & Incidentals'].replace(/[^0-9.]*/g,''));
+            }
+
         }
     });
 });
