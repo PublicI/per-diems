@@ -20,7 +20,7 @@ The notebook was developed on MacOS 10.13.4 with `git`, `node`, `yarn`, `pipenv`
 git clone https://github.com/PublicI/per-diems.git
 cd per-diems
 # to run the data cleaning/processing
-yarn install
+yarn
 chmod +x process.sh
 ./process.sh
 # to run the Jupyter analysis notebook
