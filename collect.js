@@ -139,10 +139,6 @@ function processFile(file) {
         );
 }
 
-function flattenLocations() {
-
-}
-
 // read all the files in /cleaned/ in one by one
 // each one corresponds to a jurisdiction like Canada, etc. that sets per diems
 let locations = _(files)
