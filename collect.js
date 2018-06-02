@@ -2,23 +2,20 @@ let dsv = require('d3-dsv');
 let fs = require('fs');
 let money = require('money');
 let slugify = require('slugify');
+let _ = require('lodash');
 
-// get a list of files in /cleaned/
 let path = __dirname + '/cleaned/';
 
 let files = fs.readdirSync(path);
 
 // read in currencies from JSON file originally from https://data.fixer.io/api/latest
 // (has since been modified with additional currencies/currency codes)
-let currency = JSON.parse(fs.readFileSync(path + '../currency.json'));
+let currency = JSON.parse(fs.readFileSync(__dirname + '/currency.json'));
 
 money.base = currency.base;
 money.rates = currency.rates;
 
-// set up map we'll keep the locations in
-let locations = {};
-
-function extractMoneyValue(value) {
+function cleanMoneyValue(value) {
     if (!value) {
         return NaN;
     }
@@ -26,7 +23,7 @@ function extractMoneyValue(value) {
     return result;
 }
 
-function extractCurrencyCode(value) {
+function cleanCurrencyCode(value) {
     if (!value) {
         return null;
     }
@@ -36,61 +33,26 @@ function extractCurrencyCode(value) {
 }
 
 function cleanMoney(code, value) {
-    if (typeof value === 'undefined' || value == '*') {
+    if (value === null || typeof value === 'undefined' || value == '*') {
         return NaN;
     }
 
-    let currencyCode = extractCurrencyCode(code);
-    let moneyValue = extractMoneyValue(value);
+    let currencyCode = cleanCurrencyCode(code);
+    let moneyValue = cleanMoneyValue(value);
 
     if (!isNaN(moneyValue)) {
-        if (currencyCode) {
-            return money.convert(moneyValue, {
-                from: currencyCode,
-                to: 'USD'
-            });
-        } else {
-            return moneyValue;
-        }
+        return money.convert(moneyValue, {
+            from: currencyCode ? currencyCode : 'USD',
+            to: 'USD'
+        });
     } else {
         return NaN;
     }
 }
 
-function processLocation(country, location) {}
-
-function processRow(locations, file, row) {
-    // set up empty string for location, if there isn't one we'll use this instead
-    // each row has a field named country and one called location
-    // we need to use these to match per diem rates, but they're messy
-    // so we're going to clean them up
-    let location = '';
-
-    // remove catch-alls like other, elsewhere, all areas and the name of the country
-    // remove parentheticals
-    if (row.Location) {
-        location =
-            row.Location.includes('Other') ||
-            row.Location.includes('Elsewhere') ||
-            row.Location.includes('All Areas') ||
-            row.Location.toUpperCase().includes(row.Country.toUpperCase())
-                ? ''
-                : '-' + row.Location.split(' (')[0];
-    }
-
-    // convert the country and location to a lowercase slug like afghanistan-kabul
-    let slug = slugify(row.Country + location, {
-        replacement: '-',
-        lower: true
-    });
-
-    // if the slug isn't in the locations map yet, add an empty object for it
-    if (!(slug in locations)) {
-        locations[slug] = {};
-    }
-
+function calcTotal(row) {
     // find the field that corresponds to the per diem for this particular jurisidiction
-    let moneyTotal = [
+    let total = [
         'First 60 Days US$',
         'Per Diem',
         'Total residual',
@@ -106,35 +68,59 @@ function processRow(locations, file, row) {
     if (row['First 60 Days US$']) {
         currencyCode = null;
     }
-    // if the column header says this should be in Euros, respect that
     if (row['Amount (Euros)']) {
         currencyCode = 'EUR';
     }
 
-    moneyTotal = cleanMoney(currencyCode, moneyTotal);
+    total = cleanMoney(currencyCode, total);
 
     // if we're in the UK, add the room rate after possible conversion
-    let roomRate = processMoney(
+    let roomRate = cleanMoney(
         row['Room rate'] + ' ' + row.Currency,
         row['Room rate']
     );
-    moneyTotal += !isNaN(roomRate) ? roomRate : 0;
+    total += !isNaN(roomRate) ? roomRate : 0;
 
-    // store the rate in its corresponding map location
-    if (!isNaN(moneyTotal)) {
-        locations[slug][file.replace('.csv', '')] = moneyTotal;
-    }
-
-    // include US meals & incidentals as a separate column for comparison to Canada
-    if ('Meals & Incidentals' in row) {
-        locations[slug]['US meals & incidentals'] = processMoney(
-            null,
-            row['Meals & Incidentals']
-        );
-    }
+    return total;
 }
 
-function processFile(locations, file) {
+function slugLocation(row) {
+    // each row has a field named country and one called location
+    // we need to use these to match per diem rates, but they're messy
+    // so we're going to clean them up
+    let location = '';
+
+    // remove catch-alls like other, elsewhere, all areas and the name of the country
+    // remove parentheticals
+    if (row.Location) {
+        location =
+            row.Location.includes('Other') ||
+            row.Location.includes('Elsewhere') ||
+            row.Location.includes('All Areas') ||
+            row.Location.toUpperCase() == row.Country.toUpperCase()
+                ? ''
+                : '-' + row.Location.split(' (')[0];
+    }
+
+    // convert the country and location to a lowercase slug like afghanistan-kabul
+    let slug = slugify(row.Country + location, {
+        replacement: '-',
+        lower: true
+    });
+
+    return slug;
+}
+
+function processRow(jurisdiction, row) {
+    return {
+        jurisdiction: jurisdiction,
+        slug: slugLocation(row),
+        total: calcTotal(row),
+        mealsAndIncidentals: cleanMoney(null, row['Meals & Incidentals'])
+    };
+}
+
+function processFile(file) {
     let data = fs.readFileSync(path + file, 'utf8');
 
     // strip UTF8 byte order mark, see https://github.com/nodejs/node-v0.x-archive/issues/1918
@@ -143,27 +129,50 @@ function processFile(locations, file) {
     // parse CSVs
     let rows = dsv.csvParse(data);
 
+    let jurisdiction = file.replace('.csv', '');
+
     // for each row, representing a per diem rate...
-    rows.forEach(processRow.bind(this, locations, file));
+    return rows
+        .map(processRow.bind(this, jurisdiction))
+        .filter(
+            result => !isNaN(result.total) || !isNaN(result.mealsAndIncidentals)
+        );
+}
+
+function flattenLocations() {
+
 }
 
 // read all the files in /cleaned/ in one by one
 // each one corresponds to a jurisdiction like Canada, etc. that sets per diems
-files.forEach(processFile.bind(this, locations));
+let locations = _(files)
+    .flatMap(processFile)
+    .groupBy('slug')
+    .value();
 
-// flatten the two layer map structure into an array of objects
-let locationRows = [];
+locations = Object.keys(locations).map(key => {
+    let result = _(locations[key])
+        .groupBy('jurisdiction')
+        .mapValues(d => d[d.length - 1].total)
+        .value();
 
-Object.keys(locations).forEach(key => {
-    locationRows.push({
+    let mealsAndIncidentals = locations[key].find(
+        loc => !isNaN(loc.mealsAndIncidentals) && loc.jurisdiction === 'US'
+    );
+
+    if (mealsAndIncidentals) {
+        result['US meals & incidentals'] = mealsAndIncidentals.mealsAndIncidentals;
+    }
+
+    return {
         slug: key,
-        ...locations[key]
-    });
+        ...result
+    };
 });
 
 // output the result in CSV format
 console.log(
-    dsv.csvFormat(locationRows, [
+    dsv.csvFormat(locations, [
         'slug',
         'EU',
         'UN',
