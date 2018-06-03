@@ -115,6 +115,8 @@ function processRow(jurisdiction, row) {
     return {
         jurisdiction: jurisdiction,
         slug: slugLocation(row),
+        location: row.Location,
+        season: row['Season Code'],
         total: calcTotal(row),
         mealsAndIncidentals: cleanMoney(null, row['Meals & Incidentals'])
     };
@@ -141,20 +143,24 @@ function processFile(file) {
 
 // read all the files in /cleaned/ in one by one
 // each one corresponds to a jurisdiction like Canada, etc. that sets per diems
+
+let locations = _.flatMap(files, processFile);
+/*
 let locations = _(files)
     .flatMap(processFile)
     .groupBy('slug')
     .value();
 
 locations = Object.keys(locations).map(key => {
-    let result = _(locations[key])
-        .groupBy('jurisdiction')
-        .mapValues(d => d[d.length - 1].total)
+    let result = _.groupBy(locations[key], 'jurisdiction');
+        .mapValues(list => _.min(list,'total'))
         .value();
 
-    let mealsAndIncidentals = locations[key].find(
+    let mealsAndIncidentals = locations[key].filter(
         loc => !isNaN(loc.mealsAndIncidentals) && loc.jurisdiction === 'US'
     );
+
+    console.log(mealsAndIncidentals.length);
 
     if (mealsAndIncidentals) {
         result['US meals & incidentals'] = mealsAndIncidentals.mealsAndIncidentals;
@@ -164,17 +170,7 @@ locations = Object.keys(locations).map(key => {
         slug: key,
         ...result
     };
-});
+});*/
 
 // output the result in CSV format
-console.log(
-    dsv.csvFormat(locations, [
-        'slug',
-        'EU',
-        'UN',
-        'US',
-        'US meals & incidentals',
-        'Canada',
-        'UK'
-    ])
-);
+console.log(dsv.csvFormat(locations));
