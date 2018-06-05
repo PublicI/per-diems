@@ -1,0 +1,226 @@
+Short-form name,Long-form name,GENC 2A Code (see Note 2),GENC 3A Code (see Note 2),Capital,slug
+Afghanistan *+,Islamic Republic of Afghanistan,AF,AFG,Kabul,afghanistan-kabul
+Albania *+,Republic of Albania,AL,ALB,Tirana,albania-tirana
+Algeria *+,People's Democratic Republic of Algeria,DZ,DZA,Algiers,algeria-algiers
+Andorra *+,Principality of Andorra,AD,AND,Andorra la Vella,andorra-andorra-la-vella
+Angola *+,Republic of Angola,AO,AGO,Luanda,angola-luanda
+"Antigua and
+Barbuda *+",Antigua and Barbuda,AG,ATG,Saint John's,antigua-and-barbuda-saint-john's
+Argentina *+,Argentine Republic,AR,ARG,Buenos Aires,argentina-buenos-aires
+Armenia *+,Republic of Armenia,AM,ARM,Yerevan,armenia-yerevan
+Australia *+,Commonwealth of Australia,AU,AUS,Canberra,australia-canberra
+Austria *+,Republic of Austria,AT,AUT,Vienna,austria-vienna
+Azerbaijan *+,Republic of Azerbaijan,AZ,AZE,Baku,azerbaijan-baku
+"Bahamas, The *+","Commonwealth
+of The Bahamas",BS,BHS,Nassau,bahamas-the-nassau
+Bahrain *+,Kingdom of Bahrain,BH,BHR,Manama,bahrain-manama
+Bangladesh *+,"People's Republic
+of Bangladesh",BD,BGD,Dhaka,bangladesh-dhaka
+Barbados *+,Barbados,BB,BRB,Bridgetown,barbados-bridgetown
+Belarus *+,Republic of Belarus,BY,BLR,Minsk,belarus-minsk
+Belgium *+,Kingdom of Belgium,BE,BEL,Brussels,belgium-brussels
+Belize *+,Belize,BZ,BLZ,Belmopan,belize-belmopan
+Benin *+,Republic of Benin,BJ,BEN,"Porto-Novo
+Cotonou (seat of government)",benin-porto-novo-cotonou-(seat-of-government)
+Bhutan +,Kingdom of Bhutan,BT,BTN,Thimphu,bhutan-thimphu
+Bolivia *+,Plurinational State of Bolivia,BO,BOL,"La Paz (administrative)
+Sucre (legislative/judiciary)",bolivia-la-paz-(administrative)-sucre-(legislativejudiciary)
+"Bosnia and
+Herzegovina *+",Bosnia and Herzegovina,BA,BIH,Sarajevo,bosnia-and-herzegovina-sarajevo
+Botswana *+,Republic of Botswana,BW,BWA,Gaborone,botswana-gaborone
+Brazil *+,Federative Republic of Brazil,BR,BRA,Brasília,brazil-brasilia
+Brunei *+,Brunei Darussalam,BN,BRN,Bandar Seri Begawan,brunei-bandar-seri-begawan
+Bulgaria *+,Republic of Bulgaria,BG,BGR,Sofia,bulgaria-sofia
+Burkina Faso *+,Burkina Faso,BF,BFA,Ouagadougou,burkina-faso-ouagadougou
+Burma *+,Union of Burma,MM,MMR,"Rangoon
+Nay Pyi Taw (administrative)",burma-rangoon-nay-pyi-taw-(administrative)
+Burundi *+,Republic of Burundi,BI,BDI,Bujumbura,burundi-bujumbura
+Cabo Verde *+,Republic of Cabo Verde,CV,CPV,Praia,cabo-verde-praia
+Cambodia *+,Kingdom of Cambodia,KH,KHM,Phnom Penh,cambodia-phnom-penh
+Cameroon *+,Republic of Cameroon,CM,CMR,Yaoundé,cameroon-yaounde
+Canada *+,Canada,CA,CAN,Ottawa,canada-ottawa
+"Central
+African Republic *+",Central African Republic,CF,CAF,Bangui,central-african-republic-bangui
+Chad *+,Republic of Chad,TD,TCD,N'Djamena,chad-n'djamena
+Chile *+,Republic of Chile,CL,CHL,Santiago,chile-santiago
+China *+ (see note 3),People's Republic of China,CN,CHN,Beijing,china-(see-note-3)beijing
+Colombia *+,Republic of Colombia,CO,COL,Bogotá,colombia-bogota
+Comoros *+,Union of the Comoros,KM,COM,Moroni,comoros-moroni
+"Congo (Brazzaville) *+
+(see note 4)",Republic of the Congo,CG,COG,Brazzaville,congo-(brazzaville)-(see-note-4)brazzaville
+"Congo (Kinshasa) *+
+(see note 4)","Democratic Republic
+of the Congo",CD,COD,Kinshasa,congo-(kinshasa)-(see-note-4)kinshasa
+Costa Rica *+,Republic of Costa Rica,CR,CRI,San José,costa-rica-san-jose
+Côte d'Ivoire *+,Republic of Côte d'Ivoire,CI,CIV,Yamoussoukro,cote-d'ivoire-yamoussoukro
+Croatia *+,Republic of Croatia,HR,HRV,Zagreb,croatia-zagreb
+Cuba *+,Republic of Cuba,CU,CUB,Havana,cuba-havana
+Cyprus *+,Republic of Cyprus,CY,CYP,Nicosia,cyprus-nicosia
+Czechia *+,Czech Republic,CZ,CZE,Prague,czechia-prague
+Denmark *+,Kingdom of Denmark,DK,DNK,Copenhagen,denmark-copenhagen
+Djibouti *+,Republic of Djibouti,DJ,DJI,Djibouti,djibouti-djibouti
+Dominica *+,Commonwealth of Dominica,DM,DMA,Roseau,dominica-roseau
+Dominican Republic *+,Dominican Republic,DO,DOM,Santo Domingo,dominican-republic-santo-domingo
+Ecuador *+,Republic of Ecuador,EC,ECU,Quito,ecuador-quito
+Egypt *+,Arab Republic of Egypt,EG,EGY,Cairo,egypt-cairo
+El Salvador *+,Republic of El Salvador,SV,SLV,San Salvador,el-salvador-san-salvador
+Equatorial Guinea *+,Republic of Equatorial Guinea,GQ,GNQ,Malabo,equatorial-guinea-malabo
+Eritrea *+,State of Eritrea,ER,ERI,Asmara,eritrea-asmara
+Estonia *+,Republic of Estonia,EE,EST,Tallinn,estonia-tallinn
+! Eswatini *+,! Kingdom of Eswatini,SZ,SWZ,Mbabane (administrative) Lobamba (legislative),!-eswatini-mbabane-(administrative)-lobamba-(legislative)
+Ethiopia *+,"Federal Democratic
+Republic of Ethiopia",ET,ETH,Addis Ababa,ethiopia-addis-ababa
+Fiji *+,Republic of Fiji,FJ,FJI,Suva,fiji-suva
+Finland *+,Republic of Finland,FI,FIN,Helsinki,finland-helsinki
+France *+,French Republic,FR,FRA,Paris,france-paris
+Gabon *+,Gabonese Republic,GA,GAB,Libreville,gabon-libreville
+"Gambia, The *+",Republic of The Gambia,GM,GMB,Banjul,gambia-the-banjul
+Georgia *+,Georgia,GE,GEO,Tbilisi,georgia-tbilisi
+Germany *+,Federal Republic of Germany,DE,DEU,Berlin,germany-berlin
+Ghana *+,Republic of Ghana,GH,GHA,Accra,ghana-accra
+Greece *+,Hellenic Republic,GR,GRC,Athens,greece-athens
+Grenada *+,Grenada,GD,GRD,Saint George's,grenada-saint-george's
+Guatemala *+,Republic of Guatemala,GT,GTM,Guatemala City,guatemala-guatemala-city
+Guinea *+,Republic of Guinea,GN,GIN,Conakry,guinea-conakry
+Guinea-Bissau *+,Republic of Guinea-Bissau,GW,GNB,Bissau,guinea-bissau-bissau
+Guyana *+,Co-operative Republic of Guyana,GY,GUY,Georgetown,guyana-georgetown
+Haiti *+,Republic of Haiti,HT,HTI,Port-au-Prince,haiti-port-au-prince
+Holy See *,Holy See,VA,VAT,Vatican City,holy-see-vatican-city
+Honduras *+,Republic of Honduras,HN,HND,Tegucigalpa,honduras-tegucigalpa
+Hungary *+,Hungary,HU,HUN,Budapest,hungary-budapest
+Iceland *+,Republic of Iceland,IS,ISL,Reykjavík,iceland-reykjavik
+India *+,Republic of India,IN,IND,New Delhi,india-new-delhi
+Indonesia *+,Republic of Indonesia,ID,IDN,Jakarta,indonesia-jakarta
+Iran +,Islamic Republic of Iran,IR,IRN,Tehran,iran-tehran
+Iraq *+,Republic of Iraq,IQ,IRQ,Baghdad,iraq-baghdad
+Ireland *+,Ireland,IE,IRL,Dublin,ireland-dublin
+Israel *+,State of Israel,IL,ISR,Jerusalem,israel-jerusalem
+Italy *+,Italian Republic,IT,ITA,Rome,italy-rome
+Jamaica *+,Jamaica,JM,JAM,Kingston,jamaica-kingston
+Japan *+,Japan,JP,JPN,Tokyo,japan-tokyo
+Jordan *+,"Hashemite
+Kingdom of Jordan",JO,JOR,Amman,jordan-amman
+Kazakhstan *+,Republic of Kazakhstan,KZ,KAZ,Astana,kazakhstan-astana
+Kenya *+,Republic of Kenya,KE,KEN,Nairobi,kenya-nairobi
+Kiribati *+,Republic of Kiribati,KI,KIR,Tarawa,kiribati-tarawa
+"Korea, North +",Democratic People's Republic of Korea,KP,PRK,Pyongyang,korea-north-pyongyang
+"Korea, South *+",Republic of Korea,KR,KOR,Seoul,korea-south-seoul
+Kosovo *,Republic of Kosovo,XK,XKS,Pristina,kosovo-pristina
+Kuwait *+,State of Kuwait,KW,KWT,Kuwait City,kuwait-kuwait-city
+Kyrgyzstan *+,Kyrgyz Republic,KG,KGZ,Bishkek,kyrgyzstan-bishkek
+Laos *+,"Lao People's
+Democratic Republic",LA,LAO,Vientiane,laos-vientiane
+Latvia *+,Republic of Latvia,LV,LVA,Riga,latvia-riga
+Lebanon *+,Lebanese Republic,LB,LBN,Beirut,lebanon-beirut
+Lesotho *+,Kingdom of Lesotho,LS,LSO,Maseru,lesotho-maseru
+Liberia *+,Republic of Liberia,LR,LBR,Monrovia,liberia-monrovia
+Libya *+,State of Libya,LY,LBY,Tripoli,libya-tripoli
+Liechtenstein *+,Principality of Liechtenstein,LI,LIE,Vaduz,liechtenstein-vaduz
+Lithuania *+,Republic of Lithuania,LT,LTU,Vilnius,lithuania-vilnius
+Luxembourg *+,Grand Duchy of Luxembourg,LU,LUX,Luxembourg,luxembourg-luxembourg
+Macedonia *+,Republic of Macedonia,MK,MKD,Skopje,macedonia-skopje
+Madagascar *+,Republic of Madagascar,MG,MDG,Antananarivo,madagascar-antananarivo
+Malawi *+,Republic of Malawi,MW,MWI,Lilongwe,malawi-lilongwe
+Malaysia *+,Malaysia,MY,MYS,Kuala Lumpur,malaysia-kuala-lumpur
+Maldives *+,Republic of Maldives,MV,MDV,Male,maldives-male
+Mali *+,Republic of Mali,ML,MLI,Bamako,mali-bamako
+Malta *+,Republic of Malta,MT,MLT,Valletta,malta-valletta
+Marshall Islands *+,"Republic of the
+Marshall Islands",MH,MHL,Majuro,marshall-islands-majuro
+Mauritania *+,"Islamic Republic
+of Mauritania",MR,MRT,Nouakchott,mauritania-nouakchott
+Mauritius *+,Republic of Mauritius,MU,MUS,Port Louis,mauritius-port-louis
+Mexico *+,United Mexican States,MX,MEX,Mexico City,mexico-mexico-city
+"Micronesia,
+Federated States of *+","Federated States
+of Micronesia",FM,FSM,Palikir,micronesia-federated-states-of-palikir
+Moldova *+,Republic of Moldova,MD,MDA,Chisinau,moldova-chisinau
+Monaco *+,Principality of Monaco,MC,MCO,Monaco,monaco-monaco
+Mongolia *+,Mongolia,MN,MNG,Ulaanbaatar,mongolia-ulaanbaatar
+Montenegro *+,Montenegro,ME,MNE,Podgorica,montenegro-podgorica
+Morocco *+,Kingdom of Morocco,MA,MAR,Rabat,morocco-rabat
+Mozambique *+,Republic of Mozambique,MZ,MOZ,Maputo,mozambique-maputo
+Namibia *+,Republic of Namibia,NA,NAM,Windhoek,namibia-windhoek
+Nauru *+,Republic of Nauru,NR,NRU,"Yaren District
+(no capital city)",nauru-yaren-district-(no-capital-city)
+Nepal *+,Federal Democratic Republic of Nepal,NP,NPL,Kathmandu,nepal-kathmandu
+Netherlands *+,Kingdom of the Netherlands,NL,NLD,"Amsterdam
+The Hague (seat of government)",netherlands-amsterdam-the-hague-(seat-of-government)
+New Zealand *+,New Zealand,NZ,NZL,Wellington,new-zealand-wellington
+Nicaragua *+,Republic of Nicaragua,NI,NIC,Managua,nicaragua-managua
+Niger *+,Republic of Niger,NE,NER,Niamey,niger-niamey
+Nigeria *+,Federal Republic of Nigeria,NG,NGA,Abuja,nigeria-abuja
+Norway *+,Kingdom of Norway,NO,NOR,Oslo,norway-oslo
+Oman *+,Sultanate of Oman,OM,OMN,Muscat,oman-muscat
+Pakistan *+,Islamic Republic of Pakistan,PK,PAK,Islamabad,pakistan-islamabad
+Palau *+,Republic of Palau,PW,PLW,Ngerulmud,palau-ngerulmud
+Panama *+,Republic of Panama,PA,PAN,Panama City,panama-panama-city
+Papua New Guinea *+,"Independent State
+of Papua New Guinea",PG,PNG,Port Moresby,papua-new-guinea-port-moresby
+Paraguay *+,Republic of Paraguay,PY,PRY,Asunción,paraguay-asuncion
+Peru *+,Republic of Peru,PE,PER,Lima,peru-lima
+Philippines *+,Republic of the Philippines,PH,PHL,Manila,philippines-manila
+Poland *+,Republic of Poland,PL,POL,Warsaw,poland-warsaw
+Portugal *+,Portuguese Republic,PT,PRT,Lisbon,portugal-lisbon
+Qatar *+,State of Qatar,QA,QAT,Doha,qatar-doha
+Romania *+,Romania,RO,ROU,Bucharest,romania-bucharest
+Russia *+,Russian Federation,RU,RUS,Moscow,russia-moscow
+Rwanda *+,Republic of Rwanda,RW,RWA,Kigali,rwanda-kigali
+Saint Kitts and Nevis *+,"Federation of Saint
+Kitts and Nevis",KN,KNA,Basseterre,saint-kitts-and-nevis-basseterre
+Saint Lucia *+,Saint Lucia,LC,LCA,Castries,saint-lucia-castries
+"Saint Vincent and
+the Grenadines *+",Saint Vincent and the Grenadines,VC,VCT,Kingstown,saint-vincent-and-the-grenadines-kingstown
+Samoa *+,Independent State of Samoa,WS,WSM,Apia,samoa-apia
+San Marino *+,Republic of San Marino,SM,SMR,San Marino,san-marino-san-marino
+Sao Tome and Principe *+,"Democratic Republic of
+Sao Tome and Principe",ST,STP,São Tomé,sao-tome-and-principe-sao-tome
+Saudi Arabia *+,Kingdom of Saudi Arabia,SA,SAU,Riyadh,saudi-arabia-riyadh
+Senegal *+,Republic of Senegal,SN,SEN,Dakar,senegal-dakar
+Serbia *+,Republic of Serbia,RS,SRB,Belgrade,serbia-belgrade
+Seychelles *+,Republic of Seychelles,SC,SYC,Victoria,seychelles-victoria
+Sierra Leone *+,Republic of Sierra Leone,SL,SLE,Freetown,sierra-leone-freetown
+Singapore *+,Republic of Singapore,SG,SGP,Singapore,singapore-singapore
+Slovakia *+,Slovak Republic,SK,SVK,Bratislava,slovakia-bratislava
+Slovenia *+,Republic of Slovenia,SI,SVN,Ljubljana,slovenia-ljubljana
+Solomon Islands *+,Solomon Islands,SB,SLB,Honiara,solomon-islands-honiara
+Somalia *+,Federal Republic of Somalia,SO,SOM,Mogadishu,somalia-mogadishu
+South Africa *+,Republic of South Africa,ZA,ZAF,"Pretoria (administrative)
+Cape Town (legislative)
+Bloemfontein (judiciary)",south-africa-pretoria-(administrative)-cape-town-(legislative)-bloemfontein-(judiciary)
+South Sudan *+,Republic of South Sudan,SS,SSD,Juba,south-sudan-juba
+Spain *+,Kingdom of Spain,ES,ESP,Madrid,spain-madrid
+Sri Lanka *+,"Democratic Socialist
+Republic of Sri Lanka",LK,LKA,"Colombo
+Sri Jayewardenepura Kotte (legislative)",sri-lanka-colombo-sri-jayewardenepura-kotte-(legislative)
+Sudan *+,Republic of the Sudan,SD,SDN,Khartoum,sudan-khartoum
+Suriname *+,Republic of Suriname,SR,SUR,Paramaribo,suriname-paramaribo
+Sweden *+,Kingdom of Sweden,SE,SWE,Stockholm,sweden-stockholm
+Switzerland *+,Swiss Confederation,CH,CHE,Bern,switzerland-bern
+Syria *+,Syrian Arab Republic,SY,SYR,Damascus,syria-damascus
+Tajikistan *+,Republic of Tajikistan,TJ,TJK,Dushanbe,tajikistan-dushanbe
+Tanzania *+,United Republic of Tanzania,TZ,TZA,"Dar es Salaam
+Dodoma (legislative)",tanzania-dar-es-salaam-dodoma-(legislative)
+Thailand *+,Kingdom of Thailand,TH,THA,Bangkok,thailand-bangkok
+Timor-Leste *+,Democratic Republic of Timor-Leste,TL,TLS,Dili,timor-leste-dili
+Togo *+,Togolese Republic,TG,TGO,Lomé,togo-lome
+Tonga *+,Kingdom of Tonga,TO,TON,Nuku'alofa,tonga-nuku'alofa
+Trinidad and Tobago *+,"Republic of
+Trinidad and Tobago",TT,TTO,Port of Spain,trinidad-and-tobago-port-of-spain
+Tunisia *+,Republic of Tunisia,TN,TUN,Tunis,tunisia-tunis
+Turkey *+,Republic of Turkey,TR,TUR,Ankara,turkey-ankara
+Turkmenistan *+,Turkmenistan,TM,TKM,Ashgabat,turkmenistan-ashgabat
+Tuvalu *+,Tuvalu,TV,TUV,Funafuti,tuvalu-funafuti
+Uganda *+,Republic of Uganda,UG,UGA,Kampala,uganda-kampala
+Ukraine *+,Ukraine,UA,UKR,Kyiv,ukraine-kyiv
+United Arab Emirates *+,United Arab Emirates,AE,ARE,Abu Dhabi,united-arab-emirates-abu-dhabi
+United Kingdom *+,United Kingdom of Great Britain and Northern Ireland,GB,GBR,London,united-kingdom-london
+United States +,United States of America,US,USA,"Washington, DC",united-states-washington-dc
+Uruguay *+,Oriental Republic of Uruguay,UY,URY,Montevideo,uruguay-montevideo
+Uzbekistan *+,Republic of Uzbekistan,UZ,UZB,Tashkent,uzbekistan-tashkent
+Vanuatu *+,Republic of Vanuatu,VU,VUT,Port-Vila,vanuatu-port-vila
+Venezuela *+,Bolivarian Republic of Venezuela,VE,VEN,Caracas,venezuela-caracas
+Vietnam *+,Socialist Republic of Vietnam,VN,VNM,Hanoi,vietnam-hanoi
+Yemen *+,Republic of Yemen,YE,YEM,Sanaa,yemen-sanaa
+Zambia *+,Republic of Zambia,ZM,ZMB,Lusaka,zambia-lusaka
+Zimbabwe *+,Republic of Zimbabwe,ZW,ZWE,Harare,zimbabwe-harare

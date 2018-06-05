@@ -6,11 +6,13 @@ let _ = require('lodash');
 
 let path = __dirname + '/cleaned/';
 
-let files = fs.readdirSync(path);
+let files = fs
+    .readdirSync(path)
+    .filter(file => !(['rates.csv', 'capitals.csv'].includes(file)));
 
 // read in currencies from JSON file originally from https://data.fixer.io/api/latest
 // (has since been modified with additional currencies/currency codes)
-let currency = JSON.parse(fs.readFileSync(__dirname + '/currency.json'));
+let currency = JSON.parse(fs.readFileSync(__dirname + '/data/currency.json'));
 
 money.base = currency.base;
 money.rates = currency.rates;
@@ -145,32 +147,9 @@ function processFile(file) {
 // each one corresponds to a jurisdiction like Canada, etc. that sets per diems
 
 let locations = _.flatMap(files, processFile);
-/*
-let locations = _(files)
-    .flatMap(processFile)
-    .groupBy('slug')
-    .value();
 
-locations = Object.keys(locations).map(key => {
-    let result = _.groupBy(locations[key], 'jurisdiction');
-        .mapValues(list => _.min(list,'total'))
-        .value();
-
-    let mealsAndIncidentals = locations[key].filter(
-        loc => !isNaN(loc.mealsAndIncidentals) && loc.jurisdiction === 'US'
-    );
-
-    console.log(mealsAndIncidentals.length);
-
-    if (mealsAndIncidentals) {
-        result['US meals & incidentals'] = mealsAndIncidentals.mealsAndIncidentals;
-    }
-
-    return {
-        slug: key,
-        ...result
-    };
-});*/
-
-// output the result in CSV format
-console.log(dsv.csvFormat(locations));
+fs.writeFileSync(
+    __dirname + '/cleaned/rates.csv',
+    dsv.csvFormat(locations),
+    'utf8'
+);
