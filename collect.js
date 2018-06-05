@@ -117,6 +117,7 @@ function processRow(jurisdiction, row) {
     return {
         jurisdiction: jurisdiction,
         slug: slugLocation(row),
+        country: row.Country,
         location: row.Location,
         season: row['Season Code'],
         total: calcTotal(row),
