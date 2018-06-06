@@ -1,0 +1,606 @@
+,country,country_x,country_y,index,jurisdiction_x,jurisdiction_y,level_0,location_x,location_y,mealsAndIncidentals_x,mealsAndIncidentals_y,season_x,season_y,slug,slug_x,slug_y,total_x,total_y,diff
+0,,AFGHANISTAN,AFGHANISTAN,0,US,UK,0,Kabul,Kabul,33.0,,S1,,afghanistan-kabul,,,33.0,125.5,-2.803030303030303
+1,,AFGHANISTAN,Afghanistan,0,US,UN,1,Kabul,Kabul,33.0,,S1,,afghanistan-kabul,,,33.0,162.0,-3.909090909090909
+2,,AFGHANISTAN,Afghanistan,0,US,UN,2,Kabul,Kabul (Kabul Serena),33.0,,S1,,afghanistan-kabul,,,33.0,290.0,-7.787878787878788
+3,,ALBANIA,Albania,1,US,Canada,3,Tirana,Tirana,95.0,,S1,,albania-tirana,,,285.0,42.38196039,0.5538741011578947
+4,,ALBANIA,ALBANIA,1,US,UK,4,Tirana,Tirana,95.0,,S1,,albania-tirana,,,285.0,223.88943429505014,0.2144230375612276
+5,,ALBANIA,Albania,1,US,UN,5,Tirana,Tirana,95.0,,S1,,albania-tirana,,,285.0,147.0,0.4842105263157895
+6,,ALBANIA,Albania,1,US,UN,6,Tirana,Tirana (Rogner),95.0,,S1,,albania-tirana,,,285.0,165.0,0.42105263157894735
+7,,ALBANIA,Albania,1,US,UN,7,Tirana,Tirana (Sheraton),95.0,,S1,,albania-tirana,,,285.0,193.0,0.32280701754385965
+8,,ALGERIA,Algeria,2,US,Canada,8,Algiers,Algiers,75.0,,S1,,algeria-algiers,,,255.0,134.44360345995062,-0.7925813794660083
+9,,ALGERIA,ALGERIA,2,US,UK,9,Algiers,Algiers,75.0,,S1,,algeria-algiers,,,255.0,286.5505658381503,-0.12372770916921688
+10,,ALGERIA,Algeria,2,US,UN,10,Algiers,Algiers,75.0,,S1,,algeria-algiers,,,255.0,211.0,0.17254901960784313
+11,,ALGERIA,Algeria,2,US,UN,11,Algiers,"Algiers (El-Aurassi, El-Djazair, Mercure)",75.0,,S1,,algeria-algiers,,,255.0,356.0,-0.396078431372549
+12,,ALGERIA,Algeria,2,US,UN,12,Algiers,"Algiers (Hilton, Sheraton)",75.0,,S1,,algeria-algiers,,,255.0,456.0,-0.788235294117647
+13,,ALGERIA,Algeria,2,US,UN,13,Algiers,Algiers (Sofitel),75.0,,S1,,algeria-algiers,,,255.0,420.0,-0.6470588235294118
+14,,ANGOLA,Angola,3,US,Canada,14,Luanda,Luanda,170.0,,S1,,angola-luanda,,,575.0,262.8024582250278,-0.5458968130883989
+15,,ANGOLA,ANGOLA,3,US,UK,15,Luanda,Luanda,170.0,,S1,,angola-luanda,,,575.0,495.8394199859985,0.13767057393739388
+16,,ANGOLA,Angola,3,US,UN,16,Luanda,Luanda,170.0,,S1,,angola-luanda,,,575.0,400.0,0.30434782608695654
+17,,ANGOLA,Angola,3,US,UN,17,Luanda,"Luanda (Baia, Presidente, Tropico)",170.0,,S1,,angola-luanda,,,575.0,455.0,0.20869565217391303
+18,,ANGOLA,Angola,3,US,UN,18,Luanda,Luanda (Skyna),170.0,,S1,,angola-luanda,,,575.0,530.0,0.0782608695652174
+19,,ARGENTINA,Argentina,4,US,Canada,19,Buenos Aires,Buenos Aires,129.0,,S1,,argentina-buenos-aires,,,396.0,95.03023510179705,0.2633315108387826
+20,,ARGENTINA,ARGENTINA,4,US,UK,20,Buenos Aires,Buenos Aires,129.0,,S1,,argentina-buenos-aires,,,396.0,231.17322244921485,0.4162292362393564
+21,,ARGENTINA,Argentina,4,US,UN,21,Buenos Aires,Buenos Aires,129.0,,S1,,argentina-buenos-aires,,,396.0,229.0,0.4217171717171717
+22,,ARMENIA,Armenia,5,US,Canada,22,Yerevan,Yerevan,92.0,,S1,,armenia-yerevan,,,240.0,82.5,0.10326086956521739
+23,,ARMENIA,ARMENIA,5,US,UK,23,Yerevan,Yerevan,92.0,,S1,,armenia-yerevan,,,240.0,219.4947249309313,0.08543864612111954
+24,,ARMENIA,Armenia,5,US,UN,24,Yerevan,Yerevan,92.0,,S1,,armenia-yerevan,,,240.0,158.0,0.3416666666666667
+25,,AUSTRALIA,Australia,6,US,Canada,25,Canberra,Canberra,137.0,,S1,,australia-canberra,,,310.0,153.44785717205997,-0.12005735162087569
+26,,AUSTRALIA,AUSTRALIA,6,US,UK,26,Canberra,Canberra,137.0,,S1,,australia-canberra,,,310.0,305.0939189912683,0.015826067770102224
+27,,AUSTRIA,Austria,7,US,Canada,27,Vienna,Vienna,133.0,,S1,,austria-vienna,,,374.0,187.01492073,-0.40612722353383457
+28,,AUSTRIA,AUSTRIA,7,US,UK,28,Vienna,"Vienna (also applies to Graz, Bregenz, Linz, Klagenfurt, Salzburg, Innsbruck)",133.0,,S1,,austria-vienna,,,374.0,248.482179,0.3356091470588235
+29,,AZERBAIJAN,Azerbaijan,8,US,Canada,29,Baku,Baku,115.0,,S1,,azerbaijan-baku,,,361.0,120.25,-0.04565217391304348
+30,,AZERBAIJAN,AZERBAIJAN,8,US,UK,30,Baku,Baku,115.0,,S1,,azerbaijan-baku,,,361.0,165.0481115073895,0.5428030152149875
+31,,AZERBAIJAN,Azerbaijan,8,US,UN,31,Baku,Baku,115.0,,S1,,azerbaijan-baku,,,361.0,179.0,0.5041551246537396
+32,,AZERBAIJAN,Azerbaijan,8,US,UN,32,Baku,Baku (Four Seasons),115.0,,S1,,azerbaijan-baku,,,361.0,332.0,0.08033240997229917
+33,,AZERBAIJAN,Azerbaijan,8,US,UN,33,Baku,Baku (JV Absheron Marriott),115.0,,S1,,azerbaijan-baku,,,361.0,256.0,0.29085872576177285
+34,,BAHRAIN,Bahrain,10,US,Canada,34,MANAMA,Manama,122.0,,S1,,bahrain-manama,,,377.0,156.61889282122644,-0.2837614165674298
+35,,BAHRAIN,Bahrain,10,US,UN,35,MANAMA,Manama,122.0,,S1,,bahrain-manama,,,377.0,316.0,0.16180371352785147
+36,,BAHRAIN,Bahrain,10,US,UN,36,MANAMA,Manama (Movenpick),122.0,,S1,,bahrain-manama,,,377.0,382.0,-0.013262599469496022
+37,,BANGLADESH,Bangladesh,11,US,Canada,37,Dhaka,Dhaka,90.0,,S1,,bangladesh-dhaka,,,290.0,134.88702396933087,-0.498744710770343
+38,,BANGLADESH,BANGLADESH,11,US,UK,38,Dhaka,Dhaka,90.0,,S1,,bangladesh-dhaka,,,290.0,183.8607517693499,0.3659974076918969
+39,,BANGLADESH,Bangladesh,11,US,UN,39,Dhaka,Dhaka,90.0,,S1,,bangladesh-dhaka,,,290.0,139.0,0.5206896551724138
+40,,BANGLADESH,Bangladesh,11,US,UN,40,Dhaka,"Dhaka (Amari, Lake Shore, Pan Pacific Sonargaon)",90.0,,S1,,bangladesh-dhaka,,,290.0,304.0,-0.04827586206896552
+41,,BANGLADESH,Bangladesh,11,US,UN,41,Dhaka,"Dhaka (Le Meridien, Sarina, Six Seasons)",90.0,,S1,,bangladesh-dhaka,,,290.0,278.0,0.041379310344827586
+42,,BANGLADESH,Bangladesh,11,US,UN,42,Dhaka,Dhaka (Longbeach Suites),90.0,,S1,,bangladesh-dhaka,,,290.0,195.0,0.3275862068965517
+43,,BANGLADESH,Bangladesh,11,US,UN,43,Dhaka,"Dhaka (Radisson Water Garden, Westin)",90.0,,S1,,bangladesh-dhaka,,,290.0,339.0,-0.16896551724137931
+44,,BELARUS,Belarus,12,US,Canada,44,Minsk,Minsk,84.0,,S1,,belarus-minsk,,,274.0,89.29843887179489,-0.06307665323565341
+45,,BELARUS,BELARUS,12,US,UK,45,Minsk,Minsk,84.0,,S1,,belarus-minsk,,,274.0,240.0,0.12408759124087591
+46,,BELARUS,Belarus,12,US,UN,46,Minsk,Minsk,84.0,,S1,,belarus-minsk,,,274.0,249.0,0.09124087591240876
+47,,BELGIUM,Belgium,13,US,Canada,47,Brussels,Brussels,149.0,,S1,,belgium-brussels,,,337.0,157.3720467,-0.056188232885906034
+48,,BELGIUM,BELGIUM,13,US,UK,48,Brussels,Brussels,149.0,,S1,,belgium-brussels,,,337.0,281.7297945,0.16400654451038568
+49,,BELIZE,BELIZE,14,US,UK,49,Belmopan,Belmopan,93.0,,S1,,belize-belmopan,,,242.0,117.87939032997869,0.5128950812810797
+50,,Bosnia and Herzegovina,Bosnia and Herzegovina,15,US,Canada,50,Sarajevo,Sarajevo,74.0,,S1,,bosnia-and-herzegovina-sarajevo,,,189.0,63.13547195999999,0.14681794648648663
+51,,Bosnia and Herzegovina,Bosnia and Herzegovina,15,US,UN,51,Sarajevo,Sarajevo,74.0,,S1,,bosnia-and-herzegovina-sarajevo,,,189.0,124.0,0.3439153439153439
+52,,Bosnia and Herzegovina,Bosnia and Herzegovina,15,US,UN,52,Sarajevo,"Sarajevo (Bristol, Central, Europe, Marriott Courtyard)",74.0,,S1,,bosnia-and-herzegovina-sarajevo,,,189.0,155.0,0.17989417989417988
+53,,BOTSWANA,Botswana,16,US,Canada,53,Gaborone,Gaborone,90.0,,S1,,botswana-gaborone,,,256.0,93.7664739973626,-0.041849711081806615
+54,,BOTSWANA,BOTSWANA,16,US,UK,54,Gaborone,Gaborone,90.0,,S1,,botswana-gaborone,,,256.0,142.52063829411338,0.4432787566636196
+55,,BOTSWANA,Botswana,16,US,UN,55,Gaborone,Gaborone,90.0,,S1,,botswana-gaborone,,,256.0,302.0,-0.1796875
+56,,BRAZIL,Brazil,17,US,Canada,56,Brasilia,Brasilia,123.0,,S1,,brazil-brasilia,,,350.0,106.454291336538,0.13451795661351215
+57,,BRAZIL,BRAZIL,17,US,UK,57,Brasilia,Brasilia,123.0,,S1,,brazil-brasilia,,,350.0,164.74879094566813,0.5292891687266624
+58,,BRAZIL,Brazil,17,US,UN,58,Brasilia,Brasilia,123.0,,S1,,brazil-brasilia,,,350.0,198.0,0.4342857142857143
+59,,BRUNEI,BRUNEI,18,US,UK,59,Bandar Seri Begawan,Bandar Seri Begawan,97.0,,S1,,brunei-bandar-seri-begawan,,,290.0,254.77375923560447,0.12146979573929492
+60,,BULGARIA,Bulgaria,19,US,Canada,60,Sofia,Sofia,103.0,,S1,,bulgaria-sofia,,,276.0,87.69204411,0.1486209309708738
+61,,BULGARIA,BULGARIA,19,US,UK,61,Sofia,Sofia,103.0,,S1,,bulgaria-sofia,,,276.0,244.38721651055198,0.1145390706139421
+62,,BULGARIA,Bulgaria,19,US,UN,62,Sofia,Sofia,103.0,,S1,,bulgaria-sofia,,,276.0,216.0,0.21739130434782608
+63,,BULGARIA,Bulgaria,19,US,UN,63,Sofia,"Sofia (Hilton, Arena di Serdika)",103.0,,S1,,bulgaria-sofia,,,276.0,262.0,0.050724637681159424
+64,,BURKINA FASO,Burkina Faso,20,US,Canada,64,Ouagadougou,Ouagadougou,116.0,,S1,,burkina-faso-ouagadougou,,,297.0,74.44489703359852,0.3582336462620817
+65,,BURKINA FASO,Burkina Faso,20,US,UN,65,Ouagadougou,Ouagadougou,116.0,,S1,,burkina-faso-ouagadougou,,,297.0,280.0,0.05723905723905724
+66,,BURKINA FASO,Burkina Faso,20,US,UN,66,Ouagadougou,Ouagadougou (Laico Ouaga 2000),116.0,,S1,,burkina-faso-ouagadougou,,,297.0,415.0,-0.39730639730639733
+67,,BURUNDI,Burundi,21,US,Canada,67,Bujumbura,Bujumbura,67.0,,S1,,burundi-bujumbura,,,187.0,91.5190119959503,-0.36595540292463125
+68,,BURUNDI,BURUNDI,21,US,UK,68,Bujumbura,Bujumbura,67.0,,S1,,burundi-bujumbura,,,187.0,157.47538505128298,0.15788564143698938
+69,,BURUNDI,Burundi,21,US,UN,69,Bujumbura,Bujumbura,67.0,,S1,,burundi-bujumbura,,,187.0,235.0,-0.25668449197860965
+70,,CAMBODIA,Cambodia,23,US,Canada,70,Phnom Penh,Phnom Penh,85.0,,S1,,cambodia-phnom-penh,,,236.0,102.56,-0.20658823529411768
+71,,CAMBODIA,CAMBODIA,23,US,UK,71,Phnom Penh,Phnom Penh,85.0,,S1,,cambodia-phnom-penh,,,236.0,189.0,0.19915254237288135
+72,,CAMBODIA,Cambodia,23,US,UN,72,Phnom Penh,Phnom Penh,85.0,,S1,,cambodia-phnom-penh,,,236.0,146.0,0.3813559322033898
+73,,CAMBODIA,Cambodia,23,US,UN,73,Phnom Penh,Phnom Penh (Himawari),85.0,,S1,,cambodia-phnom-penh,,,236.0,292.0,-0.23728813559322035
+74,,CAMBODIA,Cambodia,23,US,UN,74,Phnom Penh,"Phnom Penh (Intercontinental, Raffles Le Royal, Sofitel Phnom Penh Phokeethra)",85.0,,S1,,cambodia-phnom-penh,,,236.0,303.0,-0.2838983050847458
+75,,CAMBODIA,Cambodia,23,US,UN,75,Phnom Penh,Phnom Penh (Sokha Phnom Penh),85.0,,S1,,cambodia-phnom-penh,,,236.0,228.0,0.03389830508474576
+76,,CAMEROON,Cameroon,24,US,Canada,76,Yaounde,Yaoundé,114.0,,S1,,cameroon-yaounde,,,295.0,124.11396871374392,-0.08871902380477119
+77,,CAMEROON,CAMEROON,24,US,UK,77,Yaounde,Yaounde,114.0,,S1,,cameroon-yaounde,,,295.0,279.37029236785264,0.05298205976999105
+78,,CAMEROON,Cameroon,24,US,UN,78,Yaounde,Yaounde,114.0,,S1,,cameroon-yaounde,,,295.0,226.0,0.23389830508474577
+79,,CAMEROON,Cameroon,24,US,UN,79,Yaounde,Yaounde (Hotel Hilton),114.0,,S1,,cameroon-yaounde,,,295.0,366.0,-0.24067796610169492
+80,,CANADA,Canada,25,US,UN,80,Ottawa,Ottawa,116.0,,S1,,canada-ottawa,,,326.0,351.0,-0.07668711656441718
+81,,CENTRAL AFRICAN REPUBLIC,Central African Republic,26,US,Canada,81,Bangui,Bangui,111.0,,S1,,central-african-republic-bangui,,,327.0,106.735664674355,0.03841743536617123
+82,,CHILE,Chile,27,US,Canada,82,Santiago,Santiago,116.0,,S1,,chile-santiago,,,306.0,133.40300146777994,-0.1500258747222409
+83,,CHILE,CHILE,27,US,UK,83,Santiago,Santiago,116.0,,S1,,chile-santiago,,,306.0,228.06987220693912,0.25467362023876106
+84,,CHILE,Chile,27,US,UN,84,Santiago,Santiago,116.0,,S1,,chile-santiago,,,306.0,323.0,-0.05555555555555555
+85,,COLOMBIA,Colombia,28,US,Canada,85,Bogota,Bogotá,105.0,,S1,,colombia-bogota,,,382.0,85.59520163422944,0.18480760348352915
+86,,COLOMBIA,COLOMBIA,28,US,UK,86,Bogota,Bogota,105.0,,S1,,colombia-bogota,,,382.0,192.75393332755016,0.4954085514985598
+87,,COLOMBIA,Colombia,28,US,UN,87,Bogota,Bogota,105.0,,S1,,colombia-bogota,,,382.0,158.0,0.5863874345549738
+88,,COMOROS,Comoros,29,US,UN,88,Moroni,Moroni,75.0,,S1,,comoros-moroni,,,191.0,237.0,-0.24083769633507854
+89,,COSTA RICA,Costa Rica,30,US,Canada,89,San Jose,San José,109.0,,S1,,costa-rica-san-jose,,,256.0,111.57237116102971,-0.023599735422290893
+90,,COSTA RICA,COSTA RICA,30,US,UK,90,San Jose,San Jose,109.0,,S1,,costa-rica-san-jose,,,256.0,238.0,0.0703125
+91,,COSTA RICA,Costa Rica,30,US,UN,91,San Jose,San Jose,109.0,,S1,,costa-rica-san-jose,,,256.0,212.0,0.171875
+92,,CROATIA,Croatia,32,US,Canada,92,Zagreb,Zagreb,84.0,,S1,,croatia-zagreb,,,260.0,115.7250336,-0.3776789714285715
+93,,CROATIA,CROATIA,32,US,UK,93,Zagreb,Zagreb,84.0,,S1,,croatia-zagreb,,,260.0,230.99758341201652,0.11154775610762875
+94,,CUBA,Cuba,33,US,Canada,94,Havana,Havana,111.0,,S1,,cuba-havana,,,316.0,86.86,0.21747747747747748
+95,,CUBA,CUBA,33,US,UK,95,Havana,Havana,111.0,,S1,,cuba-havana,,,316.0,198.5,0.37183544303797467
+96,,CUBA,Cuba,33,US,UN,96,Havana,Havana,111.0,,S1,,cuba-havana,,,316.0,269.0,0.14873417721518986
+97,,CYPRUS,Cyprus,34,US,Canada,97,Nicosia,Nicosia,125.0,,S1,,cyprus-nicosia,,,313.0,139.66331676,-0.11730653407999989
+98,,CYPRUS,CYPRUS,34,US,UK,98,Nicosia,Nicosia,125.0,,S1,,cyprus-nicosia,,,313.0,235.64976600000003,0.2471253482428114
+99,,CYPRUS,Cyprus,34,US,UN,99,Nicosia,Nicosia,125.0,,S1,,cyprus-nicosia,,,313.0,207.0,0.33865814696485624
+100,,DENMARK,Denmark,35,US,Canada,100,Copenhagen,Copenhagen,165.0,,S1,,denmark-copenhagen,,,421.0,227.2634782698611,-0.377354413756734
+101,,DENMARK,DENMARK,35,US,UK,101,Copenhagen,Copenhagen,165.0,,S1,,denmark-copenhagen,,,421.0,328.28095700946733,0.2202352565095788
+102,,DOMINICAN REPUBLIC,Dominican Republic,36,US,Canada,102,Santo Domingo,Santo Domingo,100.0,,S1,,dominican-republic-santo-domingo,,,300.0,96.04049746588123,0.039595025341187695
+103,,DOMINICAN REPUBLIC,DOMINICAN REPUBLIC,36,US,UK,103,Santo Domingo,Santo Domingo,100.0,,S1,,dominican-republic-santo-domingo,,,300.0,198.0992025515021,0.33966932482832635
+104,,DOMINICAN REPUBLIC,Dominican Republic,36,US,UN,104,Santo Domingo,Santo Domingo,100.0,,S1,,dominican-republic-santo-domingo,,,300.0,253.0,0.15666666666666668
+105,,ECUADOR,Ecuador,37,US,Canada,105,Quito,Quito,107.0,,S1,,ecuador-quito,,,297.0,113.26,-0.05850467289719631
+106,,ECUADOR,ECUADOR,37,US,UK,106,Quito,Quito,107.0,,S1,,ecuador-quito,,,297.0,268.0,0.09764309764309764
+107,,ECUADOR,Ecuador,37,US,UN,107,Quito,Quito,107.0,,S1,,ecuador-quito,,,297.0,177.0,0.40404040404040403
+108,,ECUADOR,Ecuador,37,US,UN,108,Quito,Quito (JW Marriott),107.0,,S1,,ecuador-quito,,,297.0,217.0,0.26936026936026936
+109,,EGYPT,Egypt,38,US,Canada,109,Cairo,Cairo,98.0,,S1,,egypt-cairo,,,273.0,86.99974439744197,0.11224750614855131
+110,,EGYPT,EGYPT,38,US,UK,110,Cairo,Cairo,98.0,,S1,,egypt-cairo,,,273.0,224.1321043970002,0.17900328059706885
+111,,EGYPT,Egypt,38,US,UN,111,Cairo,Cairo,98.0,,S1,,egypt-cairo,,,273.0,278.0,-0.018315018315018316
+112,,EL SALVADOR,El Salvador,39,US,Canada,112,San Salvador,San Salvador,93.0,,S1,,el-salvador-san-salvador,,,221.0,81.11,0.12784946236559142
+113,,EL SALVADOR,EL SALVADOR,39,US,UK,113,San Salvador,San Salvador,93.0,,S1,,el-salvador-san-salvador,,,221.0,208.5,0.05656108597285068
+114,,EL SALVADOR,El Salvador,39,US,UN,114,San Salvador,San Salvador,93.0,,S1,,el-salvador-san-salvador,,,221.0,250.0,-0.13122171945701358
+115,,EQUATORIAL GUINEA,EQUATORIAL GUINEA,40,US,UK,115,Malabo,Malabo,114.0,,S1,,equatorial-guinea-malabo,,,299.0,552.7067479063044,-0.8485175515261015
+116,,EQUATORIAL GUINEA,Equatorial Guinea,40,US,UN,116,Malabo,Malabo,114.0,,S1,,equatorial-guinea-malabo,,,299.0,247.0,0.17391304347826086
+117,,EQUATORIAL GUINEA,Equatorial Guinea,40,US,UN,117,Malabo,Malabo (Hilton),114.0,,S1,,equatorial-guinea-malabo,,,299.0,550.0,-0.8394648829431438
+118,,EQUATORIAL GUINEA,Equatorial Guinea,40,US,UN,118,Malabo,"Malabo (Sofitel President, Tres de Agosto)",114.0,,S1,,equatorial-guinea-malabo,,,299.0,368.0,-0.23076923076923078
+119,,EQUATORIAL GUINEA,Equatorial Guinea,40,US,UN,119,Malabo,Malabo (Sofitel Sipopo),114.0,,S1,,equatorial-guinea-malabo,,,299.0,500.0,-0.6722408026755853
+120,,ERITREA,Eritrea,41,US,Canada,120,Asmara,Asmara,108.0,,S1,,eritrea-asmara,,,243.0,114.63314969478876,-0.06141805272952552
+121,,ERITREA,ERITREA,41,US,UK,121,Asmara,Asmara,108.0,,S1,,eritrea-asmara,,,243.0,218.24910875222733,0.10185551953815913
+122,,ERITREA,Eritrea,41,US,UN,122,Asmara,Asmara,108.0,,S1,,eritrea-asmara,,,243.0,215.0,0.11522633744855967
+123,,ESTONIA,Estonia,42,US,Canada,123,Tallinn,Tallinn,122.0,,S1,,estonia-tallinn,,,268.0,158.30531309999995,-0.29758453360655696
+124,,ESTONIA,ESTONIA,42,US,UK,124,Tallinn,Tallinn,122.0,,S1,,estonia-tallinn,,,268.0,205.318608,0.23388579104477608
+125,,ESTONIA,Estonia,42,US,UN,125,Tallinn,Tallinn,122.0,,S1,,estonia-tallinn,,,268.0,321.0,-0.19776119402985073
+126,,ETHIOPIA,Ethiopia,43,US,Canada,126,Addis Ababa,Addis Ababa,85.0,,S1,,ethiopia-addis-ababa,,,400.0,79.58281834639742,0.06373154886591274
+127,,ETHIOPIA,ETHIOPIA,43,US,UK,127,Addis Ababa,Addis Ababa,85.0,,S1,,ethiopia-addis-ababa,,,400.0,337.597187400464,0.15600703149884
+128,,ETHIOPIA,Ethiopia,43,US,UN,128,Addis Ababa,Addis Ababa,85.0,,S1,,ethiopia-addis-ababa,,,400.0,198.0,0.505
+129,,ETHIOPIA,Ethiopia,43,US,UN,129,Addis Ababa,Addis Ababa (Hilton),85.0,,S1,,ethiopia-addis-ababa,,,400.0,386.0,0.035
+130,,ETHIOPIA,Ethiopia,43,US,UN,130,Addis Ababa,"Addis Ababa (Marriott Executive Apartments, Radisson Blu)",85.0,,S1,,ethiopia-addis-ababa,,,400.0,297.0,0.2575
+131,,ETHIOPIA,Ethiopia,43,US,UN,131,Addis Ababa,Addis Ababa (Sheraton),85.0,,S1,,ethiopia-addis-ababa,,,400.0,499.0,-0.2475
+132,,FIJI,Fiji,44,US,Canada,132,Suva,Suva,102.0,,S1,,fiji-suva,,,305.0,137.7605037442163,-0.35059317396290485
+133,,FIJI,FIJI,44,US,UK,133,Suva,Suva,102.0,,S1,,fiji-suva,,,305.0,206.93429664673766,0.32152689624020436
+134,,FIJI,Fiji,44,US,UN,134,Suva,Suva,102.0,,S1,,fiji-suva,,,305.0,258.0,0.1540983606557377
+135,,FIJI,Fiji,44,US,UN,135,Suva,Suva (Grand Pacific Hotel),102.0,,S1,,fiji-suva,,,305.0,520.0,-0.7049180327868853
+136,,FINLAND,Finland,45,US,Canada,136,Helsinki,Helsinki,127.0,,S1,,finland-helsinki,,,349.0,199.49735883,-0.5708453451181102
+137,,FINLAND,FINLAND,45,US,UK,137,Helsinki,Helsinki,127.0,,S1,,finland-helsinki,,,349.0,266.5642155,0.23620568624641838
+138,,FINLAND,Finland,45,US,UN,138,Helsinki,Helsinki,127.0,,S1,,finland-helsinki,,,349.0,351.0,-0.0057306590257879654
+139,,FRANCE,France,46,US,Canada,139,Paris,Paris,190.0,,S1,,france-paris,,,631.0,210.34658073,-0.107087267
+140,,FRANCE,FRANCE,46,US,UK,140,Paris,Paris,190.0,,S1,,france-paris,,,631.0,369.2235195,0.41485971553090334
+141,,FRANCE,France,46,US,UN,141,Paris,Paris,190.0,,S1,,france-paris,,,631.0,401.0,0.36450079239302696
+142,,GABON,Gabon,47,US,Canada,142,Libreville,Libreville,115.0,,S1,,gabon-libreville,,,307.0,153.35179105028342,-0.33349383521985587
+143,,GABON,Gabon,47,US,UN,143,Libreville,Libreville,115.0,,S1,,gabon-libreville,,,307.0,365.0,-0.18892508143322476
+144,,GABON,Gabon,47,US,UN,144,Libreville,"Libreville (Le Cristal, Royal Palm)",115.0,,S1,,gabon-libreville,,,307.0,600.0,-0.9543973941368078
+145,,GABON,Gabon,47,US,UN,145,Libreville,Libreville (Park Inn by Radisson),115.0,,S1,,gabon-libreville,,,307.0,480.0,-0.5635179153094463
+146,,GABON,Gabon,47,US,UN,146,Libreville,Libreville (Radisson Blu Okoume Palace),115.0,,S1,,gabon-libreville,,,307.0,710.0,-1.3127035830618892
+147,,GEORGIA,Georgia,49,US,Canada,147,Tbilisi,Tbilisi,105.0,,S1,,georgia-tbilisi,,,341.0,89.31359447999998,0.1493943382857145
+148,,GEORGIA,GEORGIA,49,US,UK,148,Tbilisi,Tbilisi,105.0,,S1,,georgia-tbilisi,,,341.0,307.5920247068677,0.09797060203264611
+149,,GERMANY,Germany,50,US,Canada,149,Berlin,Berlin,120.0,,S1,,germany-berlin,,,367.0,184.48343562,-0.5373619635
+150,,GERMANY,GERMANY,50,US,UK,150,Berlin,Berlin,120.0,,S1,,germany-berlin,,,367.0,279.3966285,0.23870128474114435
+151,,GERMANY,Germany,50,US,UN,151,Berlin,Berlin,120.0,,S1,,germany-berlin,,,367.0,346.0,0.05722070844686648
+152,,GHANA,Ghana,51,US,Canada,152,Accra,Accra,99.0,,S1,,ghana-accra,,,331.0,109.93484498840635,-0.11045297968087227
+153,,GHANA,GHANA,51,US,UK,153,Accra,Accra,99.0,,S1,,ghana-accra,,,331.0,232.0613537000552,0.29890829697868515
+154,,GHANA,Ghana,51,US,UN,154,Accra,Accra,99.0,,S1,,ghana-accra,,,331.0,398.0,-0.20241691842900303
+155,,GHANA,Ghana,51,US,UN,155,Accra,Accra (Best  Western Premier),99.0,,S1,,ghana-accra,,,331.0,475.0,-0.4350453172205438
+156,,GREECE,Greece,52,US,Canada,156,Athens,Athens,131.0,,S1,,greece-athens,,,331.0,187.94818713,-0.4347189857251909
+157,,GREECE,GREECE,52,US,UK,157,Athens,Athens,131.0,,S1,,greece-athens,,,331.0,257.814843,0.22110319335347434
+158,,GREECE,Greece,52,US,UN,158,Athens,Athens,131.0,,S1,,greece-athens,,,331.0,310.0,0.0634441087613293
+159,,GUATEMALA,Guatemala,53,US,Canada,159,Guatemala City,Guatemala City,96.0,,S1,,guatemala-guatemala-city,,,240.0,116.41699822226937,-0.21267706481530593
+160,,GUATEMALA,GUATEMALA,53,US,UK,160,Guatemala City,Guatemala City,96.0,,S1,,guatemala-guatemala-city,,,240.0,260.0,-0.08333333333333333
+161,,GUATEMALA,Guatemala,53,US,UN,161,Guatemala City,Guatemala City,96.0,,S1,,guatemala-guatemala-city,,,240.0,185.0,0.22916666666666666
+162,,GUATEMALA,Guatemala,53,US,UN,162,Guatemala City,"Guatemala City (Real Intercontinental, Westin Camino Real, Loftell Fontabella)",96.0,,S1,,guatemala-guatemala-city,,,240.0,293.0,-0.22083333333333333
+163,,GUINEA,Guinea,54,US,Canada,163,Conakry,Conakry,103.0,,S1,,guinea-conakry,,,327.0,106.18663452520693,-0.030938199273853655
+164,,GUINEA,GUINEA,54,US,UK,164,Conakry,Conakry,103.0,,S1,,guinea-conakry,,,327.0,149.8124850736841,0.5418578438113636
+165,,GUINEA,Guinea,54,US,UN,165,Conakry,Conakry,103.0,,S1,,guinea-conakry,,,327.0,240.0,0.26605504587155965
+166,,GUINEA,Guinea,54,US,UN,166,Conakry,Conakry (Noom),103.0,,S1,,guinea-conakry,,,327.0,384.0,-0.1743119266055046
+167,,GUINEA,Guinea,54,US,UN,167,Conakry,Conakry (Palm Camayenne),103.0,,S1,,guinea-conakry,,,327.0,415.0,-0.2691131498470948
+168,,GUINEA,Guinea,54,US,UN,168,Conakry,Conakry (Sheraton Grand),103.0,,S1,,guinea-conakry,,,327.0,452.0,-0.382262996941896
+169,,GUINEA-BISSAU,Guinea-Bissau,55,US,Canada,169,Bissau,Bissau,78.0,,S1,,guinea-bissau-bissau,,,238.0,99.83466481728226,-0.27993160022156743
+170,,GUINEA-BISSAU,Guinea Bissau,55,US,UN,170,Bissau,Bissau,78.0,,S1,,guinea-bissau-bissau,,,238.0,175.0,0.2647058823529412
+171,,GUINEA-BISSAU,Guinea Bissau,55,US,UN,171,Bissau,Bissau (Ledger Plaza),78.0,,S1,,guinea-bissau-bissau,,,238.0,297.0,-0.24789915966386555
+172,,GUYANA,Guyana,56,US,Canada,172,Georgetown,Georgetown,107.0,,S1,,guyana-georgetown,,,283.0,126.51937387895927,-0.1824240549435446
+173,,GUYANA,GUYANA,56,US,UK,173,Georgetown,Georgetown,107.0,,S1,,guyana-georgetown,,,283.0,253.27510344030617,0.10503497017559658
+174,,GUYANA,Guyana,56,US,UN,174,Georgetown,Georgetown,107.0,,S1,,guyana-georgetown,,,283.0,265.0,0.0636042402826855
+175,,GUYANA,Guyana,56,US,UN,175,Georgetown,Georgetown (Pegasus Hotel),107.0,,S1,,guyana-georgetown,,,283.0,358.0,-0.26501766784452296
+176,,HAITI,Haiti,57,US,Canada,176,Port-au-Prince,Port-au-Prince,111.0,,S1,,haiti-port-au-prince,,,266.0,122.17,-0.10063063063063064
+177,,HAITI,HAITI,57,US,UK,177,Port-au-Prince,Port au Prince,111.0,,S1,,haiti-port-au-prince,,,266.0,200.0,0.24812030075187969
+178,,HAITI,Haiti,57,US,UN,178,Port-au-Prince,Port-Au-Prince,111.0,,S1,,haiti-port-au-prince,,,266.0,221.0,0.16917293233082706
+179,,HAITI,Haiti,57,US,UN,179,Port-au-Prince,Port-au-Prince (Karibe),111.0,,S1,,haiti-port-au-prince,,,266.0,265.0,0.0037593984962406013
+180,,HAITI,Haiti,57,US,UN,180,Port-au-Prince,Port-au-Prince (Marriott),111.0,,S1,,haiti-port-au-prince,,,266.0,298.0,-0.12030075187969924
+181,,HONDURAS,Honduras,58,US,Canada,181,Tegucigalpa,Tegucigalpa,97.0,,S1,,honduras-tegucigalpa,,,284.0,90.75585138533168,0.06437266613060122
+182,,HONDURAS,HONDURAS,58,US,UK,182,Tegucigalpa,Tegucigalpa,97.0,,S1,,honduras-tegucigalpa,,,284.0,259.0,0.0880281690140845
+183,,HONDURAS,Honduras,58,US,UN,183,Tegucigalpa,Tegucigalpa,97.0,,S1,,honduras-tegucigalpa,,,284.0,206.0,0.2746478873239437
+184,,HUNGARY,Hungary,59,US,Canada,184,Budapest,Budapest,103.0,,S1,,hungary-budapest,,,293.0,123.49447638,-0.19897549883495141
+185,,HUNGARY,HUNGARY,59,US,UK,185,Budapest,Budapest,103.0,,S1,,hungary-budapest,,,293.0,218.1600504566116,0.25542644895354405
+186,,HUNGARY,Hungary,59,US,UN,186,Budapest,Budapest,103.0,,S1,,hungary-budapest,,,293.0,288.0,0.017064846416382253
+187,,ICELAND,Iceland,60,US,Canada,187,Reykjavik,Reykjavik,153.0,,S1,,iceland-reykjavik,,,461.0,225.9706366752319,-0.4769322658511889
+188,,ICELAND,ICELAND,60,US,UK,188,Reykjavik,Reykjavik,153.0,,S1,,iceland-reykjavik,,,461.0,337.33209128993735,0.2682601056617411
+189,,ICELAND,Iceland,61,US,Canada,189,Reykjavik,Reykjavik,145.0,,S2,,iceland-reykjavik,,,375.0,225.9706366752319,-0.5584181839671165
+190,,ICELAND,ICELAND,61,US,UK,190,Reykjavik,Reykjavik,145.0,,S2,,iceland-reykjavik,,,375.0,337.33209128993735,0.10044775656016706
+191,,INDIA,India,62,US,Canada,191,New Delhi,New Delhi,109.0,,S1,,india-new-delhi,,,400.0,129.75560094905265,-0.19041835733075824
+192,,INDIA,INDIA,62,US,UK,192,New Delhi,New Delhi,109.0,,S1,,india-new-delhi,,,400.0,298.95199631925203,0.25262000920186994
+193,,INDIA,India,62,US,UN,193,New Delhi,New Delhi (April - August),109.0,,S1,,india-new-delhi,,,400.0,223.0,0.4425
+194,,INDIA,India,62,US,UN,194,New Delhi,New Delhi (September - March),109.0,,S1,,india-new-delhi,,,400.0,254.0,0.365
+195,,INDONESIA,Indonesia,63,US,Canada,195,Jakarta,Jakarta,104.0,,S1,,indonesia-jakarta,,,362.0,140.78,-0.35365384615384615
+196,,INDONESIA,INDONESIA,63,US,UK,196,Jakarta,Jakarta,104.0,,S1,,indonesia-jakarta,,,362.0,226.05607288893856,0.37553571025155097
+197,,INDONESIA,Indonesia,63,US,UN,197,Jakarta,Jakarta,104.0,,S1,,indonesia-jakarta,,,362.0,207.0,0.4281767955801105
+198,,INDONESIA,Indonesia,63,US,UN,198,Jakarta,"Jakarta (JW Marriott, Mandarin Oriental, Ritz Carlton)",104.0,,S1,,indonesia-jakarta,,,362.0,313.0,0.13535911602209943
+199,,INDONESIA,Indonesia,63,US,UN,199,Jakarta,Jakarta (Shangri-la),104.0,,S1,,indonesia-jakarta,,,362.0,417.0,-0.15193370165745856
+200,,INDONESIA,Indonesia,63,US,UN,200,Jakarta,Jakarta (Westin),104.0,,S1,,indonesia-jakarta,,,362.0,276.0,0.23756906077348067
+201,,IRAN,Iran,64,US,Canada,201,Tehran,Tehran,58.0,,S1,,iran-tehran,,,155.0,56.14421438404264,0.03199630372340274
+202,,IRAN,IRAN,64,US,UK,202,Tehran,Tehran,58.0,,S1,,iran-tehran,,,155.0,174.80873182598324,-0.1277982698450532
+203,,IRAN,Iran,64,US,UN,203,Tehran,Tehran,58.0,,S1,,iran-tehran,,,155.0,225.0,-0.45161290322580644
+204,,IRAQ,Iraq,65,US,UN,204,Baghdad,Baghdad,11.0,,S1,,iraq-baghdad,,,11.0,275.0,-24.0
+205,,IRAQ,Iraq,65,US,UN,205,Baghdad,Baghdad (Al Rasheed Hotel),11.0,,S1,,iraq-baghdad,,,11.0,446.0,-39.54545454545455
+206,,IRELAND,Ireland,66,US,Canada,206,Dublin,Dublin,141.0,,S1,,ireland-dublin,,,394.0,162.76166016,-0.15433801531914887
+207,,IRELAND,IRELAND,66,US,UK,207,Dublin,Dublin,141.0,,S1,,ireland-dublin,,,394.0,289.31258399999996,0.26570410152284274
+208,,ITALY,Italy,67,US,Canada,208,Rome,Rome,148.0,,S1,,italy-rome,,,548.0,157.68702410999995,-0.06545286560810779
+209,,ITALY,Italy,67,US,UN,209,Rome,Rome,148.0,,S1,,italy-rome,,,548.0,340.0,0.3795620437956204
+210,,JAMAICA,Jamaica,68,US,Canada,210,Kingston,Kingston,101.0,,S1,,jamaica-kingston,,,312.0,95.55680850134334,0.053892985135214455
+211,,JAMAICA,JAMAICA,68,US,UK,211,Kingston,Kingston,101.0,,S1,,jamaica-kingston,,,312.0,331.0,-0.060897435897435896
+212,,JAMAICA,Jamaica,68,US,UN,212,Kingston,Kingston,101.0,,S1,,jamaica-kingston,,,312.0,294.0,0.057692307692307696
+213,,JORDAN,Jordan,69,US,Canada,213,Amman,Amman,141.0,,S1,,jordan-amman,,,390.0,140.33547942866278,0.004712911853455465
+214,,JORDAN,JORDAN,69,US,UK,214,Amman,Amman,141.0,,S1,,jordan-amman,,,390.0,305.1692696727188,0.2175146931468748
+215,,JORDAN,Jordan,69,US,UN,215,Amman,Amman,141.0,,S1,,jordan-amman,,,390.0,233.0,0.4025641025641026
+216,,JORDAN,Jordan,69,US,UN,216,Amman,Amman (Four Seasons),141.0,,S1,,jordan-amman,,,390.0,407.0,-0.04358974358974359
+217,,JORDAN,Jordan,69,US,UN,217,Amman,Amman (Sheraton),141.0,,S1,,jordan-amman,,,390.0,359.0,0.07948717948717948
+218,,KAZAKHSTAN,Kazakhstan,70,US,Canada,218,Astana,Astana,133.0,,S1,,kazakhstan-astana,,,373.0,91.0,0.3157894736842105
+219,,KAZAKHSTAN,KAZAKHSTAN,70,US,UK,219,Astana,Astana,133.0,,S1,,kazakhstan-astana,,,373.0,394.0,-0.05630026809651475
+220,,KAZAKHSTAN,Kazakhstan,70,US,UN,220,Astana,Astana,133.0,,S1,,kazakhstan-astana,,,373.0,182.0,0.5120643431635389
+221,,KAZAKHSTAN,Kazakhstan,70,US,UN,221,Astana,Astana (Ritz Carlton),133.0,,S1,,kazakhstan-astana,,,373.0,630.0,-0.6890080428954424
+222,,KAZAKHSTAN,Kazakhstan,70,US,UN,222,Astana,Astana (Rixos President and Soluxe),133.0,,S1,,kazakhstan-astana,,,373.0,263.0,0.2949061662198391
+223,,KENYA,Kenya,71,US,Canada,223,Nairobi,Nairobi,120.0,,S1,,kenya-nairobi,,,410.0,106.74836312409201,0.11043030729923325
+224,,KENYA,KENYA,71,US,UK,224,Nairobi,Nairobi,120.0,,S1,,kenya-nairobi,,,410.0,162.33806555893466,0.6040534986367447
+225,,KENYA,Kenya,71,US,UN,225,Nairobi,Nairobi,120.0,,S1,,kenya-nairobi,,,410.0,282.0,0.3121951219512195
+226,,KENYA,Kenya,71,US,UN,226,Nairobi,Nairobi (Nairobi Serena),120.0,,S1,,kenya-nairobi,,,410.0,400.0,0.024390243902439025
+227,,KOSOVO,Kosovo,73,US,Canada,227,Pristina,Pristina,71.0,,S1,,kosovo-pristina,,,179.0,62.98381617,0.11290399760563384
+228,,KOSOVO,KOSOVO,73,US,UK,228,Pristina,Pristina,71.0,,S1,,kosovo-pristina,,,179.0,146.40616649999996,0.1820884553072628
+229,,KUWAIT,Kuwait,74,US,Canada,229,Kuwait City,Kuwait City,105.0,,S1,,kuwait-kuwait-city,,,432.0,154.71492757283866,-0.47347550069370153
+230,,KUWAIT,Kuwait,74,US,UN,230,Kuwait City,Kuwait City,105.0,,S1,,kuwait-kuwait-city,,,432.0,417.0,0.034722222222222224
+231,,KUWAIT,Kuwait,74,US,UN,231,Kuwait City,Kuwait City (Sheraton Four Points),105.0,,S1,,kuwait-kuwait-city,,,432.0,550.0,-0.27314814814814814
+232,,KYRGYZSTAN,KYRGYZSTAN,75,US,UK,232,Bishkek,Bishkek,87.0,,S1,,kyrgyzstan-bishkek,,,311.0,244.0,0.21543408360128619
+233,,KYRGYZSTAN,Kyrgyzstan,75,US,UN,233,Bishkek,Bishkek,87.0,,S1,,kyrgyzstan-bishkek,,,311.0,196.0,0.36977491961414793
+234,,KYRGYZSTAN,Kyrgyzstan,75,US,UN,234,Bishkek,Bishkek (Hyatt Regency),87.0,,S1,,kyrgyzstan-bishkek,,,311.0,302.0,0.028938906752411574
+235,,LAOS,Laos,76,US,Canada,235,Vientiane,Vientiane,92.0,,S1,,laos-vientiane,,,212.0,97.55,-0.06032608695652171
+236,,LAOS,LAOS,76,US,UK,236,Vientiane,Vientiane,92.0,,S1,,laos-vientiane,,,212.0,230.95670412518052,-0.08941841568481379
+237,,LATVIA,Latvia,77,US,Canada,237,Riga,Riga,113.0,,S1,,latvia-riga,,,293.0,125.58265995,-0.1113509730088495
+238,,LATVIA,LATVIA,77,US,UK,238,Riga,Riga,113.0,,S1,,latvia-riga,,,293.0,204.152025,0.30323540955631395
+239,,LATVIA,Latvia,77,US,UN,239,Riga,Riga,113.0,,S1,,latvia-riga,,,293.0,206.0,0.29692832764505117
+240,,LEBANON,Lebanon,78,US,Canada,240,Beirut,Beirut,75.0,,S1,,lebanon-beirut,,,210.0,124.48,-0.6597333333333334
+241,,LEBANON,Lebanon,78,US,UN,241,Beirut,Beirut (Le Royal),75.0,,S1,,lebanon-beirut,,,210.0,460.0,-1.1904761904761905
+242,,LEBANON,Lebanon,78,US,UN,242,Beirut,Beirut (Movenpick) 1 January - 14 June,75.0,,S1,,lebanon-beirut,,,210.0,314.0,-0.49523809523809526
+243,,LEBANON,Lebanon,78,US,UN,243,Beirut,Beirut (Movenpick) 15 June - 31 December,75.0,,S1,,lebanon-beirut,,,210.0,377.0,-0.7952380952380952
+244,,LESOTHO,Lesotho,79,US,Canada,244,Maseru,Maseru,74.0,,S1,,lesotho-maseru,,,215.0,82.5626042077102,-0.11571086767175938
+245,,LESOTHO,Lesotho,79,US,UN,245,Maseru,Maseru,74.0,,S1,,lesotho-maseru,,,215.0,107.0,0.5023255813953489
+246,,LESOTHO,Lesotho,79,US,UN,246,Maseru,Maseru (Avani Lesotho Hotel & Casino),74.0,,S1,,lesotho-maseru,,,215.0,322.0,-0.49767441860465117
+247,,LESOTHO,Lesotho,79,US,UN,247,Maseru,Maseru (Avani Maseru Sun),74.0,,S1,,lesotho-maseru,,,215.0,210.0,0.023255813953488372
+248,,LESOTHO,Lesotho,79,US,UN,248,Maseru,Maseru (Mpilo Boutique Hotel),74.0,,S1,,lesotho-maseru,,,215.0,261.0,-0.21395348837209302
+249,,LIBERIA,Liberia,80,US,Canada,249,Monrovia,Monrovia,95.0,,S1,,liberia-monrovia,,,295.0,87.36,0.08042105263157895
+250,,LIBERIA,Liberia,80,US,UN,250,Monrovia,Monrovia,95.0,,S1,,liberia-monrovia,,,295.0,303.0,-0.02711864406779661
+251,,LIBYA,Libya,81,US,Canada,251,Tripoli,Tripoli,21.0,,S1,,libya-tripoli,,,21.0,142.09983864503926,-5.766658983097107
+252,,LIBYA,Libya,81,US,UN,252,Tripoli,Tripoli,21.0,,S1,,libya-tripoli,,,21.0,216.0,-9.285714285714286
+253,,LIBYA,Libya,81,US,UN,253,Tripoli,"Tripoli (Albustan, Corinthia, Radisson Blu)",21.0,,S1,,libya-tripoli,,,21.0,335.0,-14.952380952380953
+254,,LITHUANIA,Lithuania,82,US,Canada,254,Vilnius,Vilnius,130.0,,S1,,lithuania-vilnius,,,330.0,119.87806908,0.07786100707692305
+255,,LITHUANIA,Lithuania,82,US,UN,255,Vilnius,Vilnius,130.0,,S1,,lithuania-vilnius,,,330.0,239.0,0.27575757575757576
+256,,MACEDONIA,MACEDONIA,83,US,UK,256,Skopje,Skopje,73.0,,S1,,macedonia-skopje,,,233.0,194.5438529868291,0.16504784125824418
+257,,MADAGASCAR,Madagascar,84,US,Canada,257,Antananarivo,Antananarivo,79.0,,S1,,madagascar-antananarivo,,,237.0,61.920811908870476,0.21619225431809524
+258,,MADAGASCAR,MADAGASCAR,84,US,UK,258,Antananarivo,Antananarivo,79.0,,S1,,madagascar-antananarivo,,,237.0,211.42224606850777,0.1079230123691655
+259,,MADAGASCAR,Madagascar,84,US,UN,259,Antananarivo,Antananarivo,79.0,,S1,,madagascar-antananarivo,,,237.0,200.0,0.15611814345991562
+260,,MADAGASCAR,Madagascar,84,US,UN,260,Antananarivo,Antananarivo (Carlton),79.0,,S1,,madagascar-antananarivo,,,237.0,469.0,-0.9789029535864979
+261,,MALAWI,Malawi,85,US,Canada,261,Lilongwe,Lilongwe,86.0,,S1,,malawi-lilongwe,,,236.0,92.14378956335597,-0.07143941352739495
+262,,MALAWI,MALAWI,85,US,UK,262,Lilongwe,Lilongwe,86.0,,S1,,malawi-lilongwe,,,236.0,138.40382395855664,0.41354311881967526
+263,,MALAWI,Malawi,85,US,UN,263,Lilongwe,Lilongwe,86.0,,S1,,malawi-lilongwe,,,236.0,186.0,0.211864406779661
+264,,MALAYSIA,Malaysia,86,US,Canada,264,Kuala Lumpur,Kuala Lumpur,83.0,,S1,,malaysia-kuala-lumpur,,,269.0,91.1733399403002,-0.0984739751843397
+265,,MALAYSIA,MALAYSIA,86,US,UK,265,Kuala Lumpur,Kuala Lumpur,83.0,,S1,,malaysia-kuala-lumpur,,,269.0,178.02185515094467,0.33820871691098636
+266,,MALAYSIA,Malaysia,86,US,UN,266,Kuala Lumpur,Kuala Lumpur,83.0,,S1,,malaysia-kuala-lumpur,,,269.0,225.0,0.16356877323420074
+267,,MALI,Mali,87,US,Canada,267,Bamako,Bamako,112.0,,S1,,mali-bamako,,,255.0,89.82704452792251,0.1979728167149776
+268,,MALI,MALI,87,US,UK,268,Bamako,Bamako,112.0,,S1,,mali-bamako,,,255.0,196.39369416503936,0.22982865033317898
+269,,MALI,Mali,87,US,UN,269,Bamako,Bamako,112.0,,S1,,mali-bamako,,,255.0,249.0,0.023529411764705882
+270,,MALI,Mali,87,US,UN,270,Bamako,Bamako (Radisson Bamako),112.0,,S1,,mali-bamako,,,255.0,286.0,-0.12156862745098039
+271,,MARSHALL ISLANDS,Marshall Islands,88,US,Canada,271,Majuro,Majuro,76.0,,S1,,marshall-islands-majuro,,,215.0,106.0,-0.39473684210526316
+272,,MARSHALL ISLANDS,Marshall Islands,88,US,UN,272,Majuro,Majuro,76.0,,S1,,marshall-islands-majuro,,,215.0,221.0,-0.027906976744186046
+273,,MAURITANIA,Mauritania,89,US,Canada,273,Nouakchott,Nouakchott,73.0,,S1,,mauritania-nouakchott,,,189.0,70.9965221481202,0.027444902080545116
+274,,MAURITANIA,MAURITANIA,89,US,UK,274,Nouakchott,Nouakchott,73.0,,S1,,mauritania-nouakchott,,,189.0,230.4001425,-0.21904837301587296
+275,,MAURITANIA,Mauritania,89,US,UN,275,Nouakchott,Nouakchott,73.0,,S1,,mauritania-nouakchott,,,189.0,189.0,0.0
+276,,MAURITANIA,Mauritania,89,US,UN,276,Nouakchott,"Nouakchott (Mauricenter, Monotel, Tfeila)",73.0,,S1,,mauritania-nouakchott,,,189.0,244.0,-0.291005291005291
+277,,MOLDOVA,Moldova,90,US,Canada,277,Chisinau,Chisinau,73.0,,S1,,moldova-chisinau,,,234.0,71.06823636,0.026462515616438354
+278,,MOLDOVA,MOLDOVA,90,US,UK,278,Chisinau,Chisinau,73.0,,S1,,moldova-chisinau,,,234.0,221.2270468347794,0.05458526993684017
+279,,MOLDOVA,Moldova,90,US,UN,279,Chisinau,Chisinau,73.0,,S1,,moldova-chisinau,,,234.0,120.0,0.48717948717948717
+280,,MOLDOVA,Moldova,90,US,UN,280,Chisinau,Chisinau (Radisson Blu Leogrand),73.0,,S1,,moldova-chisinau,,,234.0,205.0,0.12393162393162394
+281,,MONGOLIA,Mongolia,91,US,Canada,281,Ulaanbaatar,Ulaanbaatar,100.0,,S1,,mongolia-ulaanbaatar,,,285.0,55.93,0.4407
+282,,MONGOLIA,MONGOLIA,91,US,UK,282,Ulaanbaatar,Ulaanbaatar,100.0,,S1,,mongolia-ulaanbaatar,,,285.0,148.8479647942819,0.47772643931830916
+283,,MONGOLIA,Mongolia,91,US,UN,283,Ulaanbaatar,Ulaanbaatar,100.0,,S1,,mongolia-ulaanbaatar,,,285.0,242.0,0.15087719298245614
+284,,MONTENEGRO,Montenegro,92,US,Canada,284,Podgorica,Podgorica,88.0,,S1,,montenegro-podgorica,,,299.0,88.3103331,-0.0035265124999999324
+285,,MONTENEGRO,MONTENEGRO,92,US,UK,285,Podgorica,Podgorica,88.0,,S1,,montenegro-podgorica,,,299.0,195.985944,0.34452861538461543
+286,,MONTENEGRO,Montenegro ,92,US,UN,286,Podgorica,Podgorica,88.0,,S1,,montenegro-podgorica,,,299.0,164.0,0.451505016722408
+287,,MOROCCO,Morocco,93,US,Canada,287,Rabat,Rabat,114.0,,S1,,morocco-rabat,,,274.0,87.61517568996706,0.2314458272809907
+288,,MOROCCO,MOROCCO,93,US,UK,288,Rabat,Rabat,114.0,,S1,,morocco-rabat,,,274.0,228.4147437420017,0.16636954838685514
+289,,MOROCCO,Morocco,93,US,UN,289,Rabat,Rabat,114.0,,S1,,morocco-rabat,,,274.0,235.0,0.14233576642335766
+290,,MOROCCO,Morocco,93,US,UN,290,Rabat,Rabat (Sofitel Jardin des Roses),114.0,,S1,,morocco-rabat,,,274.0,392.0,-0.4306569343065693
+291,,MOROCCO,Morocco,93,US,UN,291,Rabat,"Rabat (Tour Hassan, View, Villa Mandarine)",114.0,,S1,,morocco-rabat,,,274.0,306.0,-0.11678832116788321
+292,,MOZAMBIQUE,Mozambique,94,US,Canada,292,Maputo,Maputo,110.0,,S1,,mozambique-maputo,,,330.0,99.67072982859962,0.09390245610363983
+293,,MOZAMBIQUE,MOZAMBIQUE,94,US,UK,293,Maputo,Maputo,110.0,,S1,,mozambique-maputo,,,330.0,244.11807968767067,0.2602482433706949
+294,,MOZAMBIQUE,Mozambique,94,US,UN,294,Maputo,Maputo,110.0,,S1,,mozambique-maputo,,,330.0,290.0,0.12121212121212122
+295,,NAMIBIA,Namibia,95,US,Canada,295,Windhoek,Windhoek,92.0,,S1,,namibia-windhoek,,,242.0,76.12755593028201,0.1725265659751955
+296,,NAMIBIA,NAMIBIA,95,US,UK,296,Windhoek,Windhoek,92.0,,S1,,namibia-windhoek,,,242.0,119.01340849068363,0.5082090558236214
+297,,NAMIBIA,Namibia,95,US,UN,297,Windhoek,Windhoek,92.0,,S1,,namibia-windhoek,,,242.0,215.0,0.1115702479338843
+298,,NAMIBIA,Namibia,95,US,UN,298,Windhoek,Windhoek (Avani Windhoek),92.0,,S1,,namibia-windhoek,,,242.0,530.0,-1.1900826446280992
+299,,NEPAL,Nepal,96,US,Canada,299,Kathmandu,Kathmandu,91.0,,S1,,nepal-kathmandu,,,257.0,102.36606692295965,-0.12490183431823787
+300,,NEPAL,NEPAL,96,US,UK,300,Kathmandu,Kathmandu,91.0,,S1,,nepal-kathmandu,,,257.0,175.31507826597004,0.31784016238922164
+301,,NEPAL,Nepal,96,US,UN,301,Kathmandu,Kathmandu,91.0,,S1,,nepal-kathmandu,,,257.0,178.0,0.30739299610894943
+302,,NEPAL,Nepal,96,US,UN,302,Kathmandu,Kathmandu (Dwarika's),91.0,,S1,,nepal-kathmandu,,,257.0,307.0,-0.19455252918287938
+303,,NEPAL,Nepal,96,US,UN,303,Kathmandu,Kathmandu (Hyatt Regency),91.0,,S1,,nepal-kathmandu,,,257.0,236.0,0.08171206225680934
+304,,NEW ZEALAND,New Zealand,97,US,Canada,304,Wellington,Wellington,128.0,,S1,,new-zealand-wellington,,,323.0,158.5581027217461,-0.23873517751364148
+305,,NEW ZEALAND,NEW ZEALAND,97,US,UK,305,Wellington,Wellington,128.0,,S1,,new-zealand-wellington,,,323.0,290.8714313936191,0.09946925265133404
+306,,NICARAGUA,Nicaragua,98,US,Canada,306,Managua,Managua,94.0,,S1,,nicaragua-managua,,,266.0,100.52,-0.06936170212765953
+307,,NICARAGUA,NICARAGUA,98,US,UK,307,Managua,Managua,94.0,,S1,,nicaragua-managua,,,266.0,265.5,0.0018796992481203006
+308,,NICARAGUA,Nicaragua,98,US,UN,308,Managua,Managua,94.0,,S1,,nicaragua-managua,,,266.0,205.0,0.22932330827067668
+309,,NIGER,Niger,99,US,Canada,309,Niamey,Niamey,69.0,,S1,,niger-niamey,,,205.0,100.3949321194428,-0.45499901622380867
+310,,NIGER,Niger,99,US,UN,310,Niamey,Niamey,69.0,,S1,,niger-niamey,,,205.0,200.0,0.024390243902439025
+311,,NIGER,Niger,99,US,UN,311,Niamey,Niamey (Hotel Gaweye),69.0,,S1,,niger-niamey,,,205.0,275.0,-0.34146341463414637
+312,,NIGER,Niger,99,US,UN,312,Niamey,Niamey (Soluxe),69.0,,S1,,niger-niamey,,,205.0,318.0,-0.551219512195122
+313,,NIGERIA,Nigeria,100,US,Canada,313,Abuja,Abuja,147.0,,S1,,nigeria-abuja,,,571.0,77.87253041727782,0.47025489512055907
+314,,NIGERIA,NIGERIA,100,US,UK,314,Abuja,Abuja,147.0,,S1,,nigeria-abuja,,,571.0,299.1309189141365,0.47612798789117955
+315,,NIGERIA,Nigeria,100,US,UN,315,Abuja,Abuja,147.0,,S1,,nigeria-abuja,,,571.0,122.0,0.7863397548161121
+316,,NIGERIA,Nigeria,100,US,UN,316,Abuja,Abuja (Protea),147.0,,S1,,nigeria-abuja,,,571.0,212.0,0.6287215411558669
+317,,NIGERIA,Nigeria,100,US,UN,317,Abuja,Abuja (Sheraton),147.0,,S1,,nigeria-abuja,,,571.0,182.0,0.681260945709282
+318,,NIGERIA,Nigeria,100,US,UN,318,Abuja,Abuja (Transcorp Hilton),147.0,,S1,,nigeria-abuja,,,571.0,330.0,0.4220665499124343
+319,,NORWAY,Norway,101,US,Canada,319,Oslo,Oslo,129.0,,S1,,norway-oslo,,,292.0,184.64685461098907,-0.4313709659766594
+320,,NORWAY,NORWAY,101,US,UK,320,Oslo,Oslo,129.0,,S1,,norway-oslo,,,292.0,249.5046003084096,0.14553219072462464
+321,,OMAN,Oman,102,US,Canada,321,Muscat,Muscat,155.0,,S1,,oman-muscat,,,416.0,152.20833172488648,0.018010763065248535
+322,,OMAN,OMAN,102,US,UK,322,Muscat,Muscat,155.0,,S1,,oman-muscat,,,416.0,435.51239432727175,-0.04690479405594171
+323,,OMAN,Oman,102,US,UN,323,Muscat,Muscat,155.0,,S1,,oman-muscat,,,416.0,278.0,0.3317307692307692
+324,,PAKISTAN,Pakistan,103,US,Canada,324,Islamabad,Islamabad,55.0,,S1,,pakistan-islamabad,,,125.0,69.47366779629826,-0.26315759629633195
+325,,PAKISTAN,Pakistan,103,US,UN,325,Islamabad,Islamabad (Marriott),55.0,,S1,,pakistan-islamabad,,,125.0,249.0,-0.992
+326,,PAKISTAN,Pakistan,103,US,UN,326,Islamabad,Islamabad (Serena),55.0,,S1,,pakistan-islamabad,,,125.0,358.0,-1.864
+327,,PANAMA,Panama,104,US,Canada,327,Panama City,Panama City,99.0,,S1,,panama-panama-city,,,272.0,136.88,-0.3826262626262626
+328,,PANAMA,PANAMA,104,US,UK,328,Panama City,Panama City,99.0,,S1,,panama-panama-city,,,272.0,238.0,0.125
+329,,PANAMA,Panama,104,US,UN,329,Panama City,Panama City,99.0,,S1,,panama-panama-city,,,272.0,263.0,0.03308823529411765
+330,,PAPUA NEW GUINEA,Papua New Guinea,105,US,Canada,330,Port Moresby,Port Moresby,93.0,,S1,,papua-new-guinea-port-moresby,,,388.0,142.3630937450239,-0.5307859542475687
+331,,PAPUA NEW GUINEA,PAPUA NEW GUINEA,105,US,UK,331,Port Moresby,Port Moresby,93.0,,S1,,papua-new-guinea-port-moresby,,,388.0,294.9857648957434,0.23972741006251705
+332,,PAPUA NEW GUINEA,Papua New Guinea,105,US,UN,332,Port Moresby,Port Moresby,93.0,,S1,,papua-new-guinea-port-moresby,,,388.0,352.0,0.09278350515463918
+333,,PARAGUAY,Paraguay,106,US,Canada,333,Asuncion,Asunción,104.0,,S1,,paraguay-asuncion,,,271.0,57.668693026681005,0.4454933362819134
+334,,PARAGUAY,Paraguay,106,US,UN,334,Asuncion,Asuncion,104.0,,S1,,paraguay-asuncion,,,271.0,217.0,0.1992619926199262
+335,,PERU,Peru,107,US,Canada,335,Lima,Lima,147.0,,S1,,peru-lima,,,796.0,142.58677996013932,0.03002190503306582
+336,,PERU,PERU,107,US,UK,336,Lima,Lima,147.0,,S1,,peru-lima,,,796.0,279.41111609791716,0.6489810099272398
+337,,PERU,Peru,107,US,UN,337,Lima,Lima,147.0,,S1,,peru-lima,,,796.0,240.0,0.6984924623115578
+338,,PERU,Peru,108,US,Canada,338,Lima,Lima,108.0,,S2,,peru-lima,,,358.0,142.58677996013932,-0.3202479625938826
+339,,PERU,PERU,108,US,UK,339,Lima,Lima,108.0,,S2,,peru-lima,,,358.0,279.41111609791716,0.2195220220728571
+340,,PERU,Peru,108,US,UN,340,Lima,Lima,108.0,,S2,,peru-lima,,,358.0,240.0,0.329608938547486
+341,,PHILIPPINES,Philippines,109,US,Canada,341,Manila,Manila,110.0,,S1,,philippines-manila,,,289.0,106.75173028495949,0.02952972468218643
+342,,PHILIPPINES,PHILIPPINES,109,US,UK,342,Manila,Manila,110.0,,S1,,philippines-manila,,,289.0,222.29941907235784,0.23079785788111476
+343,,POLAND,Poland,110,US,Canada,343,Warsaw,Warsaw,90.0,,S1,,poland-warsaw,,,278.0,113.93171107044344,-0.2659079007827049
+344,,POLAND,POLAND,110,US,UK,344,Warsaw,Warsaw,90.0,,S1,,poland-warsaw,,,278.0,240.65807361587048,0.13432347620190477
+345,,POLAND,Poland,110,US,UN,345,Warsaw,Warsaw,90.0,,S1,,poland-warsaw,,,278.0,287.0,-0.03237410071942446
+346,,PORTUGAL,Portugal,111,US,Canada,346,Lisbon,Lisbon,81.0,,S1,,portugal-lisbon,,,242.0,168.15127361999996,-1.075941649629629
+347,,PORTUGAL,PORTUGAL,111,US,UK,347,Lisbon,Lisbon,81.0,,S1,,portugal-lisbon,,,242.0,211.151523,0.12747304545454546
+348,,PORTUGAL,Portugal,111,US,UN,348,Lisbon,Lisbon,81.0,,S1,,portugal-lisbon,,,242.0,396.0,-0.6363636363636364
+349,,QATAR,Qatar,112,US,Canada,349,Doha,Doha,162.0,,S1,,qatar-doha,,,389.0,210.70362696043037,-0.3006396725952492
+350,,QATAR,QATAR,112,US,UK,350,Doha,Doha,162.0,,S1,,qatar-doha,,,389.0,365.1295053335575,0.06136373950242283
+351,,QATAR,Qatar,112,US,UN,351,Doha,Doha,162.0,,S1,,qatar-doha,,,389.0,340.0,0.12596401028277635
+352,,ROMANIA,Romania,113,US,Canada,352,Bucharest,Bucharest,103.0,,S1,,romania-bucharest,,,284.0,120.34470228,-0.16839516776699037
+353,,ROMANIA,ROMANIA,113,US,UK,353,Bucharest,Bucharest,103.0,,S1,,romania-bucharest,,,284.0,232.35784118529043,0.18183858737573794
+354,,ROMANIA,Romania,113,US,UN,354,Bucharest,Bucharest,103.0,,S1,,romania-bucharest,,,284.0,240.0,0.15492957746478872
+355,,RUSSIA,Russia,114,US,Canada,355,Moscow,Moscow,112.0,,S1,,russia-moscow,,,463.0,152.80721714159057,-0.3643501530499158
+356,,RUSSIA,RUSSIA,114,US,UK,356,Moscow,Moscow,112.0,,S1,,russia-moscow,,,463.0,285.9829515254073,0.3823262386060317
+357,,RWANDA,Rwanda,115,US,Canada,357,Kigali,Kigali,88.0,,S1,,rwanda-kigali,,,291.0,82.20040163296268,0.06590452689815135
+358,,RWANDA,RWANDA,115,US,UK,358,Kigali,Kigali,88.0,,S1,,rwanda-kigali,,,291.0,202.07638429858193,0.3055794354000621
+359,,RWANDA,Rwanda,115,US,UN,359,Kigali,Kigali,88.0,,S1,,rwanda-kigali,,,291.0,185.0,0.3642611683848797
+360,,RWANDA,Rwanda,115,US,UN,360,Kigali,Kigali (Kigali Marriott & Kigali Serena),88.0,,S1,,rwanda-kigali,,,291.0,292.0,-0.003436426116838488
+361,,RWANDA,Rwanda,115,US,UN,361,Kigali,Kigali (Mille Collines),88.0,,S1,,rwanda-kigali,,,291.0,245.0,0.15807560137457044
+362,,RWANDA,Rwanda,115,US,UN,362,Kigali,Kigali (Radisson Blu),88.0,,S1,,rwanda-kigali,,,291.0,271.0,0.06872852233676977
+363,,SAO TOME AND PRINCIPE,Sao Tomé and Principe,116,US,Canada,363,Sao Tome,Sao Tomé,117.0,,S1,,sao-tome-and-principe-sao-tome,,,271.0,117.48,-0.004102564102564136
+364,,SAO TOME AND PRINCIPE,Sao Tome and Principe,116,US,UN,364,Sao Tome,Sao Tome,117.0,,S1,,sao-tome-and-principe-sao-tome,,,271.0,167.0,0.3837638376383764
+365,,SAO TOME AND PRINCIPE,Sao Tome and Principe,116,US,UN,365,Sao Tome,"Sao Tome (Omali Sao Tome, Pestana Sao Tome)",117.0,,S1,,sao-tome-and-principe-sao-tome,,,271.0,242.0,0.1070110701107011
+366,,SAO TOME AND PRINCIPE,Sao Tome and Principe,116,US,UN,366,Sao Tome,Sao Tome (Pestana Equador),117.0,,S1,,sao-tome-and-principe-sao-tome,,,271.0,190.0,0.2988929889298893
+367,,SAUDI ARABIA,Saudi Arabia,117,US,Canada,367,Riyadh,Riyadh,126.0,,S1,,saudi-arabia-riyadh,,,485.0,173.1884042495557,-0.37451114483774367
+368,,SAUDI ARABIA,SAUDI ARABIA,117,US,UK,368,Riyadh,Riyadh,126.0,,S1,,saudi-arabia-riyadh,,,485.0,309.0745265540081,0.36273293494018943
+369,,SAUDI ARABIA,Saudi Arabia,117,US,UN,369,Riyadh,Riyadh,126.0,,S1,,saudi-arabia-riyadh,,,485.0,381.0,0.21443298969072164
+370,,SENEGAL,Senegal,118,US,Canada,370,Dakar,Dakar,117.0,,S1,,senegal-dakar,,,297.0,104.85692910252916,0.10378693074761397
+371,,SENEGAL,SENEGAL,118,US,UK,371,Dakar,Dakar,117.0,,S1,,senegal-dakar,,,297.0,211.12646809523795,0.2891364710598049
+372,,SENEGAL,Senegal,118,US,UN,372,Dakar,Dakar,117.0,,S1,,senegal-dakar,,,297.0,284.0,0.04377104377104377
+373,,SENEGAL,Senegal,118,US,UN,373,Dakar,Dakar (King Fahd Palace),117.0,,S1,,senegal-dakar,,,297.0,389.0,-0.30976430976430974
+374,,SERBIA,Serbia,119,US,Canada,374,Belgrade,Belgrade,89.0,,S1,,serbia-belgrade,,,290.0,67.90679643,0.23700228730337078
+375,,SERBIA,SERBIA,119,US,UK,375,Belgrade,Belgrade,89.0,,S1,,serbia-belgrade,,,290.0,302.35807042883755,-0.04261403596150879
+376,,SERBIA,Serbia,119,US,UN,376,Belgrade,Belgrade,89.0,,S1,,serbia-belgrade,,,290.0,180.0,0.3793103448275862
+377,,SIERRA LEONE,Sierra Leone,120,US,Canada,377,Freetown,Freetown,129.0,,S1,,sierra-leone-freetown,,,319.0,80.88150388838329,0.3730115977644706
+378,,SIERRA LEONE,SIERRA LEONE,120,US,UK,378,Freetown,Freetown,129.0,,S1,,sierra-leone-freetown,,,319.0,192.85909362099517,0.3954260388056578
+379,,SIERRA LEONE,Sierra Leone,120,US,UN,379,Freetown,Freetown,129.0,,S1,,sierra-leone-freetown,,,319.0,268.0,0.15987460815047022
+380,,SIERRA LEONE,Sierra Leone,120,US,UN,380,Freetown,Freetown (Radisson Blu Mammy Yoko House),129.0,,S1,,sierra-leone-freetown,,,319.0,284.0,0.109717868338558
+381,,Slovakia,Slovakia,121,US,Canada,381,Bratislava,Bratislava,112.0,,S1,,slovakia-bratislava,,,298.0,126.95922789,-0.1335645347321428
+382,,Slovakia,SLOVAKIA,121,US,UK,382,Bratislava,Bratislava,112.0,,S1,,slovakia-bratislava,,,298.0,191.319612,0.3579878791946309
+383,,SLOVENIA,Slovenia,122,US,Canada,383,Ljubljana,Ljubljana,106.0,,S1,,slovenia-ljubljana,,,284.0,120.49635807,-0.136758095
+384,,SLOVENIA,SLOVENIA,122,US,UK,384,Ljubljana,Ljubljana,106.0,,S1,,slovenia-ljubljana,,,284.0,249.648762,0.12095506338028167
+385,,SOMALIA,Somalia,123,US,UN,385,Mogadishu,Mogadishu (Bancroft/International Campus- MIA),66.0,,S1,,somalia-mogadishu,,,66.0,191.0,-1.893939393939394
+386,,SOMALIA,Somalia,123,US,UN,386,Mogadishu,Mogadishu (Chelsea Village),66.0,,S1,,somalia-mogadishu,,,66.0,173.0,-1.621212121212121
+387,,SOMALIA,Somalia,123,US,UN,387,Mogadishu,Mogadishu (Nadiif),66.0,,S1,,somalia-mogadishu,,,66.0,150.0,-1.2727272727272727
+388,,SOMALIA,Somalia,123,US,UN,388,Mogadishu,Mogadishu (RA International),66.0,,S1,,somalia-mogadishu,,,66.0,224.0,-2.393939393939394
+389,,SOMALIA,Somalia,123,US,UN,389,Mogadishu,Mogadishu (Thorn Tree),66.0,,S1,,somalia-mogadishu,,,66.0,184.0,-1.7878787878787878
+390,,SOMALIA,Somalia,123,US,UN,390,Mogadishu,Mogadishu (UNICEF Guest House),66.0,,S1,,somalia-mogadishu,,,66.0,185.0,-1.803030303030303
+391,,SOMALIA,Somalia,123,US,UN,391,Mogadishu,Mogadishu (UNSOS Camp - MIA),66.0,,S1,,somalia-mogadishu,,,66.0,144.0,-1.1818181818181819
+392,,SOMALIA,Somalia,123,US,UN,392,Mogadishu,Mogadishu (WFP Guest House),66.0,,S1,,somalia-mogadishu,,,66.0,201.0,-2.0454545454545454
+393,,SOUTH SUDAN,South Sudan,124,US,Canada,393,Juba,Juba,90.0,,S1,,south-sudan-juba,,,272.0,68.19088289901924,0.24232352334423063
+394,,SOUTH SUDAN,SOUTH SUDAN,124,US,UK,394,Juba,Juba,90.0,,S1,,south-sudan-juba,,,272.0,280.7247645568788,-0.03207634028264274
+395,,SPAIN,Spain,125,US,Canada,395,Madrid,Madrid,138.0,,S1,,spain-madrid,,,384.0,167.61464544,-0.21459888000000002
+396,,SPAIN,SPAIN,125,US,UK,396,Madrid,Madrid,138.0,,S1,,spain-madrid,,,384.0,334.8093209999999,0.12810072656250027
+397,,SPAIN,Spain,125,US,UN,397,Madrid,Madrid,138.0,,S1,,spain-madrid,,,384.0,314.0,0.18229166666666666
+398,,SUDAN,Sudan,126,US,Canada,398,Khartoum,Khartoum,123.0,,S1,,sudan-khartoum,,,388.0,173.02152792643238,-0.4066790888327836
+399,,SUDAN,SUDAN,126,US,UK,399,Khartoum,Khartoum,123.0,,S1,,sudan-khartoum,,,388.0,121.19046123836729,0.6876534504165792
+400,,SUDAN,Sudan,126,US,UN,400,Khartoum,Khartoum,123.0,,S1,,sudan-khartoum,,,388.0,165.0,0.5747422680412371
+401,,SURINAME,Suriname,127,US,Canada,401,Paramaribo,Paramaribo,111.0,,S1,,suriname-paramaribo,,,260.0,100.15897883401409,0.09766685735122439
+402,,SURINAME,Suriname,127,US,UN,402,Paramaribo,Paramaribo,111.0,,S1,,suriname-paramaribo,,,260.0,172.0,0.3384615384615385
+403,,SWEDEN,Sweden,128,US,Canada,403,Stockholm,Stockholm,171.0,,S1,,sweden-stockholm,,,403.0,202.64882808869325,-0.18508086601575
+404,,SWEDEN,SWEDEN,128,US,UK,404,Stockholm,Stockholm,171.0,,S1,,sweden-stockholm,,,403.0,323.69881574941104,0.19677713213545647
+405,,SWEDEN,Sweden,128,US,UN,405,Stockholm,Stockholm,171.0,,S1,,sweden-stockholm,,,403.0,424.0,-0.052109181141439205
+406,,SWITZERLAND,Switzerland,129,US,Canada,406,Bern,Bern,164.0,,S1,,switzerland-bern,,,461.0,186.71230890364427,-0.1384896884368553
+407,,SYRIA,Syria,130,US,Canada,407,Damascus,Damascus,108.0,,S1,,syria-damascus,,,344.0,0.03398189453629638,0.9996853528283677
+408,,TAJIKISTAN,Tajikistan,131,US,Canada,408,Dushanbe,Dushanbe,83.0,,S1,,tajikistan-dushanbe,,,325.0,79.93,0.03698795180722883
+409,,TAJIKISTAN,TAJIKISTAN,131,US,UK,409,Dushanbe,Dushanbe,83.0,,S1,,tajikistan-dushanbe,,,325.0,387.2124607468719,-0.19142295614422122
+410,,TAJIKISTAN,Tajikistan,131,US,UN,410,Dushanbe,Dushanbe,83.0,,S1,,tajikistan-dushanbe,,,325.0,170.0,0.47692307692307695
+411,,THAILAND,Thailand,132,US,Canada,411,Bangkok,Bangkok,95.0,,S1,,thailand-bangkok,,,241.0,125.15529829568537,-0.3174241925861618
+412,,THAILAND,THAILAND,132,US,UK,412,Bangkok,Bangkok,95.0,,S1,,thailand-bangkok,,,241.0,262.5671663325385,-0.0894903167325248
+413,,THAILAND,Thailand,132,US,UN,413,Bangkok,Bangkok,95.0,,S1,,thailand-bangkok,,,241.0,228.0,0.05394190871369295
+414,,TIMOR-LESTE,Timor-Leste,133,US,UN,414,Dili,Dili,76.0,,S1,,timor-leste-dili,,,205.0,160.0,0.21951219512195122
+415,,TIMOR-LESTE,Timor-Leste,133,US,UN,415,Dili,"Dili (Novo Turismo, Timor Plaza)",76.0,,S1,,timor-leste-dili,,,205.0,227.0,-0.1073170731707317
+416,,TOGO,Togo,134,US,Canada,416,Lome,Lomé,154.0,,S1,,togo-lome,,,394.0,95.11098832368263,0.38239617971634654
+417,,TOGO,Togo,134,US,UN,417,Lome,Lome,154.0,,S1,,togo-lome,,,394.0,198.0,0.49746192893401014
+418,,TOGO,Togo,134,US,UN,418,Lome,Lome (Mercure Sarakawa),154.0,,S1,,togo-lome,,,394.0,344.0,0.12690355329949238
+419,,TOGO,Togo,134,US,UN,419,Lome,"Lome (Palm Beach, Sancta Maria)",154.0,,S1,,togo-lome,,,394.0,288.0,0.26903553299492383
+420,,TRINIDAD AND TOBAGO,Trinidad and Tobago,135,US,Canada,420,Port of Spain,Port of Spain,146.0,,S1,,trinidad-and-tobago-port-of-spain,,,382.0,150.5459744677013,-0.031136811422611734
+421,,TRINIDAD AND TOBAGO,TRINIDAD AND TOBAGO,135,US,UK,421,Port of Spain,Port of Spain,146.0,,S1,,trinidad-and-tobago-port-of-spain,,,382.0,472.37583082002,-0.23658594455502613
+422,,TUNISIA,Tunisia,136,US,Canada,422,Tunis,Tunis,101.0,,S1,,tunisia-tunis,,,207.0,78.64582961631719,0.2213284196404239
+423,,TUNISIA,TUNISIA,136,US,UK,423,Tunis,Tunis,101.0,,S1,,tunisia-tunis,,,207.0,118.81771617066296,0.42600137115621756
+424,,TUNISIA,Tunisia,136,US,UN,424,Tunis,Tunis,101.0,,S1,,tunisia-tunis,,,207.0,142.0,0.3140096618357488
+425,,TURKEY,Turkey,137,US,Canada,425,Ankara,Ankara,87.0,,S1,,turkey-ankara,,,356.0,94.85486373,-0.09028579000000006
+426,,TURKEY,TURKEY,137,US,UK,426,Ankara,Ankara,87.0,,S1,,turkey-ankara,,,356.0,238.16081126991008,0.33100895710699413
+427,,TURKEY,Turkey,137,US,UN,427,Ankara,Ankara,87.0,,S1,,turkey-ankara,,,356.0,171.0,0.5196629213483146
+428,,TURKMENISTAN,Turkmenistan,138,US,Canada,428,Ashgabat,Ashgabat,93.0,,S1,,turkmenistan-ashgabat,,,282.0,58.42939997978007,0.3717268819378487
+429,,TURKMENISTAN,TURKMENISTAN,138,US,UK,429,Ashgabat,Ashgabat,93.0,,S1,,turkmenistan-ashgabat,,,282.0,114.55881504635332,0.5937630672115131
+430,,TURKMENISTAN,Turkmenistan,138,US,UN,430,Ashgabat,Ashgabat,93.0,,S1,,turkmenistan-ashgabat,,,282.0,249.0,0.11702127659574468
+431,,TURKMENISTAN,Turkmenistan,138,US,UN,431,Ashgabat,Ashgabat (Resident),93.0,,S1,,turkmenistan-ashgabat,,,282.0,180.0,0.3617021276595745
+432,,UGANDA,Uganda,139,US,Canada,432,Kampala,Kampala,90.0,,S1,,uganda-kampala,,,340.0,68.79955160320816,0.23556053774213156
+433,,UGANDA,UGANDA,139,US,UK,433,Kampala,Kampala,90.0,,S1,,uganda-kampala,,,340.0,172.0,0.49411764705882355
+434,,UGANDA,Uganda,139,US,UN,434,Kampala,Kampala,90.0,,S1,,uganda-kampala,,,340.0,216.0,0.36470588235294116
+435,,UGANDA,Uganda,139,US,UN,435,Kampala,Kampala (Kampala Serena),90.0,,S1,,uganda-kampala,,,340.0,530.0,-0.5588235294117647
+436,,UGANDA,Uganda,139,US,UN,436,Kampala,Kampala (Sheraton),90.0,,S1,,uganda-kampala,,,340.0,291.0,0.14411764705882352
+437,,UKRAINE,Ukraine,140,US,Canada,437,Kyiv,Kyiv,131.0,,S1,,ukraine-kyiv,,,374.0,97.0899098786808,0.2588556497810626
+438,,UKRAINE,UKRAINE,140,US,UK,438,Kyiv,Kyiv,131.0,,S1,,ukraine-kyiv,,,374.0,276.72392566940044,0.26009645542941057
+439,,UKRAINE,Ukraine,140,US,UN,439,Kyiv,Kyiv,131.0,,S1,,ukraine-kyiv,,,374.0,192.0,0.48663101604278075
+440,,UKRAINE,Ukraine,140,US,UN,440,Kyiv,Kyiv (Hyatt Regency),131.0,,S1,,ukraine-kyiv,,,374.0,330.0,0.11764705882352941
+441,,UKRAINE,Ukraine,140,US,UN,441,Kyiv,"Kyiv (Intercontinental, Premier Palace)",131.0,,S1,,ukraine-kyiv,,,374.0,307.0,0.17914438502673796
+442,,UKRAINE,Ukraine,140,US,UN,442,Kyiv,Kyiv (Radisson Blu),131.0,,S1,,ukraine-kyiv,,,374.0,279.0,0.2540106951871658
+443,,UNITED ARAB EMIRATES,United Arab Emirates,141,US,Canada,443,Abu Dhabi,Abu Dhabi,198.0,,S1,,united-arab-emirates-abu-dhabi,,,538.0,192.6427621702806,0.02705675671575452
+444,,UNITED ARAB EMIRATES,UNITED ARAB EMIRATES,141,US,UK,444,Abu Dhabi,Abu Dhabi,198.0,,S1,,united-arab-emirates-abu-dhabi,,,538.0,284.93986122116513,0.47037200516512057
+445,,UNITED ARAB EMIRATES,United Arab Emirates,141,US,UN,445,Abu Dhabi,Abu Dhabi,198.0,,S1,,united-arab-emirates-abu-dhabi,,,538.0,370.0,0.31226765799256506
+446,,UNITED KINGDOM,United Kingdom,142,US,UN,446,London,London,198.0,,S1,,united-kingdom-london,,,522.0,413.0,0.20881226053639848
+447,,URUGUAY,Uruguay,143,US,Canada,447,Montevideo,Montevideo,92.0,,S1,,uruguay-montevideo,,,252.0,150.53575609969195,-0.6362582184749125
+448,,URUGUAY,URUGUAY,143,US,UK,448,Montevideo,Montevideo,92.0,,S1,,uruguay-montevideo,,,252.0,264.0,-0.047619047619047616
+449,,URUGUAY,Uruguay,143,US,UN,449,Montevideo,Montevideo,92.0,,S1,,uruguay-montevideo,,,252.0,216.0,0.14285714285714285
+450,,UZBEKISTAN,Uzbekistan,144,US,Canada,450,Tashkent,Tashkent,99.0,,S1,,uzbekistan-tashkent,,,279.0,100.85,-0.01868686868686863
+451,,UZBEKISTAN,UZBEKISTAN,144,US,UK,451,Tashkent,Tashkent,99.0,,S1,,uzbekistan-tashkent,,,279.0,180.0,0.3548387096774194
+452,,UZBEKISTAN,Uzbekistan,144,US,UN,452,Tashkent,Tashkent,99.0,,S1,,uzbekistan-tashkent,,,279.0,212.0,0.24014336917562723
+453,,UZBEKISTAN,Uzbekistan,144,US,UN,453,Tashkent,Tashkent (Residents),99.0,,S1,,uzbekistan-tashkent,,,279.0,175.0,0.3727598566308244
+454,,VANUATU,Vanuatu,145,US,Canada,454,Port Vila,Port Vila,119.0,,S1,,vanuatu-port-vila,,,295.0,141.7590078853004,-0.19125216710336476
+455,,VANUATU,VANUATU,145,US,UK,455,Port Vila,Port Vila,119.0,,S1,,vanuatu-port-vila,,,295.0,283.0637678222382,0.040461803992412816
+456,,VANUATU,Vanuatu,145,US,UN,456,Port Vila,Port Vila,119.0,,S1,,vanuatu-port-vila,,,295.0,367.0,-0.2440677966101695
+457,,VENEZUELA,Venezuela,146,US,Canada,457,Caracas,Caracas,261.0,,S1,,venezuela-caracas,,,575.0,86.94704353334353,0.6668695650063466
+458,,VENEZUELA,VENEZUELA,146,US,UK,458,Caracas,Caracas,261.0,,S1,,venezuela-caracas,,,575.0,0.06032579840791465,0.9998950855679862
+459,,VENEZUELA,Venezuela,146,US,UN,459,Caracas,Caracas,261.0,,S1,,venezuela-caracas,,,575.0,146.0,0.7460869565217392
+460,,VIETNAM,Vietnam,147,US,Canada,460,Hanoi,Hanoi,98.0,,S1,,vietnam-hanoi,,,278.0,120.96860163824194,-0.23437348610450953
+461,,VIETNAM,VIETNAM,147,US,UK,461,Hanoi,Hanoi,98.0,,S1,,vietnam-hanoi,,,278.0,240.0,0.1366906474820144
+462,,VIETNAM,Vietnam,147,US,UN,462,Hanoi,Hanoi,98.0,,S1,,vietnam-hanoi,,,278.0,168.0,0.39568345323741005
+463,,ZAMBIA,Zambia,149,US,Canada,463,Lusaka,Lusaka,95.0,,S1,,zambia-lusaka,,,285.0,99.66,-0.049052631578947334
+464,,ZAMBIA,ZAMBIA,149,US,UK,464,Lusaka,Lusaka,95.0,,S1,,zambia-lusaka,,,285.0,127.89786913307456,0.5512355469014928
+465,,ZAMBIA,Zambia,149,US,UN,465,Lusaka,Lusaka,95.0,,S1,,zambia-lusaka,,,285.0,246.0,0.1368421052631579
+466,,ZAMBIA,Zambia,149,US,UN,466,Lusaka,Lusaka (Intercontinental Hotel),95.0,,S1,,zambia-lusaka,,,285.0,313.0,-0.09824561403508772
+467,,ZAMBIA,Zambia,149,US,UN,467,Lusaka,"Lusaka (Protea Arcade, Southern Sun Ridgeway, Taj Pamodzi)",95.0,,S1,,zambia-lusaka,,,285.0,343.0,-0.20350877192982456
+468,,ZIMBABWE,Zimbabwe,150,US,Canada,468,Harare,Harare,112.0,,S1,,zimbabwe-harare,,,304.0,109.23,0.02473214285714282
+469,,ZIMBABWE,ZIMBABWE,150,US,UK,469,Harare,Harare,112.0,,S1,,zimbabwe-harare,,,304.0,279.5,0.0805921052631579
+470,,ZIMBABWE,Zimbabwe,150,US,UN,470,Harare,Harare,112.0,,S1,,zimbabwe-harare,,,304.0,188.0,0.3815789473684211
+471,AFGHANISTAN,,,0,US,EU,0,Kabul,,33.0,,S1,,afghanistan,afghanistan-kabul,afghanistan,33.0,250.815345,-6.600465
+472,ALBANIA,,,1,US,EU,1,Tirana,,95.0,,S1,,albania,albania-tirana,albania,285.0,209.98494,0.2632107368421053
+473,ALGERIA,,,2,US,EU,2,Algiers,,75.0,,S1,,algeria,algeria-algiers,algeria,255.0,387.305556,-0.5188453176470589
+474,ANGOLA,,,3,US,EU,3,Luanda,,170.0,,S1,,angola,angola-luanda,angola,575.0,440.96837400000004,0.23309847999999994
+475,ARGENTINA,,,4,US,EU,4,Buenos Aires,,129.0,,S1,,argentina,argentina-buenos-aires,argentina,396.0,283.479669,0.28414225
+476,ARMENIA,,,5,US,EU,5,Yerevan,,92.0,,S1,,armenia,armenia-yerevan,armenia,240.0,176.154033,0.2660248625
+477,AUSTRALIA,,,6,US,EU,6,Canberra,,137.0,,S1,,australia,australia-canberra,australia,310.0,383.805807,-0.23808324838709682
+478,AUSTRIA,,,7,US,EU,7,Vienna,,133.0,,S1,,austria,austria-vienna,austria,374.0,262.481175,0.2981786764705882
+479,AZERBAIJAN,,,8,US,EU,8,Baku,,115.0,,S1,,azerbaijan,azerbaijan-baku,azerbaijan,361.0,341.808819,0.05316116620498607
+480,BAHRAIN,,,10,US,EU,9,MANAMA,,122.0,,S1,,bahrain,bahrain-manama,bahrain,377.0,347.641734,0.07787338461538465
+481,BANGLADESH,,,11,US,EU,10,Dhaka,,90.0,,S1,,bangladesh,bangladesh-dhaka,bangladesh,290.0,163.32162,0.436822
+482,BELARUS,,,12,US,EU,11,Minsk,,84.0,,S1,,belarus,belarus-minsk,belarus,274.0,242.64926400000002,0.11441874452554739
+483,BELGIUM,,,13,US,EU,12,Brussels,,149.0,,S1,,belgium,belgium-brussels,belgium,337.0,270.647256,0.19689241543026698
+484,BELIZE,,,14,US,EU,13,Belmopan,,93.0,,S1,,belize,belize-belmopan,belize,242.0,274.147005,-0.13283886363636355
+485,BOTSWANA,,,16,US,EU,14,Gaborone,,90.0,,S1,,botswana,botswana-gaborone,botswana,256.0,304.478163,-0.18936782421874998
+486,BRAZIL,,,17,US,EU,15,Brasilia,,123.0,,S1,,brazil,brazil-brasilia,brazil,350.0,212.318106,0.39337684
+487,BRUNEI,,,18,US,EU,16,Bandar Seri Begawan,,97.0,,S1,,brunei,brunei-bandar-seri-begawan,brunei,290.0,193.652778,0.33223179999999997
+488,BULGARIA,,,19,US,EU,17,Sofia,,103.0,,S1,,bulgaria,bulgaria-sofia,bulgaria,276.0,264.814341,0.04052774999999995
+489,BURKINA FASO,,,20,US,EU,18,Ouagadougou,,116.0,,S1,,burkina-faso,burkina-faso-ouagadougou,burkina-faso,297.0,267.147507,0.10051344444444438
+490,BURUNDI,,,21,US,EU,19,Bujumbura,,67.0,,S1,,burundi,burundi-bujumbura,burundi,187.0,272.98042200000003,-0.45978835294117665
+491,CAMBODIA,,,23,US,EU,20,Phnom Penh,,85.0,,S1,,cambodia,cambodia-phnom-penh,cambodia,236.0,198.31911000000002,0.15966478813559312
+492,CAMEROON,,,24,US,EU,21,Yaounde,,114.0,,S1,,cameroon,cameroon-yaounde,cameroon,295.0,255.481677,0.13396041694915256
+493,CANADA,,,25,US,EU,22,Ottawa,,116.0,,S1,,canada,canada-ottawa,canada,326.0,359.307564,-0.10217044171779145
+494,CENTRAL AFRICAN REPUBLIC,,,26,US,EU,23,Bangui,,111.0,,S1,,central-african-republic,central-african-republic-bangui,central-african-republic,327.0,190.153029,0.41849226605504586
+495,CHILE,,,27,US,EU,24,Santiago,,116.0,,S1,,chile,chile-santiago,chile,306.0,282.313086,0.07740821568627451
+496,COLOMBIA,,,28,US,EU,25,Bogota,,105.0,,S1,,colombia,colombia-bogota,colombia,382.0,229.816851,0.3983852068062827
+497,COMOROS,,,29,US,EU,26,Moroni,,75.0,,S1,,comoros,comoros-moroni,comoros,191.0,226.317102,-0.18490629319371732
+498,COSTA RICA,,,30,US,EU,27,San Jose,,109.0,,S1,,costa-rica,costa-rica-san-jose,costa-rica,256.0,233.3166,0.08860703125000002
+499,COTE D'IVOIRE,,,31,US,EU,28,Yamoussoukro,,81.0,,S1,,cote-d'ivoire,cote-d'ivoire-yamoussoukro,cote-d'ivoire,167.0,261.314592,-0.5647580359281438
+500,CROATIA,,,32,US,EU,29,Zagreb,,84.0,,S1,,croatia,croatia-zagreb,croatia,260.0,209.98494,0.1923656153846154
+501,CUBA,,,33,US,EU,30,Havana,,111.0,,S1,,cuba,cuba-havana,cuba,316.0,296.312082,0.062303537974683625
+502,CYPRUS,,,34,US,EU,31,Nicosia,,125.0,,S1,,cyprus,cyprus-nicosia,cyprus,313.0,277.646754,0.11294966773162943
+503,DENMARK,,,35,US,EU,32,Copenhagen,,165.0,,S1,,denmark,denmark-copenhagen,denmark,421.0,314.97741,0.2518351306413301
+504,DOMINICAN REPUBLIC,,,36,US,EU,33,Santo Domingo,,100.0,,S1,,dominican-republic,dominican-republic-santo-domingo,dominican-republic,300.0,285.812835,0.04729054999999998
+505,ECUADOR,,,37,US,EU,34,Quito,,107.0,,S1,,ecuador,ecuador-quito,ecuador,297.0,268.31409,0.09658555555555548
+506,EGYPT,,,38,US,EU,35,Cairo,,98.0,,S1,,egypt,egypt-cairo,egypt,273.0,310.3110779999999,-0.136670615384615
+507,EL SALVADOR,,,39,US,EU,36,San Salvador,,93.0,,S1,,el-salvador,el-salvador-san-salvador,el-salvador,221.0,253.148511,-0.14546837556561093
+508,EQUATORIAL GUINEA,,,40,US,EU,37,Malabo,,114.0,,S1,,equatorial-guinea,equatorial-guinea-malabo,equatorial-guinea,299.0,281.146503,0.059710692307692326
+509,ERITREA,,,41,US,EU,38,Asmara,,108.0,,S1,,eritrea,eritrea-asmara,eritrea,243.0,264.814341,-0.089770950617284
+510,ESTONIA,,,42,US,EU,39,Tallinn,,122.0,,S1,,estonia,estonia-tallinn,estonia,268.0,211.151523,0.2121211828358209
+511,ETHIOPIA,,,43,US,EU,40,Addis Ababa,,85.0,,S1,,ethiopia,ethiopia-addis-ababa,ethiopia,400.0,233.3166,0.41670850000000004
+512,FIJI,,,44,US,EU,41,Suva,,102.0,,S1,,fiji,fiji-suva,fiji,305.0,276.480171,0.09350763606557382
+513,FINLAND,,,45,US,EU,42,Helsinki,,127.0,,S1,,finland,finland-helsinki,finland,349.0,284.646252,0.1843946934097421
+514,FRANCE,,,46,US,EU,43,Paris,,190.0,,S1,,france,france-paris,france,631.0,285.812835,0.5470478050713153
+515,GABON,,,47,US,EU,44,Libreville,,115.0,,S1,,gabon,gabon-libreville,gabon,307.0,368.640228,-0.20078250162866443
+516,GEORGIA,,,49,US,EU,45,Tbilisi,,105.0,,S1,,georgia,georgia-tbilisi,georgia,341.0,230.983434,0.32262922580645165
+517,GERMANY,,,50,US,EU,46,Berlin,,120.0,,S1,,germany,germany-berlin,germany,367.0,242.64926400000002,0.33883034332425066
+518,GHANA,,,51,US,EU,47,Accra,,99.0,,S1,,ghana,ghana-accra,ghana,331.0,438.63520800000003,-0.32518189728096686
+519,GREECE,,,52,US,EU,48,Athens,,131.0,,S1,,greece,greece-athens,greece,331.0,258.981426,0.21757877341389728
+520,GUATEMALA,,,53,US,EU,49,Guatemala City,,96.0,,S1,,guatemala,guatemala-guatemala-city,guatemala,240.0,204.152025,0.14936656249999997
+521,GUINEA,,,54,US,EU,50,Conakry,,103.0,,S1,,guinea,guinea-conakry,guinea,327.0,288.146001,0.11881956880733942
+522,GUYANA,,,56,US,EU,51,Georgetown,,107.0,,S1,,guyana,guyana-georgetown,guyana,283.0,258.981426,0.08487128621908127
+523,HAITI,,,57,US,EU,52,Port-au-Prince,,111.0,,S1,,haiti,haiti-port-au-prince,haiti,266.0,242.64926400000002,0.08778472180451122
+524,HONDURAS,,,58,US,EU,53,Tegucigalpa,,97.0,,S1,,honduras,honduras-tegucigalpa,honduras,284.0,227.483685,0.19900110915492955
+525,HUNGARY,,,59,US,EU,54,Budapest,,103.0,,S1,,hungary,hungary-budapest,hungary,293.0,258.981426,0.1161043481228669
+526,ICELAND,,,60,US,EU,55,Reykjavik,,153.0,,S1,,iceland,iceland-reykjavik,iceland,461.0,407.137467,0.11683846637744032
+527,ICELAND,,,61,US,EU,56,Reykjavik,,145.0,,S2,,iceland,iceland-reykjavik,iceland,375.0,407.137467,-0.08569991200000004
+528,INDIA,,,62,US,EU,57,New Delhi,,109.0,,S1,,india,india-new-delhi,india,400.0,267.147507,0.33213123249999993
+529,INDONESIA,,,63,US,EU,58,Jakarta,,104.0,,S1,,indonesia,indonesia-jakarta,indonesia,362.0,292.812333,0.19112615193370158
+530,IRAN,,,64,US,EU,59,Tehran,,58.0,,S1,,iran,iran-tehran,iran,155.0,246.149013,-0.5880581483870968
+531,IRAQ,,,65,US,EU,60,Baghdad,,11.0,,S1,,iraq,iraq-baghdad,iraq,11.0,303.31158,-26.57378
+532,IRELAND,,,66,US,EU,61,Dublin,,141.0,,S1,,ireland,ireland-dublin,ireland,394.0,296.312082,0.2479388781725889
+533,ITALY,,,67,US,EU,62,Rome,,148.0,,S1,,italy,italy-rome,italy,548.0,268.31409,0.5103757481751825
+534,JAMAICA,,,68,US,EU,63,Kingston,,101.0,,S1,,jamaica,jamaica-kingston,jamaica,312.0,345.30856800000004,-0.10675823076923088
+535,JORDAN,,,69,US,EU,64,Amman,,141.0,,S1,,jordan,jordan-amman,jordan,390.0,337.142487,0.13553208461538457
+536,KAZAKHSTAN,,,70,US,EU,65,Astana,,133.0,,S1,,kazakhstan,kazakhstan-astana,kazakhstan,373.0,300.978414,0.19308736193029494
+537,KENYA,,,71,US,EU,66,Nairobi,,120.0,,S1,,kenya,kenya-nairobi,kenya,410.0,327.809823,0.20046384634146344
+538,KUWAIT,,,74,US,EU,67,Kuwait City,,105.0,,S1,,kuwait,kuwait-kuwait-city,kuwait,432.0,397.804803,0.07915554861111113
+539,KYRGYZSTAN,,,75,US,EU,68,Bishkek,,87.0,,S1,,kyrgyzstan,kyrgyzstan-bishkek,kyrgyzstan,311.0,199.485693,0.3585669035369775
+540,LATVIA,,,77,US,EU,69,Riga,,113.0,,S1,,latvia,latvia-riga,latvia,293.0,246.149013,0.15990097952218432
+541,LEBANON,,,78,US,EU,70,Beirut,,75.0,,S1,,lebanon,lebanon-beirut,lebanon,210.0,303.31158,-0.4443408571428571
+542,LESOTHO,,,79,US,EU,71,Maseru,,74.0,,S1,,lesotho,lesotho-maseru,lesotho,215.0,120.158049,0.44112535348837206
+543,LIBERIA,,,80,US,EU,72,Monrovia,,95.0,,S1,,liberia,liberia-monrovia,liberia,295.0,323.14349100000004,-0.0954016644067798
+544,LITHUANIA,,,82,US,EU,73,Vilnius,,130.0,,S1,,lithuania,lithuania-vilnius,lithuania,330.0,213.484689,0.35307669999999997
+545,MADAGASCAR,,,84,US,EU,74,Antananarivo,,79.0,,S1,,madagascar,madagascar-antananarivo,madagascar,237.0,220.48418700000002,0.06968697468354422
+546,MALAWI,,,85,US,EU,75,Lilongwe,,86.0,,S1,,malawi,malawi-lilongwe,malawi,236.0,205.318608,0.1300058983050847
+547,MALAYSIA,,,86,US,EU,76,Kuala Lumpur,,83.0,,S1,,malaysia,malaysia-kuala-lumpur,malaysia,269.0,218.151021,0.18902966171003724
+548,MALI,,,87,US,EU,77,Bamako,,112.0,,S1,,mali,mali-bamako,mali,255.0,264.814341,-0.038487611764705935
+549,MARSHALL ISLANDS,,,88,US,EU,78,Majuro,,76.0,,S1,,marshall-islands,marshall-islands-majuro,marshall-islands,215.0,208.81835700000002,0.02875182790697665
+550,MAURITANIA,,,89,US,EU,79,Nouakchott,,73.0,,S1,,mauritania,mauritania-nouakchott,mauritania,189.0,169.15453499999995,0.10500246031746056
+551,MOLDOVA,,,90,US,EU,80,Chisinau,,73.0,,S1,,moldova,moldova-chisinau,moldova,234.0,162.15503700000002,0.3070297564102563
+552,MONGOLIA,,,91,US,EU,81,Ulaanbaatar,,100.0,,S1,,mongolia,mongolia-ulaanbaatar,mongolia,285.0,211.151523,0.25911746315789475
+553,MONTENEGRO,,,92,US,EU,82,Podgorica,,88.0,,S1,,montenegro,montenegro-podgorica,montenegro,299.0,156.32212199999995,0.4771835384615386
+554,MOROCCO,,,93,US,EU,83,Rabat,,114.0,,S1,,morocco,morocco-rabat,morocco,274.0,236.816349,0.13570675547445255
+555,MOZAMBIQUE,,,94,US,EU,84,Maputo,,110.0,,S1,,mozambique,mozambique-maputo,mozambique,330.0,263.647758,0.20106739999999998
+556,NAMIBIA,,,95,US,EU,85,Windhoek,,92.0,,S1,,namibia,namibia-windhoek,namibia,242.0,149.322624,0.38296436363636366
+557,NEPAL,,,96,US,EU,86,Kathmandu,,91.0,,S1,,nepal,nepal-kathmandu,nepal,257.0,186.65328,0.2737226459143969
+558,NEW ZEALAND,,,97,US,EU,87,Wellington,,128.0,,S1,,new-zealand,new-zealand-wellington,new-zealand,323.0,368.640228,-0.14130101547987609
+559,NICARAGUA,,,98,US,EU,88,Managua,,94.0,,S1,,nicaragua,nicaragua-managua,nicaragua,266.0,226.317102,0.14918382706766914
+560,NIGER,,,99,US,EU,89,Niamey,,69.0,,S1,,niger,niger-niamey,niger,205.0,248.482179,-0.21210819024390246
+561,NIGERIA,,,100,US,EU,90,Abuja,,147.0,,S1,,nigeria,nigeria-abuja,nigeria,571.0,264.814341,0.5362270735551663
+562,NORWAY,,,101,US,EU,91,Oslo,,129.0,,S1,,norway,norway-oslo,norway,292.0,320.810325,-0.09866549657534239
+563,OMAN,,,102,US,EU,92,Muscat,,155.0,,S1,,oman,oman-muscat,oman,416.0,346.475151,0.16712704086538466
+564,PAKISTAN,,,103,US,EU,93,Islamabad,,55.0,,S1,,pakistan,pakistan-islamabad,pakistan,125.0,263.647758,-1.109182064
+565,PANAMA,,,104,US,EU,94,Panama City,,99.0,,S1,,panama,panama-panama-city,panama,272.0,268.31409,0.013551139705882273
+566,PAPUA NEW GUINEA,,,105,US,EU,95,Port Moresby,,93.0,,S1,,papua-new-guinea,papua-new-guinea-port-moresby,papua-new-guinea,388.0,388.472139,-0.0012168530927835746
+567,PARAGUAY,,,106,US,EU,96,Asuncion,,104.0,,S1,,paraguay,paraguay-asuncion,paraguay,271.0,274.147005,-0.011612564575645678
+568,PERU,,,107,US,EU,97,Lima,,147.0,,S1,,peru,peru-lima,peru,796.0,264.814341,0.6673186670854271
+569,PERU,,,108,US,EU,98,Lima,,108.0,,S2,,peru,peru-lima,peru,358.0,264.814341,0.26029513687150835
+570,PHILIPPINES,,,109,US,EU,99,Manila,,110.0,,S1,,philippines,philippines-manila,philippines,289.0,302.14499700000005,-0.045484418685121264
+571,POLAND,,,110,US,EU,100,Warsaw,,90.0,,S1,,poland,poland-warsaw,poland,278.0,253.148511,0.08939384532374096
+572,PORTUGAL,,,111,US,EU,101,Lisbon,,81.0,,S1,,portugal,portugal-lisbon,portugal,242.0,237.982932,0.016599454545454525
+573,QATAR,,,112,US,EU,102,Doha,,162.0,,S1,,qatar,qatar-doha,qatar,389.0,468.966366,-0.20556906426735216
+574,ROMANIA,,,113,US,EU,103,Bucharest,,103.0,,S1,,romania,romania-bucharest,romania,284.0,258.981426,0.08809357042253521
+575,RWANDA,,,115,US,EU,104,Kigali,,88.0,,S1,,rwanda,rwanda-kigali,rwanda,291.0,228.650268,0.21426024742268038
+576,SAUDI ARABIA,,,117,US,EU,105,Riyadh,,126.0,,S1,,saudi-arabia,saudi-arabia-riyadh,saudi-arabia,485.0,419.96988,0.13408272164948457
+577,SENEGAL,,,118,US,EU,106,Dakar,,117.0,,S1,,senegal,senegal-dakar,senegal,297.0,320.810325,-0.08016944444444436
+578,SERBIA,,,119,US,EU,107,Belgrade,,89.0,,S1,,serbia,serbia-belgrade,serbia,290.0,184.320114,0.36441340000000005
+579,SIERRA LEONE,,,120,US,EU,108,Freetown,,129.0,,S1,,sierra-leone,sierra-leone-freetown,sierra-leone,319.0,267.147507,0.16254699999999994
+580,SLOVENIA,,,122,US,EU,109,Ljubljana,,106.0,,S1,,slovenia,slovenia-ljubljana,slovenia,284.0,209.98494,0.2606164084507042
+581,SOMALIA,,,123,US,EU,110,Mogadishu,,66.0,,S1,,somalia,somalia-mogadishu,somalia,66.0,221.65077000000002,-2.3583450000000004
+582,SPAIN,,,125,US,EU,111,Madrid,,138.0,,S1,,spain,spain-madrid,spain,384.0,247.315596,0.35594896875
+583,SUDAN,,,126,US,EU,112,Khartoum,,123.0,,S1,,sudan,sudan-khartoum,sudan,388.0,241.482681,0.377621956185567
+584,SURINAME,,,127,US,EU,113,Paramaribo,,111.0,,S1,,suriname,suriname-paramaribo,suriname,260.0,202.985442,0.21928676153846152
+585,SWEDEN,,,128,US,EU,114,Stockholm,,171.0,,S1,,sweden,sweden-stockholm,sweden,403.0,299.811831,0.256050047146402
+586,SWITZERLAND,,,129,US,EU,115,Bern,,164.0,,S1,,switzerland,switzerland-bern,switzerland,461.0,405.970884,0.11936901518438175
+587,TAJIKISTAN,,,131,US,EU,116,Dushanbe,,83.0,,S1,,tajikistan,tajikistan-dushanbe,tajikistan,325.0,208.81835700000002,0.3574819784615384
+588,THAILAND,,,132,US,EU,117,Bangkok,,95.0,,S1,,thailand,thailand-bangkok,thailand,241.0,243.81584700000002,-0.01168401244813286
+589,TOGO,,,134,US,EU,118,Lome,,154.0,,S1,,togo,togo-lome,togo,394.0,188.986446,0.5203389695431472
+590,TRINIDAD AND TOBAGO,,,135,US,EU,119,Port of Spain,,146.0,,S1,,trinidad-and-tobago,trinidad-and-tobago-port-of-spain,trinidad-and-tobago,382.0,375.639726,0.016649931937172784
+591,TUNISIA,,,136,US,EU,120,Tunis,,101.0,,S1,,tunisia,tunisia-tunis,tunisia,207.0,164.488203,0.205371
+592,TURKEY,,,137,US,EU,121,Ankara,,87.0,,S1,,turkey,turkey-ankara,turkey,356.0,188.986446,0.4691391966292135
+593,TURKMENISTAN,,,138,US,EU,122,Ashgabat,,93.0,,S1,,turkmenistan,turkmenistan-ashgabat,turkmenistan,282.0,274.147005,0.027847500000000077
+594,UGANDA,,,139,US,EU,123,Kampala,,90.0,,S1,,uganda,uganda-kampala,uganda,340.0,237.982932,0.3000502
+595,UKRAINE,,,140,US,EU,124,Kyiv,,131.0,,S1,,ukraine,ukraine-kyiv,ukraine,374.0,338.30907,0.095430294117647
+596,UNITED ARAB EMIRATES,,,141,US,EU,125,Abu Dhabi,,198.0,,S1,,united-arab-emirates,united-arab-emirates-abu-dhabi,united-arab-emirates,538.0,407.137467,0.24323890892193306
+597,UNITED KINGDOM,,,142,US,EU,126,London,,198.0,,S1,,united-kingdom,united-kingdom-london,united-kingdom,522.0,321.976908,0.383186
+598,URUGUAY,,,143,US,EU,127,Montevideo,,92.0,,S1,,uruguay,uruguay-montevideo,uruguay,252.0,263.647758,-0.046221261904761946
+599,UZBEKISTAN,,,144,US,EU,128,Tashkent,,99.0,,S1,,uzbekistan,uzbekistan-tashkent,uzbekistan,279.0,233.3166,0.1637397849462366
+600,VANUATU,,,145,US,EU,129,Port Vila,,119.0,,S1,,vanuatu,vanuatu-port-vila,vanuatu,295.0,394.305054,-0.3366273016949152
+601,VENEZUELA,,,146,US,EU,130,Caracas,,261.0,,S1,,venezuela,venezuela-caracas,venezuela,575.0,160.988454,0.7200200800000001
+602,YEMEN,,,148,US,EU,131,Sanaa,,95.0,,S1,,yemen,yemen-sanaa,yemen,455.0,165.654786,0.6359235472527472
+603,ZAMBIA,,,149,US,EU,132,Lusaka,,95.0,,S1,,zambia,zambia-lusaka,zambia,285.0,228.650268,0.1977183578947368
+604,ZIMBABWE,,,150,US,EU,133,Harare,,112.0,,S1,,zimbabwe,zimbabwe-harare,zimbabwe,304.0,232.150017,0.2363486282894737
