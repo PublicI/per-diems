@@ -6,15 +6,18 @@ let data = fs.readFileSync(__dirname + '/../data/capitals.csv', 'utf8');
 
 let rows = dsv.csvParse(data);
 
-rows = rows
-    .map(row => {
-        row.slug = slugify(row['Short-form name'].replace(/[*+]*/g,'') + row.Capital, {
+rows = rows.map(row => {
+    row.slug = slugify(
+        row['Short-form name'].replace(/[*+]*/g, '').replace(/\([^)]+\)/g, '') +
+            row.Capital.replace(/\n.*/g, '').replace(/\([^)]+\)/g, ''),
+        {
             replacement: '-',
             lower: true
-        });
+        }
+    );
 
-        return row;
-    });
+    return row;
+});
 
 fs.writeFileSync(
     __dirname + '/../cleaned/capitals.csv',
