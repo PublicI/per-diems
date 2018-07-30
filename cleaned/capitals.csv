@@ -21,10 +21,10 @@ Belarus *+,Republic of Belarus,BY,BLR,Minsk,belarus-minsk
 Belgium *+,Kingdom of Belgium,BE,BEL,Brussels,belgium-brussels
 Belize *+,Belize,BZ,BLZ,Belmopan,belize-belmopan
 Benin *+,Republic of Benin,BJ,BEN,"Porto-Novo
-Cotonou (seat of government)",benin-porto-novo-cotonou-(seat-of-government)
+Cotonou (seat of government)",benin-porto-novo
 Bhutan +,Kingdom of Bhutan,BT,BTN,Thimphu,bhutan-thimphu
 Bolivia *+,Plurinational State of Bolivia,BO,BOL,"La Paz (administrative)
-Sucre (legislative/judiciary)",bolivia-la-paz-(administrative)-sucre-(legislativejudiciary)
+Sucre (legislative/judiciary)",bolivia-la-paz
 "Bosnia and
 Herzegovina *+",Bosnia and Herzegovina,BA,BIH,Sarajevo,bosnia-and-herzegovina-sarajevo
 Botswana *+,Republic of Botswana,BW,BWA,Gaborone,botswana-gaborone
@@ -33,7 +33,7 @@ Brunei *+,Brunei Darussalam,BN,BRN,Bandar Seri Begawan,brunei-bandar-seri-begawa
 Bulgaria *+,Republic of Bulgaria,BG,BGR,Sofia,bulgaria-sofia
 Burkina Faso *+,Burkina Faso,BF,BFA,Ouagadougou,burkina-faso-ouagadougou
 Burma *+,Union of Burma,MM,MMR,"Rangoon
-Nay Pyi Taw (administrative)",burma-rangoon-nay-pyi-taw-(administrative)
+Nay Pyi Taw (administrative)",burma-rangoon
 Burundi *+,Republic of Burundi,BI,BDI,Bujumbura,burundi-bujumbura
 Cabo Verde *+,Republic of Cabo Verde,CV,CPV,Praia,cabo-verde-praia
 Cambodia *+,Kingdom of Cambodia,KH,KHM,Phnom Penh,cambodia-phnom-penh
@@ -43,14 +43,14 @@ Canada *+,Canada,CA,CAN,Ottawa,canada-ottawa
 African Republic *+",Central African Republic,CF,CAF,Bangui,central-african-republic-bangui
 Chad *+,Republic of Chad,TD,TCD,N'Djamena,chad-n'djamena
 Chile *+,Republic of Chile,CL,CHL,Santiago,chile-santiago
-China *+ (see note 3),People's Republic of China,CN,CHN,Beijing,china-(see-note-3)beijing
+China *+ (see note 3),People's Republic of China,CN,CHN,Beijing,china-beijing
 Colombia *+,Republic of Colombia,CO,COL,Bogotá,colombia-bogota
 Comoros *+,Union of the Comoros,KM,COM,Moroni,comoros-moroni
 "Congo (Brazzaville) *+
-(see note 4)",Republic of the Congo,CG,COG,Brazzaville,congo-(brazzaville)-(see-note-4)brazzaville
+(see note 4)",Republic of the Congo,CG,COG,Brazzaville,congo-brazzaville
 "Congo (Kinshasa) *+
 (see note 4)","Democratic Republic
-of the Congo",CD,COD,Kinshasa,congo-(kinshasa)-(see-note-4)kinshasa
+of the Congo",CD,COD,Kinshasa,congo-kinshasa
 Costa Rica *+,Republic of Costa Rica,CR,CRI,San José,costa-rica-san-jose
 Côte d'Ivoire *+,Republic of Côte d'Ivoire,CI,CIV,Yamoussoukro,cote-d'ivoire-yamoussoukro
 Croatia *+,Republic of Croatia,HR,HRV,Zagreb,croatia-zagreb
@@ -67,7 +67,7 @@ El Salvador *+,Republic of El Salvador,SV,SLV,San Salvador,el-salvador-san-salva
 Equatorial Guinea *+,Republic of Equatorial Guinea,GQ,GNQ,Malabo,equatorial-guinea-malabo
 Eritrea *+,State of Eritrea,ER,ERI,Asmara,eritrea-asmara
 Estonia *+,Republic of Estonia,EE,EST,Tallinn,estonia-tallinn
-! Eswatini *+,! Kingdom of Eswatini,SZ,SWZ,Mbabane (administrative) Lobamba (legislative),!-eswatini-mbabane-(administrative)-lobamba-(legislative)
+! Eswatini *+,! Kingdom of Eswatini,SZ,SWZ,Mbabane (administrative) Lobamba (legislative),!-eswatini-mbabane-lobamba
 Ethiopia *+,"Federal Democratic
 Republic of Ethiopia",ET,ETH,Addis Ababa,ethiopia-addis-ababa
 Fiji *+,Republic of Fiji,FJ,FJI,Suva,fiji-suva
@@ -142,10 +142,10 @@ Morocco *+,Kingdom of Morocco,MA,MAR,Rabat,morocco-rabat
 Mozambique *+,Republic of Mozambique,MZ,MOZ,Maputo,mozambique-maputo
 Namibia *+,Republic of Namibia,NA,NAM,Windhoek,namibia-windhoek
 Nauru *+,Republic of Nauru,NR,NRU,"Yaren District
-(no capital city)",nauru-yaren-district-(no-capital-city)
+(no capital city)",nauru-yaren-district
 Nepal *+,Federal Democratic Republic of Nepal,NP,NPL,Kathmandu,nepal-kathmandu
 Netherlands *+,Kingdom of the Netherlands,NL,NLD,"Amsterdam
-The Hague (seat of government)",netherlands-amsterdam-the-hague-(seat-of-government)
+The Hague (seat of government)",netherlands-amsterdam
 New Zealand *+,New Zealand,NZ,NZL,Wellington,new-zealand-wellington
 Nicaragua *+,Republic of Nicaragua,NI,NIC,Managua,nicaragua-managua
 Niger *+,Republic of Niger,NE,NER,Niamey,niger-niamey
@@ -187,12 +187,12 @@ Solomon Islands *+,Solomon Islands,SB,SLB,Honiara,solomon-islands-honiara
 Somalia *+,Federal Republic of Somalia,SO,SOM,Mogadishu,somalia-mogadishu
 South Africa *+,Republic of South Africa,ZA,ZAF,"Pretoria (administrative)
 Cape Town (legislative)
-Bloemfontein (judiciary)",south-africa-pretoria-(administrative)-cape-town-(legislative)-bloemfontein-(judiciary)
+Bloemfontein (judiciary)",south-africa-pretoria
 South Sudan *+,Republic of South Sudan,SS,SSD,Juba,south-sudan-juba
 Spain *+,Kingdom of Spain,ES,ESP,Madrid,spain-madrid
 Sri Lanka *+,"Democratic Socialist
 Republic of Sri Lanka",LK,LKA,"Colombo
-Sri Jayewardenepura Kotte (legislative)",sri-lanka-colombo-sri-jayewardenepura-kotte-(legislative)
+Sri Jayewardenepura Kotte (legislative)",sri-lanka-colombo
 Sudan *+,Republic of the Sudan,SD,SDN,Khartoum,sudan-khartoum
 Suriname *+,Republic of Suriname,SR,SUR,Paramaribo,suriname-paramaribo
 Sweden *+,Kingdom of Sweden,SE,SWE,Stockholm,sweden-stockholm
@@ -200,7 +200,7 @@ Switzerland *+,Swiss Confederation,CH,CHE,Bern,switzerland-bern
 Syria *+,Syrian Arab Republic,SY,SYR,Damascus,syria-damascus
 Tajikistan *+,Republic of Tajikistan,TJ,TJK,Dushanbe,tajikistan-dushanbe
 Tanzania *+,United Republic of Tanzania,TZ,TZA,"Dar es Salaam
-Dodoma (legislative)",tanzania-dar-es-salaam-dodoma-(legislative)
+Dodoma (legislative)",tanzania-dar-es-salaam
 Thailand *+,Kingdom of Thailand,TH,THA,Bangkok,thailand-bangkok
 Timor-Leste *+,Democratic Republic of Timor-Leste,TL,TLS,Dili,timor-leste-dili
 Togo *+,Togolese Republic,TG,TGO,Lomé,togo-lome
