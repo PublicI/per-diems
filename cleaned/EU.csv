@@ -1,210 +1,226 @@
-﻿Country,Amount (Euros)
-Austria,225
-Belgium,232
-Bulgaria,227
-Croatia,180
-Czech Republic,230
-Cyprus,238
-Denmark,270
-Estonia,181
-Finland,244
-France,245
-Germany,208
-Greece,222
-Hungary,222
-Ireland,254
-Italy,230
-Latvia,211
-Lithuania,183
-Luxembourg,237
-Malta,205
-Netherlands,263
-Poland,217
-Portugal,204
-Romania,222
-Slovak Republic,205
-Slovenia,180
-Spain,212
-Sweden,257
-United Kingdom,276
-Afghanistan,215
-Albania,180
-Algeria,332
-American Samoa,225
-Angola,378
-Anguilla,372
-Antigua and Barbuda,329
-Argentina,243
-Armenia,151
-Aruba,351
-Australia,329
-Azerbaijan,293
-Bahamas,372
-Bahrain,298
-Bangladesh,140
-Barbados,406
-Belarus,208
-Belize,235
-Benin,125
-Bermuda,364
-Bhutan,121
-Bolivia,176
-Bosnia and Herzegovina,159
-Botswana,261
-Brazil,182
-Brunei,166
-Burkina Faso,229
-Burundi,234
-Cambodia,170
-Cameroon,219
-Canada,308
-Cape Verde,181
-Cayman Islands,328
-Central African Republic,163
-Chad,200
-Chile,242
-China,217
-Colombia,197
-Comoros,194
-Congo,246
-"Congo, Dem. Rep. (RDC)",267
-Cook Islands,297
-Costa Rica,200
-Cote d'Ivoire,224
-Cuba,254
-Djibouti,176
-Dominica,325
-Dominican Republic,245
-Ecuador,230
-Egypt,266
-El Salvador,217
-Equatorial Guinea,241
-Eritrea,227
-Ethiopia,200
-Fiji,237
-Gabon,316
-Gambia,195
-Georgia,198
-Ghana,376
-Grenada,375
-Guam,361
-Guatemala,175
-Guinea,247
-Guinea Bissau,125
-Guyana,222
-Haiti,208
-Honduras,195
-Hong Kong,354
-Iceland,349
-India,229
-Indonesia,251
-Iran,211
-Iraq,260
-Israel,361
-Jamaica,296
-Japan,289
-Jordan,289
-Kazakhstan,258
-Kenya,281
-Kiribati,117
-"Korea, Dem. Peo. Of",165
-"Korea, Republic of",402
-Kuwait,341
-Kyrgyzstan,171
-"Laos, People's Dem. Rep.",165
-Lebanon,260
-Lesotho,103
-Liberia,277
-Libyan Arab Jamahiriya,204
-Macao,230
-Macedonia (Fyrom),158
-Madagascar,189
-Malawi,176
-Malaysia,187
-Maldives,321
-Mali,227
-Marshall Islands,179
-Mauritania,145
-Mauritius,203
-Mexico,322
-Micronesia,200
-Moldova,139
-Monaco,299
-Mongolia,181
-Montenegro,134
-Montserrat,217
-Morocco,203
-Mozambique,226
-Myanmar,127
-Namibia,128
-Nauru,197
-Nepal,160
-Netherlands Antilles,276
-New Zealand,316
-Nicaragua,194
-Niger,213
-Nigeria,227
-Niue,229
-Norway,275
-Oman,297
-Pakistan,226
-"Palau, Republic of",275
-Panama,230
-Papua New Guinea,333
-Paraguay,235
-Peru,227
-Philippines,259
-Puerto Rico,342
-Qatar,402
-Russian Federation,251
-Rwanda,196
-Samoa,204
-Sao Tome & Principe,175
-Saudi Arabia,360
-Senegal,275
-Serbia,158
-Seychelles,285
-Sierra Leone,229
-Singapore,364
-Solomon Islands,253
-Somalia,190
-South Africa,166
-Sri Lanka,211
-St. Kitts and Nevis,386
-St Lucia,296
-St. Vincent and the Grena,253
-Sudan,207
-South Soudan,225
-Suriname,174
-Swaziland,158
-Switzerland,348
-Syrian Arab Republic,185
-Tajikistan,179
-"Tanzania, United Rep. of",211
-Thailand,209
-Timor Leste,151
-Togo,162
-Tokelau Islands,87
-Tonga,213
-Trinidad and Tobago,322
-Tunisia,141
-Turkey,162
-Turkey Istanbul,222
-Turkmenistan,235
-Turks and Caicos Island,363
-Tuvalu,205
-Uganda,204
-Ukraine,290
-United Arab Emirates,349
-United States of America,343
-Uruguay,226
-Uzbekistan,200
-Vanuatu,338
-Venezuela,138
-Viet Nam,159
-Virgin Islands (British),425
-Virgin Islands (USA),425
-West Bank and Gaza Strip,201
-Yemen,142
-Zambia,196
-Zimbabwe,199
+﻿Country,Hotel ceiling,Daily allowance
+Belgium,148,102
+Bulgaria,135,57
+Czech Republic,124,70
+Denmark,173,124
+Germany,128,97
+Estonia,105,80
+Ireland,159,108
+Greece,112,82
+Spain,128,88
+France ,180,102
+Croatia,110,75
+Italy,148,98
+Cyprus,140,88
+Latvia,116,73
+Lithuania,117,69
+Luxembourg,148,98
+Hungary,120,64
+Malta,138,88
+Netherlands,166,103
+Austria,132,102
+Poland,116,67
+Portugal,101,83
+Romania,136,62
+Slovenia,117,84
+Slovakia,100,74
+Finland,142,113
+Sweden,187,117
+United Kingdom,209,125
+AFGHANISTAN,50,75
+SOUTH AFRICA,50,145
+ALBANIA,50,160
+ALGERIA,85,85
+ANDORRA,68.89,126.57
+ANGOLA,105,175
+ANGUILLA,75,140
+ANTIGUA AND BARBUDA,85,140
+Netherlands Antilles,90,185
+SAUDIA ARABIA,85,195
+ARGENTINA,75,210
+ARMENIA,70,210
+ARUBA,80,185
+AUSTRALIA,75,135
+AZERBAIJAN,70,200
+BAHAMAS,75,115
+BAHRAIN,80,195
+BANGLADESH,50,140
+BARBADOS,75,140
+BELARUS,90,135
+BELIZE,50,135
+BENIN,50,100
+BERMUDA,70,140
+BHUTAN,50,130
+BOLIVIA,50,100
+Bonaire,90,185
+Bosnia and Herzegovina,65,135
+BOTSWANA,50,135
+BRAZIL,65,180
+BRUNEI,60,165
+BURKINA FASO,55,90
+BURUNDI,50,115
+CAYMAN ISLANDS,60,135
+CAMBODIA,50,115
+CAMEROON,55,105
+CANADA,65,165
+CABO VERDE,50,75
+CENTRAL AFRICAN REPUBLIC,60,80
+CHILE,70,175
+CHINA,55,155
+West Bank and Gaza Strip,60,110
+COLOMBIA,50,120
+COMOROS,50,85
+DEMOCRATIC REPUBLIC OF THE CONGO,105,140
+REPUBLIC OF THE CONGO,70,115
+Cook Islands,50,135
+"Korea, North",50,180
+"Korea, South",100,200
+COSTA RICA,50,140
+COTE D'IVOIRE,60,130
+CUBA,75,150
+DJIBOUTI,65,170
+DOMINICAN REPUBLIC,60,170
+DOMINICA,75,140
+EGYPT,65,140
+EL SALVADOR,55,125
+UNITED ARAB EMIRATES,70,195
+ECUADOR,50,140
+ERITREA,50,80
+UNITED STATES (OTHER),80,200
+UNITED STATES (NEW YORK),100,275
+ETHIOPIA,50,145
+FIJI,50,120
+GABON,75,115
+GAMBIA,50,120
+GEORGIA,80,215
+GHANA,70,140
+GRENADA,75,140
+GUADELOUPE,65,115
+GUAM,60,135
+GUATEMALA,50,125
+EQUATORIAL GUINEA,60,85
+GUINEA,50,135
+GUINEA-BISSAU,50,90
+GUYANA,50,160
+FRENCH GUIANA,55,140
+HAITI,65,125
+HONDURAS,50,125
+HONG KONG,60,205
+INDIA,50,195
+INDONESIA,50,145
+INDONESIA TIMOR,50,110
+IRAN,55,145
+IRAQ,60,85
+ICELAND,85,160
+ISRAEL,105,210
+JAMAICA,60,170
+JAPAN,130,275
+JORDAN,60,135
+KAZAKHSTAN,70,175
+KENYA,60,165
+KYRGYZSTAN,75,180
+KIRIBATI,60,145
+KUWAIT,85,195
+LAOS,50,145
+LESOTHO,50,100
+LEBANON,70,190
+LIBERIA,85,150
+LIBYA,50,175
+LIECHTENSTEIN,80,95
+MACAU,55,95
+MACEDONIA (ARY),50,160
+MADAGASCAR,50,105
+MALAYSIA,50,200
+MALAWI,50,165
+MALDIVES,50,135
+MALI,60,95
+Northern Mariana Islands,70,135
+MOROCCO,75,130
+MARSHALL ISLANDS,50,135
+MARTINIQUE,70,110
+MAURITIUS,60,140
+MAURITANIA,50,75
+Mayotte,50,110
+MEXICO,70,185
+Micronesia,55,135
+MOLDOVA,80,170
+MONACO*,72.58,97.27
+MONGOLIA,70,90
+Montserrat,55,140
+MOZAMBIQUE,60,140
+BURMA,50,75
+NAMIBIA,50,85
+NAURU,50,135
+NEPAL,50,135
+NICARAGUA,50,135
+NIGER,50,75
+NIGERIA,50,185
+NIUE,50,135
+NORWAY,80,140
+New Caledonia,55,135
+NEW ZEALAND,60,125
+OMAN,70,135
+UGANDA,55,180
+UZBEKISTAN,75,155
+PAKISTAN,50,130
+PALAU,50,135
+PANAMA,50,160
+PAPUA NEW GUINEA,55,135
+PAPUA NEW GUINEA,50,140
+PERU,75,135
+PHILIPPINES,60,150
+FRENCH POLYNESIA,60,135
+Puerto Rico,65,140
+QATAR,65,135
+REUNION,60,90
+RUSSIA,90,275
+RWANDA,65,160
+SAINT KITTS AND NEVIS,85,185
+ST LUCIA,75,140
+SAN MARINO*,60.34,114.33
+SAINT VINCENT AND THE GRENADINES,75,190
+SOLOMON ISLANDS,50,120
+Samoa,50,135
+American Samoa,70,135
+SAO TOME AND PRINCIPE,60,95
+SENEGAL,65,135
+SEYCHELLES,85,140
+SIERRA LEONE,55,135
+SINGAPORE,75,150
+SOMALIA,50,125
+SUDAN,55,215
+SRI LANKA,50,105
+St Martin,90,185
+SWITZERLAND,80,140
+SURINAME,55,125
+SWAZILAND,50,90
+SYRIA,80,145
+TAJIKISTAN,75,110
+TAIWAN,55,200
+TAIWAN,50,200
+CHAD,65,145
+THAILAND,60,145
+TIMOR-LESTE,50,110
+TOGO,60,95
+Tokelau,50,135
+TONGA,50,105
+TRINIDAD AND TOBAGO,60,115
+TUNISIA,60,85
+TURKMENISTAN,80,150
+TURKS AND CAICOS ISLANDS,55,135
+TURKEY,55,165
+TUVALU,50,135
+UKRAINE,80,190
+URUGUAY,55,160
+VANUATU,60,110
+VATICAN*,60.34,114.33
+VENEZUELA,85,125
+"Virgin Islands, US",55,140
+"VIRGIN ISLANDS, BRITISH",75,140
+VIETNAM,50,205
+WALLIS AND FUTUNA,50,135
+YEMEN,60,165
+Serbia and Montenegro,80,140
+ZAMBIA,50,135
+ZIMBABWE,50,115
+OTHER COUNTRY,60,145

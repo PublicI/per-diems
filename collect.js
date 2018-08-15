@@ -8,7 +8,11 @@ let path = __dirname + '/cleaned/';
 
 let files = fs
     .readdirSync(path)
-    .filter(file => !(['rates.csv', 'capitals.csv'].includes(file)));
+    .filter(file => !([
+        '.ipynb_checkpoints',
+        'rates.csv',
+        'capitals.csv'
+    ].includes(file)));
 
 // read in currencies from JSON file originally from https://data.fixer.io/api/latest
 // (has since been modified with additional currencies/currency codes)
@@ -59,7 +63,8 @@ function calcTotal(row) {
         'Per Diem',
         'Total residual',
         'GRAND TOTAL (taxes included)',
-        'Amount (Euros)'
+        'Amount (Euros)',
+        'Hotel ceiling'
     ]
         .map(key => row[key])
         .find(value => value);
@@ -75,6 +80,10 @@ function calcTotal(row) {
     }
 
     total = cleanMoney(currencyCode, total);
+
+    if (row['Daily allowance']) {
+        total += cleanMoney(currencyCode, row['Daily allowance']);
+    }
 
     // if we're in the UK, add the room rate after possible conversion
     let roomRate = cleanMoney(
