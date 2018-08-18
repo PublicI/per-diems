@@ -95,6 +95,55 @@ function calcTotal(row) {
     return total;
 }
 
+function calcRoomRate(row) {
+    // UN
+    if (row['Room as % of DSA']) {
+        return calcTotal(row)*(+row['Room as % of DSA']/100);
+    }
+    // EU
+    if (row['Hotel ceiling']) {
+        return cleanMoney('EUR', row['Hotel ceiling']);
+    }
+    // Canada
+    if (row['Meal Rate']) {
+        return 0;
+    }
+    // US
+    if (row['Lodging']) {
+        return cleanMoney(null, row['Lodging']);
+    }
+    // UK
+    if (row['Room rate']) {
+        return cleanMoney(
+            row['Room rate'] + ' ' + row.Currency,
+            row['Room rate']
+        );
+    }
+}
+
+function calcMealsAndIncidentals(row) {
+    // US
+    if (row['Meals & Incidentals']) {
+        return cleanMoney(null, row['Meals & Incidentals']);
+    }
+    // EU
+    if (row['Daily allowance']) {
+        return cleanMoney('EUR', row['Daily allowance']);
+    }
+    // UN
+    if (row['Room as % of DSA']) {
+        return calcTotal(row)*(1-(+row['Room as % of DSA']/100));
+    }
+    // Canada
+    if (row['Meal Rate']) {
+        return calcTotal(row);
+    }
+    // UK
+    if (row['Total residual']) {
+        return cleanMoney(row.Currency, row['Total residual']);
+    }
+}
+
 function slugLocation(row) {
     // each row has a field named country and one called location
     // we need to use these to match per diem rates, but they're messy
@@ -130,7 +179,8 @@ function processRow(jurisdiction, row) {
         location: row.Location,
         season: row['Season Code'],
         total: calcTotal(row),
-        mealsAndIncidentals: cleanMoney(null, row['Meals & Incidentals'])
+        mealsAndIncidentals: calcMealsAndIncidentals(row),
+        roomRate: calcRoomRate(row)
     };
 }
 
