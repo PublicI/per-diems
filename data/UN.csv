@@ -1,359 +1,1596 @@
-Country/Area (Currency),"First 60 Days (US$)","First 60 Days Local","After 60 Days Local"
-Andorra (Euro),,,
-All Areas,165,144,108
-Australia (AUL Dollar),,,
-"Canberra, Melbourne & Sydney",330,453,340
-Elsewhere,221,304,228
-Austria (Euro),,,
-All Areas,280,245,184
-Belgium (Euro),,,
-All Areas,360,315,236
-Benin (CFA Franc(XOF)),,,
-Cotonou,206,"118,000","88,500"
-Malanville,104,"59,500","44,600"
-Parakou,112,"64,200","48,200"
-Porto Novo,133,"76,300","57,200"
-Possotome,153,"87,700","65,800"
-Lokossa,119,"68,100","51,100"
-Grand Popo,138,"79,500","59,600"
-Ouidah (Casa Del Papa),181,"104,000","78,000"
-Porto Novo (Les Ambassadeurs),195,"112,000","84,000"
-Cotonou (La Maison Rouge),272,"156,000","117,000"
-Cotonou (Golden Tulip de Diplomate),317,"182,000","137,000"
-Elsewhere,99,"57,000","42,800"
-Bosnia and Herzegovina (US Dollar),,,
-Sarajevo,124,212,159
-Mostar,120,205,154
-Banja Luka,110,188,142
-Travnik,85,146,110
-"Sarajevo (Bristol, Central, Europe, Marriott Courtyard)",155,265,199
-Elsewhere,90,154,116
-Brunei (Brunei Dollar),,,
-All Areas,180,247,185
-Bulgaria (US Dollar),,,
-Sofia,216,370,277
-"Burgas, Plovdiv, Stara Zagora, Varna",104,178,134
-"Sofia (Hilton, Arena di Serdika)",262,449,337
-Elsewhere,78,134,101
-Burkina Faso (CFA Franc(XOF)),,,
-Ouagadougou,261,"150,000","113,000"
-Bobo-Dioulasso,139,"79,900","59,900"
-Ouagadougou (Laico Ouaga 2000),437,"251,000","188,000"
-Elsewhere,121,"69,700","52,300"
-Cameroon (CFA Franc(XAF)),,,
-Yaounde,216,"124,000","93,000"
-Douala,190,"109,000","81,800"
-Yaounde (Hotel Hilton),341,"196,000","147,000"
-Elsewhere,119,"68,100","51,100"
-Canada (Canadian Dollar),,,
-Ottawa,347,455,341
-Calgary,267,350,263
-Halifax,270,354,266
-Montreal,319,418,314
-Toronto,354,465,349
-Vancouver,368,483,362
-Elsewhere,245,321,241
-Cape Verde (CV Escudo),,,
-Praia,183,"17,700","13,300"
-Mindelo,172,"16,600","12,500"
-Santa Maria (Sal),248,"23,900","17,900"
-Boa Vista Island,223,"21,500","16,100"
-Elsewhere,132,"12,700","9,530"
-Central African Rep. (CFA Franc(XAF)),,,
-Bangui,199,"114,000","85,500"
-Boali,110,"63,400","47,600"
-Bangui (Ledger Plaza),317,"182,000","137,000"
-Elsewhere,88,"50,600","38,000"
-Chad (CFA Franc(XAF)),,,
-N'djamena,166,"95,400","71,600"
-"N'Djaména (Hilton, La Residence, Radisson Blu)",265,"152,000","114,000"
-Elsewhere,124,"71,300","53,500"
-Comoros (Comoros Franc),,,
-Moroni,221,"95,200","71,400"
-Elsewhere,133,"57,400","43,100"
-Congo (CFA Franc(XAF)),,,
-Brazzaville,265,"152,000","114,000"
-Dolisie,223,"128,000","96,000"
-Owando,164,"94,300","70,700"
-Pointe-Noire,320,"184,000","138,000"
-Ollombo (Alima Palace),481,"276,000","207,000"
-"Brazzaville (Hotel Ledger, Olympic Palace, Radisson Blu)",444,"255,000","191,000"
-Elsewhere,140,"80,400","60,300"
-Cook Islands (US Dollar),,,
-Rarotonga,314,476,358
-Elsewhere,251,381,285
-Cote d Ivoire (CFA Franc(XOF)),,,
-Abidjan,209,"120,000","90,000"
-Assinie,226,"130,000","97,500"
-San Pedro (Sophia),158,"90,900","68,200"
-Grand Bassam,136,"78,000","58,500"
-Assinie (Coucoue Lodge),270,"155,000","116,000"
-Grand Bassam (Afrikaland),181,"104,000","78,000"
-"Abidjan (Azalai, Novotel and Tiama)",350,"201,000","151,000"
-Abidjan (Radisson Blu & Sofitel Ivoire),401,"230,000","173,000"
-Yamoussokro (HP Resort & President),188,"108,000","81,000"
-Abidjan (Seen Hotel Abidjan Plateau),239,"137,000","103,000"
-Elsewhere,113,"64,700","48,500"
-Cyprus (Euro),,,
-Nicosia,182,159,119
-Elsewhere,166,145,109
-"Larnaca, Limassol, Pafos",250,219,164
-Denmark (Danish Krone),,,
-All Areas,379,"2,470","1,850"
-Equatorial Guinea (CFA Franc(XAF)),,,
-Malabo,230,"132,000","99,000"
-Bata,219,"126,000","94,500"
-Mongomo,273,"157,000","118,000"
-Malabo (Hilton),510,"295,000","221,000"
-"Malabo (Sofitel President, Tres de Agosto)",343,"197,000","148,000"
-Malabo (Sofitel Sipopo),467,"268,000","201,000"
-Elsewhere,108,"62,200","46,700"
-Estonia (Euro),,,
-Tallinn,299,262,197
-Elsewhere,258,226,170
-Finland (Euro),,,
-Helsinki,327,286,215
-Elsewhere,262,229,172
-France (Euro),,,
-Paris,374,327,245
-Elsewhere,319,279,209
-Gabon (CFA Franc(XAF)),,,
-Francesville,147,"84,500","63,400"
-Libreville,340,"195,000","146,000"
-Lambarene,169,"96,900","72,700"
-Oyem,151,"86,800","65,100"
-Port Gentil,341,"196,000","147,000"
-"Libreville (Le Cristal, Royal Palm)",560,"319,000","239,000"
-Libreville (Park Inn by Radisson),448,"257,000","193,000"
-Libreville (Radisson Blu Okoume Palace),660,"379,000","284,000"
-Elsewhere,117,"67,100","50,300"
-Germany (Euro),,,
-Berlin,322,282,212
-Bonn,273,239,179
-Hamburg,304,266,200
-Munich,297,260,195
-Elsewhere,261,228,171
-Greece (Euro),,,
-Athens,289,253,190
-Thessaloniki,160,140,105
-Elsewhere,152,133,100
-Guinea Bissau (CFA Franc(XOF)),,,
-Bissau,163,"93,800","70,400"
-Bafata,107,"61,500","46,100"
-Bissau (Ledger Plaza),277,"159,000","119,000"
-Quinhamel,117,"67,300","50,500"
-Elsewhere,74,"42,300","31,700"
-Iran (Iranian Rial),,,
-Tehran,137,"10,791,000","8,093,000"
-Mashad,81,"6,391,000","4,793,000"
-Elsewhere,76,"5,988,000","4,491,000"
-Kerman (Pars),104,"8,170,000","6,128,000"
-Ireland (Euro),,,
-All Areas,301,263,197
-Italy (Euro),,,
-Rome,317,277,208
-Florence,258,226,170
-Milan,310,271,203
-Turin,267,234,176
-Venice,351,307,230
-Trieste,253,221,166
-Naples,294,257,193
-Palermo,306,268,201
-Bologna,269,235,176
-Elsewhere,166,145,109
-Japan (Yen),,,
-Tokyo,317,"35,200","26,400"
-Fukuoka,255,"28,300","21,200"
-Kobe,223,"24,700","18,500"
-Kyoto,285,"31,600","23,700"
-Nagoya,260,"28,800","21,600"
-Osaka,256,"28,400","21,300"
-Yokohama,290,"32,200","24,200"
-Tokyo (Imperial),550,"61,300","46,000"
-"Tokyo (New Otani, Okura)",476,"52,800","39,600"
-Tokyo (Palace),680,"75,100","56,300"
-Elsewhere,206,"22,800","17,100"
-Kiribati (AUL Dollar),,,
-Christmas Island,117,161,121
-All Other Areas,138,189,142
-Outer Islands,114,156,117
-Latvia (US Dollar),,,
-Jurmala,239,209,157
-Elsewhere,143,125,94
-Riga,206,180,136
-Lesotho (Loti),,,
-Maseru,96,"1,360","1,020"
-Leribe,84,"1,200",900
-Mohale's Hoek,84,"1,200",900
-Teyateyaneng,109,"1,550","1,160"
-Butha-Buthe (New Oxbow Lodge),88,"1,250",940
-Leribe (Maliba Mountain Lodge),316,"4,500","3,380"
-Maseru (Avani Lesotho Hotel & Casino),225,"3,200","2,400"
-Maseru (Avani Maseru Sun),141,"2,000","1,500"
-Maseru (Mpilo Boutique Hotel),236,"3,360","2,520"
-Qacha's Neck (New Central Guest House),86,"1,230",920
-Thaba-Tseka (Motherland Guest House & Orion Katse Lodge),84,"1,200",900
-Butha-Buthe (Afriski Mountain Resort),105,"1,500","1,130"
-Elsewhere,76,"1,080",810
-Lithuania (Euro),,,
-Vilnius,223,195,146
-Elsewhere,150,131,98
-Luxembourg (Euro),,,
-All Areas,357,312,234
-Mali (CFA Franc(XOF)),,,
-Bamako,232,"133,000","99,800"
-Bamako (Radisson Bamako),266,"153,000","115,000"
-Elsewhere,126,"72,300","54,200"
-Malta (Euro),,,
-All Areas,319,279,209
-Monaco (Euro),,,
-All Areas,336,294,221
-Montenegro  (Euro),,,
-Podgorica,153,134,101
-Budva (Hotel Splendid),288,252,189
-Kolasin (Hotel Bianca),120,105,79
-"Bar, Becici, Budva, Kotor, Milocer, Petrovac, Tivat, Herceg Novi, Ulcinj (The Coast)",146,128,96
-Tivat (Regent),197,172,129
-Elsewhere,95,83,62
-Namibia (Namibia Dollar),,,
-Windhoek,176,"2,510","1,880"
-Katima Mulilo,150,"2,140","1,610"
-Keetmanshoop,108,"1,530","1,150"
-Oshakati,105,"1,490","1,120"
-Rundu,134,"1,900","1,430"
-Swakopmund,185,"2,630","1,970"
-Tsumeb,139,"1,980","1,490"
-Walvis Bay,150,"2,130","1,600"
-Ondangwa,117,"1,670","1,250"
-Opuwo,110,"1,560","1,170"
-Otjiwarongo,98,"1,400","1,050"
-Henties Bay,111,"1,580","1,190"
-Luderitz (Nest),219,"3,110","2,330"
-Okahandja,200,"2,850","2,140"
-Omaruru,259,"3,680","2,760"
-Otavi,97,"1,380","1,040"
-Gobabis,127,"1,810","1,360"
-Rundu (Hakusembe River Lodge),179,"2,550","1,910"
-Tsumkwe,103,"1,470","1,100"
-Otjiwarongo (Okondjima Lodge),180,"2,560","1,920"
-Swakopmund (Swakopmund Entertainment Centre),261,"3,720","2,790"
-Karibib (Etusis Lodge),117,"1,660","1,250"
-Sossesvlei (Sossesvlei Lodge),278,"3,950","2,960"
-"Mariental (Camelthorn, Suricate, Zebra Lodges)",174,"2,480","1,860"
-Windhoek (Avani Windhoek),432,"6,150","4,610"
-Luderitz (Sea View Zum Sperrgebiet),130,"1,850","1,390"
-Elsewhere,83,"1,180",890
-Nauru (AUL Dollar),,,
-All Areas,204,280,210
-Netherlands (Euro),,,
-All Areas,329,288,216
-New Caledonia (CFP Franc),,,
-All Areas,308,"32,200","24,200"
-New Zealand (NZE Dollar),,,
-Elsewhere,259,393,295
-Auckland and Wellington,285,433,325
-Niger (CFA Franc(XOF)),,,
-Niamey,186,"107,000","80,300"
-Niamey (Hotel Gaweye),256,"147,000","110,000"
-Niamey (Soluxe),296,"170,000","128,000"
-Elsewhere,152,"87,500","65,600"
-Niue (NZE Dollar),,,
-All areas,221,336,252
-Norway (Norwegian Krone),,,
-All Areas,285,"2,380","1,790"
-Portugal (Euro),,,
-Lisbon,389,340,255
-Elsewhere,150,131,98
-Porto,327,286,215
-Senegal (CFA Franc(XOF)),,,
-Dakar,265,"152,000","114,000"
-M'Bour,185,"106,000","79,500"
-M'Bour (Hotel Lamantin Beach),305,"175,000","131,000"
-Dakar (King Fahd Palace),362,"208,000","156,000"
-Toubacouta (Les Paletuviers),181,"104,000","78,000"
-Elsewhere,122,"70,000","52,500"
-Singapore (SIN Dollar),,,
-All Areas,393,540,405
-Slovak Republic (Euro),,,
-Bratislava,238,208,208
-Elsewhere,169,148,148
-"Slovenia, Republic of (Euro)",,,
-All Areas,266,233,175
-South Africa (Rand),,,
-Pretoria,169,"2,400","1,800"
-Bloemfontein,164,"2,340","1,760"
-Capetown,214,"3,050","2,290"
-Durban,206,"2,930","2,200"
-East London,223,"3,170","2,380"
-Johannesburg,284,"4,040","3,030"
-Magaliesburg/Muldersdrift,216,"3,080","2,310"
-Musina,143,"2,040","1,530"
-Polokwane,134,"1,910","1,430"
-Johannesburg-Sandton,264,"3,760","2,820"
-Sun City,202,"2,870","2,150"
-Sun City (Special Hotels),277,"3,940","2,960"
-Johannesburg-Sandton (Sandton Sun),460,"6,550","4,910"
-Elsewhere,106,"1,510","1,130"
-Spain (Euro),,,
-Madrid,303,265,199
-Barcelona,262,229,172
-"Las Palmas, Canary Islands",257,225,169
-Elsewhere,207,181,136
-Swaziland (Lilangeni),,,
-Mbabane,182,"2,590","1,940"
-Ezulwini,242,"3,450","2,590"
-Manzini,155,"2,210","1,660"
-Piggs Peak,134,"1,910","1,430"
-Elsewhere,112,"1,590","1,190"
-Sweden (Swedish Krona),,,
-Stockholm,383,"3,480","2,610"
-Elsewhere,319,"2,900","2,180"
-Switzerland (Swiss Franc),,,
-All Areas,385,383,287
-Togo (CFA Franc(XOF)),,,
-Lome,185,"106,000","79,500"
-Lome (Sarakawa),320,"184,000","138,000"
-"Lome (Palm Beach, Sancta Maria)",268,"154,000","116,000"
-Elsewhere,82,"47,100","35,300"
-Tokelau (NZE Dollar),,,
-All Areas,84,127,95
-Turkey (US Dollar),,,
-Ankara,171,"1,180",880
-Antalya,185,"1,270",960
-Diyarbakir,135,930,690
-Istanbul,235,"1,620","1,210"
-Izmir,191,"1,310",980
-Gaziantep,133,910,690
-Sanliurfa,135,930,690
-Elsewhere,124,850,640
-Tuvalu (AUL Dollar),,,
-All Areas,195,268,201
-United Kingdom (U.K. Pound),,,
-London,380,297,223
-Elsewhere,334,261,196
-Venezuela (US Dollar),,,
-Caracas,146,"36,284,000","27,337,000"
-San Cristobal,52,"12,923,000","9,692,000"
-Barinas,56,"13,917,000","10,438,000"
-Isla de Margarita,108,"26,840,000","20,130,000"
-La Guaira,146,"36,284,000","27,337,000"
-Maracaibo,90,"22,367,000","16,899,000"
-Cumana,78,"19,385,000","14,663,000"
-Maracay and Valencia,98,"24,355,000","18,390,000"
-Merida,67,"16,651,000","12,426,000"
-Puerto Ordaz,112,"27,834,000","20,876,000"
-Punto Fijo,73,"18,142,000","13,669,000"
-"Barcelona, Puerto La Cruz",109,"27,089,000","20,379,000"
-Barquisimieto,100,"24,852,000","18,639,000"
-Maturin,68,"16,899,000","12,675,000"
-Elsewhere,47,"11,680,000","8,698,000"
-"Yemen, Republic of (US Dollar)",,,
-Sana'a,150,"78,200","58,900"
-Aden,134,"69,900","52,700"
-Hodeidah,104,"54,200","40,700"
-Socotra,127,"66,200","49,500"
-Taiz (Al-Saeed),184,"96,000","72,000"
-Mukalla (Ramada),144,"75,100","56,300"
-"Sana'a (Movenpick, Sheba)",220,"115,000","86,100"
-Sana'a (DTF-Former Sheraton),291,"152,000","114,000"
-Elsewhere,100,"52,200","39,100"
+Country - (Currency) Area,First 60 Days US$,First 60 Days Local,>60 Days Local,Room as % of DSA,Effective Date d/mm/y,Survey Date d/mm/y,Notes
+Afghanistan (Afghani),,,,,,,
+Kabul,162,"11,700","11,700",70,01/08/18,01/04/17,
+Kabul (Kabul Serena),290,"20,900","20,900",69,01/08/18,01/04/17,1
+Elsewhere,96,"6,920","6,920",70,01/08/18,01/04/17,
+Albania (Albania Lek(e)),,,,,,,
+Tirana,147,"15,400","11,500",66,01/08/18,01/07/17,
+Tirana (Rogner),165,"17,300","13,000",69,01/08/18,01/07/17,1
+Tirana (Sheraton),193,"20,200","15,200",54,01/08/18,01/07/17,1
+"Durres (Adriatic, Hotel Palace)",200,"21,000","15,700",68,01/08/18,01/07/17,1
+Korca (Life Gallery Hotel),116,"12,200","9,120",60,01/08/18,01/07/17,1
+"Saranda (Butrinti, Demi Hotel)",139,"14,600","10,900",67,01/08/18,01/07/17,1
+Shkodra,133,"13,900","10,500",61,01/08/18,01/07/17,
+Vlore,106,"11,100","8,390",53,01/08/18,01/07/17,
+Elsewhere,78,"8,180","6,190",50,01/08/18,01/07/17,
+Algeria (Algerian Dinar),,,,,,,
+Algiers,258,"30,400","22,800",57,01/08/18,01/04/18,
+Algiers (El-Aurassi & El-Djazair),311,"36,600","27,500",57,01/08/18,01/04/18,1
+Algiers (Sheraton),476,"56,100","42,100",68,01/08/18,01/04/18,1
+Algiers (Sofitel),408,"48,000","36,000",58,01/08/18,01/04/18,1
+Adrar,171,"20,100","15,100",47,01/08/18,01/04/18,
+Annaba (Golden Tulip Sabri),195,"23,000","17,300",59,01/08/18,01/04/18,1
+Annaba (Sheraton),272,"32,000","24,000",57,01/08/18,01/04/18,1
+Constantine (Marriott),311,"36,600","27,500",63,01/08/18,01/04/18,1
+Constantine (Novotel),201,"23,700","17,800",59,01/08/18,01/04/18,1
+Oran,156,"18,400","13,800",50,01/08/18,01/04/18,
+Oran (Hotel Royal),280,"33,000","24,700",63,01/08/18,01/04/18,1
+Oran (Le Meridien),230,"27,100","20,300",58,01/08/18,01/04/18,1
+Oran (Sheraton),246,"29,000","21,800",55,01/08/18,01/04/18,1
+Setif (Novotel),217,"25,600","19,200",61,01/08/18,01/04/18,1
+Tamanrasset,166,"19,500","14,600",51,01/08/18,01/04/18,
+Tlemcen (Renaissance),259,"30,500","22,900",57,01/08/18,01/04/18,1
+Elsewhere,110,"12,900","9,680",51,01/08/18,01/04/18,
+American Samoa (US Dollar),,,,,,,
+All Areas,238,238,179,61,01/10/11,01/10/11,
+Andorra (Euro),,,,,,,
+All Areas,169,144,108,49,01/08/18,01/08/18,
+Angola (Kwanza),,,,,,,
+Luanda,230,"58,400","43,900",61,01/08/18,01/07/18,
+"Luanda (Baia, Skyna, Tropico)",418,"106,000","79,700",70,01/08/18,01/07/18,1
+Luanda (Presidente),363,"92,100","69,000",68,01/08/18,01/07/18,1
+Cabinda,150,"38,100","28,700",65,01/08/18,01/07/18,
+Dundu,158,"40,100","30,200",59,01/08/18,01/07/18,
+Huambo,153,"38,800","29,200",55,01/08/18,01/07/18,
+Lobito,168,"42,600","32,000",74,01/08/18,01/07/18,
+Lubango,134,"34,000","25,600",64,01/08/18,01/07/18,
+Malange,154,"39,100","29,400",55,01/08/18,01/07/18,
+Ndalatando,139,"35,300","26,400",63,01/08/18,01/07/18,
+Uige,125,"31,700","23,900",63,01/08/18,01/07/18,
+Elsewhere,122,"31,000","23,300",55,01/08/18,01/07/18,
+Anguilla (E.C. Dollar),,,,,,,
+All  Areas (15 Dec. - 14 Apr.),610,"1,650","1,240",66,01/10/17,01/10/17,
+All Areas  (15 Apr. - 14 Dec.),426,"1,150",860,57,01/10/17,01/10/17,
+Antigua and Barbuda (E.C. Dollar),,,,,,,
+All  Areas (1 Apr. - 30 Nov.),337,910,680,64,01/10/17,01/10/17,
+All  Areas (1 Dec. - 31 Mar.),359,970,730,66,01/10/17,01/10/17,
+Argentina (Argentine Peso),,,,,,,
+Buenos Aires,229,"6,260","4,710",78,01/08/18,01/01/18,
+Bahia Blanca & Mar del Plata,178,"4,870","3,670",75,01/08/18,01/01/18,
+Bariloche (Edelweiss),222,"6,070","4,570",78,01/08/18,01/01/18,1
+Comodoro Rivadavia,151,"4,130","3,090",71,01/08/18,01/01/18,
+Cordoba,131,"3,580","2,680",72,01/08/18,01/01/18,
+Formosa,162,"4,430","3,340",62,01/08/18,01/01/18,
+La Rioja,124,"3,390","2,540",76,01/08/18,01/01/18,
+Mendoza,175,"4,790","3,580",75,01/08/18,01/01/18,
+Neuquen,182,"4,980","3,750",76,01/08/18,01/01/18,
+Resistencia & Rio Gallegos,143,"3,910","2,930",73,01/08/18,01/01/18,
+Salta,156,"4,270","3,200",75,01/08/18,01/01/18,
+San Juan & San Salvador de Jujuy,139,"3,800","2,850",72,01/08/18,01/01/18,
+Ushuaia,200,"5,470","4,100",72,01/08/18,01/01/18,
+Elsewhere,98,"2,680","2,010",68,01/08/18,01/08/18,
+Armenia (Armenian Dram),,,,,,,
+Yerevan,158,"76,100","57,100",58,01/07/18,01/12/17,
+Elsewhere,127,"61,000","45,800",59,01/07/18,01/12/17,
+Aruba (N.A. Gulder),,,,,,,
+All Areas (15 Apr. - 15 Dec.),295,550,410,55,01/08/18,01/06/17,
+All Areas (16 Dec. - 14 Apr.),396,730,550,63,01/08/18,01/06/17,
+Australia (AUL Dollar),,,,,,,
+"Canberra, Melbourne & Sydney",336,453,340,58,01/08/18,01/02/17,
+Elsewhere,225,304,228,58,01/08/18,01/02/17,
+Austria (Euro),,,,,,,
+All Areas,287,245,184,44,01/08/18,01/09/17,
+Azerbaijan ((new)Azerbaijan Manat),,,,,,,
+Baku,179,304,227,62,01/08/18,01/09/17,
+Baku (Four Seasons),332,560,423,61,01/08/18,01/09/17,1
+Baku (JV Absheron Marriott),256,435,326,65,01/08/18,01/09/17,1
+Tabriz (Nakhichevan),121,205,154,63,01/08/18,01/09/17,1
+Elsewhere,92,156,117,59,01/08/18,01/09/17,
+Bahamas (Bahamian Dollar),,,,,,,
+All Areas (20 Dec.-20 Apr.),447,447,335,60,01/03/16,01/03/16,
+All Areas (21 Apr.-19 Dec.),434,434,326,59,01/03/16,01/03/16,
+Bahrain (Bahraini Dinar),,,,,,,
+Manama,280,106,80,60,01/08/18,01/05/18,
+Manama (Jumeirah Royal Saray & Ritz Carlton),510,193,145,61,01/08/18,01/05/18,1
+Manama (Movenpick),325,123,92,54,01/08/18,01/05/18,1
+Bangladesh (Bangladesh Taka),,,,,,,
+Dhaka,133,"11,200","8,420",64,01/08/18,01/08/18,
+"Dhaka (Amari, Pan Pacific Sonargaon)",305,"25,700","19,300",63,01/08/18,01/08/18,1
+"Dhaka (Le Meridien, Radisson Water Garden, Westin)",358,"30,200","22,700",60,01/08/18,01/08/18,1
+Dhaka (Longbeach Suites),187,"15,800","11,800",58,01/08/18,01/08/18,1
+Dhaka (Six Seasons),260,"21,900","16,400",62,01/08/18,01/08/18,1
+Dhaka (The Way),218,"18,400","13,800",68,01/08/18,01/08/18,1
+Chittagong (Agrabad and Peninsula),150,"12,600","9,520",51,01/08/18,01/08/18,1
+Chittagong (Radisson Blu),170,"14,300","10,800",59,01/08/18,01/08/18,1
+Cox's Bazaar,93,"7,830","5,900",57,01/08/18,01/08/18,
+"Sylhet (Grand Sultan, The Palace)",196,"16,500","12,400",67,01/08/18,01/08/18,1
+Sylhet (Nazimgarh Resort),146,"12,300","9,260",65,01/08/18,01/08/18,1
+Elsewhere,79,"6,650","6,650",58,01/08/18,01/08/18,
+Barbados (Barbados Dollar),,,,,,,
+All Areas (16 Apr. - 15 Dec.),425,850,640,52,01/10/17,01/10/17,
+All Areas (16 Dec. - 15 Apr.),475,950,710,62,01/10/17,01/10/17,
+Belarus (New Belarusian Ruble),,,,,,,
+Minsk,249,494,371,51,01/08/18,01/02/18,
+Brest,189,375,282,59,01/08/18,01/02/18,
+Homiel,148,294,220,53,01/08/18,01/02/18,
+Hrodna (Non-residents),195,387,290,58,01/08/18,01/02/18,
+Hrodna (Residents),185,367,276,56,01/08/18,01/02/18,
+Mahiliou,131,260,195,46,01/08/18,01/02/18,
+Viciebsk,118,234,177,50,01/08/18,01/02/18,
+Elsewhere,92,183,137,46,01/08/18,01/02/18,
+Belgium (Euro),,,,,,,
+All Areas,369,315,236,58,01/08/18,01/12/17,
+Belize (Belize Dollar),,,,,,,
+Belize City,260,520,390,66,01/06/18,01/06/18,
+"San Pedro (The Villas at Banyan Bay, Sun Breeze Hotel, Victoria House)",520,"1,030",770,53,01/07/18,01/07/18,1
+Elsewhere,214,428,321,57,01/06/18,01/06/18,
+Benin (CFA Franc(XOF)),,,,,,,
+Cotonou,211,"118,000","88,500",53,01/08/18,01/10/17,
+Cotonou (Golden Tulip de Diplomate),325,"182,000","137,000",69,01/08/18,01/10/17,1
+Cotonou (La Maison Rouge),278,"156,000","117,000",62,01/08/18,01/10/17,1
+Grand Popo,142,"79,500","59,600",39,01/08/18,01/10/17,
+Lokossa,122,"68,100","51,100",42,01/08/18,01/10/17,
+Malanville,106,"59,500","44,600",49,01/08/18,01/10/17,
+Ouidah (Casa Del Papa),186,"104,000","78,000",48,01/08/18,01/10/17,1
+Parakou,115,"64,200","48,200",43,01/08/18,01/10/17,
+Porto Novo,136,"76,300","57,200",47,01/08/18,01/10/17,
+Porto Novo (Les Ambassadeurs),200,"112,000","84,000",54,01/08/18,01/10/17,1
+Possotome,156,"87,700","65,800",48,01/08/18,01/10/17,
+Elsewhere,102,"57,000","42,800",43,01/08/18,01/10/17,
+Bermuda (Bermuda Dollar),,,,,,,
+All Areas (1 Dec. - 14 Mar.),459,459,344,72,01/04/10,01/04/10,
+All Areas (15 Mar. - 30 Nov.),510,510,383,72,01/04/10,01/04/10,
+Bhutan (Bhutan Ngultrum),,,,,,,
+Thimphu,119,"8,200","6,150",64,01/08/18,01/02/18,
+Thimphu (Le Meridien),281,"19,300","14,500",74,01/08/18,01/02/18,1
+Thimphu (Taj Tashi),428,"29,400","22,100",55,01/08/18,01/02/18,1
+Paro,91,"6,230","4,670",62,01/08/18,01/02/18,
+Phuentsholing,85,"5,810","4,360",61,01/08/18,01/02/18,
+Elsewhere,90,"6,190","4,640",61,01/08/18,01/02/18,
+Bolivia (Boliviano),,,,,,,
+La Paz,165,"1,140",860,62,01/04/18,01/07/17,
+Cochabamba,110,760,570,61,01/04/18,01/07/17,
+Santa Cruz,171,"1,180",880,52,01/04/18,01/07/17,
+Elsewhere,87,600,449,54,01/04/18,01/07/17,
+Bosnia and Herzegovina (Convertible Mark),,,,,,,
+Sarajevo,124,207,155,55,01/08/18,01/08/17,
+Banja Luka,110,184,139,47,01/08/18,01/08/17,
+Mostar,120,201,150,43,01/08/18,01/08/17,
+"Sarajevo (Bristol, Central, Europe, Marriott Courtyard)",155,259,194,67,01/08/18,01/08/17,1
+Travnik,85,142,107,56,01/08/18,01/08/17,
+Elsewhere,90,150,114,55,01/08/18,01/08/17,
+Botswana (Botswana Pula),,,,,,,
+Gaborone,217,"2,220","1,670",66,01/08/18,01/04/18,
+Francistown,188,"1,920","1,440",68,01/08/18,01/04/18,
+"Francistown (Marang, Thapama Lodge)",223,"2,280","1,710",69,01/08/18,01/04/18,1
+Ghanzi,202,"2,070","1,550",69,01/08/18,01/04/18,
+Jwaneng,205,"2,100","1,580",73,01/08/18,01/04/18,
+Kasane,227,"2,320","1,740",65,01/08/18,01/04/18,
+Kasane (Chobe Game Lodge),493,"5,050","3,790",87,01/08/18,01/04/18,"1,7"
+"Kasane (Chobe Marina Lodge, Chobe Safari Lodge, Mowana Lodge) Resident",255,"2,610","1,960",65,01/08/18,01/04/18,1
+Mahalapye,187,"1,910","1,430",70,01/08/18,01/04/18,
+Maun,205,"2,100","1,580",58,01/08/18,01/04/18,
+Nata,167,"1,710","1,280",60,01/08/18,01/04/18,
+Palapye,186,"1,900","1,430",64,01/08/18,01/04/18,
+Selebi-Phikwe,169,"1,730","1,300",63,01/08/18,01/04/18,
+Shakawe,260,"2,660","2,000",61,01/08/18,01/04/18,
+Tsabong,205,"2,100","1,580",68,01/08/18,01/04/18,
+Elsewhere,148,"1,510","1,130",60,01/08/18,01/04/18,
+Brazil (Brazilian Real),,,,,,,
+Brasilia,151,560,420,57,01/08/18,01/08/18,
+Campinas,129,478,359,59,01/08/18,01/08/18,
+Fortaleza,125,464,348,55,01/08/18,01/08/18,
+Porto Allegre,128,476,357,56,01/08/18,01/08/18,
+Recife,140,520,390,60,01/08/18,01/08/18,
+Rio De Janeiro,159,590,443,60,01/08/18,01/08/18,
+Sao Paulo,153,570,428,63,01/08/18,01/08/18,
+Elsewhere,107,398,299,57,01/08/18,01/08/18,
+British Virgin Islands (US Dollar),,,,,,,
+All Areas (15 Dec. - 15 Apr.),464,464,348,70,01/10/17,01/10/17,
+All Areas (16 Apr. -14 Dec.),422,422,317,69,01/10/17,01/10/17,
+Brunei (Brunei Dollar),,,,,,,
+All Areas,181,247,185,66,01/08/18,01/07/15,
+Bulgaria (New Lev),,,,,,,
+Sofia,216,361,271,66,01/08/18,01/12/17,
+"Sofia (Hilton, Arena di Serdika)",262,438,329,70,01/08/18,01/12/17,1
+"Burgas, Plovdiv, Stara Zagora, Varna",104,174,130,56,01/08/18,01/12/17,
+Elsewhere,78,130,99,52,01/08/18,01/12/17,
+Burkina Faso (CFA Franc(XOF)),,,,,,,
+Ouagadougou,268,"150,000","113,000",56,01/08/18,01/05/18,
+Ouagadougou (Laico Ouaga 2000),448,"251,000","188,000",66,01/08/18,01/05/18,1
+Bobo-Dioulasso,143,"79,900","59,900",50,01/08/18,01/05/18,
+Elsewhere,124,"69,700","52,300",54,01/08/18,01/05/18,
+Burundi (Burundi Franc),,,,,,,
+Bujumbura,235,"415,000","311,000",58,01/08/18,01/08/17,
+Gitega and Ngozi,94,"166,000","125,000",28,01/08/18,01/08/17,
+Rumonge,221,"390,000","293,000",50,01/08/18,01/08/17,
+Elsewhere,61,"108,000","81,300",27,01/08/18,01/08/17,
+Cambodia (Cambodian Riel),,,,,,,
+Phnom Penh,146,"592,000","446,000",57,01/08/18,01/09/17,
+Phnom Penh (Himawari),292,"1,184,000","888,000",70,01/08/18,01/09/17,1
+"Phnom Penh (Intercontinental, Raffles Le Royal, Sofitel Phnom Penh Phokeethra)",303,"1,229,000","920,000",66,01/08/18,01/09/17,1
+Phnom Penh (Sokha Phnom Penh),228,"925,000","693,000",66,01/08/18,01/09/17,1
+Siem Reap,132,"535,000","401,000",62,01/08/18,01/09/17,
+Siem Reap (Sofitel Phokeethra Royal Angkor),348,"1,411,000","1,058,000",67,01/08/18,01/09/17,1
+"Siem Reap (Sokha, Victoria Angkor)",189,"766,000","576,000",63,01/08/18,01/09/17,1
+Sihanoukville,116,"470,000","353,000",37,01/08/18,01/09/17,
+"Sihanoukville (Independence, Palm Palace)",135,"547,000","410,000",50,01/08/18,01/09/17,1
+Sihanoukville (Sokha Beach),233,"945,000","710,000",55,01/08/18,01/09/17,1
+Elsewhere,57,"231,000","174,000",46,01/08/18,01/09/17,
+Cameroon (CFA Franc(XAF)),,,,,,,
+Yaounde,221,"124,000","93,000",54,01/08/18,01/07/18,
+Yaounde (Hotel Hilton),350,"196,000","147,000",54,01/08/18,01/07/18,1
+Douala,194,"109,000","81,800",56,01/08/18,01/07/18,
+Elsewhere,122,"68,100","51,100",55,01/08/18,01/07/18,
+Canada (Canadian Dollar),,,,,,,
+Ottawa,349,455,341,59,01/08/18,01/08/18,
+Calgary,269,350,263,55,01/08/18,01/08/18,
+Halifax,272,354,266,59,01/08/18,01/08/18,
+Montreal,321,418,314,59,01/08/18,01/08/18,
+Toronto,357,465,349,62,01/08/18,01/08/18,
+Vancouver,371,483,362,62,01/08/18,01/08/18,
+Elsewhere,247,321,241,53,01/08/18,01/08/18,
+Cape Verde (CV Escudo),,,,,,,
+Praia,188,"17,700","13,300",48,01/08/18,01/05/17,
+Boa Vista Island,228,"21,500","16,100",61,01/08/18,01/05/17,
+Mindelo,176,"16,600","12,500",50,01/08/18,01/05/17,
+Santa Maria (Sal),254,"23,900","17,900",61,01/08/18,01/05/17,
+Elsewhere,135,"12,700","9,530",38,01/08/18,01/05/17,
+Cayman Islands (CaymanI. Dollar),,,,,,,
+All Areas (1 Dec. - 30 Apr.),388,318,239,77,01/08/12,01/07/12,
+All Areas (1 May - 30 Nov.),307,252,189,74,01/08/12,01/07/12,
+Central African Rep. (CFA Franc(XAF)),,,,,,,
+Bangui,203,"114,000","85,500",47,01/08/18,01/02/18,
+Bangui (Ledger Plaza),325,"182,000","137,000",63,01/08/18,01/02/18,1
+Boali,113,"63,400","47,600",47,01/08/18,01/02/18,
+Elsewhere,90,"50,600","38,000",59,01/08/18,01/02/18,
+Chad (CFA Franc(XAF)),,,,,,,
+N'djamena,170,"95,400","71,600",59,01/08/18,01/02/18,
+"N'Djaména (Hilton, La Residence, Radisson Blu)",271,"152,000","114,000",58,01/08/18,01/02/18,1
+Elsewhere,127,"71,300","53,500",49,01/08/18,01/02/18,
+Chile (Chilean Peso),,,,,,,
+Santiago,323,"207,000","155,000",58,01/08/18,01/05/17,
+Elsewhere,220,"141,000","106,000",58,01/08/18,01/05/17,
+China (Renminbi),,,,,,,
+Beijing,230,"1,570","1,180",55,01/08/18,01/09/16,
+Changsha,168,"1,150",860,55,01/08/18,01/09/16,
+Chengdu,218,"1,490","1,120",57,01/08/18,01/09/16,
+Dalian,199,"1,360","1,020",49,01/08/18,01/09/16,
+Fuzhou,222,"1,510","1,140",53,01/08/18,01/09/16,
+Guangzhou,220,"1,500","1,130",54,01/08/18,01/09/16,
+Haikou,245,"1,670","1,250",53,01/08/18,01/09/16,
+Hangzhou,215,"1,470","1,100",58,01/08/18,01/09/16,
+Jinan,172,"1,170",880,53,01/08/18,01/09/16,
+Kunming,229,"1,560","1,170",61,01/08/18,01/09/16,
+Lhasa,219,"1,490","1,120",62,01/08/18,01/09/16,
+Nanjing,163,"1,110",830,49,01/08/18,01/09/16,
+Nanning,180,"1,230",920,60,01/08/18,01/09/16,
+Quingdao,208,"1,420","1,060",62,01/08/18,01/09/16,
+Sanya,198,"1,350","1,020",54,01/08/18,01/09/16,
+Shanghai,239,"1,630","1,220",61,01/08/18,01/09/16,
+Shenyang,193,"1,320",990,52,01/08/18,01/09/16,
+Shenzhen,220,"1,500","1,130",62,01/08/18,01/09/16,
+Suzhou,184,"1,250",940,57,01/08/18,01/09/16,
+Tianjin,186,"1,270",950,51,01/08/18,01/09/16,
+Wu Han,170,"1,160",870,54,01/08/18,01/09/16,
+Xi'An,203,"1,380","1,040",55,01/08/18,01/09/16,
+Xiamen,182,"1,240",930,49,01/08/18,01/09/16,
+Elsewhere,143,980,730,54,01/08/18,01/09/16,
+"China, Hong Kong (HongKong Dollar)",,,,,,,
+Hong Kong (SAR),371,"2,910","2,180",61,01/07/18,01/09/16,
+"China, Macau (Pataca)",,,,,,,
+Macau (SAR),240,"1,940","1,460",62,01/08/18,01/09/16,
+Colombia (Colombian Peso),,,,,,,
+Bogota,165,"475,000","356,000",75,01/08/18,01/08/18,
+Barranquilla,108,"311,000","233,000",73,01/08/18,01/08/18,
+Bucaramanga,113,"324,000","243,000",73,01/08/18,01/08/18,
+Buenaventura,106,"304,000","228,000",72,01/08/18,01/08/18,
+Cali,140,"403,000","302,000",74,01/08/18,01/08/18,
+Cartagena,170,"488,000","366,000",75,01/08/18,01/08/18,
+Cucuta,107,"308,000","231,000",70,01/08/18,01/08/18,
+Medellin,143,"412,000","309,000",74,01/08/18,01/08/18,
+Monteria,88,"252,000","189,000",68,01/08/18,01/08/18,
+Neiva,92,"263,000","197,000",70,01/08/18,01/08/18,
+Paipa,134,"386,000","290,000",73,01/08/18,01/08/18,
+Riohacha,101,"291,000","218,000",72,01/08/18,01/08/18,
+San Andres,130,"374,000","281,000",70,01/08/18,01/08/18,
+Santa Marta,122,"351,000","263,000",70,01/08/18,01/08/18,
+Villa de Leyva,159,"457,000","343,000",72,01/08/18,01/08/18,
+Villavicencio,93,"267,000","200,000",68,01/08/18,01/08/18,
+Elsewhere,98,"282,000","212,000",73,01/08/18,01/08/18,
+Comoros (Comoros Franc),,,,,,,
+Moroni,226,"95,200","71,400",55,01/08/18,01/07/17,
+Elsewhere,137,"57,400","43,100",52,01/08/18,01/07/17,
+Congo (CFA Franc(XAF)),,,,,,,
+Brazzaville,271,"152,000","114,000",62,01/08/18,01/04/17,
+"Brazzaville (Hotel Ledger, Olympic Palace, Radisson Blu)",455,"255,000","191,000",63,01/08/18,01/04/17,1
+Dolisie,228,"128,000","96,000",59,01/08/18,01/04/17,
+Ollombo (Alima Palace),492,"276,000","207,000",58,01/08/18,01/04/17,1
+Owando,168,"94,300","70,700",52,01/08/18,01/04/17,
+Pointe-Noire,328,"184,000","138,000",70,01/08/18,01/04/17,
+Elsewhere,143,"80,400","60,300",53,01/08/18,01/04/17,
+"Congo, Dem. Rep. (Franc Congolais)",,,,,,,
+Kinshasa,283,"459,000","344,000",63,01/08/18,01/06/18,
+"Kinshasa (Fleueve Congo, Pullman Grand)",410,"665,000","499,000",63,01/08/18,01/06/18,1
+Bandundu,144,"233,000","175,000",59,01/08/18,01/06/18,
+Boma,157,"254,000","191,000",57,01/08/18,01/05/18,
+Bukavu,205,"332,000","250,000",61,01/08/18,01/05/18,
+Bunia,150,"243,000","183,000",65,01/08/18,01/08/16,
+Goma,205,"332,000","250,000",61,01/08/18,01/08/16,
+Kananga,154,"250,000","188,000",68,01/08/18,01/08/16,
+Kindu,178,"289,000","217,000",59,01/08/18,01/05/18,
+Kisangani,161,"261,000","196,000",58,01/08/18,01/05/18,
+Lubumbashi,218,"353,000","266,000",60,01/08/18,01/06/18,
+Matadi,183,"297,000","222,000",57,01/08/18,01/05/18,
+Mbandaka,150,"243,000","183,000",53,01/08/18,01/11/16,
+Mbuji-Mayi,158,"256,000","193,000",64,01/08/18,01/05/18,
+Zongo (Seli Safari Zongo),253,"410,000","308,000",59,01/08/18,01/04/15,1
+Elsewhere,141,"229,000","172,000",58,01/08/18,01/04/15,
+Cook Islands (NZE Dollar),,,,,,,
+Rarotonga,314,460,346,61,01/08/18,01/11/16,
+Elsewhere,251,368,276,55,01/08/18,01/11/16,
+Costa Rica (COS Colon),,,,,,,
+San Jose,212,"120,000","90,300",56,01/08/18,01/08/17,
+Guanacaste,238,"135,000","102,000",59,01/08/18,01/08/17,
+Limon,220,"125,000","93,700",57,01/08/18,01/08/17,
+Puntarenas,245,"139,000","104,000",66,01/08/18,01/08/17,
+Elsewhere,169,"95,900","72,100",59,01/08/18,01/08/17,
+Cote d Ivoire (CFA Franc(XOF)),,,,,,,
+Abidjan,214,"120,000","90,000",51,01/08/18,01/04/18,
+"Abidjan (Azalai, Novotel and Tiama)",359,"201,000","151,000",53,01/08/18,01/04/18,1
+Abidjan (Radisson Blu & Sofitel Ivoire),410,"230,000","173,000",55,01/08/18,01/04/18,1
+Abidjan (Seen Hotel Abidjan Plateau),244,"137,000","103,000",59,01/08/18,01/06/18,1
+Assinie,232,"130,000","97,500",46,01/08/18,01/04/18,
+Assinie (Coucoue Lodge),277,"155,000","116,000",48,01/08/18,01/04/18,1
+Grand Bassam,139,"78,000","58,500",42,01/08/18,01/04/18,
+Grand Bassam (Afrikaland),186,"104,000","78,000",58,01/08/18,01/04/18,1
+San Pedro (Sophia),162,"90,900","68,200",47,01/08/18,01/04/18,1
+Yamoussokro (HP Resort & President),193,"108,000","81,000",45,01/08/18,01/04/18,1
+Elsewhere,115,"64,700","48,500",42,01/08/18,01/04/18,
+"Croatia, Republic of (Kuna)",,,,,,,
+Zagreb,220,"1,390","1,040",50,01/08/18,01/07/18,
+"Zagreb (Esplanade, Sheraton, Westin)",321,"2,030","1,520",49,01/08/18,01/07/18,1
+Brijuni,280,"1,770","1,330",59,01/08/18,01/07/18,
+Dubrovnik,309,"1,950","1,470",64,01/08/18,01/07/18,
+Opatija,291,"1,840","1,380",57,01/08/18,01/07/18,
+Sibenik,363,"2,300","1,720",70,01/08/18,01/07/18,
+Split,370,"2,340","1,760",55,01/08/18,01/07/18,
+Zadar,313,"1,980","1,490",60,01/08/18,01/07/18,
+Elsewhere,180,"1,140",850,56,01/08/18,01/07/18,
+Cuba (Cuban Peso),,,,,,,
+Havana,256,253,253,71,01/06/18,01/06/18,
+Cienfuegos,159,157,157,67,01/06/18,01/06/18,
+Santiago De Cuba,128,127,127,63,01/06/18,01/06/18,
+Varadero,193,191,191,87,01/06/18,01/06/18,7
+Elsewhere,122,121,121,64,01/06/18,01/06/18,
+Curacao (N.A. Gulder),,,,,,,
+All Areas (15 April - 15 December),288,530,401,55,01/08/18,01/06/17,
+All Areas (16 December - 14 April),322,600,449,58,01/08/18,01/06/17,
+Cyprus (Euro),,,,,,,
+Nicosia,186,159,119,53,01/08/18,01/08/18,
+"Larnaca, Limassol, Pafos",256,219,164,67,01/08/18,01/08/18,
+Elsewhere,170,145,109,55,01/08/18,01/08/18,
+Czech Republic (Czech Koruna),,,,,,,
+Prague,275,"6,030","4,510",64,01/08/18,01/05/18,
+Brno,169,"3,700","2,780",63,01/08/18,01/05/18,
+Cesky Krumlov,177,"3,880","2,910",62,01/08/18,01/05/18,
+Karlovy Vary,283,"6,200","4,640",63,01/08/18,01/06/18,
+Ostrava,130,"2,850","2,150",61,01/08/18,01/05/18,
+Elsewhere,118,"2,590","1,950",62,01/08/18,01/05/18,
+Denmark (Danish Krone),,,,,,,
+All Areas,388,"2,470","1,850",45,01/08/18,01/08/16,
+Djibouti (Djibouti Francs),,,,,,,
+Djibouti,187,"33,100","24,800",54,01/04/17,01/07/16,
+Djibouti (Bavaria Les Acacias),277,"49,000","36,800",60,01/04/17,01/07/16,1
+Djibouti (Djibouti Palace Kempinski),398,"70,500","52,900",67,01/04/17,01/07/16,1
+Djibouti (Sheraton),294,"52,000","39,000",62,01/04/17,01/07/16,1
+Tadjourah,124,"21,900","16,400",53,01/04/17,01/07/16,
+Elsewhere,115,"20,400","15,300",56,01/04/17,01/07/16,
+Dominica (E.C. Dollar),,,,,,,
+All Areas,393,"1,060",800,55,01/10/17,01/10/17,
+Dominican Republic (Dominican Peso),,,,,,,
+Santo Domingo,253,"12,600","9,440",60,01/08/18,01/12/17,
+Barahona,99,"4,920","3,680",73,01/08/18,01/12/17,
+Barahona (Casa Bonita Tropical Lodge),425,"21,100","15,800",60,01/08/18,01/12/17,1
+Bavaro/Punta Cana,307,"15,200","11,400",87,01/08/18,01/12/17,7
+Bayanhibe,217,"10,800","8,100",87,01/08/18,01/12/17,7
+Boca Chica (formerly East Santo Domingo),128,"6,360","4,770",86,01/08/18,01/12/17,7
+Constanza,85,"4,220","3,180",69,01/08/18,01/12/17,
+Jarabacoa,86,"4,270","3,230",73,01/08/18,01/12/17,
+Juan Dolio,154,"7,650","5,760",87,01/08/18,01/12/17,7
+La Romana,163,"8,100","6,060",87,01/08/18,01/12/17,7
+La Romana (Gran Bahia),310,"15,400","11,600",87,01/08/18,01/12/17,"1,7"
+Montecristi,201,"9,980","7,500",69,01/08/18,01/12/17,
+Puerto Plata,178,"8,840","6,660",87,01/08/18,01/12/17,7
+Samana,204,"10,100","7,600",87,01/08/18,01/12/17,7
+Santiago,209,"10,400","7,800",77,01/08/18,01/12/17,
+Elsewhere,63,"3,130","2,330",64,01/08/18,01/12/17,
+Ecuador (US Dollar),,,,,,,
+Quito,177,177,133,56,01/01/18,01/01/18,
+Quito (JW Marriott),217,217,163,58,01/01/18,01/01/18,1
+Cuenca,172,172,129,51,01/01/18,01/01/18,
+Galapagos,225,225,169,55,01/01/18,01/01/18,
+Galapagos (Red Mangrove),500,500,375,68,01/01/18,01/01/18,1
+Guayaquil,244,244,183,61,01/01/18,01/01/18,
+Manta,205,205,154,54,01/01/18,01/01/18,
+Santo Domingo,179,179,134,50,01/01/18,01/01/18,
+Elsewhere,132,132,99,51,01/01/18,01/01/18,
+Egypt (Egyptian Pound),,,,,,,
+Cairo,278,"4,980","3,740",58,01/08/18,01/08/18,
+Alexandria,228,"4,080","3,060",68,01/08/18,01/08/18,
+Aswan and Luxor,275,"4,920","3,690",52,01/08/18,01/08/18,
+Ismailia,185,"3,310","2,490",73,01/08/18,01/08/18,
+Sahl Hasheesh (Baron Palace),204,"3,650","2,740",87,01/08/18,01/08/18,"1,7"
+Sharm El Sheikh,207,"3,700","2,770",51,01/08/18,01/08/18,
+Elsewhere,162,"2,900","2,180",49,01/08/18,01/08/18,
+El Salvador (US Dollar),,,,,,,
+San Salvador,219,219,164,59,01/06/18,01/06/18,
+Elsewhere,132,132,99,52,01/06/18,01/06/18,
+Equatorial Guinea (CFA Franc(XAF)),,,,,,,
+Malabo,236,"132,000","99,000",67,01/08/18,01/08/17,
+Malabo (Hilton),530,"295,000","221,000",73,01/08/18,01/08/17,1
+"Malabo (Sofitel President, Tres de Agosto)",352,"197,000","148,000",64,01/08/18,01/08/17,1
+Malabo (Sofitel Sipopo),478,"268,000","201,000",68,01/08/18,01/08/17,1
+Bata,225,"126,000","94,500",59,01/08/18,01/08/17,
+Mongomo,280,"157,000","118,000",64,01/08/18,01/08/17,
+Elsewhere,111,"62,200","46,700",54,01/08/18,01/08/17,
+Eritrea (Nafka),,,,,,,
+Asmara,215,"3,230","2,420",32,01/10/17,01/10/17,
+Assab,130,"1,950","1,460",17,01/10/17,01/10/17,
+Keren,165,"2,480","1,860",25,01/10/17,01/10/17,
+Massawa,219,"3,280","2,460",29,01/10/17,01/10/17,
+Tessenei,125,"1,870","1,400",36,01/10/17,01/10/17,
+Elsewhere,93,"1,390","1,390",28,01/10/17,01/10/17,
+Estonia (Euro),,,,,,,
+Tallinn,307,262,197,49,01/08/18,01/02/18,
+Elsewhere,265,226,170,47,01/08/18,01/02/18,
+Ethiopia (Ethiopian Birr),,,,,,,
+Addis Ababa,198,"5,450","4,100",56,01/08/18,01/07/17,
+Addis Ababa (Hilton),386,"10,600","7,980",64,01/08/18,01/07/17,1
+"Addis Ababa (Marriott Executive Apartments, Radisson Blu)",297,"8,170","6,140",56,01/08/18,01/07/17,1
+Addis Ababa (Sheraton),499,"13,700","10,300",65,01/08/18,01/07/17,1
+Awassa (Haile Resort),231,"6,360","4,760",74,01/08/18,01/12/14,1
+Bahir Dar & Debrezeit (Kuriftu),214,"5,890","4,430",74,01/08/18,01/12/14,1
+Mekele (Planet),221,"6,080","4,570",78,01/08/18,01/12/14,1
+Elsewhere,83,"2,280","1,710",60,01/08/18,01/12/14,
+Elsewhere (Resident),50,"1,380","1,050",52,01/08/18,01/12/12,
+Fiji (Fiji Dollar),,,,,,,
+Suva,248,510,383,58,01/07/18,01/02/18,
+Suva (Grand Pacific Hotel),495,"1,020",770,69,01/07/18,01/02/18,1
+Coral Coast,301,620,465,59,01/07/18,01/02/18,
+Denarau (Hilton),560,"1,150",860,69,01/07/18,01/02/18,1
+"Denarau (Radisson, Sheraton, Sofitel, Westin)",408,840,630,57,01/07/18,01/02/18,1
+Nadi,178,366,275,53,01/07/18,01/02/18,
+Pacific Harbour,226,466,350,62,01/07/18,01/02/18,
+Elsewhere,143,295,221,57,01/07/18,01/02/18,
+Finland (Euro),,,,,,,
+Helsinki,335,286,215,62,01/08/18,01/07/18,
+Elsewhere,268,229,172,56,01/08/18,01/07/18,
+France (Euro),,,,,,,
+Paris,383,327,245,52,01/08/18,01/06/17,
+Elsewhere,327,279,209,53,01/08/18,01/12/17,
+Gabon (CFA Franc(XAF)),,,,,,,
+Libreville,348,"195,000","146,000",53,01/08/18,01/05/17,
+"Libreville (Le Cristal, Royal Palm)",570,"319,000","239,000",61,01/08/18,01/05/17,1
+Libreville (Park Inn by Radisson),459,"257,000","193,000",59,01/08/18,01/05/17,1
+Libreville (Radisson Blu Okoume Palace),680,"379,000","284,000",68,01/08/18,01/05/17,1
+Francesville,151,"84,500","63,400",50,01/08/18,01/05/17,
+Lambarene,173,"96,900","72,700",50,01/08/18,01/05/17,
+Oyem,155,"86,800","65,100",60,01/08/18,01/05/17,
+Port Gentil,350,"196,000","147,000",64,01/08/18,01/05/17,
+Elsewhere,120,"67,100","50,300",47,01/08/18,01/08/15,
+Gambia (Gambian Dalasi),,,,,,,
+Banjul,194,"9,360","7,050",65,01/08/18,01/07/17,
+Banjul (Kairaba Beach),242,"11,700","8,780",67,01/08/18,01/07/17,1
+Tendaba,66,"3,190","2,410",54,01/08/18,01/07/17,
+Elsewhere,42,"2,030","1,540",40,01/08/18,01/07/17,
+"Georgia, Republic of (Georgian Lari)",,,,,,,
+Tbilisi,181,443,333,56,01/08/18,01/08/17,
+Tbilisi (Radisson),296,720,540,68,01/08/18,01/08/17,1
+Tbilisi (Tbilisi Marriott),236,580,433,72,01/08/18,01/08/17,1
+Batumi,185,453,340,61,01/08/18,01/08/17,
+"Batumi (Radisson Blu, Sheraton) July-August",210,510,387,67,01/08/18,01/08/17,1
+Kobuleti (Georgia Palace) Jun-Sep,213,520,392,66,01/08/18,01/08/17,1
+Elsewhere,142,348,262,63,01/08/18,01/08/17,
+Germany (Euro),,,,,,,
+Berlin,330,282,212,51,01/08/18,01/12/17,
+Bonn,280,239,179,52,01/08/18,01/12/17,
+Hamburg,311,266,200,57,01/08/18,01/12/17,
+Munich,304,260,195,61,01/08/18,01/12/17,
+Elsewhere,267,228,171,55,01/08/18,01/12/17,
+Ghana (New Cedi),,,,,,,
+Accra,398,"1,910","1,440",60,01/08/18,01/01/17,
+Accra (Best  Western Premier),475,"2,280","1,710",66,01/08/18,01/01/17,1
+Aburi (Peduase Valley Resort),403,"1,940","1,450",55,01/08/18,01/01/17,1
+Akosombo,357,"1,720","1,290",50,01/08/18,01/01/17,
+Elmina,388,"1,870","1,400",76,01/08/18,01/01/17,
+Ho (Volta Serene),309,"1,490","1,120",58,01/08/18,01/01/17,1
+Kumasi (Golden Tulip),360,"1,730","1,300",64,01/08/18,01/01/17,1
+Takoradi,282,"1,360","1,020",59,01/08/18,01/01/17,
+"Takoradi (Planters Lodge, Protea)",294,"1,410","1,060",51,01/08/18,01/01/17,1
+Tamale,311,"1,500","1,120",66,01/08/18,01/01/17,
+Elsewhere,260,"1,250",940,58,01/08/18,01/01/17,
+Gibraltar (Gibraltar Pound),,,,,,,
+All Areas,357,216,162,72,01/12/17,01/12/17,
+Greece (Euro),,,,,,,
+Athens,296,253,190,57,01/08/18,01/11/17,
+Thessaloniki,164,140,105,56,01/08/18,01/11/17,
+Elsewhere,156,133,100,54,01/08/18,01/11/17,
+Grenada (E.C. Dollar),,,,,,,
+All Areas (15 Dec.-15 Apr.),344,930,700,61,01/10/17,01/10/17,
+All Areas (16 Apr.-14 Dec.),322,870,650,60,01/10/17,01/10/17,
+Guam (US Dollar),,,,,,,
+All Areas,307,307,230,61,01/12/17,01/12/17,
+Guatemala (Quetzal(es)),,,,,,,
+Guatemala City,197,"1,470","1,110",53,01/08/18,01/05/18,
+"Guatemala City (Real Intercontinental, Westin Camino Real, Courtyard Marriott)",277,"2,070","1,560",58,01/08/18,01/05/18,1
+Antigua,255,"1,910","1,430",56,01/08/18,01/05/18,
+Antigua (Finca Filadelfia),261,"1,950","1,470",75,01/08/18,01/05/18,1
+Antigua (La Reunion),406,"3,040","2,280",61,01/08/18,01/05/18,1
+Izabal,143,"1,070",800,54,01/08/18,01/05/18,
+Peten,138,"1,030",780,54,01/08/18,01/05/18,
+Elsewhere,97,730,550,56,01/08/18,01/05/18,
+Guinea (Guinean Franc),,,,,,,
+Conakry,240,"2,183,000","1,637,000",53,01/08/18,01/08/17,
+Conakry (Noom),384,"3,492,000","2,619,000",62,01/08/18,01/08/17,1
+Conakry (Palm Camayenne),415,"3,774,000","2,829,000",65,01/08/18,01/08/17,1
+Conakry (Sheraton Grand),452,"4,111,000","3,083,000",66,01/08/18,01/08/17,1
+Elsewhere,116,"1,055,000","791,000",47,01/08/18,01/08/17,
+Guinea Bissau (CFA Franc(XOF)),,,,,,,
+Bissau,167,"93,800","70,400",64,01/08/18,01/05/17,
+Bissau (Ledger Plaza),284,"159,000","119,000",67,01/08/18,01/05/17,1
+Bafata,110,"61,500","46,100",73,01/08/18,01/05/17,
+Quinhamel,120,"67,300","50,500",52,01/08/18,01/05/17,
+Elsewhere,75,"42,300","31,700",55,01/08/18,01/05/17,
+Guyana (Guyana Dollar),,,,,,,
+Georgetown,265,"55,400","41,600",63,01/08/18,01/06/17,
+Georgetown (Pegasus Hotel),358,"74,900","56,300",68,01/08/18,01/06/17,1
+Linden,138,"28,800","21,600",63,01/08/18,01/06/17,
+New Amsterdam,134,"28,000","21,000",57,01/08/18,01/06/17,
+Elsewhere,129,"27,000","20,300",46,01/08/18,01/06/17,
+Haiti (Gourde),,,,,,,
+Port-Au-Prince,221,"14,800","11,100",62,01/08/18,01/09/17,
+Port-au-Prince (Karibe),265,"17,800","13,300",66,01/08/18,01/09/17,1
+Port-au-Prince (Marriott),298,"20,000","15,000",70,01/08/18,01/09/17,1
+Cap Haitien and Jacmel,181,"12,100","9,110",67,01/08/18,01/09/17,
+Cote des Arcadins,210,"14,100","10,600",63,01/08/18,01/09/17,
+Jeremie and Les Cayes,175,"11,700","8,780",58,01/08/18,01/09/17,
+Port-de-Paix,140,"9,380","7,030",67,01/08/18,01/09/17,
+Elsewhere,128,"8,570","6,430",69,01/08/18,01/09/17,
+Honduras (Lempira),,,,,,,
+Tegucigalpa,206,"4,930","3,710",63,01/08/18,01/05/18,
+Copán,157,"3,760","2,820",75,01/08/18,01/05/18,
+La Ceiba,156,"3,730","2,800",49,01/08/18,01/05/18,
+Roatan,227,"5,430","4,070",64,01/08/18,01/05/18,
+Roatan (Infinity Bay & Mayan Princess),379,"9,070","6,800",62,01/08/18,01/05/18,1
+San Pedro Sula,189,"4,520","3,400",62,01/08/18,01/05/18,
+Elsewhere,102,"2,440","1,840",62,01/08/18,01/05/18,
+Hungary (Forint),,,,,,,
+Budapest,277,"76,200","57,200",62,01/08/18,01/06/18,
+Balaton,208,"57,200","42,900",68,01/08/18,01/06/18,
+Visegrad,171,"47,100","35,200",65,01/08/18,01/06/18,
+Elsewhere,143,"39,300","29,400",69,01/08/18,01/06/18,
+Iceland (Iceland Krona),,,,,,,
+All Areas (May - Sept),425,"44,600","33,500",63,01/08/18,01/08/16,
+All Areas (Oct.- Apr.),333,"34,900","26,200",56,01/08/18,01/08/16,
+India (Indian Rupee),,,,,,,
+New Delhi (April - August),211,"14,500","10,900",51,01/08/18,01/11/17,
+New Delhi (September - March),240,"16,500","12,400",56,01/08/18,01/11/17,
+New Delhi Special Hotels (April - August),250,"17,200","12,900",59,01/08/18,01/11/17,"1,12"
+"New Delhi Special Hotels (September
+- March)",296,"20,300","15,200",64,01/08/18,01/11/17,"1,12"
+Agra,284,"19,500","14,600",71,01/08/18,01/11/17,
+Bangalore,202,"13,900","10,400",66,01/08/18,01/11/17,
+Bangalore (Special Hotels),258,"17,700","13,300",65,01/08/18,01/11/17,"1,19"
+Calcutta,304,"20,900","15,700",66,01/08/18,01/11/17,
+Chandigarh (The Lalit),303,"20,800","15,600",71,01/08/18,01/11/17,1
+Chennai,188,"12,900","9,680",62,01/08/18,01/11/17,
+Goa,191,"13,100","9,830",63,01/08/18,01/11/17,
+Hyderabad,182,"12,500","9,380",57,01/08/18,01/11/17,
+Hyderabad (ITC Kakatiya),224,"15,400","11,600",61,01/08/18,01/11/17,1
+Jaipur,306,"21,000","15,800",68,01/08/18,01/11/17,
+Mumbai,268,"18,400","13,800",58,01/08/18,01/11/17,
+Mumbai (Special hotels),313,"21,500","16,100",63,01/08/18,01/11/17,"1,20"
+Srinagar,331,"22,700","17,000",67,01/08/18,01/11/17,
+Elsewhere,175,"12,000","9,000",61,01/08/18,01/11/17,
+Indonesia (Rupiah),,,,,,,
+Jakarta,207,"2,984,000","2,234,000",59,01/08/18,01/09/17,
+"Jakarta (JW Marriott, Mandarin Oriental, Ritz Carlton)",313,"4,512,000","3,388,000",67,01/08/18,01/09/17,1
+Jakarta (Shangri-la),417,"6,011,000","4,512,000",70,01/08/18,01/09/17,1
+Jakarta (Westin),276,"3,979,000","2,984,000",65,01/08/18,01/09/17,1
+Ambon,120,"1,730,000","1,297,000",50,01/08/18,01/09/17,
+Balik Papan,110,"1,586,000","1,196,000",53,01/08/18,01/09/17,
+Bandung,141,"2,033,000","1,528,000",54,01/08/18,01/09/17,
+Bogor City,133,"1,917,000","1,442,000",65,01/08/18,01/09/17,
+Denpasar,217,"3,128,000","2,350,000",65,01/08/18,01/09/17,
+Jayapura,121,"1,744,000","1,312,000",65,01/08/18,01/09/17,
+Makassar,130,"1,874,000","1,413,000",49,01/08/18,01/09/17,
+Medan,132,"1,903,000","1,427,000",59,01/08/18,01/09/17,
+Menado,105,"1,514,000","1,139,000",56,01/08/18,01/09/17,
+"Nusa Dua (Ayodya, Westin)",474,"6,833,000","5,132,000",64,01/08/18,01/11/17,1
+"Nusa Dua (Courtyard by Marriott, Intercontinental, Novotel)",271,"3,906,000","2,926,000",58,01/08/18,01/11/17,1
+"Nusa Dua (Grand Hyatt, Laguna Bali)",424,"6,112,000","4,584,000",59,01/08/18,01/11/17,1
+Nusa Dua (Melia Bali),374,"5,391,000","4,051,000",60,01/08/18,01/11/17,1
+Senggigi,169,"2,436,000","1,831,000",63,01/08/18,01/09/17,
+Surabaya,115,"1,658,000","1,240,000",57,01/08/18,01/09/17,
+Surabaya (Shangri-la),306,"4,411,000","3,315,000",58,01/08/18,01/09/17,1
+Yogyakarta,121,"1,744,000","1,312,000",57,01/08/18,01/09/17,
+Elsewhere,102,"1,470,000","1,110,000",56,01/08/18,01/09/17,
+Iran (Iranian Rial),,,,,,,
+Tehran,246,"10,791,000","8,093,000",70,01/08/18,01/08/18,
+Kerman (Pars),186,"8,170,000","6,128,000",71,01/08/18,01/08/18,1
+Mashad,146,"6,391,000","4,793,000",64,01/08/18,01/08/18,
+Elsewhere,136,"5,988,000","4,491,000",67,01/08/18,01/08/18,
+Iraq (Iraqi Dinar),,,,,,,
+Baghdad,275,"322,000","241,000",64,01/12/16,01/12/16,
+Baghdad (Al Rasheed Hotel),446,"522,000","391,000",64,01/12/16,01/12/16,1
+Basra,212,"248,000","186,000",67,01/12/16,01/12/16,
+Basra (Basra International Hotel),335,"392,000","294,000",63,01/12/16,01/12/16,1
+Erbil (Divan and Rotana),401,"469,000","352,000",59,01/12/16,01/12/16,1
+Suleimaniyah,142,"166,000","125,000",60,01/12/16,01/12/16,
+Elsewhere,195,"228,000","171,000",61,01/06/17,01/12/16,
+Ireland (Euro),,,,,,,
+All Areas,308,263,197,60,01/08/18,01/06/18,
+Israel (Shekel),,,,,,,
+Tel Aviv,382,"1,400","1,050",64,01/08/18,01/12/16,
+Eilat,301,"1,100",830,69,01/08/18,01/12/16,
+Haifa,316,"1,160",870,62,01/08/18,01/12/16,
+Herzliya,253,930,700,67,01/08/18,01/12/16,
+Jerusalem,282,"1,030",780,60,01/08/18,01/12/16,
+Tiberias,263,960,720,74,01/08/18,01/12/16,
+Elsewhere,264,970,730,61,01/08/18,01/12/16,
+Italy (Euro),,,,,,,
+Rome,324,277,208,49,01/08/18,01/10/17,
+Bologna,275,235,176,50,01/08/18,01/10/17,
+Florence,265,226,170,58,01/08/18,01/10/17,
+Milan,317,271,203,49,01/08/18,01/10/17,
+Naples,301,257,193,64,01/08/18,01/10/17,
+Palermo,314,268,201,53,01/08/18,01/10/17,
+Trieste,259,221,166,38,01/08/18,01/10/17,
+Turin,274,234,176,53,01/08/18,01/10/17,
+Venice,359,307,230,58,01/08/18,01/10/17,
+Elsewhere,170,145,109,43,01/08/18,01/02/17,
+Jamaica (Jamaican Dollar),,,,,,,
+Kingston,312,"41,600","31,200",64,01/08/18,01/05/18,
+Elsewhere (15 Dec. -15 Apr.),325,"43,300","32,500",70,01/08/18,01/05/18,7
+Elsewhere (16 Apr. -14 Dec.),308,"41,100","30,800",70,01/08/18,01/05/18,7
+Japan (Yen),,,,,,,
+Tokyo,317,"35,200","26,400",58,01/08/18,01/02/18,
+Tokyo (Imperial),550,"61,300","46,000",72,01/08/18,01/02/18,1
+"Tokyo (New Otani, Okura)",476,"52,800","39,600",63,01/08/18,01/02/18,1
+Tokyo (Palace),680,"75,100","56,300",67,01/08/18,01/02/18,1
+Fukuoka,255,"28,300","21,200",57,01/08/18,01/02/18,
+Kobe,223,"24,700","18,500",59,01/08/18,01/02/18,
+Kyoto,285,"31,600","23,700",59,01/08/18,01/02/18,
+Nagoya,259,"28,800","21,600",58,01/08/18,01/02/18,
+Osaka,256,"28,400","21,300",59,01/08/18,01/02/18,
+Yokohama,290,"32,200","24,200",51,01/08/18,01/02/18,
+Elsewhere,205,"22,800","17,100",57,01/08/18,01/02/18,
+Jordan (Jordanian Dinar),,,,,,,
+Amman,253,179,134,57,01/08/18,01/08/18,
+"Amman (Fairmont, Sheraton, W Amman)",339,240,180,58,01/08/18,01/08/18,1
+Amman (Four Seasons),407,288,216,53,01/08/18,01/08/18,1
+"Aqaba, Dead Sea, Petra",236,167,125,59,01/08/18,01/08/18,
+Azraq,107,76,57,66,01/08/18,01/08/18,
+"Irbid (Sedrah, Seven Days Hotel)",171,121,91,54,01/06/17,01/06/17,1
+Jerusalem,282,200,150,60,01/06/17,01/12/16,10
+Ruwaished,127,90,68,50,01/06/17,01/06/17,
+Elsewhere,82,58,44,43,01/06/17,01/06/17,
+Kazakhstan (Tenge),,,,,,,
+Astana,182,"63,200","47,500",44,01/08/18,01/11/17,
+Astana (Ritz Carlton),630,"219,000","164,000",74,01/08/18,01/11/17,1
+Astana (Rixos President and Soluxe),263,"91,300","68,400",57,01/08/18,01/11/17,1
+Aktau,137,"47,500","35,700",52,01/08/18,01/11/17,
+Aktau (Renaissance),289,"100,000","75,300",70,01/08/18,01/11/17,1
+Aktobe,128,"44,400","33,300",50,01/08/18,01/11/17,
+Almaty,174,"60,400","45,500",45,01/08/18,01/11/17,
+Almaty (Ritz Carlton),413,"143,000","108,000",69,01/08/18,01/11/17,1
+Atyrau,140,"48,600","36,400",45,01/08/18,01/11/17,
+Atyrau (Renaissance),345,"120,000","89,900",70,01/08/18,01/11/17,1
+Schuchinsk-Burabay,213,"73,900","55,500",59,01/08/18,01/11/17,
+Shymkent,130,"45,100","34,000",54,01/08/18,01/11/17,
+Shymkent (Rixos Khadisha),307,"107,000","79,800",73,01/08/18,01/11/17,1
+Ust-Kamenogorsk,126,"43,700","33,000",52,01/08/18,01/11/17,
+Elsewhere,116,"40,300","30,200",51,01/08/18,01/11/17,
+Kenya (Kenyan Shilling),,,,,,,
+Nairobi,282,"28,300","21,300",63,01/08/18,01/03/18,
+Nairobi (Nairobi Serena),400,"40,200","30,100",68,01/08/18,01/03/18,1
+Amboseli (Otukai Lodge),163,"16,400","12,200",87,01/08/18,01/08/18,"1,7"
+Kisumu (Acacia Premier),186,"18,700","14,100",66,01/08/18,01/03/18,1
+Masai Mara (Fairmount Mara Safari Club),219,"22,000","16,500",87,01/08/18,01/03/18,"1,7"
+Masai Mara (Keekorok Lodge),161,"16,200","12,100",87,01/08/18,01/08/18,7
+Masai Mara (Sarova Mara Game Camp),183,"18,400","13,800",87,01/08/18,01/03/18,"1,7"
+Mombasa,169,"17,000","12,800",65,01/08/18,01/03/18,
+Naivasha,190,"19,100","14,400",87,01/08/18,01/03/18,7
+Naivasha (Enashipai),224,"22,500","16,900",87,01/08/18,01/03/18,"1,7"
+Nakuru (Sarova Lion Hill Lodge),157,"15,800","11,800",87,01/08/18,01/08/18,"1,7"
+Nanyuki (Fairmont Mt. Kenya Safari Club),294,"29,500","22,200",87,01/08/18,01/03/18,"1,7"
+Nanyuki (Sweetwaters Tented Camp),119,"11,900","8,940",87,01/08/18,01/03/18,"1,7"
+Nyeri (The Ark Lodge),164,"16,500","12,300",87,01/08/18,01/08/18,"1,7"
+Shaba (Sarova Shaba Lodge),132,"13,300","9,940",87,01/08/18,01/08/18,"1,7"
+Elsewhere,95,"9,540","7,130",63,01/08/18,01/08/18,
+Kiribati (AUL Dollar),,,,,,,
+Christmas Island,119,161,121,71,01/08/18,01/02/18,
+All Other Areas,140,189,142,63,01/08/18,01/02/18,
+Outer Islands,116,156,117,55,01/08/18,01/02/18,
+"Korea, Dem. Peo. of (N. Korean Won)",,,,,,,
+Pyongyang,275,"29,100","21,800",64,01/08/18,01/09/17,
+Elsewhere,104,"11,000","8,250",59,01/08/18,01/09/17,
+"Korea, Republic of (S. Korean Won)",,,,,,,
+Seoul,330,"370,000","278,000",60,01/08/18,01/12/17,
+Changwon,242,"271,000","203,000",59,01/08/18,01/12/17,
+Cheju Island,267,"299,000","224,000",63,01/08/18,01/12/17,
+Daejon,181,"203,000","152,000",54,01/08/18,01/12/17,
+Gangneung,218,"244,000","183,000",60,01/08/18,01/12/17,
+Incheon,206,"231,000","173,000",53,01/08/18,01/12/17,
+Kwangju,233,"261,000","196,000",60,01/08/18,01/12/17,
+Kyungju,278,"312,000","234,000",61,01/08/18,01/12/17,
+Pusan,248,"278,000","209,000",56,01/08/18,01/12/17,
+Pyeongchang,267,"299,000","224,000",65,01/08/18,01/12/17,
+Taegu,236,"264,000","198,000",63,01/08/18,01/12/17,
+Ulsan,229,"256,000","192,000",55,01/08/18,01/12/17,
+Yeosu,253,"283,000","212,000",63,01/08/18,01/12/17,
+Elsewhere,163,"183,000","137,000",56,01/08/18,01/12/17,
+Kuwait (Kuwaiti Dinar),,,,,,,
+Kuwait City,413,125,94,65,01/07/18,01/09/17,
+Kuwait City (Sheraton Four Points),540,165,124,63,01/07/18,01/09/17,1
+Kyrgyzstan (Som),,,,,,,
+Bishkek,196,"13,400","10,000",66,01/08/18,01/12/17,
+Bishkek (Hyatt Regency),302,"20,600","15,500",78,01/08/18,01/12/17,1
+Issyk-kul (1 Jan - 30 Jun),128,"8,730","6,550",67,01/08/18,01/12/17,
+Issyk-kul (1 Jul - 15 Sep),213,"14,500","10,900",75,01/08/18,01/12/17,
+Issyk-kul (16 Sep - 31 Dec),129,"8,800","6,620",67,01/08/18,01/12/17,
+Osh,96,"6,550","4,910",66,01/08/18,01/12/17,
+Elsewhere,56,"3,820","2,860",58,01/08/18,01/12/17,
+Lao Peo. Dem. Rep. (Kip),,,,,,,
+Vientiane,194,"1,636,000","1,231,000",54,01/08/18,01/04/18,
+"Vientiane (Crowne Plaza, Settha Palace)",270,"2,276,000","1,712,000",57,01/08/18,01/04/18,1
+"Kaysone Phomvihanh, Pakse, Pek, Thakhek",107,"902,000","674,000",52,01/08/18,01/04/18,
+Luang Prabang,144,"1,214,000","911,000",54,01/08/18,01/04/18,
+Luang Prabang (Avani and Satri House),357,"3,010,000","2,260,000",66,01/08/18,01/04/18,1
+"Luang Prabang (Grand Luand Prabang, Le Palais Juliana, Luang Prabang View)",196,"1,653,000","1,239,000",58,01/08/18,01/04/18,1
+Luang Prabang (Victoria Xiengthong),253,"2,133,000","1,602,000",65,01/08/18,01/04/18,1
+"Vangvieng, Xay",118,"995,000","750,000",53,01/08/18,01/04/18,
+Elsewhere,66,"556,000","422,000",44,01/08/18,01/04/18,
+Latvia (Euro),,,,,,,
+Riga,206,176,132,57,01/08/18,01/10/17,
+Jurmala,245,209,157,56,01/08/18,01/10/17,
+Elsewhere,146,125,94,49,01/08/18,01/10/17,
+Lebanon (Lebanese Pound),,,,,,,
+Beirut (Le Royal),460,"695,000","521,000",65,01/08/18,01/04/17,1
+Beirut (Movenpick) 1 January - 14 June,314,"474,000","356,000",53,01/08/18,01/02/16,1
+Beirut (Movenpick) 15 June - 31 December,377,"569,000","427,000",58,01/08/18,01/02/16,1
+Greater Beirut,246,"372,000","279,000",66,01/08/18,01/04/17,
+Al Metn,298,"450,000","338,000",59,01/08/18,01/04/17,
+Tyr (Tyr Rest House),235,"355,000","266,000",58,01/08/18,01/04/18,1
+Elsewhere,147,"222,000","166,000",45,01/08/18,01/04/17,
+Lesotho (Loti),,,,,,,
+Maseru,103,"1,360","1,020",65,01/08/18,01/05/18,
+Maseru (Avani Lesotho Hotel & Casino),243,"3,200","2,400",72,01/08/18,01/05/18,1
+Maseru (Avani Maseru Sun),152,"2,000","1,500",63,01/08/18,01/05/18,1
+Maseru (Mpilo Boutique Hotel),256,"3,360","2,520",75,01/08/18,01/05/18,1
+Butha-Buthe (Afriski Mountain Resort),114,"1,500","1,130",64,01/08/18,01/05/18,1
+Butha-Buthe (New Oxbow Lodge),95,"1,250",940,51,01/08/18,01/05/18,1
+Leribe,91,"1,200",900,58,01/08/18,01/05/18,
+Leribe (Maliba Mountain Lodge),342,"4,500","3,380",67,01/08/18,01/05/18,1
+Mohale's Hoek,91,"1,200",900,59,01/08/18,01/05/18,
+Qacha's Neck (New Central Guest House),94,"1,230",920,61,01/08/18,01/05/18,1
+Teyateyaneng,118,"1,550","1,160",63,01/08/18,01/05/18,
+Thaba-Tseka (Motherland Guest House & Orion Katse Lodge),91,"1,200",900,50,01/08/18,01/05/18,1
+Elsewhere,82,"1,080",810,52,01/08/18,01/05/18,
+Liberia (Liberian Dollar),,,,,,,
+Monrovia,303,"45,600","45,600",58,01/08/18,01/01/18,
+Robertsfield (Farmington Hotel),240,"36,100","27,100",50,01/08/18,01/01/18,1
+Robertsport (Nana Lodge GH),140,"21,000","15,800",71,01/08/18,01/01/18,1
+Elsewhere,95,"14,300","14,300",59,01/08/18,01/01/18,
+Libya (Libyan Dinar),,,,,,,
+Tripoli,216,297,223,65,01/08/18,01/06/15,
+"Tripoli (Albustan, Corinthia, Radisson Blu)",335,461,345,71,01/08/18,01/06/15,1
+Elsewhere,177,244,183,61,01/08/18,01/06/15,
+Lithuania (Euro),,,,,,,
+Vilnius,228,195,146,60,01/08/18,01/03/17,
+Elsewhere,153,131,98,60,01/08/18,01/03/17,
+Luxembourg (Euro),,,,,,,
+All Areas,365,312,234,60,01/08/18,01/12/17,
+Madagascar (Ariary (New Madagascar Franc)),,,,,,,
+Antananarivo,200,"657,000","493,000",66,01/08/18,01/06/17,
+Antananarivo (Carlton),469,"1,542,000","1,157,000",79,01/08/18,01/06/17,1
+Amboassary,70,"230,000","174,000",56,01/08/18,01/06/17,
+Antsirabe,94,"309,000","233,000",64,01/08/18,01/06/17,
+Antsiranana (Diego-Suarez),182,"598,000","450,000",64,01/08/18,01/06/17,
+Fianarantsoa,81,"266,000","201,000",47,01/08/18,01/06/17,
+Mahajanga,102,"335,000","253,000",62,01/08/18,01/06/17,
+Morondava,119,"391,000","293,000",64,01/08/18,01/06/17,
+Morondava (Palissandre Cote Ouest),208,"684,000","513,000",87,01/08/18,01/06/17,"1,7"
+Nosy-Be,261,"858,000","644,000",71,01/08/18,01/06/17,
+Ranomafana,87,"286,000","214,000",57,01/08/18,01/06/17,
+Sainte Marie,274,"901,000","677,000",77,01/08/18,01/06/17,
+Toamasina,134,"441,000","332,000",66,01/08/18,01/06/17,
+Tolagnaro (Fort-Dauphin),97,"319,000","240,000",63,01/08/18,01/06/17,
+Toliara,107,"352,000","263,000",62,01/08/18,01/06/17,
+Elsewhere,63,"207,000","155,000",53,01/08/18,01/06/17,
+Malawi (Malawi Kwacha),,,,,,,
+Lilongwe,186,"135,000","102,000",65,01/01/18,01/01/18,
+Blantyre,150,"109,000","81,900",61,01/01/18,01/01/18,
+Blantyre (Mt. Soche & Ryalls),221,"161,000","121,000",69,01/01/18,01/01/18,1
+Mangochi (Makokola Retreat),236,"172,000","129,000",70,01/01/18,01/01/18,1
+Mangochi (Sunbird Nkopola Lodge),190,"138,000","104,000",66,01/01/18,01/01/18,1
+Mzuzu (Hotel Mzuzu),207,"151,000","113,000",68,01/01/18,01/01/18,2
+"Salima (Livingstonia Beach, Safari Beach)",221,"161,000","121,000",69,01/01/18,01/01/18,1
+Zomba (Ku Chawe Inn),225,"164,000","123,000",69,01/01/18,01/01/18,1
+Elsewhere,133,"96,800","72,600",62,01/01/18,01/01/18,
+Malaysia (Ringgit),,,,,,,
+Kuala Lumpur,217,880,660,52,01/08/18,01/04/17,
+Kota Kinabalu (Sabah),172,700,530,60,01/08/18,01/04/17,
+Melaka,200,810,610,62,01/08/18,01/04/17,
+Penang,170,690,520,61,01/08/18,01/04/17,
+Elsewhere,145,590,443,60,01/08/18,01/04/17,
+Maldives (Rufiyaa),,,,,,,
+Male,236,"3,540","2,660",67,01/06/18,01/06/18,
+Male (Hulhule Island Hotel),580,"8,700","6,530",62,01/06/18,01/06/18,1
+Male (Jen),295,"4,430","3,320",66,01/06/18,01/06/18,1
+Resorts,373,"5,600","4,200",78,01/06/18,01/06/18,"1,45"
+Elsewhere,101,"1,520","1,140",60,01/06/18,01/06/18,
+Mali (CFA Franc(XOF)),,,,,,,
+Bamako,237,"133,000","99,800",44,01/08/18,01/09/17,
+Bamako (Radisson Bamako),273,"153,000","115,000",55,01/08/18,01/09/17,1
+Elsewhere,129,"72,300","54,200",41,01/08/18,01/09/17,
+Malta (Euro),,,,,,,
+All Areas,327,279,209,60,01/08/18,01/10/16,
+Marshall Islands (US Dollar),,,,,,,
+Majuro,221,221,166,57,01/02/18,01/02/18,
+Ebeye,265,265,199,47,01/02/18,01/02/18,
+Elsewhere,144,144,108,42,01/02/18,01/02/18,
+Mauritania (Ouguiya),,,,,,,
+Nouakchott,186,"6,630","4,970",60,01/08/18,01/07/17,
+"Nouakchott (Mauricenter, Monotel, Tfeila)",241,"8,560","6,420",61,01/08/18,01/07/17,1
+Bassiknou,68,"2,420","1,820",52,01/08/18,01/07/17,
+Nouadhibou,150,"5,340","4,010",50,01/08/18,01/07/17,
+Zouerate,165,"5,870","4,400",49,01/08/18,01/07/17,
+Elsewhere,86,"3,070","2,300",52,01/08/18,01/07/17,
+Mauritius (Mauritius Rupee),,,,,,,
+Port Louis/Mauritius,242,"8,320","6,240",60,01/08/18,01/12/17,
+Elsewhere - Rodrigues Is & Outer Islands,149,"5,110","3,830",87,01/08/18,01/12/17,7
+Mexico (Mexican Peso),,,,,,,
+Mexico City,354,"6,560","4,930",66,01/08/18,01/12/17,
+"Acapulco, Guerrero",264,"4,890","3,670",58,01/08/18,01/12/17,
+"Aguascalientes, Aguascalientes",208,"3,850","2,890",55,01/08/18,01/12/17,
+"Cancun, Quintana Roo",311,"5,760","4,320",68,01/08/18,01/12/17,
+"Cuernavaca, Morelos",279,"5,170","3,870",60,01/08/18,01/12/17,
+"Guadalajara, Jalisco",257,"4,760","3,580",58,01/08/18,01/12/17,
+"Mérida, Yucatán",229,"4,240","3,190",60,01/08/18,01/12/17,
+"Monterrey, Nuevo Leon",325,"6,020","4,520",62,01/08/18,01/12/17,
+"Puebla, Puebla",244,"4,520","3,390",57,01/08/18,01/12/17,
+"Puerto Vallarta, Jalisco",232,"4,300","3,220",60,01/08/18,01/12/17,
+"Saltillo, Coahuila",188,"3,480","2,610",54,01/08/18,01/01/18,
+San Cristobal de las Casas,167,"3,090","2,320",60,01/08/18,01/12/17,
+"San Luis Potosí, San Luis Potosi",223,"4,130","3,090",59,01/08/18,01/12/17,
+"Tapachula, Chiapas",137,"2,540","1,910",52,01/08/18,01/12/17,
+"Tijuana, Baja California Norte",279,"5,170","3,870",62,01/08/18,01/12/17,
+"Toluca, Edo. de México",183,"3,390","2,540",57,01/08/18,01/12/17,
+"Torreón, Coahuila",226,"4,190","3,150",58,01/08/18,01/12/17,
+"Tuxtla Gutierrez, Chiapas",147,"2,720","2,040",53,01/08/18,01/12/17,
+"Villahermosa, Tabasco",167,"3,090","2,320",42,01/08/18,01/01/18,
+"Zacatecas, Zacatecas",187,"3,470","2,590",63,01/08/18,01/12/17,
+Elsewhere,120,"2,220","1,670",44,01/08/18,01/12/17,
+"Micronesia, Fed States Of (US Dollar)",,,,,,,
+Kosrae,241,241,181,53,01/02/18,01/02/18,
+Ponape,223,223,167,55,01/02/18,01/02/18,
+Truk,225,225,169,64,01/02/18,01/02/18,
+Yap,262,262,197,60,01/02/18,01/02/18,
+Moldova (Moldovan Leu),,,,,,,
+Chisinau,161,"2,670","2,000",57,01/08/18,01/08/18,
+Chisinau (Radisson Blu Leogrand),219,"3,630","2,720",69,01/08/18,01/08/18,1
+Purcari (Purcari Winery),203,"3,360","2,520",47,01/08/18,01/08/18,1
+Elsewhere,118,"1,950","1,470",57,01/08/18,01/08/18,
+Monaco (Euro),,,,,,,
+All Areas,344,294,221,65,01/08/18,01/09/17,
+Mongolia (Mongo. Tugrik),,,,,,,
+Ulaanbaatar,242,"596,000","596,000",64,01/08/18,01/12/17,
+Elsewhere,103,"254,000","254,000",46,01/08/18,01/12/17,
+Montenegro  (Euro),,,,,,,
+Podgorica,157,134,101,63,01/08/18,01/03/18,
+"Bar, Becici, Budva, Kotor, Milocer, Petrovac, Tivat, Herceg Novi, Ulcinj (The Coast)",150,128,96,67,01/08/18,01/03/18,
+Budva (Hotel Splendid),295,252,189,87,01/08/18,01/03/18,"1,7"
+Kolasin (Hotel Bianca),123,105,79,87,01/08/18,01/03/18,1
+Tivat (Regent),201,172,129,70,01/08/18,01/03/18,1
+Elsewhere,97,83,62,64,01/08/18,01/03/18,
+Montserrat (E.C. Dollar),,,,,,,
+All Areas,230,620,465,52,01/03/17,01/06/16,
+Morocco (Morocco Dirham),,,,,,,
+Rabat,223,"2,110","1,580",58,01/08/18,01/06/18,
+Rabat (Sofitel Jardin des Roses),383,"3,620","2,720",56,01/08/18,01/06/18,1
+"Rabat (Tour Hassan, View)",343,"3,240","2,430",55,01/08/18,01/06/18,1
+Rabat (Villa Mandarine),285,"2,690","2,020",62,01/08/18,01/06/18,1
+Agadir,156,"1,470","1,100",54,01/08/18,01/06/18,
+Agadir (Sofitel Royal Bay Resort),262,"2,470","1,850",62,01/08/18,01/06/18,1
+Agadir (Sofitel Royal Thalassa),329,"3,110","2,330",64,01/08/18,01/06/18,1
+Casablanca,244,"2,300","1,730",60,01/08/18,01/06/18,
+Casablanca (Four Seasons),464,"4,380","3,290",59,01/08/18,01/06/18,1
+"Casablanca (Hyatt Regency, Sofitel Tour Blanche)",370,"3,490","2,620",59,01/08/18,01/06/18,1
+Casablanca (Kenzi Tower),268,"2,530","1,900",63,01/08/18,01/06/18,1
+Essaouira (Le Medina Thalasa),238,"2,250","1,690",56,01/08/18,01/06/18,1
+Essaouira (Sofitel) 26 Dec - 3 Jan,327,"3,090","2,320",61,01/08/18,01/06/18,1
+Essaouira (Sofitel) 4 Jan - 25 Dec,248,"2,340","1,760",53,01/08/18,01/06/18,1
+Fes,162,"1,530","1,150",54,01/08/18,01/06/18,
+Fes (Jnan Palace & Palace Medina),200,"1,890","1,420",50,01/08/18,01/06/18,1
+Marrakesh,184,"1,740","1,310",50,01/08/18,01/06/18,
+Marrakesh (Four Seasons),445,"4,200","3,150",68,01/08/18,01/06/18,1
+"Marrakesh (Hivernage, Movenpick Mansour Eddahbi, Pullman Palmeraie)",222,"2,100","1,580",58,01/08/18,01/06/18,1
+Marrakesh (Kenzi Menara Palace),247,"2,330","1,750",61,01/08/18,01/06/18,1
+Marrakesh (Sofitel Marrakech),393,"3,710","2,780",65,01/08/18,01/06/18,1
+Marrakesh (Sofitel Palais Imperial) 1 Jan - 1 Jul,363,"3,430","2,570",64,01/08/18,01/06/18,1
+Marrakesh (Sofitel Palais Imperial) 2 Jul - 31 Dec,466,"4,400","3,300",69,01/08/18,01/06/18,1
+Marrakesh (The Pearl),357,"3,370","2,530",64,01/08/18,01/06/18,1
+Tangier  (Le Mirage),261,"2,460","1,850",59,01/08/18,01/06/18,
+Elsewhere,155,"1,460","1,100",53,01/08/18,01/06/18,
+Mozambique (Metical (New)),,,,,,,
+Maputo,290,"16,900","12,700",59,01/08/18,01/07/17,
+Beira,174,"10,200","7,650",44,01/08/18,01/07/17,
+Chimoio,195,"11,400","8,530",44,01/08/18,01/07/17,
+Ilha de Mocambique,226,"13,200","9,930",50,01/08/18,01/07/17,
+Nampula,189,"11,000","8,300",42,01/08/18,01/07/17,
+Pemba,223,"13,000","9,760",45,01/08/18,01/07/17,
+Pemba (Avani Pemba Beach),380,"22,200","16,700",63,01/08/18,01/07/17,1
+Quelimane,210,"12,300","9,230",32,01/08/18,01/07/17,
+Tete,227,"13,300","9,930",49,01/08/18,01/07/17,
+Vilanculos (Casa Rex),212,"12,400","9,290",48,01/08/18,01/07/17,1
+Elsewhere,166,"9,700","7,300",43,01/08/18,01/07/17,
+Myanmar (Myanmar Kyat),,,,,,,
+Yangon,181,"256,000","192,000",46,01/08/18,01/08/17,
+Yangon (Special Hotels),268,"379,000","284,000",59,01/08/18,01/08/17,"1,38"
+Chaung Tha Beach,161,"228,000","171,000",75,01/08/18,01/08/17,
+Dawei,95,"134,000","100,000",62,01/08/18,01/08/17,
+Dawei (Hotel Dawei),193,"273,000","205,000",73,01/08/18,01/08/17,1
+Hpa An,96,"136,000","102,000",66,01/08/18,01/08/17,
+Inle,222,"314,000","236,000",66,01/08/18,01/08/17,
+Inle (Aureum Palace and Inle Prince),325,"460,000","345,000",69,01/08/18,01/08/17,1
+Kawthaung,116,"164,000","123,000",59,01/08/18,01/08/17,
+Loikaw,105,"149,000","112,000",66,01/08/18,01/09/17,
+Mandalay,86,"122,000","92,000",64,01/08/18,01/08/17,
+"Mandalay (Mandalay Hill, Sedona, Shwe Pyi Thar)",220,"311,000","233,000",64,01/08/18,01/08/17,1
+Maw-La-Myine,98,"139,000","105,000",64,01/08/18,01/05/16,
+Maw-La-Myine (Attaran) International Staff Only,108,"153,000","115,000",69,01/08/18,01/08/17,1
+Maw-La-Myine (Royal Hinthar and Strand) International Staff Only,130,"184,000","139,000",73,01/08/18,01/08/17,1
+Monywa (Jade Royal) International Staff Only,91,"129,000","96,200",60,01/08/18,01/08/17,1
+Mrauk Oo (International Staff),103,"146,000","109,000",53,01/08/18,01/08/17,
+Mrauk Oo (Local Staff),87,"123,000","92,000",47,01/08/18,01/08/17,
+Mrauk Oo (Mrauk U Prince) International Staff Only,421,"596,000","447,000",76,01/08/18,01/08/17,1
+Mrauk Oo (Mrauk U Prince) Local Staff Only,181,"256,000","192,000",62,01/08/18,01/08/17,1
+Myeik,127,"180,000","134,000",65,01/08/18,01/08/17,
+Myitkyina,101,"143,000","108,000",64,01/08/18,01/08/17,
+Naypyitaw,104,"147,000","110,000",43,01/08/18,01/08/17,
+"Naypyitaw (Hilton, Horizon Lake View, Kempinski, Parkroyal)",157,"222,000","167,000",49,01/08/18,01/08/17,1
+Ngwe Saung Beach,207,"293,000","219,000",70,01/08/18,01/08/17,
+Nyaungoo-Bagan,168,"238,000","178,000",60,01/08/18,01/08/17,
+Nyaungoo-Bagan (Aureum Palace),308,"436,000","327,000",68,01/08/18,01/08/17,1
+"Nyaungoo-Bagan (Tharabar, Aye Yar Riverview)",258,"365,000","275,000",66,01/08/18,01/08/17,1
+Pathein,104,"147,000","110,000",43,01/08/18,01/08/17,
+Putao (International Staff),141,"200,000","150,000",64,01/08/18,01/08/17,
+Putao (Local Staff),95,"134,000","100,000",53,01/08/18,01/08/17,
+Pyinoolwin,108,"153,000","115,000",64,01/08/18,01/08/17,
+Sittwe (Royal Sittwe) International Staff Only,127,"180,000","134,000",63,01/08/18,01/08/17,1
+Taunggyi (International Staff Only),161,"228,000","171,000",64,01/08/18,01/08/17,
+Taunggyi (Local Staff Only),118,"167,000","126,000",54,01/08/18,01/08/17,
+Taungoo,167,"236,000","177,000",63,01/08/18,01/08/17,
+Thandwe (Ngapali Beach Only) October - April,380,"538,000","403,000",71,01/08/18,01/08/17,40
+Elsewhere,83,"117,000","87,700",65,01/08/18,01/08/17,
+Namibia (Namibia Dollar),,,,,,,
+Windhoek,191,"2,510","1,880",66,01/08/18,01/07/17,
+Windhoek (Avani Windhoek),468,"6,150","4,610",79,01/08/18,01/07/17,1
+Gobabis,138,"1,810","1,360",69,01/08/18,01/07/17,
+Henties Bay,120,"1,580","1,190",61,01/08/18,01/07/17,
+Karibib (Etusis Lodge),126,"1,660","1,250",87,01/08/18,01/07/17,"1,7"
+Katima Mulilo,163,"2,140","1,610",61,01/08/18,01/07/17,
+Keetmanshoop,116,"1,530","1,150",63,01/08/18,01/07/17,
+Luderitz (Nest),237,"3,110","2,330",68,01/08/18,01/07/17,1
+Luderitz (Sea View Zum Sperrgebiet),141,"1,850","1,390",54,01/08/18,01/07/17,1
+"Mariental (Camelthorn, Suricate, Zebra Lodges)",189,"2,480","1,860",85,01/08/18,01/07/17,"1,7"
+Okahandja,217,"2,850","2,140",70,01/08/18,01/07/17,
+Omaruru,280,"3,680","2,760",87,01/08/18,01/07/17,7
+Ondangwa,127,"1,670","1,250",57,01/08/18,01/07/17,
+Opuwo,119,"1,560","1,170",61,01/08/18,01/07/17,
+Oshakati,113,"1,490","1,120",60,01/08/18,01/07/17,
+Otavi,105,"1,380","1,040",69,01/08/18,01/07/17,
+Otjiwarongo,106,"1,400","1,050",60,01/08/18,01/07/17,
+Otjiwarongo (Okondjima Lodge),195,"2,560","1,920",87,01/08/18,01/07/17,"1,7"
+Rundu,144,"1,900","1,430",66,01/08/18,01/07/17,
+Rundu (Hakusembe River Lodge),194,"2,550","1,910",70,01/08/18,01/07/17,1
+Sossesvlei (Sossesvlei Lodge),300,"3,950","2,960",87,01/08/18,01/07/17,"1,7"
+Swakopmund,200,"2,630","1,970",70,01/08/18,01/07/17,
+Swakopmund (Swakopmund Entertainment Centre),283,"3,720","2,790",75,01/08/18,01/07/17,1
+Tsumeb,151,"1,980","1,490",73,01/08/18,01/07/17,
+Tsumkwe,112,"1,470","1,100",58,01/08/18,01/07/17,
+Walvis Bay,162,"2,130","1,600",68,01/08/18,01/07/17,
+Elsewhere,90,"1,180",890,61,01/08/18,01/07/17,
+Nauru (AUL Dollar),,,,,,,
+All Areas,207,280,210,58,01/08/18,01/02/18,
+Nepal (Nepalese Rupee),,,,,,,
+Kathmandu,178,"19,600","14,700",64,01/08/18,01/11/17,
+Kathmandu (Dwarika's),307,"33,800","25,300",61,01/08/18,01/11/17,1
+Kathmandu (Hyatt Regency),236,"26,000","19,500",66,01/08/18,01/11/17,1
+"Bhairahawa, Bharatpur, Biratnagar, Birgunj",60,"6,600","4,950",55,01/08/18,01/11/17,
+Damak (IOM Guest House),103,"11,300","8,470",78,01/08/18,01/11/17,2
+Dhulikhel and Nagarkot,115,"12,700","9,460",61,01/08/18,01/11/17,
+Lumbini (Nepal Hokke),166,"18,300","13,800",67,01/08/18,01/11/17,1
+"Nepalgunj, Hetauda, Dhanagadhi",50,"5,500","4,180",60,01/08/18,01/11/17,
+Pokhara (Pokhara Grande and Shangrila),167,"18,400","13,800",65,01/08/18,01/11/17,1
+Pokhara and Lumbini,113,"12,400","9,350",63,01/08/18,01/11/17,
+Sauraha,63,"6,930","5,170",55,01/08/18,01/11/17,
+Sauraha (Kasara Jungle Resort),165,"18,200","13,600",68,01/08/18,01/11/17,1
+Elsewhere,43,"4,730","3,520",60,01/08/18,01/11/17,
+Netherlands (Euro),,,,,,,
+All Areas,337,288,216,55,01/08/18,01/03/18,
+New Caledonia (CFP Franc),,,,,,,
+All Areas,316,"32,200","24,200",64,01/08/18,01/12/17,
+New Zealand (NZE Dollar),,,,,,,
+Auckland and Wellington,295,433,325,57,01/08/18,01/07/17,
+Elsewhere,268,393,295,54,01/08/18,01/07/17,
+Nicaragua (Cordoba Oro),,,,,,,
+Managua,194,"6,150","4,630",60,01/08/18,01/04/18,
+Corn Island,157,"4,980","3,740",75,01/08/18,01/04/18,
+Elsewhere,104,"3,300","2,470",63,01/08/18,01/04/18,
+Niger (CFA Franc(XOF)),,,,,,,
+Niamey,191,"107,000","80,300",49,01/08/18,01/07/17,
+Niamey (Hotel Gaweye),262,"147,000","110,000",51,01/08/18,01/07/17,1
+Niamey (Soluxe),303,"170,000","128,000",59,01/08/18,01/07/17,1
+Elsewhere,156,"87,500","65,600",44,01/08/18,01/07/17,
+Nigeria (Naira),,,,,,,
+Abuja,117,"42,200","31,700",67,01/08/18,01/05/18,
+Abuja (Bon),242,"87,400","65,600",69,01/08/18,01/05/18,1
+Abuja (Fraser Suites),241,"86,900","65,200",61,01/08/18,01/05/18,1
+Abuja (Sheraton),191,"69,000","51,800",57,01/08/18,01/05/18,1
+Abuja (Transcorp Hilton),305,"110,000","82,500",60,01/08/18,01/05/18,1
+Asaba,85,"30,600","23,000",63,01/08/18,01/05/18,
+Bauchi,88,"31,700","23,800",71,01/08/18,01/05/18,
+Bayelsa,109,"39,300","29,500",64,01/08/18,01/05/18,
+Calabar City,94,"34,100","25,600",58,01/08/18,01/05/18,
+Enugu (State Capital City),72,"26,000","19,500",57,01/08/18,01/05/18,
+Ibadan City,75,"27,000","20,300",50,01/08/18,01/05/18,
+Ibadan City (IITA Guest House),153,"55,200","41,400",49,01/08/18,01/05/18,1
+Kaduna (State Capital City),72,"26,000","19,500",62,01/08/18,01/05/18,
+Kano (State Capital City),83,"30,000","22,500",66,01/08/18,01/05/18,
+Lagos,142,"51,400","38,600",65,01/08/18,01/05/18,
+"Lagos (Eko, Federal Palace, Southern Sun Ikoyi)",201,"72,600","54,500",65,01/08/18,01/05/18,1
+"Lagos (Four Points, Moorehouse Ikoyi, Renaissance)",244,"88,200","66,200",63,01/08/18,01/05/18,1
+Lagos (Intercontinental),368,"133,000","99,800",64,01/08/18,01/05/18,1
+Lagos (Protea Ikeja),310,"112,000","84,000",68,01/08/18,01/05/18,1
+Lagos (Wheatbaker),449,"162,000","122,000",74,01/08/18,01/05/18,1
+Maiduguri,80,"28,800","21,600",63,01/08/18,01/05/18,
+Obudu (Obudu Mountain Resort),93,"33,400","25,100",60,01/08/18,01/05/18,2
+Owerri,83,"30,000","22,500",59,01/08/18,01/05/18,
+Port Harcourt,119,"42,800","32,100",65,01/08/18,01/05/18,
+Port Harcourt (Golden Tulip),176,"63,700","47,800",67,01/08/18,01/05/18,1
+Port Harcourt (Le Meridien),199,"71,900","53,900",68,01/08/18,01/05/18,1
+Port Harcourt (Swiss International),147,"52,900","39,700",66,01/08/18,01/05/18,1
+Uyo (Hotel Ibom),169,"61,000","45,800",57,01/08/18,01/05/18,1
+Yenagoa City,96,"34,500","25,900",61,01/08/18,01/05/18,
+Elsewhere,68,"24,400","18,300",61,01/08/18,01/05/18,
+Niue (NZE Dollar),,,,,,,
+All areas,229,336,252,51,01/08/18,01/11/16,
+Norway (Norwegian Krone),,,,,,,
+All Areas,292,"2,380","1,790",51,01/08/18,01/11/17,
+Oman (Rial Omani),,,,,,,
+Muscat,278,107,80,59,01/07/17,01/07/17,
+Elsewhere,252,97,73,64,01/07/17,01/07/17,
+Pakistan (Pakistani Rupee),,,,,,,
+Islamabad (Marriott),227,"27,600","20,700",67,01/08/18,01/04/17,1
+Islamabad (Serena),326,"39,700","29,800",73,01/08/18,01/04/17,1
+Islamabad/Rawalpindi,169,"20,500","15,400",66,01/08/18,01/04/17,
+"Bhurban (PC), Faisalabad and Quetta (Serena)",217,"26,400","19,800",69,01/08/18,01/04/17,1
+Gilgit (Serena),136,"16,600","12,500",66,01/08/18,01/04/17,1
+Gwadar (Zaver Pearl Continental),200,"24,300","18,200",81,01/08/18,01/04/17,1
+Karachi,181,"22,000","16,500",67,01/08/18,01/04/17,
+Lahore,171,"20,800","15,600",66,01/08/18,01/04/17,
+Lahore (Avari),242,"29,400","22,100",72,01/08/18,01/04/17,1
+Multan (Ramada),173,"21,100","15,800",71,01/08/18,01/04/17,1
+Muzaffarabad (Pearl Continental),184,"22,400","16,800",70,01/08/18,01/04/17,1
+Nathiagali,106,"12,900","9,680",67,01/08/18,01/04/17,
+Peshawar (Pearl Continental),166,"20,200","15,200",71,01/08/18,01/04/17,1
+Skardu,144,"17,500","13,100",71,01/08/18,01/04/17,
+Swat (Serena),136,"16,600","12,500",66,01/08/18,01/04/17,1
+Elsewhere,82,"10,000","7,500",60,01/08/18,01/04/17,
+Palau (US Dollar),,,,,,,
+All Areas,295,295,221,62,01/02/18,01/02/18,
+Panama (Balboa),,,,,,,
+Panama City,263,263,197,56,01/08/17,01/08/17,
+Comarca Kuna Yala/San Blas,198,198,149,61,01/08/17,01/08/17,
+Davíd,199,199,149,66,01/08/17,01/08/17,
+El Valle de Anton,267,267,200,66,01/08/17,01/08/17,
+Isla Colon,215,215,161,61,01/08/17,01/08/17,
+Elsewhere,186,186,140,61,01/08/17,01/08/17,
+Papua New Guinea (Kina),,,,,,,
+Port Moresby,344,"1,120",840,68,01/07/18,01/11/16,
+Alotau,203,660,495,72,01/07/18,01/07/16,
+Arawa,221,720,540,67,01/07/18,01/11/16,
+Buin,200,650,488,66,01/07/18,01/11/16,
+Buka,279,910,680,70,01/07/18,01/11/16,
+Daru,166,540,405,69,01/07/18,01/07/16,
+Gaire,203,660,495,68,01/07/18,01/07/16,
+Goroka,181,590,443,68,01/07/18,01/07/16,
+Kavieng,215,700,530,73,01/07/18,01/07/16,
+Kimbe,178,580,435,72,01/07/18,01/07/16,
+Kiunga,203,660,495,72,01/07/18,01/07/16,
+Kokopo,203,660,495,72,01/07/18,01/07/16,
+Lae,215,700,530,71,01/07/18,01/07/16,
+Loloata,282,920,690,61,01/07/18,01/02/15,
+Lorengau,190,620,465,71,01/07/18,01/01/18,
+Madang,169,550,413,68,01/07/18,01/07/16,
+Mt. Hagen,163,530,398,68,01/07/18,01/07/16,
+Popondetta,169,550,413,70,01/07/18,01/07/16,
+Rabaul,190,620,465,62,01/07/18,01/02/15,
+Siwai,193,630,473,65,01/07/18,01/12/16,
+Tabubil,187,610,458,72,01/07/18,01/07/16,
+Vanimo,187,610,458,66,01/07/18,01/07/16,
+Wewak,160,520,390,68,01/07/18,01/07/16,
+Elsewhere,145,471,353,65,01/07/18,01/11/16,
+Paraguay (Guarani),,,,,,,
+Asuncion,210,"1,208,000","909,000",57,01/08/18,01/05/18,
+Ciudad del Este (Casino Acaray),210,"1,208,000","909,000",58,01/08/18,01/05/18,1
+Elsewhere,143,"822,000","615,000",51,01/08/18,01/05/18,
+Peru (Nuevo Sol),,,,,,,
+Lima,240,780,590,65,01/08/18,01/07/16,
+Arequipa,171,560,419,63,01/08/18,01/07/16,
+Cuzco,196,640,481,60,01/08/18,01/07/16,
+Iquitos,152,497,373,67,01/08/18,01/07/16,
+Trujillo,173,570,425,60,01/08/18,01/07/16,
+Elsewhere,126,412,311,59,01/08/18,01/07/16,
+Philippines (Philippine Peso),,,,,,,
+Metro Manila,256,"13,600","10,200",58,01/08/18,01/09/17,
+Baguio City,123,"6,550","4,910",66,01/08/18,01/09/17,
+Bataan,186,"9,890","7,420",76,01/08/18,01/09/17,
+Batangas,154,"8,210","6,160",76,01/08/18,01/09/17,
+Cebu City,226,"12,000","9,000",64,01/08/18,01/09/17,
+"Clark, Pampanga",160,"8,510","6,380",70,01/08/18,01/09/17,
+Davao City,147,"7,830","5,870",66,01/08/18,01/09/17,
+Tacloban,101,"5,350","4,010",73,01/08/18,01/09/17,
+Tagaytay,171,"9,090","6,820",64,01/08/18,01/09/17,
+Tagbilaran,138,"7,350","5,510",72,01/08/18,01/09/17,
+Elsewhere,89,"4,730","3,550",67,01/08/18,01/09/17,
+Poland (Poland Zloty),,,,,,,
+Warsaw,287,"1,050",790,61,01/08/18,01/01/13,
+Elsewhere,200,730,550,61,01/08/18,01/01/13,
+Portugal (Euro),,,,,,,
+Lisbon,398,340,255,63,01/08/18,01/06/18,
+Porto,335,286,215,65,01/08/18,01/06/18,
+Elsewhere,153,131,98,35,01/08/18,01/12/14,
+Puerto Rico (US Dollar),,,,,,,
+All  Areas (20 Dec. - 30 Apr.),421,421,316,68,01/06/13,01/06/13,
+All Areas (1 May - 20 Dec.),304,304,228,59,01/06/13,01/06/13,
+Qatar (Qatari Rial),,,,,,,
+Doha,340,"1,240",930,61,01/08/18,01/01/18,
+Romania (Leu (New)),,,,,,,
+Bucharest,240,950,710,65,01/08/18,01/07/17,
+"Brasov, Constanta, Mamaia, Timisoara",192,760,570,61,01/08/18,01/07/17,
+Cluj and Sibiu,159,630,470,58,01/08/18,01/07/17,
+Elsewhere,142,560,423,56,01/08/18,01/07/17,
+Russian Federation (Russian Rouble),,,,,,,
+Moscow,361,"22,500","16,900",70,01/08/18,01/06/17,
+Sakha,146,"9,110","9,110",68,01/08/18,01/09/16,
+Sochi (1 Jun. - 15 Oct.),202,"12,600","12,600",71,01/08/18,01/06/17,
+Sochi (16 Oct. - 31 May),164,"10,200","10,200",67,01/08/18,01/06/17,
+St. Petersburg,332,"20,700","20,700",74,01/08/18,01/06/17,
+Vladivostok,278,"17,300","13,000",66,01/08/18,01/01/18,
+Elsewhere,132,"8,230","6,170",59,01/08/18,01/01/18,
+Rwanda (Rwanda Franc),,,,,,,
+Kigali,185,"163,000","163,000",60,01/08/18,01/03/18,
+Kigali (Kigali Marriott & Kigali Serena),292,"258,000","193,000",68,01/08/18,01/03/18,1
+Kigali (Mille Collines),245,"216,000","162,000",57,01/08/18,01/03/18,1
+Kigali (Radisson Blu),271,"239,000","179,000",63,01/08/18,01/03/18,1
+Bugesera,124,"109,000","82,000",65,01/08/18,01/08/16,
+Bugesera (Golden Tulip La Palisse),145,"128,000","96,100",63,01/08/18,01/01/17,1
+Karongi,170,"150,000","113,000",52,01/08/18,01/01/17,
+Kibungo (Akagera Lodge),131,"116,000","86,400",63,01/08/18,01/01/17,1
+Musanze,145,"128,000","96,100",69,01/08/18,01/01/17,
+Nyamasheke (Nyungwe),475,"419,000","314,000",87,01/08/18,01/07/16,1
+Rubavu,160,"141,000","106,000",70,01/08/18,01/07/16,
+Rubavu (Serena Lake Kivu),240,"212,000","159,000",58,01/08/18,01/01/17,1
+Elsewhere,83,"73,200","73,200",63,01/08/18,01/01/17,
+Saint Maarten (N.A. Gulder),,,,,,,
+All Areas (15 April - 15 December),249,462,347,56,01/08/18,01/06/17,
+All Areas (16 December - 14 April),289,540,402,60,01/08/18,01/06/17,
+Samoa (Tala),,,,,,,
+"Apia, Upolu",142,360,270,54,01/08/18,01/11/16,
+"Apia, Upolu (Aggie Grey Resort, Taumeasina)",249,630,473,68,01/08/18,01/11/16,1
+"Apia, Upolu (Tanoa Tusitala)",213,540,405,65,01/08/18,01/11/16,1
+"Cape Fatuosofia, Upolu (Le Vasa Resort)",168,426,320,59,01/08/18,01/11/16,1
+"Lalomanu, Upolu (Aga Reef Resort & Spa)",304,770,580,71,01/08/18,01/11/16,1
+Savaii,132,334,251,60,01/08/18,01/11/16,
+Savaii (Le Legato),284,720,540,75,01/08/18,01/11/16,1
+"Siumu, Upolu (Coconuts Beach Resort)",233,590,443,66,01/08/18,01/11/16,1
+Elsewhere,117,297,223,57,01/08/18,01/11/16,
+Sao Tome and Principe (Dobra),,,,,,,
+Sao Tome,167,"3,490","2,610",53,01/08/18,01/07/17,
+"Sao Tome (Omali Sao Tome, Pestana Sao Tome)",242,"5,060","3,810",61,01/08/18,01/07/17,1
+Sao Tome (Pestana Equador),190,"3,970","2,990",87,01/08/18,01/07/17,"1,7"
+Principe,97,"2,030","1,530",64,01/08/18,01/07/17,
+Principe (Bom Bom Island Resort),394,"8,240","6,190",78,01/08/18,01/07/17,1
+Saudi Arabia (Saudi Riyal),,,,,,,
+Riyadh,381,"1,430","1,070",58,01/08/17,01/06/17,
+Al-Khobar,365,"1,370","1,030",54,01/08/17,01/06/17,
+Jeddah,280,"1,050",790,43,01/08/17,01/06/17,
+"Jeddah (Crowne Plaza, Intercontinental)",485,"1,820","1,370",54,01/08/17,01/06/17,1
+Elsewhere,320,"1,200",900,58,01/08/17,01/06/17,
+Senegal (CFA Franc(XOF)),,,,,,,
+Dakar,271,"152,000","114,000",58,01/08/18,01/01/17,
+Dakar (King Fahd Palace),371,"208,000","156,000",60,01/08/18,01/01/17,1
+M'Bour,189,"106,000","79,500",59,01/08/18,01/01/17,
+M'Bour (Hotel Lamantin Beach),312,"175,000","131,000",64,01/08/18,01/01/17,1
+Toubacouta (Les Paletuviers),186,"104,000","78,000",87,01/08/18,01/01/17,1
+Elsewhere,125,"70,000","52,500",54,01/08/18,01/01/17,
+Serbia (Dinar),,,,,,,
+Belgrade,180,"18,200","18,200",60,01/08/18,01/07/16,
+Pristina,153,"15,400","11,600",59,01/08/18,01/11/17,
+Elsewhere,101,"10,200","7,670",53,01/08/18,01/07/16,
+Seychelles (SEY Rupee),,,,,,,
+Mahe Victoria,319,"4,330","3,250",61,01/08/18,01/03/18,
+"La Digue (Le Repaire, Patatran)",404,"5,490","4,110",72,01/08/18,01/03/18,1
+La Digue and Praslin,295,"4,010","3,000",59,01/08/18,01/03/18,
+Praslin (Archipel),680,"9,230","6,930",69,01/08/18,01/03/18,1
+Praslin (Indian Ocean Lodge),468,"6,360","4,770",71,01/08/18,01/03/18,1
+Sierra Leone (Leone),,,,,,,
+Freetown,268,"2,042,000","1,532,000",63,01/08/18,01/08/17,
+Freetown (Radisson Blu Mammy Yoko House),284,"2,164,000","1,623,000",61,01/08/18,01/08/17,1
+Makeni,103,"785,000","587,000",53,01/08/18,01/08/17,
+Elsewhere,92,"701,000","526,000",56,01/08/18,01/08/17,
+Singapore (SIN Dollar),,,,,,,
+All Areas,396,540,405,62,01/08/18,01/07/15,
+Slovak Republic (Euro),,,,,,,
+Bratislava,244,208,208,59,01/08/18,01/07/18,
+Elsewhere,173,148,148,60,01/08/18,01/07/18,
+"Slovenia, Republic of (Euro)",,,,,,,
+All Areas,273,233,175,60,01/08/18,01/04/17,
+Solomon Islands (SOI Dollar),,,,,,,
+Honiara,275,"2,200","1,650",58,01/08/18,01/02/18,
+Honiara (Heritage Park),472,"3,770","2,830",67,01/08/18,01/02/18,1
+Auki,148,"1,180",890,61,01/08/18,01/02/18,
+Gizo,194,"1,550","1,160",58,01/08/18,01/02/18,
+Elsewhere,153,"1,220",920,40,01/08/18,01/02/18,
+Somalia (Somali Shilling),,,,,,,
+Mogadishu (Bancroft/International Campus- MIA),191,"4,641,000","4,641,000",87,01/08/17,01/08/17,"1,7"
+Mogadishu (Chelsea Village),173,"4,204,000","4,204,000",87,01/08/17,01/08/17,"1,7"
+Mogadishu (Nadiif),150,"3,645,000","3,645,000",87,01/08/17,01/08/17,"1,7"
+Mogadishu (RA International),224,"5,443,000","5,443,000",87,01/09/17,01/09/17,"1,7"
+Mogadishu (Thorn Tree),184,"4,471,000","4,471,000",71,01/08/17,01/08/17,1
+Mogadishu (UNICEF Guest House),185,"4,496,000","4,496,000",87,01/09/17,01/09/17,"1,7"
+Mogadishu (UNSOS Camp - MIA),144,"3,499,000","3,499,000",70,01/08/17,01/08/17,
+Mogadishu (WFP Guest House),201,"4,884,000","4,884,000",75,01/08/17,01/08/17,1
+Baidoa (UNSOS Guest House),144,"3,499,000","3,499,000",70,01/08/17,01/08/17,1
+Baledongle (UNSOS Guest House),144,"3,499,000","3,499,000",70,01/08/17,01/08/17,1
+Beletweyne (UNSOS Guest House),144,"3,499,000","3,499,000",70,01/08/17,01/08/17,1
+Berbera (Mansoor),95,"2,309,000","2,309,000",66,01/08/17,01/08/17,1
+Dhobley (UNSOS Guest House),144,"3,499,000","3,499,000",70,01/08/17,01/08/17,1
+Dollow (WFP Guest House),209,"5,079,000","5,079,000",87,01/08/17,01/08/17,1
+Galkayo (WFP Guest House),92,"2,236,000","2,236,000",71,01/08/17,01/08/17,1
+Garowe (UNCC New Villas),213,"5,176,000","5,176,000",75,01/08/17,01/08/17,1
+Garowe (UNSOS GIH),230,"5,589,000","5,589,000",76,01/08/17,01/08/17,1
+Hargeisa (Hotels Ambassador & Maansoor),136,"3,305,000","3,305,000",56,01/08/17,01/08/17,1
+Jowhar (UNSOS Guest House),144,"3,499,000","3,499,000",70,01/08/17,01/08/17,1
+Kismayo (Atlantean),403,"9,793,000","9,793,000",87,01/09/17,01/09/17,"1,7"
+Kismayo (UNSOS Guest House),144,"3,499,000","3,499,000",70,01/08/17,01/08/17,1
+Elsewhere,74,"1,798,000","1,798,000",50,01/08/17,01/08/17,
+South Africa (Rand),,,,,,,
+Pretoria,183,"2,400","1,800",70,01/08/18,01/07/17,
+Bloemfontein,178,"2,340","1,760",60,01/08/18,01/07/17,
+Capetown,232,"3,050","2,290",65,01/08/18,01/07/17,
+Durban,223,"2,930","2,200",65,01/08/18,01/07/17,
+East London,241,"3,170","2,380",67,01/08/18,01/07/17,
+Johannesburg,307,"4,040","3,030",67,01/08/18,01/07/17,
+Johannesburg-Sandton,286,"3,760","2,820",68,01/08/18,01/07/17,
+Johannesburg-Sandton (Sandton Sun),498,"6,550","4,910",75,01/08/18,01/07/17,1
+Magaliesburg/Muldersdrift,234,"3,080","2,310",73,01/08/18,01/10/12,
+Musina,155,"2,040","1,530",47,01/08/18,01/07/17,
+Polokwane,145,"1,910","1,430",61,01/08/18,01/10/12,
+Sun City,218,"2,870","2,150",71,01/08/18,01/10/12,
+Sun City (Special Hotels),300,"3,940","2,960",77,01/08/18,01/10/12,"1,34"
+Elsewhere,115,"1,510","1,130",61,01/08/18,01/07/17,
+"South Sudan, Republic of (Southern Sudanese Pound)",,,,,,,
+Juba,221,"31,300","23,500",61,01/08/18,01/10/14,
+Juba (Juba Grand),258,"36,500","27,500",70,01/08/18,01/10/14,1
+Juba (Logali House),238,"33,700","25,300",74,01/08/18,01/10/14,1
+Juba (UN Guest Houses),80,"11,300","11,300",60,01/08/18,01/10/14,
+Aweil (Aweil Grand),269,"38,100","28,600",74,01/08/18,01/10/14,1
+Aweil (South Sudan),192,"27,200","20,400",60,01/08/18,01/10/14,1
+"Rumbek (Palm Tree, Safari Style)",202,"28,600","21,500",68,01/08/18,01/10/14,1
+Torit,117,"16,600","12,500",67,01/08/18,01/10/14,
+Torit (Torit Hotel),223,"31,600","23,600",61,01/08/18,01/10/14,1
+"Wau (Amarula Lodge, Regency, Universal Gab, Wau River Lodge)",181,"25,600","19,200",68,01/08/18,01/10/14,1
+"Yambio (Sunset, Tourist)",181,"25,600","19,200",69,01/08/18,01/10/14,1
+Elsewhere,91,"12,900","9,620",57,01/08/18,01/10/14,
+Elsewhere (UN Guest Houses),71,"10,000","7,500",48,01/08/18,01/10/14,
+Spain (Euro),,,,,,,
+Madrid,310,265,199,53,01/08/18,01/08/18,
+Barcelona,268,229,172,55,01/08/18,01/08/18,
+"Las Palmas, Canary Islands",263,225,169,52,01/08/18,01/08/18,
+Elsewhere,212,181,136,53,01/08/18,01/08/18,
+Sri Lanka (Sri Lanka Rupee),,,,,,,
+Colombo,214,"34,200","25,700",68,01/08/18,01/02/18,
+Colombo (Sri Lanka-based staff),122,"19,500","14,700",60,01/08/18,01/02/18,
+"Ampara, Batticaloa, Trincomalee",74,"11,800","8,850",65,01/08/18,01/02/18,
+"Jaffna, Killinochchi, Mannar, Mullaitivu, Vavunia",74,"11,800","8,850",65,01/08/18,01/02/18,
+Kandy,152,"24,300","18,200",68,01/08/18,01/02/18,
+Elsewhere,123,"19,700","14,800",62,01/08/18,01/02/18,
+St. Kitts and Nevis (E.C. Dollar),,,,,,,
+All Areas (15 Apr. - 14 Dec.),374,"1,010",760,54,01/10/17,01/10/17,
+All Areas (15 Dec - 14 Apr.),456,"1,230",920,59,01/10/17,01/10/17,
+St. Lucia (E.C. Dollar),,,,,,,
+All Areas (15 Apr.-14 Dec.),448,"1,210",910,58,01/10/17,01/10/17,
+"All Areas (15 Dec.-14 Apr,)",485,"1,310",980,60,01/10/17,01/10/17,
+St.Vincent-Grenadines (E.C. Dollar),,,,,,,
+All Areas (15 Apr. - 14 Dec.),319,860,650,50,01/10/17,01/10/17,
+All Areas (15 Dec. - 14 Apr.),333,900,680,51,01/10/17,01/10/17,
+Sudan (Sudanese Pound),,,,,,,
+Khartoum,165,"4,810","3,610",60,01/07/18,01/05/17,
+Port Sudan,141,"4,110","3,090",48,01/07/18,01/05/17,
+Port Sudan (Coral),265,"7,720","5,800",56,01/07/18,01/05/17,1
+Elsewhere,117,"3,410","2,560",60,01/07/18,01/05/17,
+Suriname (Surinamese Dollar),,,,,,,
+Paramaribo,172,"1,270",950,67,01/05/18,01/05/17,
+Elsewhere,98,730,550,66,01/05/18,01/04/17,
+Swaziland (Lilangeni),,,,,,,
+Mbabane,197,"2,590","1,940",68,01/08/18,01/01/18,
+Ezulwini,262,"3,450","2,590",71,01/08/18,01/01/18,
+Manzini,168,"2,210","1,660",61,01/08/18,01/01/18,
+Piggs Peak,145,"1,910","1,430",67,01/08/18,01/01/18,
+Elsewhere,121,"1,590","1,190",62,01/08/18,01/01/18,
+Sweden (Swedish Krona),,,,,,,
+Stockholm,397,"3,480","2,610",67,01/08/18,01/06/18,
+Elsewhere,331,"2,900","2,180",63,01/08/18,01/06/18,
+Switzerland (Swiss Franc),,,,,,,
+All Areas,386,383,287,61,01/08/18,01/07/17,
+Syrian Arab Republic (Syrian Pound),,,,,,,
+Damascus,216,"93,700","70,300",55,01/06/18,01/06/18,
+Damascus (Four Seasons),394,"171,000","128,000",63,01/06/18,01/06/18,1
+Aleppo,195,"84,600","63,500",56,01/06/18,01/06/18,
+Homs,156,"67,700","50,800",64,01/06/18,01/06/18,
+Lattakia,137,"59,500","44,600",62,01/06/18,01/06/18,
+Elsewhere,128,"55,600","41,700",55,01/06/18,01/06/18,
+Tajikistan (Tajik Somoni),,,,,,,
+Dushanbe,170,"1,600","1,210",66,01/08/18,01/07/17,
+Darvaz (Karon Palace),145,"1,370","1,030",74,01/08/18,01/07/17,1
+Regional Centers,90,850,640,68,01/08/18,01/07/17,21
+Elsewhere,51,480,358,61,01/08/18,01/07/17,
+"Tanzania, United Rep. of (Shilling)",,,,,,,
+Dar es Salaam,223,"508,000","381,000",62,01/08/18,01/11/17,
+Dar es Salaam  (Special hotels),312,"711,000","534,000",67,01/08/18,01/11/17,"1,24"
+Arusha,188,"429,000","321,000",65,01/08/18,01/11/17,
+Bagamoyo,150,"342,000","258,000",57,01/08/18,01/11/17,
+Dodoma,141,"321,000","242,000",51,01/08/18,01/11/17,
+Kigoma,147,"335,000","251,000",56,01/08/18,01/11/17,
+Mbeya,105,"239,000","180,000",60,01/08/18,01/11/17,
+Morogoro,105,"239,000","180,000",64,01/08/18,01/11/17,
+Moshi,134,"306,000","230,000",64,01/08/18,01/11/17,
+Mtwara,127,"290,000","217,000",59,01/08/18,01/11/17,
+Mwanza,150,"342,000","258,000",63,01/08/18,01/11/17,
+Ngorongoro/Serengeti,341,"777,000","584,000",72,01/08/18,01/11/17,
+Pemba,127,"290,000","217,000",59,01/08/18,01/11/17,
+Tanga,140,"319,000","239,000",57,01/08/18,01/11/17,
+"Zanzibar (Park Hyatt, Serena Inn)",310,"707,000","531,000",64,01/08/18,01/11/17,1
+"Zanzibar, Nungwi (Diamond La Gema, Essque Zallu, Royal Zanzibar)",398,"907,000","682,000",87,01/08/18,01/11/17,"1,7"
+"Zanzibar, Nungwi (Hideaway, Melia)",469,"1,069,000","803,000",87,01/08/18,01/11/17,"1,7"
+"Zanzibar, Nungwi (Neptune)",520,"1,186,000","889,000",88,01/08/18,01/11/17,"1,7"
+"Zanzibar, Stonetown",170,"388,000","292,000",62,01/08/18,01/11/17,
+Elsewhere,95,"217,000","162,000",59,01/08/18,01/11/17,
+Thailand (Thai Baht),,,,,,,
+Bangkok,215,"7,150","5,360",55,01/08/18,01/05/18,
+Cha Am,179,"5,960","4,470",55,01/08/18,01/05/18,
+Chiang Mai,173,"5,750","4,310",63,01/08/18,01/05/18,
+Chiang Rai,135,"4,500","3,380",67,01/08/18,01/05/18,
+Hua Hin,223,"7,410","5,560",62,01/08/18,01/05/18,
+Kanchanaburi,121,"4,030","3,020",58,01/08/18,01/05/18,
+Koh Samui,158,"5,260","3,950",62,01/08/18,01/05/18,
+Pattaya,155,"5,150","3,860",59,01/08/18,01/05/18,
+Phuket,230,"7,660","5,750",70,01/08/18,01/05/18,
+Rayong,149,"4,950","3,710",61,01/08/18,01/05/18,
+"Songkla, HatYai",92,"3,070","2,300",43,01/08/18,01/05/18,
+Elsewhere,78,"2,580","1,940",58,01/08/18,01/05/18,
+The former Yugoslav Republic of Macedonia (Denar),,,,,,,
+Skopje,167,"8,790","6,580",62,01/08/18,01/03/18,
+Ohrid & Struga,90,"4,740","3,580",61,01/08/18,01/03/18,
+Elsewhere,74,"3,890","2,950",64,01/08/18,01/03/18,
+Timor-Leste (US Dollar),,,,,,,
+Dili,160,160,120,61,01/02/17,01/02/17,
+"Dili (Novo Turismo, Timor Plaza)",227,227,170,56,01/02/17,01/02/17,1
+Baucau (Hotel Pousada),115,115,86,61,01/02/17,01/02/17,1
+Com -Lautem (Com Beach Resort),135,135,101,44,01/02/17,01/02/17,1
+Oecussi (RAO Hotel),81,81,61,62,01/02/17,01/02/17,1
+Elsewhere,66,66,50,57,01/02/17,01/02/17,
+Togo (CFA Franc(XOF)),,,,,,,
+Lome,189,"106,000","79,500",59,01/08/18,01/01/15,
+"Lome (Palm Beach, Sancta Maria)",275,"154,000","116,000",60,01/08/18,01/01/15,1
+Lome (Sarakawa),328,"184,000","138,000",66,01/08/18,01/01/15,1
+Elsewhere,84,"47,100","35,300",60,01/08/18,01/01/15,
+Tokelau (NZE Dollar),,,,,,,
+All Areas,87,127,95,63,01/08/18,01/11/16,
+Tonga (Pa'anga),,,,,,,
+Nuku'Alofa,220,498,374,67,01/08/18,01/02/18,
+Vava'u,112,253,190,69,01/08/18,01/02/18,
+Elsewhere,63,142,107,51,01/08/18,01/02/18,
+Trinidad and Tobago (TT Dollar),,,,,,,
+Trinidad - All Areas,313,"2,110","1,580",57,01/08/18,01/06/17,
+Tobago (15 Apr.-15 Dec.),294,"1,980","1,490",55,01/08/18,01/06/17,
+Tobago (16 Dec.-14 Apr.),313,"2,110","1,580",57,01/08/18,01/06/17,
+Tunisia (Tunisian Dinar),,,,,,,
+Tunis,139,374,281,53,01/08/18,01/07/18,
+"Tunis (Movenpick Tunis, Four Seasons)",223,600,450,58,01/08/18,01/07/18,1
+"Tunis (Sheraton, Concorde)",194,520,390,54,01/08/18,01/07/18,1
+Elsewhere,90,243,182,87,01/08/18,01/07/18,
+Turkey (New Turkish Lira),,,,,,,
+Ankara,171,840,630,56,01/08/18,01/10/17,
+Antalya,185,900,680,57,01/08/18,01/10/17,
+Diyarbakir,135,660,494,50,01/08/18,01/10/17,
+Gaziantep,133,650,489,53,01/08/18,01/10/17,
+Istanbul,235,"1,150",860,59,01/08/18,01/10/17,
+Izmir,191,930,700,56,01/08/18,01/10/17,
+Sanliurfa,135,660,494,50,01/08/18,01/10/17,
+Elsewhere,124,610,455,52,01/08/18,01/10/17,
+Turkmenistan (new Manat),,,,,,,
+Ashgabat,250,880,660,55,01/05/18,01/05/18,
+Ashgabat (Resident),209,730,550,50,01/05/18,01/05/18,
+Balkanabat (Nebitchi) Non-resident,129,452,339,60,01/05/18,01/05/18,1
+Turkmenbashi,132,462,347,58,01/05/18,01/05/18,
+Turkmenbashy (Resident),93,326,244,46,01/05/18,01/05/18,
+Elsewhere,113,396,297,55,01/05/18,01/05/18,
+Elsewhere (Resident),79,277,207,42,01/05/18,01/05/18,
+Turks & Caicos Islands (US Dollar),,,,,,,
+Grand Turk,384,384,288,64,01/03/16,01/03/16,
+Providenciales (14 Apr. - 21 Dec.),438,438,329,67,01/03/16,01/03/16,
+Providenciales (22 Dec. - 13 Apr.],540,540,405,70,01/03/16,01/03/16,
+Tuvalu (AUL Dollar),,,,,,,
+All Areas,199,268,201,68,01/08/18,01/02/18,
+Uganda (Uganda Shilling),,,,,,,
+Kampala,216,"799,000","599,000",69,01/08/18,01/12/17,
+Kampala (Kampala Serena),530,"1,960,000","1,472,000",72,01/08/18,01/12/17,1
+Kampala (Sheraton),291,"1,076,000","806,000",71,01/08/18,01/12/17,1
+Entebbe,203,"751,000","562,000",70,01/08/18,01/12/17,
+Entebbe (Protea),347,"1,283,000","962,000",74,01/08/18,01/12/17,1
+Jinja (Jinja Nile Resort),290,"1,073,000","806,000",73,01/08/18,01/12/17,1
+"Kabale (Chobe Safari Lodge, Paraa Safari Lodge)",281,"1,039,000","780,000",69,01/08/18,01/01/18,1
+Kabale (Silverback Lodge),315,"1,165,000","873,000",71,01/08/18,01/01/18,1
+Kabarole/Fort Portal,98,"362,000","274,000",68,01/08/18,01/07/18,
+Kisoro,149,"551,000","414,000",72,01/08/18,01/07/18,
+Mbarara,98,"362,000","274,000",66,01/08/18,01/12/17,
+Mbarara (Mweya Safari Lodge),284,"1,050,000","788,000",69,01/08/18,01/01/18,1
+Elsewhere,63,"233,000","174,000",61,01/08/18,01/12/17,
+Ukraine (Hryvnia),,,,,,,
+Kyiv,205,"5,540","4,160",59,01/08/18,01/04/18,
+Kyiv (Hyatt Regency),351,"9,480","7,100",66,01/08/18,01/04/18,1
+"Kyiv (Intercontinental, Premier Palace)",342,"9,230","6,940",65,01/08/18,01/04/18,1
+Kyiv (Radisson Blu),308,"8,320","6,240",72,01/08/18,01/04/18,1
+Dnipro,99,"2,670","2,000",48,01/08/18,01/04/18,
+Dnipro (Grand),146,"3,940","2,970",44,01/08/18,01/04/18,1
+Donetsk,170,"4,590","3,460",48,01/08/18,01/04/18,
+Kharkiv,100,"2,700","2,030",48,01/08/18,01/04/18,
+Kharkiv (Kharkiv Palats),239,"6,450","4,830",66,01/08/18,01/04/18,1
+Lviv,99,"2,670","2,000",57,01/08/18,01/04/18,
+Lviv (Leopolis),189,"5,100","3,830",66,01/08/18,01/04/18,1
+Odesa,106,"2,860","2,160",57,01/08/18,01/04/18,
+Odesa (Londonskaya),151,"4,080","3,050",58,01/08/18,01/04/18,1
+Elsewhere,68,"1,840","1,380",50,01/08/18,01/04/18,
+United Arab Emirates (U.A.E. Dirham),,,,,,,
+Abu Dhabi,370,"1,360","1,020",54,01/02/18,01/08/17,
+Dubai,392,"1,440","1,080",62,01/02/18,01/08/17,
+Elsewhere,376,"1,380","1,040",59,01/02/18,01/08/17,
+United Kingdom (U.K. Pound),,,,,,,
+London,390,297,223,64,01/08/18,01/06/18,
+Elsewhere,343,261,196,62,01/08/18,01/06/18,
+Uruguay (Peso Uruguayo),,,,,,,
+Montevideo,216,"6,620","4,970",56,01/08/18,01/07/17,
+Colonia,247,"7,570","5,670",57,01/08/18,01/07/17,
+Punta Del Este (April-Nov),193,"5,920","4,450",60,01/08/18,01/07/17,
+Punta Del Este (Conrad) December- March,469,"14,400","10,800",75,01/08/18,01/07/17,1
+Punta Del Este (Dec-March),345,"10,600","7,940",72,01/08/18,01/07/17,
+Salto,245,"7,510","5,640",61,01/08/18,01/07/17,
+Elsewhere,169,"5,180","3,890",52,01/08/18,01/07/17,
+USA (US Dollar),,,,,,,
+Washington D.C.,367,367,275,60,01/07/18,01/07/18,
+Boston,385,385,289,70,01/08/17,01/08/17,
+Chicago,339,339,254,71,01/08/17,01/08/17,
+Honolulu,385,385,289,73,01/08/17,01/08/17,
+Los Angeles,385,385,289,73,01/08/17,01/08/17,
+Miami,348,348,261,72,01/08/17,01/08/17,
+New York (First 30 Days),410,410,273,60,01/08/17,01/08/17,
+New York (Next 30 Days),349,349,274,60,01/08/17,01/08/17,
+New York Special Hotels (Jan-Aug) First 30 days,500,500,333,65,01/08/17,01/08/17,"1,22"
+New York Special Hotels (Jan-Aug) Next 30 days,425,425,333,65,01/08/17,01/08/17,"1,22"
+New York Special Hotels (Sep-Dec) First 30 days,600,600,400,69,01/08/17,01/08/17,"1,23"
+New York Special Hotels (Sep-Dec) Next 30 days,510,510,400,69,01/08/17,01/08/17,"1,23"
+Philadelphia,326,326,245,68,01/08/17,01/08/17,
+San Francisco,381,381,286,70,01/08/17,01/08/17,
+Elsewhere,303,303,227,70,01/08/17,01/08/17,
+Uzbekistan (Uzbekistan Sum),,,,,,,
+Tashkent,182,"1,418,000","1,067,000",66,01/08/18,01/04/18,
+"Tashkent (International, Hyatt)",275,"2,143,000","1,605,000",56,01/08/18,01/04/18,1
+Tashkent (Residents),133,"1,036,000","779,000",62,01/08/18,01/04/18,
+Bukhara,79,"615,000","460,000",62,01/08/18,01/04/18,
+Bukhara (Residents),49,"382,000","288,000",47,01/08/18,01/04/18,
+Fergana,89,"693,000","522,000",63,01/08/18,01/04/18,
+Fergana (Residents),59,"460,000","343,000",50,01/08/18,01/04/18,
+Gazalkent,81,"631,000","475,000",72,01/08/18,01/04/18,
+Gazalkent (Charos),148,"1,153,000","865,000",76,01/08/18,01/04/18,1
+Nukus and Urgench,56,"436,000","327,000",64,01/08/18,01/04/18,
+Samarkhand,139,"1,083,000","810,000",72,01/08/18,01/04/18,
+Samarkhand (Residents),64,"499,000","374,000",54,01/08/18,01/04/18,
+Termez,60,"467,000","351,000",69,01/08/18,01/04/18,
+Elsewhere,71,"553,000","413,000",69,01/08/18,01/04/18,
+Elsewhere (Residents),36,"280,000","210,000",51,01/08/18,01/04/18,
+Vanuatu (Vatu),,,,,,,
+Port Vila,351,"37,800","28,400",61,01/08/18,01/02/18,
+Santos,256,"27,600","20,700",57,01/08/18,01/02/18,
+Tanna Island,294,"31,700","23,800",65,01/08/18,01/02/18,
+Elsewhere,108,"11,600","8,700",84,01/08/18,01/03/17,
+Venezuela (Bolivar Fuerte),,,,,,,
+Caracas,146,"25,103,000","18,913,000",71,01/08/18,01/09/15,
+"Barcelona, Puerto La Cruz",109,"18,741,000","14,099,000",58,01/08/18,01/09/15,
+Barinas,56,"9,628,000","7,221,000",71,01/08/18,01/09/15,
+Barquisimieto,100,"17,194,000","12,895,000",71,01/08/18,01/09/15,
+Cumana,78,"13,411,000","10,144,000",74,01/08/18,01/09/15,
+Isla de Margarita,108,"18,569,000","13,927,000",77,01/08/18,01/09/15,
+La Guaira,146,"25,103,000","18,913,000",77,01/08/18,01/09/15,
+Maracaibo,90,"15,474,000","11,692,000",70,01/08/18,01/09/15,
+Maracay and Valencia,98,"16,850,000","12,723,000",65,01/08/18,01/09/15,
+Maturin,68,"11,692,000","8,769,000",74,01/08/18,01/09/15,
+Merida,67,"11,520,000","8,597,000",69,01/08/18,01/09/15,
+Puerto Ordaz,112,"19,257,000","14,443,000",67,01/08/18,01/09/15,
+Punto Fijo,73,"12,551,000","9,457,000",66,01/08/18,01/09/15,
+San Cristobal,52,"8,941,000","6,706,000",55,01/08/18,01/09/15,
+Elsewhere,47,"8,081,000","6,018,000",59,01/08/18,01/09/15,
+Vietnam (VietNam Dong),,,,,,,
+Hanoi,168,"3,907,000","3,907,000",59,01/08/18,01/07/16,
+Can Tho,89,"2,070,000","1,558,000",55,01/08/18,01/07/16,
+Da Lat,130,"3,024,000","2,279,000",58,01/08/18,01/07/16,
+"Da Nang City, Nha Trang",132,"3,070,000","2,303,000",62,01/08/18,01/07/16,
+Ha Long City,98,"2,279,000","1,721,000",55,01/08/18,01/07/16,
+"Hai Phong City , Do Son",132,"3,070,000","2,303,000",60,01/08/18,01/07/16,
+Ho Chi Minh City,159,"3,698,000","3,698,000",58,01/08/18,01/07/16,
+Hoi An City,128,"2,977,000","2,233,000",61,01/08/18,01/07/16,
+Hue City,103,"2,396,000","1,791,000",56,01/08/18,01/07/16,
+Elsewhere,69,"1,605,000","1,605,000",54,01/08/18,01/07/16,
+Virgin Islands (U.S.A) (US Dollar),,,,,,,
+All Areas (1 May -14 Dec.),381,381,286,64,01/11/15,01/11/15,
+All Areas (15 Dec. - 30 Apr.),530,530,398,70,01/11/16,01/11/16,
+West Bank (Shekel),,,,,,,
+Jericho Area,186,680,510,63,01/08/18,01/08/17,
+The Gaza Strip,165,600,454,61,01/08/18,01/08/17,
+Elsewhere in the West Bank,217,800,600,62,01/08/18,01/08/17,
+Western Sahara (Morocco Dirham),,,,,,,
+Laayoune,118,"1,110",830,45,01/08/18,01/07/17,
+"Yemen, Republic of (Yemeni Rial)",,,,,,,
+Sana'a,150,"69,200","52,100",50,01/07/18,01/04/15,
+Sana'a (DTF-Former Sheraton),291,"134,000","101,000",64,01/07/18,01/09/15,
+"Sana'a (Movenpick, Sheba)",220,"101,000","76,100",54,01/07/18,01/04/15,1
+Aden,134,"61,800","46,600",52,01/07/18,01/04/15,
+Hodeidah,104,"48,000","36,000",46,01/07/18,01/04/15,
+Mukalla (Ramada),144,"66,400","49,800",49,01/07/18,01/04/15,1
+Socotra,127,"58,600","43,800",59,01/07/18,01/04/15,
+Taiz (Al-Saeed),184,"84,900","63,600",54,01/07/18,01/04/15,1
+Elsewhere,100,"46,100","34,600",51,01/07/18,01/04/15,
+Zambia (Zambian Kwacha (New)),,,,,,,
+Lusaka,246,"2,460","1,850",69,01/08/18,01/09/17,
+Lusaka (Intercontinental Hotel),313,"3,130","2,350",66,01/08/18,01/09/17,1
+"Lusaka (Protea Arcade, Southern Sun Ridgeway, Taj Pamodzi)",343,"3,430","2,570",72,01/08/18,01/09/17,1
+Chingola,186,"1,860","1,400",66,01/08/18,01/09/17,
+Chipata,137,"1,370","1,030",69,01/08/18,01/09/17,
+Chipata (Protea),299,"2,990","2,240",74,01/08/18,01/10/17,1
+Kitwe,219,"2,190","1,640",67,01/08/18,01/09/17,
+Livingstone,187,"1,870","1,400",74,01/08/18,01/09/17,
+"Livingstone (Protea, David Livingstone, Avani Victoria Falls)",445,"4,450","3,340",67,01/08/18,01/09/17,1
+Ndola,289,"2,890","2,170",67,01/08/18,01/09/17,
+"Siavonga (Lake Safari, Lake Kariba, Freshview)",174,"1,740","1,310",65,01/08/18,01/09/17,1
+Solwezi,183,"1,830","1,370",72,01/08/18,01/09/17,
+"Solwezi (Kasanshi, Royal Solwezi)",269,"2,690","2,020",66,01/08/18,01/09/17,1
+Elsewhere,128,"1,280",960,67,01/08/18,01/09/17,
+Zimbabwe (Zimbabwe Dollar),,,,,,,
+Harare,188,"28,200,000","21,150,000",60,01/09/17,01/09/17,
+Harare (Meikles),202,"30,300,000","22,725,000",62,01/07/18,01/07/18,1
+Bulawayo,151,"22,650,000","16,988,000",58,01/09/17,01/09/17,
+Chegutu (Pamuzunda Hotel),189,"28,350,000","21,263,000",63,01/09/17,01/09/17,1
+Kadoma,160,"24,000,000","18,000,000",53,01/09/17,01/09/17,
+Kariba,157,"23,550,000","17,663,000",59,01/09/17,01/09/17,
+Masvingo,127,"19,050,000","14,288,000",60,01/09/17,01/09/17,
+Mutare,156,"23,400,000","17,550,000",57,01/09/17,01/09/17,
+Nyanga,150,"22,500,000","16,875,000",58,01/09/17,01/09/17,
+Victoria Falls,199,"29,850,000","22,388,000",58,01/09/17,01/09/17,
+Victoria Falls (Victoria Falls Hotel),293,"43,950,000","32,963,000",61,01/09/17,01/09/17,1
+Vumba (Leopard Rock),196,"29,400,000","22,050,000",66,01/07/18,01/07/18,1
+Elsewhere,110,"16,500,000","12,375,000",56,01/09/17,01/09/17,

@@ -10,7 +10,7 @@ let currency = '';
 
 rows = rows
     .map(row => {
-        if (row[0] == 'Country/Area (Currency)') {
+        if (row[0] == 'Country - (Currency) Area') {
             row.shift();
             row.unshift('Location');
             row.unshift('Currency');

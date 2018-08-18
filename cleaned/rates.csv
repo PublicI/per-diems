@@ -901,298 +901,1388 @@ UK,vietnam-ho-chi-minh-city,VIETNAM,Ho Chi Minh City,,231,NaN
 UK,yemen-sana'a,YEMEN,Sana'a,,226,NaN
 UK,zambia-lusaka,ZAMBIA,Lusaka,,127.89786913307458,NaN
 UK,zimbabwe-harare,ZIMBABWE,Harare,,279.5,NaN
-UN,andorra,Andorra,All Areas,,165,NaN
-UN,australia-canberra-melbourne-and-sydney,Australia,"Canberra, Melbourne & Sydney",,330,NaN
-UN,australia,Australia,Elsewhere,,221,NaN
-UN,austria,Austria,All Areas,,280,NaN
-UN,belgium,Belgium,All Areas,,360,NaN
-UN,benin-cotonou,Benin,Cotonou,,0.36649576495844793,NaN
-UN,benin-malanville,Benin,Malanville,,0.18502698813436205,NaN
-UN,benin-parakou,Benin,Parakou,,0.19925983337546685,NaN
-UN,benin-porto-novo,Benin,Porto Novo,,0.23662105213336687,NaN
-UN,benin-possotome,Benin,Possotome,,0.2722031652361288,NaN
-UN,benin-lokossa,Benin,Lokossa,,0.2117135729614335,NaN
-UN,benin-grand-popo,Benin,Grand Popo,,0.24551658040905736,NaN
-UN,benin-ouidah,Benin,Ouidah (Casa Del Papa),,0.32201812357999554,NaN
-UN,benin-porto-novo,Benin,Porto Novo (Les Ambassadeurs),,0.34692560275192885,NaN
-UN,benin-cotonou,Benin,Cotonou (La Maison Rouge),,0.4839167381975623,NaN
-UN,benin-cotonou,Benin,Cotonou (Golden Tulip de Diplomate),,0.5639764926787767,NaN
-UN,benin,Benin,Elsewhere,,0.17613145985867157,NaN
+UN,afghanistan-kabul,Afghanistan,Kabul,,162,NaN
+UN,afghanistan-kabul,Afghanistan,Kabul (Kabul Serena),,290,NaN
+UN,afghanistan,Afghanistan,Elsewhere,,96,NaN
+UN,albania-tirana,Albania,Tirana,,147,NaN
+UN,albania-tirana,Albania,Tirana (Rogner),,165,NaN
+UN,albania-tirana,Albania,Tirana (Sheraton),,193,NaN
+UN,albania-durres,Albania,"Durres (Adriatic, Hotel Palace)",,200,NaN
+UN,albania-korca,Albania,Korca (Life Gallery Hotel),,116,NaN
+UN,albania-saranda,Albania,"Saranda (Butrinti, Demi Hotel)",,139,NaN
+UN,albania-shkodra,Albania,Shkodra,,133,NaN
+UN,albania-vlore,Albania,Vlore,,106,NaN
+UN,albania,Albania,Elsewhere,,78,NaN
+UN,algeria-algiers,Algeria,Algiers,,258,NaN
+UN,algeria-algiers,Algeria,Algiers (El-Aurassi & El-Djazair),,311,NaN
+UN,algeria-algiers,Algeria,Algiers (Sheraton),,476,NaN
+UN,algeria-algiers,Algeria,Algiers (Sofitel),,408,NaN
+UN,algeria-adrar,Algeria,Adrar,,171,NaN
+UN,algeria-annaba,Algeria,Annaba (Golden Tulip Sabri),,195,NaN
+UN,algeria-annaba,Algeria,Annaba (Sheraton),,272,NaN
+UN,algeria-constantine,Algeria,Constantine (Marriott),,311,NaN
+UN,algeria-constantine,Algeria,Constantine (Novotel),,201,NaN
+UN,algeria-oran,Algeria,Oran,,156,NaN
+UN,algeria-oran,Algeria,Oran (Hotel Royal),,280,NaN
+UN,algeria-oran,Algeria,Oran (Le Meridien),,230,NaN
+UN,algeria-oran,Algeria,Oran (Sheraton),,246,NaN
+UN,algeria-setif,Algeria,Setif (Novotel),,217,NaN
+UN,algeria-tamanrasset,Algeria,Tamanrasset,,166,NaN
+UN,algeria-tlemcen,Algeria,Tlemcen (Renaissance),,259,NaN
+UN,algeria,Algeria,Elsewhere,,110,NaN
+UN,american-samoa,American Samoa,All Areas,,238,NaN
+UN,andorra,Andorra,All Areas,,169,NaN
+UN,angola-luanda,Angola,Luanda,,230,NaN
+UN,angola-luanda,Angola,"Luanda (Baia, Skyna, Tropico)",,418,NaN
+UN,angola-luanda,Angola,Luanda (Presidente),,363,NaN
+UN,angola-cabinda,Angola,Cabinda,,150,NaN
+UN,angola-dundu,Angola,Dundu,,158,NaN
+UN,angola-huambo,Angola,Huambo,,153,NaN
+UN,angola-lobito,Angola,Lobito,,168,NaN
+UN,angola-lubango,Angola,Lubango,,134,NaN
+UN,angola-malange,Angola,Malange,,154,NaN
+UN,angola-ndalatando,Angola,Ndalatando,,139,NaN
+UN,angola-uige,Angola,Uige,,125,NaN
+UN,angola,Angola,Elsewhere,,122,NaN
+UN,anguilla-all-areas,Anguilla,All  Areas (15 Dec. - 14 Apr.),,610,NaN
+UN,anguilla,Anguilla,All Areas  (15 Apr. - 14 Dec.),,426,NaN
+UN,antigua-and-barbuda-all-areas,Antigua and Barbuda,All  Areas (1 Apr. - 30 Nov.),,337,NaN
+UN,antigua-and-barbuda-all-areas,Antigua and Barbuda,All  Areas (1 Dec. - 31 Mar.),,359,NaN
+UN,argentina-buenos-aires,Argentina,Buenos Aires,,229,NaN
+UN,argentina-bahia-blanca-and-mar-del-plata,Argentina,Bahia Blanca & Mar del Plata,,178,NaN
+UN,argentina-bariloche,Argentina,Bariloche (Edelweiss),,222,NaN
+UN,argentina-comodoro-rivadavia,Argentina,Comodoro Rivadavia,,151,NaN
+UN,argentina-cordoba,Argentina,Cordoba,,131,NaN
+UN,argentina-formosa,Argentina,Formosa,,162,NaN
+UN,argentina-la-rioja,Argentina,La Rioja,,124,NaN
+UN,argentina-mendoza,Argentina,Mendoza,,175,NaN
+UN,argentina-neuquen,Argentina,Neuquen,,182,NaN
+UN,argentina-resistencia-and-rio-gallegos,Argentina,Resistencia & Rio Gallegos,,143,NaN
+UN,argentina-salta,Argentina,Salta,,156,NaN
+UN,argentina-san-juan-and-san-salvador-de-jujuy,Argentina,San Juan & San Salvador de Jujuy,,139,NaN
+UN,argentina-ushuaia,Argentina,Ushuaia,,200,NaN
+UN,argentina,Argentina,Elsewhere,,98,NaN
+UN,armenia-yerevan,Armenia,Yerevan,,158,NaN
+UN,armenia,Armenia,Elsewhere,,127,NaN
+UN,aruba,Aruba,All Areas (15 Apr. - 15 Dec.),,295,NaN
+UN,aruba,Aruba,All Areas (16 Dec. - 14 Apr.),,396,NaN
+UN,australia-canberra-melbourne-and-sydney,Australia,"Canberra, Melbourne & Sydney",,336,NaN
+UN,australia,Australia,Elsewhere,,225,NaN
+UN,austria,Austria,All Areas,,287,NaN
+UN,azerbaijan-baku,Azerbaijan,Baku,,179,NaN
+UN,azerbaijan-baku,Azerbaijan,Baku (Four Seasons),,332,NaN
+UN,azerbaijan-baku,Azerbaijan,Baku (JV Absheron Marriott),,256,NaN
+UN,azerbaijan-tabriz,Azerbaijan,Tabriz (Nakhichevan),,121,NaN
+UN,azerbaijan,Azerbaijan,Elsewhere,,92,NaN
+UN,bahamas,Bahamas,All Areas (20 Dec.-20 Apr.),,447,NaN
+UN,bahamas,Bahamas,All Areas (21 Apr.-19 Dec.),,434,NaN
+UN,bahrain-manama,Bahrain,Manama,,280,NaN
+UN,bahrain-manama,Bahrain,Manama (Jumeirah Royal Saray & Ritz Carlton),,510,NaN
+UN,bahrain-manama,Bahrain,Manama (Movenpick),,325,NaN
+UN,bangladesh-dhaka,Bangladesh,Dhaka,,133,NaN
+UN,bangladesh-dhaka,Bangladesh,"Dhaka (Amari, Pan Pacific Sonargaon)",,305,NaN
+UN,bangladesh-dhaka,Bangladesh,"Dhaka (Le Meridien, Radisson Water Garden, Westin)",,358,NaN
+UN,bangladesh-dhaka,Bangladesh,Dhaka (Longbeach Suites),,187,NaN
+UN,bangladesh-dhaka,Bangladesh,Dhaka (Six Seasons),,260,NaN
+UN,bangladesh-dhaka,Bangladesh,Dhaka (The Way),,218,NaN
+UN,bangladesh-chittagong,Bangladesh,Chittagong (Agrabad and Peninsula),,150,NaN
+UN,bangladesh-chittagong,Bangladesh,Chittagong (Radisson Blu),,170,NaN
+UN,bangladesh-cox's-bazaar,Bangladesh,Cox's Bazaar,,93,NaN
+UN,bangladesh-sylhet,Bangladesh,"Sylhet (Grand Sultan, The Palace)",,196,NaN
+UN,bangladesh-sylhet,Bangladesh,Sylhet (Nazimgarh Resort),,146,NaN
+UN,bangladesh,Bangladesh,Elsewhere,,79,NaN
+UN,barbados,Barbados,All Areas (16 Apr. - 15 Dec.),,425,NaN
+UN,barbados,Barbados,All Areas (16 Dec. - 15 Apr.),,475,NaN
+UN,belarus-minsk,Belarus,Minsk,,249,NaN
+UN,belarus-brest,Belarus,Brest,,189,NaN
+UN,belarus-homiel,Belarus,Homiel,,148,NaN
+UN,belarus-hrodna,Belarus,Hrodna (Non-residents),,195,NaN
+UN,belarus-hrodna,Belarus,Hrodna (Residents),,185,NaN
+UN,belarus-mahiliou,Belarus,Mahiliou,,131,NaN
+UN,belarus-viciebsk,Belarus,Viciebsk,,118,NaN
+UN,belarus,Belarus,Elsewhere,,92,NaN
+UN,belgium,Belgium,All Areas,,369,NaN
+UN,belize-belize-city,Belize,Belize City,,260,NaN
+UN,belize-san-pedro,Belize,"San Pedro (The Villas at Banyan Bay, Sun Breeze Hotel, Victoria House)",,520,NaN
+UN,belize,Belize,Elsewhere,,214,NaN
+UN,benin-cotonou,Benin,Cotonou,,211,NaN
+UN,benin-cotonou,Benin,Cotonou (Golden Tulip de Diplomate),,325,NaN
+UN,benin-cotonou,Benin,Cotonou (La Maison Rouge),,278,NaN
+UN,benin-grand-popo,Benin,Grand Popo,,142,NaN
+UN,benin-lokossa,Benin,Lokossa,,122,NaN
+UN,benin-malanville,Benin,Malanville,,106,NaN
+UN,benin-ouidah,Benin,Ouidah (Casa Del Papa),,186,NaN
+UN,benin-parakou,Benin,Parakou,,115,NaN
+UN,benin-porto-novo,Benin,Porto Novo,,136,NaN
+UN,benin-porto-novo,Benin,Porto Novo (Les Ambassadeurs),,200,NaN
+UN,benin-possotome,Benin,Possotome,,156,NaN
+UN,benin,Benin,Elsewhere,,102,NaN
+UN,bermuda,Bermuda,All Areas (1 Dec. - 14 Mar.),,459,NaN
+UN,bermuda,Bermuda,All Areas (15 Mar. - 30 Nov.),,510,NaN
+UN,bhutan-thimphu,Bhutan,Thimphu,,119,NaN
+UN,bhutan-thimphu,Bhutan,Thimphu (Le Meridien),,281,NaN
+UN,bhutan-thimphu,Bhutan,Thimphu (Taj Tashi),,428,NaN
+UN,bhutan-paro,Bhutan,Paro,,91,NaN
+UN,bhutan-phuentsholing,Bhutan,Phuentsholing,,85,NaN
+UN,bhutan,Bhutan,Elsewhere,,90,NaN
+UN,bolivia-la-paz,Bolivia,La Paz,,165,NaN
+UN,bolivia-cochabamba,Bolivia,Cochabamba,,110,NaN
+UN,bolivia-santa-cruz,Bolivia,Santa Cruz,,171,NaN
+UN,bolivia,Bolivia,Elsewhere,,87,NaN
 UN,bosnia-and-herzegovina-sarajevo,Bosnia and Herzegovina,Sarajevo,,124,NaN
-UN,bosnia-and-herzegovina-mostar,Bosnia and Herzegovina,Mostar,,120,NaN
 UN,bosnia-and-herzegovina-banja-luka,Bosnia and Herzegovina,Banja Luka,,110,NaN
-UN,bosnia-and-herzegovina-travnik,Bosnia and Herzegovina,Travnik,,85,NaN
+UN,bosnia-and-herzegovina-mostar,Bosnia and Herzegovina,Mostar,,120,NaN
 UN,bosnia-and-herzegovina-sarajevo,Bosnia and Herzegovina,"Sarajevo (Bristol, Central, Europe, Marriott Courtyard)",,155,NaN
+UN,bosnia-and-herzegovina-travnik,Bosnia and Herzegovina,Travnik,,85,NaN
 UN,bosnia-and-herzegovina,Bosnia and Herzegovina,Elsewhere,,90,NaN
-UN,brunei,Brunei,All Areas,,180,NaN
+UN,botswana-gaborone,Botswana,Gaborone,,217,NaN
+UN,botswana-francistown,Botswana,Francistown,,188,NaN
+UN,botswana-francistown,Botswana,"Francistown (Marang, Thapama Lodge)",,223,NaN
+UN,botswana-ghanzi,Botswana,Ghanzi,,202,NaN
+UN,botswana-jwaneng,Botswana,Jwaneng,,205,NaN
+UN,botswana-kasane,Botswana,Kasane,,227,NaN
+UN,botswana-kasane,Botswana,Kasane (Chobe Game Lodge),,493,NaN
+UN,botswana-kasane,Botswana,"Kasane (Chobe Marina Lodge, Chobe Safari Lodge, Mowana Lodge) Resident",,255,NaN
+UN,botswana-mahalapye,Botswana,Mahalapye,,187,NaN
+UN,botswana-maun,Botswana,Maun,,205,NaN
+UN,botswana-nata,Botswana,Nata,,167,NaN
+UN,botswana-palapye,Botswana,Palapye,,186,NaN
+UN,botswana-selebi-phikwe,Botswana,Selebi-Phikwe,,169,NaN
+UN,botswana-shakawe,Botswana,Shakawe,,260,NaN
+UN,botswana-tsabong,Botswana,Tsabong,,205,NaN
+UN,botswana,Botswana,Elsewhere,,148,NaN
+UN,brazil-brasilia,Brazil,Brasilia,,151,NaN
+UN,brazil-campinas,Brazil,Campinas,,129,NaN
+UN,brazil-fortaleza,Brazil,Fortaleza,,125,NaN
+UN,brazil-porto-allegre,Brazil,Porto Allegre,,128,NaN
+UN,brazil-recife,Brazil,Recife,,140,NaN
+UN,brazil-rio-de-janeiro,Brazil,Rio De Janeiro,,159,NaN
+UN,brazil-sao-paulo,Brazil,Sao Paulo,,153,NaN
+UN,brazil,Brazil,Elsewhere,,107,NaN
+UN,british-virgin-islands,British Virgin Islands,All Areas (15 Dec. - 15 Apr.),,464,NaN
+UN,british-virgin-islands,British Virgin Islands,All Areas (16 Apr. -14 Dec.),,422,NaN
+UN,brunei,Brunei,All Areas,,181,NaN
 UN,bulgaria-sofia,Bulgaria,Sofia,,216,NaN
-UN,bulgaria-burgas-plovdiv-stara-zagora-varna,Bulgaria,"Burgas, Plovdiv, Stara Zagora, Varna",,104,NaN
 UN,bulgaria-sofia,Bulgaria,"Sofia (Hilton, Arena di Serdika)",,262,NaN
+UN,bulgaria-burgas-plovdiv-stara-zagora-varna,Bulgaria,"Burgas, Plovdiv, Stara Zagora, Varna",,104,NaN
 UN,bulgaria,Bulgaria,Elsewhere,,78,NaN
-UN,burkina-faso-ouagadougou,Burkina Faso,Ouagadougou,,0.46434657599104323,NaN
-UN,burkina-faso-bobo-dioulasso,Burkina Faso,Bobo-Dioulasso,,0.24729568606419544,NaN
-UN,burkina-faso-ouagadougou,Burkina Faso,Ouagadougou (Laico Ouaga 2000),,0.7774691712953483,NaN
-UN,burkina-faso,Burkina Faso,Elsewhere,,0.2152717842717097,NaN
-UN,cameroon-yaounde,Cameroon,Yaounde,,0.3842868215098289,NaN
-UN,cameroon-douala,Cameroon,Douala,,0.3380300744762384,NaN
-UN,cameroon-yaounde,Cameroon,Yaounde (Hotel Hilton),,0.606675028402091,NaN
-UN,cameroon,Cameroon,Elsewhere,,0.2117135729614335,NaN
-UN,canada-ottawa,Canada,Ottawa,,347,NaN
-UN,canada-calgary,Canada,Calgary,,267,NaN
-UN,canada-halifax,Canada,Halifax,,270,NaN
-UN,canada-montreal,Canada,Montreal,,319,NaN
-UN,canada-toronto,Canada,Toronto,,354,NaN
-UN,canada-vancouver,Canada,Vancouver,,368,NaN
-UN,canada,Canada,Elsewhere,,245,NaN
-UN,cape-verde-praia,Cape Verde,Praia,,183,NaN
-UN,cape-verde-mindelo,Cape Verde,Mindelo,,172,NaN
-UN,cape-verde-santa-maria,Cape Verde,Santa Maria (Sal),,248,NaN
-UN,cape-verde-boa-vista-island,Cape Verde,Boa Vista Island,,223,NaN
-UN,cape-verde,Cape Verde,Elsewhere,,132,NaN
-UN,central-african-rep.-bangui,Central African Rep.,Bangui,,0.35404202537248125,NaN
-UN,central-african-rep.-boali,Central African Rep.,Boali,,0.19570162206519065,NaN
-UN,central-african-rep.-bangui,Central African Rep.,Bangui (Ledger Plaza),,0.5639764926787767,NaN
-UN,central-african-rep.,Central African Rep.,Elsewhere,,0.15656129765215251,NaN
-UN,chad-n'djamena,Chad,N'djamena,,0.29533153875292406,NaN
-UN,chad-n'djamena,Chad,"N'Djaména (Hilton, La Residence, Radisson Blu)",,0.47146299861159563,NaN
-UN,chad,Chad,Elsewhere,,0.220609101237124,NaN
-UN,comoros-moroni,Comoros,Moroni,,221,NaN
-UN,comoros,Comoros,Elsewhere,,133,NaN
-UN,congo-brazzaville,Congo,Brazzaville,,0.47146299861159563,NaN
-UN,congo-dolisie,Congo,Dolisie,,0.3967405610957956,NaN
-UN,congo-owando,Congo,Owando,,0.2917733274426479,NaN
-UN,congo-pointe-noire,Congo,Pointe-Noire,,0.569313809644191,NaN
-UN,congo-ollombo,Congo,Ollombo (Alima Palace),,0.8557498201214245,NaN
-UN,congo-brazzaville,Congo,"Brazzaville (Hotel Ledger, Olympic Palace, Radisson Blu)",,0.7899229108813149,NaN
-UN,congo,Congo,Elsewhere,,0.24907479171933355,NaN
+UN,burkina-faso-ouagadougou,Burkina Faso,Ouagadougou,,268,NaN
+UN,burkina-faso-ouagadougou,Burkina Faso,Ouagadougou (Laico Ouaga 2000),,448,NaN
+UN,burkina-faso-bobo-dioulasso,Burkina Faso,Bobo-Dioulasso,,143,NaN
+UN,burkina-faso,Burkina Faso,Elsewhere,,124,NaN
+UN,burundi-bujumbura,Burundi,Bujumbura,,235,NaN
+UN,burundi-gitega-and-ngozi,Burundi,Gitega and Ngozi,,94,NaN
+UN,burundi-rumonge,Burundi,Rumonge,,221,NaN
+UN,burundi,Burundi,Elsewhere,,61,NaN
+UN,cambodia-phnom-penh,Cambodia,Phnom Penh,,146,NaN
+UN,cambodia-phnom-penh,Cambodia,Phnom Penh (Himawari),,292,NaN
+UN,cambodia-phnom-penh,Cambodia,"Phnom Penh (Intercontinental, Raffles Le Royal, Sofitel Phnom Penh Phokeethra)",,303,NaN
+UN,cambodia-phnom-penh,Cambodia,Phnom Penh (Sokha Phnom Penh),,228,NaN
+UN,cambodia-siem-reap,Cambodia,Siem Reap,,132,NaN
+UN,cambodia-siem-reap,Cambodia,Siem Reap (Sofitel Phokeethra Royal Angkor),,348,NaN
+UN,cambodia-siem-reap,Cambodia,"Siem Reap (Sokha, Victoria Angkor)",,189,NaN
+UN,cambodia-sihanoukville,Cambodia,Sihanoukville,,116,NaN
+UN,cambodia-sihanoukville,Cambodia,"Sihanoukville (Independence, Palm Palace)",,135,NaN
+UN,cambodia-sihanoukville,Cambodia,Sihanoukville (Sokha Beach),,233,NaN
+UN,cambodia,Cambodia,Elsewhere,,57,NaN
+UN,cameroon-yaounde,Cameroon,Yaounde,,221,NaN
+UN,cameroon-yaounde,Cameroon,Yaounde (Hotel Hilton),,350,NaN
+UN,cameroon-douala,Cameroon,Douala,,194,NaN
+UN,cameroon,Cameroon,Elsewhere,,122,NaN
+UN,canada-ottawa,Canada,Ottawa,,349,NaN
+UN,canada-calgary,Canada,Calgary,,269,NaN
+UN,canada-halifax,Canada,Halifax,,272,NaN
+UN,canada-montreal,Canada,Montreal,,321,NaN
+UN,canada-toronto,Canada,Toronto,,357,NaN
+UN,canada-vancouver,Canada,Vancouver,,371,NaN
+UN,canada,Canada,Elsewhere,,247,NaN
+UN,cape-verde-praia,Cape Verde,Praia,,188,NaN
+UN,cape-verde-boa-vista-island,Cape Verde,Boa Vista Island,,228,NaN
+UN,cape-verde-mindelo,Cape Verde,Mindelo,,176,NaN
+UN,cape-verde-santa-maria,Cape Verde,Santa Maria (Sal),,254,NaN
+UN,cape-verde,Cape Verde,Elsewhere,,135,NaN
+UN,cayman-islands,Cayman Islands,All Areas (1 Dec. - 30 Apr.),,388,NaN
+UN,cayman-islands,Cayman Islands,All Areas (1 May - 30 Nov.),,307,NaN
+UN,central-african-rep.-bangui,Central African Rep.,Bangui,,203,NaN
+UN,central-african-rep.-bangui,Central African Rep.,Bangui (Ledger Plaza),,325,NaN
+UN,central-african-rep.-boali,Central African Rep.,Boali,,113,NaN
+UN,central-african-rep.,Central African Rep.,Elsewhere,,90,NaN
+UN,chad-n'djamena,Chad,N'djamena,,170,NaN
+UN,chad-n'djamena,Chad,"N'Djaména (Hilton, La Residence, Radisson Blu)",,271,NaN
+UN,chad,Chad,Elsewhere,,127,NaN
+UN,chile-santiago,Chile,Santiago,,323,NaN
+UN,chile,Chile,Elsewhere,,220,NaN
+UN,china-beijing,China,Beijing,,230,NaN
+UN,china-changsha,China,Changsha,,168,NaN
+UN,china-chengdu,China,Chengdu,,218,NaN
+UN,china-dalian,China,Dalian,,199,NaN
+UN,china-fuzhou,China,Fuzhou,,222,NaN
+UN,china-guangzhou,China,Guangzhou,,220,NaN
+UN,china-haikou,China,Haikou,,245,NaN
+UN,china-hangzhou,China,Hangzhou,,215,NaN
+UN,china-jinan,China,Jinan,,172,NaN
+UN,china-kunming,China,Kunming,,229,NaN
+UN,china-lhasa,China,Lhasa,,219,NaN
+UN,china-nanjing,China,Nanjing,,163,NaN
+UN,china-nanning,China,Nanning,,180,NaN
+UN,china-quingdao,China,Quingdao,,208,NaN
+UN,china-sanya,China,Sanya,,198,NaN
+UN,china-shanghai,China,Shanghai,,239,NaN
+UN,china-shenyang,China,Shenyang,,193,NaN
+UN,china-shenzhen,China,Shenzhen,,220,NaN
+UN,china-suzhou,China,Suzhou,,184,NaN
+UN,china-tianjin,China,Tianjin,,186,NaN
+UN,china-wu-han,China,Wu Han,,170,NaN
+UN,china-xi'an,China,Xi'An,,203,NaN
+UN,china-xiamen,China,Xiamen,,182,NaN
+UN,china,China,Elsewhere,,143,NaN
+UN,china-hong-kong-hong-kong,"China, Hong Kong",Hong Kong (SAR),,371,NaN
+UN,china-macau-macau,"China, Macau",Macau (SAR),,240,NaN
+UN,colombia-bogota,Colombia,Bogota,,165,NaN
+UN,colombia-barranquilla,Colombia,Barranquilla,,108,NaN
+UN,colombia-bucaramanga,Colombia,Bucaramanga,,113,NaN
+UN,colombia-buenaventura,Colombia,Buenaventura,,106,NaN
+UN,colombia-cali,Colombia,Cali,,140,NaN
+UN,colombia-cartagena,Colombia,Cartagena,,170,NaN
+UN,colombia-cucuta,Colombia,Cucuta,,107,NaN
+UN,colombia-medellin,Colombia,Medellin,,143,NaN
+UN,colombia-monteria,Colombia,Monteria,,88,NaN
+UN,colombia-neiva,Colombia,Neiva,,92,NaN
+UN,colombia-paipa,Colombia,Paipa,,134,NaN
+UN,colombia-riohacha,Colombia,Riohacha,,101,NaN
+UN,colombia-san-andres,Colombia,San Andres,,130,NaN
+UN,colombia-santa-marta,Colombia,Santa Marta,,122,NaN
+UN,colombia-villa-de-leyva,Colombia,Villa de Leyva,,159,NaN
+UN,colombia-villavicencio,Colombia,Villavicencio,,93,NaN
+UN,colombia,Colombia,Elsewhere,,98,NaN
+UN,comoros-moroni,Comoros,Moroni,,226,NaN
+UN,comoros,Comoros,Elsewhere,,137,NaN
+UN,congo-brazzaville,Congo,Brazzaville,,271,NaN
+UN,congo-brazzaville,Congo,"Brazzaville (Hotel Ledger, Olympic Palace, Radisson Blu)",,455,NaN
+UN,congo-dolisie,Congo,Dolisie,,228,NaN
+UN,congo-ollombo,Congo,Ollombo (Alima Palace),,492,NaN
+UN,congo-owando,Congo,Owando,,168,NaN
+UN,congo-pointe-noire,Congo,Pointe-Noire,,328,NaN
+UN,congo,Congo,Elsewhere,,143,NaN
+UN,congo-dem.-rep.-kinshasa,"Congo, Dem. Rep.",Kinshasa,,283,NaN
+UN,congo-dem.-rep.-kinshasa,"Congo, Dem. Rep.","Kinshasa (Fleueve Congo, Pullman Grand)",,410,NaN
+UN,congo-dem.-rep.-bandundu,"Congo, Dem. Rep.",Bandundu,,144,NaN
+UN,congo-dem.-rep.-boma,"Congo, Dem. Rep.",Boma,,157,NaN
+UN,congo-dem.-rep.-bukavu,"Congo, Dem. Rep.",Bukavu,,205,NaN
+UN,congo-dem.-rep.-bunia,"Congo, Dem. Rep.",Bunia,,150,NaN
+UN,congo-dem.-rep.-goma,"Congo, Dem. Rep.",Goma,,205,NaN
+UN,congo-dem.-rep.-kananga,"Congo, Dem. Rep.",Kananga,,154,NaN
+UN,congo-dem.-rep.-kindu,"Congo, Dem. Rep.",Kindu,,178,NaN
+UN,congo-dem.-rep.-kisangani,"Congo, Dem. Rep.",Kisangani,,161,NaN
+UN,congo-dem.-rep.-lubumbashi,"Congo, Dem. Rep.",Lubumbashi,,218,NaN
+UN,congo-dem.-rep.-matadi,"Congo, Dem. Rep.",Matadi,,183,NaN
+UN,congo-dem.-rep.-mbandaka,"Congo, Dem. Rep.",Mbandaka,,150,NaN
+UN,congo-dem.-rep.-mbuji-mayi,"Congo, Dem. Rep.",Mbuji-Mayi,,158,NaN
+UN,congo-dem.-rep.-zongo,"Congo, Dem. Rep.",Zongo (Seli Safari Zongo),,253,NaN
+UN,congo-dem.-rep.,"Congo, Dem. Rep.",Elsewhere,,141,NaN
 UN,cook-islands-rarotonga,Cook Islands,Rarotonga,,314,NaN
 UN,cook-islands,Cook Islands,Elsewhere,,251,NaN
-UN,cote-d-ivoire-abidjan,Cote d Ivoire,Abidjan,,0.3718330819238622,NaN
-UN,cote-d-ivoire-assinie,Cote d Ivoire,Assinie,,0.40207787806120987,NaN
-UN,cote-d-ivoire-san-pedro,Cote d Ivoire,San Pedro (Sophia),,0.28109869351181926,NaN
-UN,cote-d-ivoire-grand-bassam,Cote d Ivoire,Grand Bassam,,0.24195836909878116,NaN
-UN,cote-d-ivoire-assinie,Cote d Ivoire,Assinie (Coucoue Lodge),,0.48035852688728614,NaN
-UN,cote-d-ivoire-grand-bassam,Cote d Ivoire,Grand Bassam (Afrikaland),,0.32201812357999554,NaN
-UN,cote-d-ivoire-abidjan,Cote d Ivoire,"Abidjan (Azalai, Novotel and Tiama)",,0.6226869792983338,NaN
-UN,cote-d-ivoire-abidjan,Cote d Ivoire,Abidjan (Radisson Blu & Sofitel Ivoire),,0.7134213677103768,NaN
-UN,cote-d-ivoire-yamoussokro,Cote d Ivoire,Yamoussokro (HP Resort & President),,0.33447186316596217,NaN
-UN,cote-d-ivoire-abidjan,Cote d Ivoire,Abidjan (Seen Hotel Abidjan Plateau),,0.4252062515780051,NaN
-UN,cote-d-ivoire,Cote d Ivoire,Elsewhere,,0.20103893903060494,NaN
-UN,cyprus-nicosia,Cyprus,Nicosia,,182,NaN
-UN,cyprus,Cyprus,Elsewhere,,166,NaN
-UN,cyprus-larnaca-limassol-pafos,Cyprus,"Larnaca, Limassol, Pafos",,250,NaN
-UN,denmark,Denmark,All Areas,,379,NaN
-UN,equatorial-guinea-malabo,Equatorial Guinea,Malabo,,0.40919430068176227,NaN
-UN,equatorial-guinea-bata,Equatorial Guinea,Bata,,0.3896241384752432,NaN
-UN,equatorial-guinea-mongomo,Equatorial Guinea,Mongomo,,0.4856958438527004,NaN
-UN,equatorial-guinea-malabo,Equatorial Guinea,Malabo (Hilton),,0.9073438841204293,NaN
-UN,equatorial-guinea-malabo,Equatorial Guinea,"Malabo (Sofitel President, Tres de Agosto)",,0.6102332397123672,NaN
-UN,equatorial-guinea-malabo,Equatorial Guinea,Malabo (Sofitel Sipopo),,0.8308423409494912,NaN
-UN,equatorial-guinea,Equatorial Guinea,Elsewhere,,0.19214341075491445,NaN
-UN,estonia-tallinn,Estonia,Tallinn,,299,NaN
-UN,estonia,Estonia,Elsewhere,,258,NaN
-UN,finland-helsinki,Finland,Helsinki,,327,NaN
-UN,finland,Finland,Elsewhere,,262,NaN
-UN,france-paris,France,Paris,,374,NaN
-UN,france,France,Elsewhere,,319,NaN
-UN,gabon-francesville,Gabon,Francesville,,0.26152853130530024,NaN
-UN,gabon-libreville,Gabon,Libreville,,0.6048959227469529,NaN
-UN,gabon-lambarene,Gabon,Lambarene,,0.30066885571833835,NaN
-UN,gabon-oyem,Gabon,Oyem,,0.26864495392585264,NaN
-UN,gabon-port-gentil,Gabon,Port Gentil,,0.606675028402091,NaN
-UN,gabon-libreville,Gabon,"Libreville (Le Cristal, Royal Palm)",,0.9962991668773342,NaN
-UN,gabon-libreville,Gabon,Libreville (Park Inn by Radisson),,0.7970393335018674,NaN
-UN,gabon-libreville,Gabon,Libreville (Radisson Blu Okoume Palace),,1.1742097323911438,NaN
-UN,gabon,Gabon,Elsewhere,,0.20815536165115733,NaN
-UN,germany-berlin,Germany,Berlin,,322,NaN
-UN,germany-bonn,Germany,Bonn,,273,NaN
-UN,germany-hamburg,Germany,Hamburg,,304,NaN
-UN,germany-munich,Germany,Munich,,297,NaN
-UN,germany,Germany,Elsewhere,,261,NaN
-UN,greece-athens,Greece,Athens,,289,NaN
-UN,greece-thessaloniki,Greece,Thessaloniki,,160,NaN
-UN,greece,Greece,Elsewhere,,152,NaN
-UN,guinea-bissau-bissau,Guinea Bissau,Bissau,,0.2899942217875098,NaN
-UN,guinea-bissau-bafata,Guinea Bissau,Bafata,,0.19036430509977637,NaN
-UN,guinea-bissau-bissau,Guinea Bissau,Bissau (Ledger Plaza),,0.4928122664732528,NaN
-UN,guinea-bissau-quinhamel,Guinea Bissau,Quinhamel,,0.20815536165115733,NaN
-UN,guinea-bissau,Guinea Bissau,Elsewhere,,0.13165381848021915,NaN
-UN,iran-tehran,Iran,Tehran,,137,NaN
-UN,iran-mashad,Iran,Mashad,,81,NaN
-UN,iran,Iran,Elsewhere,,76,NaN
-UN,iran-kerman,Iran,Kerman (Pars),,104,NaN
-UN,ireland,Ireland,All Areas,,301,NaN
-UN,italy-rome,Italy,Rome,,317,NaN
-UN,italy-florence,Italy,Florence,,258,NaN
-UN,italy-milan,Italy,Milan,,310,NaN
-UN,italy-turin,Italy,Turin,,267,NaN
-UN,italy-venice,Italy,Venice,,351,NaN
-UN,italy-trieste,Italy,Trieste,,253,NaN
-UN,italy-naples,Italy,Naples,,294,NaN
-UN,italy-palermo,Italy,Palermo,,306,NaN
-UN,italy-bologna,Italy,Bologna,,269,NaN
-UN,italy,Italy,Elsewhere,,166,NaN
+UN,costa-rica-san-jose,Costa Rica,San Jose,,212,NaN
+UN,costa-rica-guanacaste,Costa Rica,Guanacaste,,238,NaN
+UN,costa-rica-limon,Costa Rica,Limon,,220,NaN
+UN,costa-rica-puntarenas,Costa Rica,Puntarenas,,245,NaN
+UN,costa-rica,Costa Rica,Elsewhere,,169,NaN
+UN,cote-d-ivoire-abidjan,Cote d Ivoire,Abidjan,,214,NaN
+UN,cote-d-ivoire-abidjan,Cote d Ivoire,"Abidjan (Azalai, Novotel and Tiama)",,359,NaN
+UN,cote-d-ivoire-abidjan,Cote d Ivoire,Abidjan (Radisson Blu & Sofitel Ivoire),,410,NaN
+UN,cote-d-ivoire-abidjan,Cote d Ivoire,Abidjan (Seen Hotel Abidjan Plateau),,244,NaN
+UN,cote-d-ivoire-assinie,Cote d Ivoire,Assinie,,232,NaN
+UN,cote-d-ivoire-assinie,Cote d Ivoire,Assinie (Coucoue Lodge),,277,NaN
+UN,cote-d-ivoire-grand-bassam,Cote d Ivoire,Grand Bassam,,139,NaN
+UN,cote-d-ivoire-grand-bassam,Cote d Ivoire,Grand Bassam (Afrikaland),,186,NaN
+UN,cote-d-ivoire-san-pedro,Cote d Ivoire,San Pedro (Sophia),,162,NaN
+UN,cote-d-ivoire-yamoussokro,Cote d Ivoire,Yamoussokro (HP Resort & President),,193,NaN
+UN,cote-d-ivoire,Cote d Ivoire,Elsewhere,,115,NaN
+UN,croatia-republic-of-zagreb,"Croatia, Republic of",Zagreb,,220,NaN
+UN,croatia-republic-of-zagreb,"Croatia, Republic of","Zagreb (Esplanade, Sheraton, Westin)",,321,NaN
+UN,croatia-republic-of-brijuni,"Croatia, Republic of",Brijuni,,280,NaN
+UN,croatia-republic-of-dubrovnik,"Croatia, Republic of",Dubrovnik,,309,NaN
+UN,croatia-republic-of-opatija,"Croatia, Republic of",Opatija,,291,NaN
+UN,croatia-republic-of-sibenik,"Croatia, Republic of",Sibenik,,363,NaN
+UN,croatia-republic-of-split,"Croatia, Republic of",Split,,370,NaN
+UN,croatia-republic-of-zadar,"Croatia, Republic of",Zadar,,313,NaN
+UN,croatia-republic-of,"Croatia, Republic of",Elsewhere,,180,NaN
+UN,cuba-havana,Cuba,Havana,,256,NaN
+UN,cuba-cienfuegos,Cuba,Cienfuegos,,159,NaN
+UN,cuba-santiago-de-cuba,Cuba,Santiago De Cuba,,128,NaN
+UN,cuba-varadero,Cuba,Varadero,,193,NaN
+UN,cuba,Cuba,Elsewhere,,122,NaN
+UN,curacao,Curacao,All Areas (15 April - 15 December),,288,NaN
+UN,curacao,Curacao,All Areas (16 December - 14 April),,322,NaN
+UN,cyprus-nicosia,Cyprus,Nicosia,,186,NaN
+UN,cyprus-larnaca-limassol-pafos,Cyprus,"Larnaca, Limassol, Pafos",,256,NaN
+UN,cyprus,Cyprus,Elsewhere,,170,NaN
+UN,czech-republic-prague,Czech Republic,Prague,,275,NaN
+UN,czech-republic-brno,Czech Republic,Brno,,169,NaN
+UN,czech-republic-cesky-krumlov,Czech Republic,Cesky Krumlov,,177,NaN
+UN,czech-republic-karlovy-vary,Czech Republic,Karlovy Vary,,283,NaN
+UN,czech-republic-ostrava,Czech Republic,Ostrava,,130,NaN
+UN,czech-republic,Czech Republic,Elsewhere,,118,NaN
+UN,denmark,Denmark,All Areas,,388,NaN
+UN,djibouti,Djibouti,Djibouti,,187,NaN
+UN,djibouti-djibouti,Djibouti,Djibouti (Bavaria Les Acacias),,277,NaN
+UN,djibouti-djibouti,Djibouti,Djibouti (Djibouti Palace Kempinski),,398,NaN
+UN,djibouti-djibouti,Djibouti,Djibouti (Sheraton),,294,NaN
+UN,djibouti-tadjourah,Djibouti,Tadjourah,,124,NaN
+UN,djibouti,Djibouti,Elsewhere,,115,NaN
+UN,dominica,Dominica,All Areas,,393,NaN
+UN,dominican-republic-santo-domingo,Dominican Republic,Santo Domingo,,253,NaN
+UN,dominican-republic-barahona,Dominican Republic,Barahona,,99,NaN
+UN,dominican-republic-barahona,Dominican Republic,Barahona (Casa Bonita Tropical Lodge),,425,NaN
+UN,dominican-republic-bavaropunta-cana,Dominican Republic,Bavaro/Punta Cana,,307,NaN
+UN,dominican-republic-bayanhibe,Dominican Republic,Bayanhibe,,217,NaN
+UN,dominican-republic-boca-chica,Dominican Republic,Boca Chica (formerly East Santo Domingo),,128,NaN
+UN,dominican-republic-constanza,Dominican Republic,Constanza,,85,NaN
+UN,dominican-republic-jarabacoa,Dominican Republic,Jarabacoa,,86,NaN
+UN,dominican-republic-juan-dolio,Dominican Republic,Juan Dolio,,154,NaN
+UN,dominican-republic-la-romana,Dominican Republic,La Romana,,163,NaN
+UN,dominican-republic-la-romana,Dominican Republic,La Romana (Gran Bahia),,310,NaN
+UN,dominican-republic-montecristi,Dominican Republic,Montecristi,,201,NaN
+UN,dominican-republic-puerto-plata,Dominican Republic,Puerto Plata,,178,NaN
+UN,dominican-republic-samana,Dominican Republic,Samana,,204,NaN
+UN,dominican-republic-santiago,Dominican Republic,Santiago,,209,NaN
+UN,dominican-republic,Dominican Republic,Elsewhere,,63,NaN
+UN,ecuador-quito,Ecuador,Quito,,177,NaN
+UN,ecuador-quito,Ecuador,Quito (JW Marriott),,217,NaN
+UN,ecuador-cuenca,Ecuador,Cuenca,,172,NaN
+UN,ecuador-galapagos,Ecuador,Galapagos,,225,NaN
+UN,ecuador-galapagos,Ecuador,Galapagos (Red Mangrove),,500,NaN
+UN,ecuador-guayaquil,Ecuador,Guayaquil,,244,NaN
+UN,ecuador-manta,Ecuador,Manta,,205,NaN
+UN,ecuador-santo-domingo,Ecuador,Santo Domingo,,179,NaN
+UN,ecuador,Ecuador,Elsewhere,,132,NaN
+UN,egypt-cairo,Egypt,Cairo,,278,NaN
+UN,egypt-alexandria,Egypt,Alexandria,,228,NaN
+UN,egypt-aswan-and-luxor,Egypt,Aswan and Luxor,,275,NaN
+UN,egypt-ismailia,Egypt,Ismailia,,185,NaN
+UN,egypt-sahl-hasheesh,Egypt,Sahl Hasheesh (Baron Palace),,204,NaN
+UN,egypt-sharm-el-sheikh,Egypt,Sharm El Sheikh,,207,NaN
+UN,egypt,Egypt,Elsewhere,,162,NaN
+UN,el-salvador-san-salvador,El Salvador,San Salvador,,219,NaN
+UN,el-salvador,El Salvador,Elsewhere,,132,NaN
+UN,equatorial-guinea-malabo,Equatorial Guinea,Malabo,,236,NaN
+UN,equatorial-guinea-malabo,Equatorial Guinea,Malabo (Hilton),,530,NaN
+UN,equatorial-guinea-malabo,Equatorial Guinea,"Malabo (Sofitel President, Tres de Agosto)",,352,NaN
+UN,equatorial-guinea-malabo,Equatorial Guinea,Malabo (Sofitel Sipopo),,478,NaN
+UN,equatorial-guinea-bata,Equatorial Guinea,Bata,,225,NaN
+UN,equatorial-guinea-mongomo,Equatorial Guinea,Mongomo,,280,NaN
+UN,equatorial-guinea,Equatorial Guinea,Elsewhere,,111,NaN
+UN,eritrea-asmara,Eritrea,Asmara,,215,NaN
+UN,eritrea-assab,Eritrea,Assab,,130,NaN
+UN,eritrea-keren,Eritrea,Keren,,165,NaN
+UN,eritrea-massawa,Eritrea,Massawa,,219,NaN
+UN,eritrea-tessenei,Eritrea,Tessenei,,125,NaN
+UN,eritrea,Eritrea,Elsewhere,,93,NaN
+UN,estonia-tallinn,Estonia,Tallinn,,307,NaN
+UN,estonia,Estonia,Elsewhere,,265,NaN
+UN,ethiopia-addis-ababa,Ethiopia,Addis Ababa,,198,NaN
+UN,ethiopia-addis-ababa,Ethiopia,Addis Ababa (Hilton),,386,NaN
+UN,ethiopia-addis-ababa,Ethiopia,"Addis Ababa (Marriott Executive Apartments, Radisson Blu)",,297,NaN
+UN,ethiopia-addis-ababa,Ethiopia,Addis Ababa (Sheraton),,499,NaN
+UN,ethiopia-awassa,Ethiopia,Awassa (Haile Resort),,231,NaN
+UN,ethiopia-bahir-dar-and-debrezeit,Ethiopia,Bahir Dar & Debrezeit (Kuriftu),,214,NaN
+UN,ethiopia-mekele,Ethiopia,Mekele (Planet),,221,NaN
+UN,ethiopia,Ethiopia,Elsewhere,,83,NaN
+UN,ethiopia,Ethiopia,Elsewhere (Resident),,50,NaN
+UN,fiji-suva,Fiji,Suva,,248,NaN
+UN,fiji-suva,Fiji,Suva (Grand Pacific Hotel),,495,NaN
+UN,fiji-coral-coast,Fiji,Coral Coast,,301,NaN
+UN,fiji-denarau,Fiji,Denarau (Hilton),,560,NaN
+UN,fiji-denarau,Fiji,"Denarau (Radisson, Sheraton, Sofitel, Westin)",,408,NaN
+UN,fiji-nadi,Fiji,Nadi,,178,NaN
+UN,fiji-pacific-harbour,Fiji,Pacific Harbour,,226,NaN
+UN,fiji,Fiji,Elsewhere,,143,NaN
+UN,finland-helsinki,Finland,Helsinki,,335,NaN
+UN,finland,Finland,Elsewhere,,268,NaN
+UN,france-paris,France,Paris,,383,NaN
+UN,france,France,Elsewhere,,327,NaN
+UN,gabon-libreville,Gabon,Libreville,,348,NaN
+UN,gabon-libreville,Gabon,"Libreville (Le Cristal, Royal Palm)",,570,NaN
+UN,gabon-libreville,Gabon,Libreville (Park Inn by Radisson),,459,NaN
+UN,gabon-libreville,Gabon,Libreville (Radisson Blu Okoume Palace),,680,NaN
+UN,gabon-francesville,Gabon,Francesville,,151,NaN
+UN,gabon-lambarene,Gabon,Lambarene,,173,NaN
+UN,gabon-oyem,Gabon,Oyem,,155,NaN
+UN,gabon-port-gentil,Gabon,Port Gentil,,350,NaN
+UN,gabon,Gabon,Elsewhere,,120,NaN
+UN,gambia-banjul,Gambia,Banjul,,194,NaN
+UN,gambia-banjul,Gambia,Banjul (Kairaba Beach),,242,NaN
+UN,gambia-tendaba,Gambia,Tendaba,,66,NaN
+UN,gambia,Gambia,Elsewhere,,42,NaN
+UN,georgia-republic-of-tbilisi,"Georgia, Republic of",Tbilisi,,181,NaN
+UN,georgia-republic-of-tbilisi,"Georgia, Republic of",Tbilisi (Radisson),,296,NaN
+UN,georgia-republic-of-tbilisi,"Georgia, Republic of",Tbilisi (Tbilisi Marriott),,236,NaN
+UN,georgia-republic-of-batumi,"Georgia, Republic of",Batumi,,185,NaN
+UN,georgia-republic-of-batumi,"Georgia, Republic of","Batumi (Radisson Blu, Sheraton) July-August",,210,NaN
+UN,georgia-republic-of-kobuleti,"Georgia, Republic of",Kobuleti (Georgia Palace) Jun-Sep,,213,NaN
+UN,georgia-republic-of,"Georgia, Republic of",Elsewhere,,142,NaN
+UN,germany-berlin,Germany,Berlin,,330,NaN
+UN,germany-bonn,Germany,Bonn,,280,NaN
+UN,germany-hamburg,Germany,Hamburg,,311,NaN
+UN,germany-munich,Germany,Munich,,304,NaN
+UN,germany,Germany,Elsewhere,,267,NaN
+UN,ghana-accra,Ghana,Accra,,398,NaN
+UN,ghana-accra,Ghana,Accra (Best  Western Premier),,475,NaN
+UN,ghana-aburi,Ghana,Aburi (Peduase Valley Resort),,403,NaN
+UN,ghana-akosombo,Ghana,Akosombo,,357,NaN
+UN,ghana-elmina,Ghana,Elmina,,388,NaN
+UN,ghana-ho,Ghana,Ho (Volta Serene),,309,NaN
+UN,ghana-kumasi,Ghana,Kumasi (Golden Tulip),,360,NaN
+UN,ghana-takoradi,Ghana,Takoradi,,282,NaN
+UN,ghana-takoradi,Ghana,"Takoradi (Planters Lodge, Protea)",,294,NaN
+UN,ghana-tamale,Ghana,Tamale,,311,NaN
+UN,ghana,Ghana,Elsewhere,,260,NaN
+UN,gibraltar,Gibraltar,All Areas,,357,NaN
+UN,greece-athens,Greece,Athens,,296,NaN
+UN,greece-thessaloniki,Greece,Thessaloniki,,164,NaN
+UN,greece,Greece,Elsewhere,,156,NaN
+UN,grenada,Grenada,All Areas (15 Dec.-15 Apr.),,344,NaN
+UN,grenada,Grenada,All Areas (16 Apr.-14 Dec.),,322,NaN
+UN,guam,Guam,All Areas,,307,NaN
+UN,guatemala-guatemala-city,Guatemala,Guatemala City,,197,NaN
+UN,guatemala-guatemala-city,Guatemala,"Guatemala City (Real Intercontinental, Westin Camino Real, Courtyard Marriott)",,277,NaN
+UN,guatemala-antigua,Guatemala,Antigua,,255,NaN
+UN,guatemala-antigua,Guatemala,Antigua (Finca Filadelfia),,261,NaN
+UN,guatemala-antigua,Guatemala,Antigua (La Reunion),,406,NaN
+UN,guatemala-izabal,Guatemala,Izabal,,143,NaN
+UN,guatemala-peten,Guatemala,Peten,,138,NaN
+UN,guatemala,Guatemala,Elsewhere,,97,NaN
+UN,guinea-conakry,Guinea,Conakry,,240,NaN
+UN,guinea-conakry,Guinea,Conakry (Noom),,384,NaN
+UN,guinea-conakry,Guinea,Conakry (Palm Camayenne),,415,NaN
+UN,guinea-conakry,Guinea,Conakry (Sheraton Grand),,452,NaN
+UN,guinea,Guinea,Elsewhere,,116,NaN
+UN,guinea-bissau-bissau,Guinea Bissau,Bissau,,167,NaN
+UN,guinea-bissau-bissau,Guinea Bissau,Bissau (Ledger Plaza),,284,NaN
+UN,guinea-bissau-bafata,Guinea Bissau,Bafata,,110,NaN
+UN,guinea-bissau-quinhamel,Guinea Bissau,Quinhamel,,120,NaN
+UN,guinea-bissau,Guinea Bissau,Elsewhere,,75,NaN
+UN,guyana-georgetown,Guyana,Georgetown,,265,NaN
+UN,guyana-georgetown,Guyana,Georgetown (Pegasus Hotel),,358,NaN
+UN,guyana-linden,Guyana,Linden,,138,NaN
+UN,guyana-new-amsterdam,Guyana,New Amsterdam,,134,NaN
+UN,guyana,Guyana,Elsewhere,,129,NaN
+UN,haiti-port-au-prince,Haiti,Port-Au-Prince,,221,NaN
+UN,haiti-port-au-prince,Haiti,Port-au-Prince (Karibe),,265,NaN
+UN,haiti-port-au-prince,Haiti,Port-au-Prince (Marriott),,298,NaN
+UN,haiti-cap-haitien-and-jacmel,Haiti,Cap Haitien and Jacmel,,181,NaN
+UN,haiti-cote-des-arcadins,Haiti,Cote des Arcadins,,210,NaN
+UN,haiti-jeremie-and-les-cayes,Haiti,Jeremie and Les Cayes,,175,NaN
+UN,haiti-port-de-paix,Haiti,Port-de-Paix,,140,NaN
+UN,haiti,Haiti,Elsewhere,,128,NaN
+UN,honduras-tegucigalpa,Honduras,Tegucigalpa,,206,NaN
+UN,honduras-copan,Honduras,Copán,,157,NaN
+UN,honduras-la-ceiba,Honduras,La Ceiba,,156,NaN
+UN,honduras-roatan,Honduras,Roatan,,227,NaN
+UN,honduras-roatan,Honduras,Roatan (Infinity Bay & Mayan Princess),,379,NaN
+UN,honduras-san-pedro-sula,Honduras,San Pedro Sula,,189,NaN
+UN,honduras,Honduras,Elsewhere,,102,NaN
+UN,hungary-budapest,Hungary,Budapest,,277,NaN
+UN,hungary-balaton,Hungary,Balaton,,208,NaN
+UN,hungary-visegrad,Hungary,Visegrad,,171,NaN
+UN,hungary,Hungary,Elsewhere,,143,NaN
+UN,iceland,Iceland,All Areas (May - Sept),,425,NaN
+UN,iceland,Iceland,All Areas (Oct.- Apr.),,333,NaN
+UN,india-new-delhi,India,New Delhi (April - August),,211,NaN
+UN,india-new-delhi,India,New Delhi (September - March),,240,NaN
+UN,india-new-delhi-special-hotels,India,New Delhi Special Hotels (April - August),,250,NaN
+UN,india-new-delhi-special-hotels,India,"New Delhi Special Hotels (September
+- March)",,296,NaN
+UN,india-agra,India,Agra,,284,NaN
+UN,india-bangalore,India,Bangalore,,202,NaN
+UN,india-bangalore,India,Bangalore (Special Hotels),,258,NaN
+UN,india-calcutta,India,Calcutta,,304,NaN
+UN,india-chandigarh,India,Chandigarh (The Lalit),,303,NaN
+UN,india-chennai,India,Chennai,,188,NaN
+UN,india-goa,India,Goa,,191,NaN
+UN,india-hyderabad,India,Hyderabad,,182,NaN
+UN,india-hyderabad,India,Hyderabad (ITC Kakatiya),,224,NaN
+UN,india-jaipur,India,Jaipur,,306,NaN
+UN,india-mumbai,India,Mumbai,,268,NaN
+UN,india-mumbai,India,Mumbai (Special hotels),,313,NaN
+UN,india-srinagar,India,Srinagar,,331,NaN
+UN,india,India,Elsewhere,,175,NaN
+UN,indonesia-jakarta,Indonesia,Jakarta,,207,NaN
+UN,indonesia-jakarta,Indonesia,"Jakarta (JW Marriott, Mandarin Oriental, Ritz Carlton)",,313,NaN
+UN,indonesia-jakarta,Indonesia,Jakarta (Shangri-la),,417,NaN
+UN,indonesia-jakarta,Indonesia,Jakarta (Westin),,276,NaN
+UN,indonesia-ambon,Indonesia,Ambon,,120,NaN
+UN,indonesia-balik-papan,Indonesia,Balik Papan,,110,NaN
+UN,indonesia-bandung,Indonesia,Bandung,,141,NaN
+UN,indonesia-bogor-city,Indonesia,Bogor City,,133,NaN
+UN,indonesia-denpasar,Indonesia,Denpasar,,217,NaN
+UN,indonesia-jayapura,Indonesia,Jayapura,,121,NaN
+UN,indonesia-makassar,Indonesia,Makassar,,130,NaN
+UN,indonesia-medan,Indonesia,Medan,,132,NaN
+UN,indonesia-menado,Indonesia,Menado,,105,NaN
+UN,indonesia-nusa-dua,Indonesia,"Nusa Dua (Ayodya, Westin)",,474,NaN
+UN,indonesia-nusa-dua,Indonesia,"Nusa Dua (Courtyard by Marriott, Intercontinental, Novotel)",,271,NaN
+UN,indonesia-nusa-dua,Indonesia,"Nusa Dua (Grand Hyatt, Laguna Bali)",,424,NaN
+UN,indonesia-nusa-dua,Indonesia,Nusa Dua (Melia Bali),,374,NaN
+UN,indonesia-senggigi,Indonesia,Senggigi,,169,NaN
+UN,indonesia-surabaya,Indonesia,Surabaya,,115,NaN
+UN,indonesia-surabaya,Indonesia,Surabaya (Shangri-la),,306,NaN
+UN,indonesia-yogyakarta,Indonesia,Yogyakarta,,121,NaN
+UN,indonesia,Indonesia,Elsewhere,,102,NaN
+UN,iran-tehran,Iran,Tehran,,246,NaN
+UN,iran-kerman,Iran,Kerman (Pars),,186,NaN
+UN,iran-mashad,Iran,Mashad,,146,NaN
+UN,iran,Iran,Elsewhere,,136,NaN
+UN,iraq-baghdad,Iraq,Baghdad,,275,NaN
+UN,iraq-baghdad,Iraq,Baghdad (Al Rasheed Hotel),,446,NaN
+UN,iraq-basra,Iraq,Basra,,212,NaN
+UN,iraq-basra,Iraq,Basra (Basra International Hotel),,335,NaN
+UN,iraq-erbil,Iraq,Erbil (Divan and Rotana),,401,NaN
+UN,iraq-suleimaniyah,Iraq,Suleimaniyah,,142,NaN
+UN,iraq,Iraq,Elsewhere,,195,NaN
+UN,ireland,Ireland,All Areas,,308,NaN
+UN,israel-tel-aviv,Israel,Tel Aviv,,382,NaN
+UN,israel-eilat,Israel,Eilat,,301,NaN
+UN,israel-haifa,Israel,Haifa,,316,NaN
+UN,israel-herzliya,Israel,Herzliya,,253,NaN
+UN,israel-jerusalem,Israel,Jerusalem,,282,NaN
+UN,israel-tiberias,Israel,Tiberias,,263,NaN
+UN,israel,Israel,Elsewhere,,264,NaN
+UN,italy-rome,Italy,Rome,,324,NaN
+UN,italy-bologna,Italy,Bologna,,275,NaN
+UN,italy-florence,Italy,Florence,,265,NaN
+UN,italy-milan,Italy,Milan,,317,NaN
+UN,italy-naples,Italy,Naples,,301,NaN
+UN,italy-palermo,Italy,Palermo,,314,NaN
+UN,italy-trieste,Italy,Trieste,,259,NaN
+UN,italy-turin,Italy,Turin,,274,NaN
+UN,italy-venice,Italy,Venice,,359,NaN
+UN,italy,Italy,Elsewhere,,170,NaN
+UN,jamaica-kingston,Jamaica,Kingston,,312,NaN
+UN,jamaica,Jamaica,Elsewhere (15 Dec. -15 Apr.),,325,NaN
+UN,jamaica,Jamaica,Elsewhere (16 Apr. -14 Dec.),,308,NaN
 UN,japan-tokyo,Japan,Tokyo,,317,NaN
-UN,japan-fukuoka,Japan,Fukuoka,,255,NaN
-UN,japan-kobe,Japan,Kobe,,223,NaN
-UN,japan-kyoto,Japan,Kyoto,,285,NaN
-UN,japan-nagoya,Japan,Nagoya,,260,NaN
-UN,japan-osaka,Japan,Osaka,,256,NaN
-UN,japan-yokohama,Japan,Yokohama,,290,NaN
 UN,japan-tokyo,Japan,Tokyo (Imperial),,550,NaN
 UN,japan-tokyo,Japan,"Tokyo (New Otani, Okura)",,476,NaN
 UN,japan-tokyo,Japan,Tokyo (Palace),,680,NaN
-UN,japan,Japan,Elsewhere,,206,NaN
-UN,kiribati-christmas-island,Kiribati,Christmas Island,,117,NaN
-UN,kiribati,Kiribati,All Other Areas,,138,NaN
-UN,kiribati-outer-islands,Kiribati,Outer Islands,,114,NaN
-UN,latvia-jurmala,Latvia,Jurmala,,239,NaN
-UN,latvia,Latvia,Elsewhere,,143,NaN
+UN,japan-fukuoka,Japan,Fukuoka,,255,NaN
+UN,japan-kobe,Japan,Kobe,,223,NaN
+UN,japan-kyoto,Japan,Kyoto,,285,NaN
+UN,japan-nagoya,Japan,Nagoya,,259,NaN
+UN,japan-osaka,Japan,Osaka,,256,NaN
+UN,japan-yokohama,Japan,Yokohama,,290,NaN
+UN,japan,Japan,Elsewhere,,205,NaN
+UN,jordan-amman,Jordan,Amman,,253,NaN
+UN,jordan-amman,Jordan,"Amman (Fairmont, Sheraton, W Amman)",,339,NaN
+UN,jordan-amman,Jordan,Amman (Four Seasons),,407,NaN
+UN,jordan-aqaba-dead-sea-petra,Jordan,"Aqaba, Dead Sea, Petra",,236,NaN
+UN,jordan-azraq,Jordan,Azraq,,107,NaN
+UN,jordan-irbid,Jordan,"Irbid (Sedrah, Seven Days Hotel)",,171,NaN
+UN,jordan-jerusalem,Jordan,Jerusalem,,282,NaN
+UN,jordan-ruwaished,Jordan,Ruwaished,,127,NaN
+UN,jordan,Jordan,Elsewhere,,82,NaN
+UN,kazakhstan-astana,Kazakhstan,Astana,,182,NaN
+UN,kazakhstan-astana,Kazakhstan,Astana (Ritz Carlton),,630,NaN
+UN,kazakhstan-astana,Kazakhstan,Astana (Rixos President and Soluxe),,263,NaN
+UN,kazakhstan-aktau,Kazakhstan,Aktau,,137,NaN
+UN,kazakhstan-aktau,Kazakhstan,Aktau (Renaissance),,289,NaN
+UN,kazakhstan-aktobe,Kazakhstan,Aktobe,,128,NaN
+UN,kazakhstan-almaty,Kazakhstan,Almaty,,174,NaN
+UN,kazakhstan-almaty,Kazakhstan,Almaty (Ritz Carlton),,413,NaN
+UN,kazakhstan-atyrau,Kazakhstan,Atyrau,,140,NaN
+UN,kazakhstan-atyrau,Kazakhstan,Atyrau (Renaissance),,345,NaN
+UN,kazakhstan-schuchinsk-burabay,Kazakhstan,Schuchinsk-Burabay,,213,NaN
+UN,kazakhstan-shymkent,Kazakhstan,Shymkent,,130,NaN
+UN,kazakhstan-shymkent,Kazakhstan,Shymkent (Rixos Khadisha),,307,NaN
+UN,kazakhstan-ust-kamenogorsk,Kazakhstan,Ust-Kamenogorsk,,126,NaN
+UN,kazakhstan,Kazakhstan,Elsewhere,,116,NaN
+UN,kenya-nairobi,Kenya,Nairobi,,282,NaN
+UN,kenya-nairobi,Kenya,Nairobi (Nairobi Serena),,400,NaN
+UN,kenya-amboseli,Kenya,Amboseli (Otukai Lodge),,163,NaN
+UN,kenya-kisumu,Kenya,Kisumu (Acacia Premier),,186,NaN
+UN,kenya-masai-mara,Kenya,Masai Mara (Fairmount Mara Safari Club),,219,NaN
+UN,kenya-masai-mara,Kenya,Masai Mara (Keekorok Lodge),,161,NaN
+UN,kenya-masai-mara,Kenya,Masai Mara (Sarova Mara Game Camp),,183,NaN
+UN,kenya-mombasa,Kenya,Mombasa,,169,NaN
+UN,kenya-naivasha,Kenya,Naivasha,,190,NaN
+UN,kenya-naivasha,Kenya,Naivasha (Enashipai),,224,NaN
+UN,kenya-nakuru,Kenya,Nakuru (Sarova Lion Hill Lodge),,157,NaN
+UN,kenya-nanyuki,Kenya,Nanyuki (Fairmont Mt. Kenya Safari Club),,294,NaN
+UN,kenya-nanyuki,Kenya,Nanyuki (Sweetwaters Tented Camp),,119,NaN
+UN,kenya-nyeri,Kenya,Nyeri (The Ark Lodge),,164,NaN
+UN,kenya-shaba,Kenya,Shaba (Sarova Shaba Lodge),,132,NaN
+UN,kenya,Kenya,Elsewhere,,95,NaN
+UN,kiribati-christmas-island,Kiribati,Christmas Island,,119,NaN
+UN,kiribati,Kiribati,All Other Areas,,140,NaN
+UN,kiribati-outer-islands,Kiribati,Outer Islands,,116,NaN
+UN,korea-dem.-peo.-of-pyongyang,"Korea, Dem. Peo. of",Pyongyang,,275,NaN
+UN,korea-dem.-peo.-of,"Korea, Dem. Peo. of",Elsewhere,,104,NaN
+UN,korea-republic-of-seoul,"Korea, Republic of",Seoul,,330,NaN
+UN,korea-republic-of-changwon,"Korea, Republic of",Changwon,,242,NaN
+UN,korea-republic-of-cheju-island,"Korea, Republic of",Cheju Island,,267,NaN
+UN,korea-republic-of-daejon,"Korea, Republic of",Daejon,,181,NaN
+UN,korea-republic-of-gangneung,"Korea, Republic of",Gangneung,,218,NaN
+UN,korea-republic-of-incheon,"Korea, Republic of",Incheon,,206,NaN
+UN,korea-republic-of-kwangju,"Korea, Republic of",Kwangju,,233,NaN
+UN,korea-republic-of-kyungju,"Korea, Republic of",Kyungju,,278,NaN
+UN,korea-republic-of-pusan,"Korea, Republic of",Pusan,,248,NaN
+UN,korea-republic-of-pyeongchang,"Korea, Republic of",Pyeongchang,,267,NaN
+UN,korea-republic-of-taegu,"Korea, Republic of",Taegu,,236,NaN
+UN,korea-republic-of-ulsan,"Korea, Republic of",Ulsan,,229,NaN
+UN,korea-republic-of-yeosu,"Korea, Republic of",Yeosu,,253,NaN
+UN,korea-republic-of,"Korea, Republic of",Elsewhere,,163,NaN
+UN,kuwait-kuwait-city,Kuwait,Kuwait City,,413,NaN
+UN,kuwait-kuwait-city,Kuwait,Kuwait City (Sheraton Four Points),,540,NaN
+UN,kyrgyzstan-bishkek,Kyrgyzstan,Bishkek,,196,NaN
+UN,kyrgyzstan-bishkek,Kyrgyzstan,Bishkek (Hyatt Regency),,302,NaN
+UN,kyrgyzstan-issyk-kul,Kyrgyzstan,Issyk-kul (1 Jan - 30 Jun),,128,NaN
+UN,kyrgyzstan-issyk-kul,Kyrgyzstan,Issyk-kul (1 Jul - 15 Sep),,213,NaN
+UN,kyrgyzstan-issyk-kul,Kyrgyzstan,Issyk-kul (16 Sep - 31 Dec),,129,NaN
+UN,kyrgyzstan-osh,Kyrgyzstan,Osh,,96,NaN
+UN,kyrgyzstan,Kyrgyzstan,Elsewhere,,56,NaN
+UN,lao-peo.-dem.-rep.-vientiane,Lao Peo. Dem. Rep.,Vientiane,,194,NaN
+UN,lao-peo.-dem.-rep.-vientiane,Lao Peo. Dem. Rep.,"Vientiane (Crowne Plaza, Settha Palace)",,270,NaN
+UN,lao-peo.-dem.-rep.-kaysone-phomvihanh-pakse-pek-thakhek,Lao Peo. Dem. Rep.,"Kaysone Phomvihanh, Pakse, Pek, Thakhek",,107,NaN
+UN,lao-peo.-dem.-rep.-luang-prabang,Lao Peo. Dem. Rep.,Luang Prabang,,144,NaN
+UN,lao-peo.-dem.-rep.-luang-prabang,Lao Peo. Dem. Rep.,Luang Prabang (Avani and Satri House),,357,NaN
+UN,lao-peo.-dem.-rep.-luang-prabang,Lao Peo. Dem. Rep.,"Luang Prabang (Grand Luand Prabang, Le Palais Juliana, Luang Prabang View)",,196,NaN
+UN,lao-peo.-dem.-rep.-luang-prabang,Lao Peo. Dem. Rep.,Luang Prabang (Victoria Xiengthong),,253,NaN
+UN,lao-peo.-dem.-rep.-vangvieng-xay,Lao Peo. Dem. Rep.,"Vangvieng, Xay",,118,NaN
+UN,lao-peo.-dem.-rep.,Lao Peo. Dem. Rep.,Elsewhere,,66,NaN
 UN,latvia-riga,Latvia,Riga,,206,NaN
-UN,lesotho-maseru,Lesotho,Maseru,,96,NaN
-UN,lesotho-leribe,Lesotho,Leribe,,84,NaN
-UN,lesotho-mohale's-hoek,Lesotho,Mohale's Hoek,,84,NaN
-UN,lesotho-teyateyaneng,Lesotho,Teyateyaneng,,109,NaN
-UN,lesotho-butha-buthe,Lesotho,Butha-Buthe (New Oxbow Lodge),,88,NaN
-UN,lesotho-leribe,Lesotho,Leribe (Maliba Mountain Lodge),,316,NaN
-UN,lesotho-maseru,Lesotho,Maseru (Avani Lesotho Hotel & Casino),,225,NaN
-UN,lesotho-maseru,Lesotho,Maseru (Avani Maseru Sun),,141,NaN
-UN,lesotho-maseru,Lesotho,Maseru (Mpilo Boutique Hotel),,236,NaN
-UN,lesotho-qacha's-neck,Lesotho,Qacha's Neck (New Central Guest House),,86,NaN
-UN,lesotho-thaba-tseka,Lesotho,Thaba-Tseka (Motherland Guest House & Orion Katse Lodge),,84,NaN
-UN,lesotho-butha-buthe,Lesotho,Butha-Buthe (Afriski Mountain Resort),,105,NaN
-UN,lesotho,Lesotho,Elsewhere,,76,NaN
-UN,lithuania-vilnius,Lithuania,Vilnius,,223,NaN
-UN,lithuania,Lithuania,Elsewhere,,150,NaN
-UN,luxembourg,Luxembourg,All Areas,,357,NaN
-UN,mali-bamako,Mali,Bamako,,0.41275251199203844,NaN
-UN,mali-bamako,Mali,Bamako (Radisson Bamako),,0.47324210426673374,NaN
-UN,mali,Mali,Elsewhere,,0.2241673125474002,NaN
-UN,malta,Malta,All Areas,,319,NaN
-UN,monaco,Monaco,All Areas,,336,NaN
-UN,montenegro-podgorica,Montenegro ,Podgorica,,153,NaN
-UN,montenegro-budva,Montenegro ,Budva (Hotel Splendid),,288,NaN
-UN,montenegro-kolasin,Montenegro ,Kolasin (Hotel Bianca),,120,NaN
-UN,montenegro-bar-becici-budva-kotor-milocer-petrovac-tivat-herceg-novi-ulcinj,Montenegro ,"Bar, Becici, Budva, Kotor, Milocer, Petrovac, Tivat, Herceg Novi, Ulcinj (The Coast)",,146,NaN
-UN,montenegro-tivat,Montenegro ,Tivat (Regent),,197,NaN
-UN,montenegro,Montenegro ,Elsewhere,,95,NaN
-UN,namibia-windhoek,Namibia,Windhoek,,176,NaN
-UN,namibia-katima-mulilo,Namibia,Katima Mulilo,,150,NaN
-UN,namibia-keetmanshoop,Namibia,Keetmanshoop,,108,NaN
-UN,namibia-oshakati,Namibia,Oshakati,,105,NaN
-UN,namibia-rundu,Namibia,Rundu,,134,NaN
-UN,namibia-swakopmund,Namibia,Swakopmund,,185,NaN
-UN,namibia-tsumeb,Namibia,Tsumeb,,139,NaN
-UN,namibia-walvis-bay,Namibia,Walvis Bay,,150,NaN
-UN,namibia-ondangwa,Namibia,Ondangwa,,117,NaN
-UN,namibia-opuwo,Namibia,Opuwo,,110,NaN
-UN,namibia-otjiwarongo,Namibia,Otjiwarongo,,98,NaN
-UN,namibia-henties-bay,Namibia,Henties Bay,,111,NaN
-UN,namibia-luderitz,Namibia,Luderitz (Nest),,219,NaN
-UN,namibia-okahandja,Namibia,Okahandja,,200,NaN
-UN,namibia-omaruru,Namibia,Omaruru,,259,NaN
-UN,namibia-otavi,Namibia,Otavi,,97,NaN
-UN,namibia-gobabis,Namibia,Gobabis,,127,NaN
-UN,namibia-rundu,Namibia,Rundu (Hakusembe River Lodge),,179,NaN
-UN,namibia-tsumkwe,Namibia,Tsumkwe,,103,NaN
-UN,namibia-otjiwarongo,Namibia,Otjiwarongo (Okondjima Lodge),,180,NaN
-UN,namibia-swakopmund,Namibia,Swakopmund (Swakopmund Entertainment Centre),,261,NaN
-UN,namibia-karibib,Namibia,Karibib (Etusis Lodge),,117,NaN
-UN,namibia-sossesvlei,Namibia,Sossesvlei (Sossesvlei Lodge),,278,NaN
-UN,namibia-mariental,Namibia,"Mariental (Camelthorn, Suricate, Zebra Lodges)",,174,NaN
-UN,namibia-windhoek,Namibia,Windhoek (Avani Windhoek),,432,NaN
-UN,namibia-luderitz,Namibia,Luderitz (Sea View Zum Sperrgebiet),,130,NaN
-UN,namibia,Namibia,Elsewhere,,83,NaN
-UN,nauru,Nauru,All Areas,,204,NaN
-UN,netherlands,Netherlands,All Areas,,329,NaN
-UN,new-caledonia,New Caledonia,All Areas,,3.009964540465662,NaN
-UN,new-zealand,New Zealand,Elsewhere,,259,NaN
-UN,new-zealand-auckland-and-wellington,New Zealand,Auckland and Wellington,,285,NaN
-UN,niger-niamey,Niger,Niamey,,0.330913651855686,NaN
-UN,niger-niamey,Niger,Niamey (Hotel Gaweye),,0.4554510477153528,NaN
-UN,niger-niamey,Niger,Niamey (Soluxe),,0.5266152739208766,NaN
-UN,niger,Niger,Elsewhere,,0.2704240595809907,NaN
-UN,niue-all-areas,Niue,All areas,,221,NaN
-UN,norway,Norway,All Areas,,285,NaN
-UN,portugal-lisbon,Portugal,Lisbon,,389,NaN
-UN,portugal,Portugal,Elsewhere,,150,NaN
-UN,portugal-porto,Portugal,Porto,,327,NaN
-UN,senegal-dakar,Senegal,Dakar,,0.47146299861159563,NaN
-UN,senegal-m'bour,Senegal,M'Bour,,0.3291345462005479,NaN
-UN,senegal-m'bour,Senegal,M'Bour (Hotel Lamantin Beach),,0.5426272248171196,NaN
-UN,senegal-dakar,Senegal,Dakar (King Fahd Palace),,0.6440362471599911,NaN
-UN,senegal-toubacouta,Senegal,Toubacouta (Les Paletuviers),,0.32201812357999554,NaN
-UN,senegal,Senegal,Elsewhere,,0.21705088992684782,NaN
-UN,singapore,Singapore,All Areas,,293.8307893944152,NaN
-UN,slovak-republic-bratislava,Slovak Republic,Bratislava,,238,NaN
-UN,slovak-republic,Slovak Republic,Elsewhere,,169,NaN
-UN,slovenia-republic-of,"Slovenia, Republic of",All Areas,,266,NaN
-UN,south-africa-pretoria,South Africa,Pretoria,,169,NaN
-UN,south-africa-bloemfontein,South Africa,Bloemfontein,,164,NaN
-UN,south-africa-capetown,South Africa,Capetown,,214,NaN
-UN,south-africa-durban,South Africa,Durban,,206,NaN
-UN,south-africa-east-london,South Africa,East London,,223,NaN
-UN,south-africa-johannesburg,South Africa,Johannesburg,,284,NaN
-UN,south-africa-magaliesburgmuldersdrift,South Africa,Magaliesburg/Muldersdrift,,216,NaN
-UN,south-africa-musina,South Africa,Musina,,143,NaN
-UN,south-africa-polokwane,South Africa,Polokwane,,134,NaN
-UN,south-africa-johannesburg-sandton,South Africa,Johannesburg-Sandton,,264,NaN
-UN,south-africa-sun-city,South Africa,Sun City,,202,NaN
-UN,south-africa-sun-city,South Africa,Sun City (Special Hotels),,277,NaN
-UN,south-africa-johannesburg-sandton,South Africa,Johannesburg-Sandton (Sandton Sun),,460,NaN
-UN,south-africa,South Africa,Elsewhere,,106,NaN
-UN,spain-madrid,Spain,Madrid,,303,NaN
-UN,spain-barcelona,Spain,Barcelona,,262,NaN
-UN,spain-las-palmas-canary-islands,Spain,"Las Palmas, Canary Islands",,257,NaN
-UN,spain,Spain,Elsewhere,,207,NaN
-UN,swaziland-mbabane,Swaziland,Mbabane,,182,NaN
-UN,swaziland-ezulwini,Swaziland,Ezulwini,,242,NaN
-UN,swaziland-manzini,Swaziland,Manzini,,155,NaN
-UN,swaziland-piggs-peak,Swaziland,Piggs Peak,,134,NaN
-UN,swaziland,Swaziland,Elsewhere,,112,NaN
-UN,sweden-stockholm,Sweden,Stockholm,,383,NaN
-UN,sweden,Sweden,Elsewhere,,319,NaN
-UN,switzerland,Switzerland,All Areas,,385,NaN
-UN,togo-lome,Togo,Lome,,0.3291345462005479,NaN
-UN,togo-lome,Togo,Lome (Sarakawa),,0.569313809644191,NaN
-UN,togo-lome,Togo,"Lome (Palm Beach, Sancta Maria)",,0.4768003155770099,NaN
-UN,togo,Togo,Elsewhere,,0.14588666372132394,NaN
-UN,tokelau,Tokelau,All Areas,,84,NaN
+UN,latvia-jurmala,Latvia,Jurmala,,245,NaN
+UN,latvia,Latvia,Elsewhere,,146,NaN
+UN,lebanon-beirut,Lebanon,Beirut (Le Royal),,460,NaN
+UN,lebanon-beirut,Lebanon,Beirut (Movenpick) 1 January - 14 June,,314,NaN
+UN,lebanon-beirut,Lebanon,Beirut (Movenpick) 15 June - 31 December,,377,NaN
+UN,lebanon-greater-beirut,Lebanon,Greater Beirut,,246,NaN
+UN,lebanon-al-metn,Lebanon,Al Metn,,298,NaN
+UN,lebanon-tyr,Lebanon,Tyr (Tyr Rest House),,235,NaN
+UN,lebanon,Lebanon,Elsewhere,,147,NaN
+UN,lesotho-maseru,Lesotho,Maseru,,103,NaN
+UN,lesotho-maseru,Lesotho,Maseru (Avani Lesotho Hotel & Casino),,243,NaN
+UN,lesotho-maseru,Lesotho,Maseru (Avani Maseru Sun),,152,NaN
+UN,lesotho-maseru,Lesotho,Maseru (Mpilo Boutique Hotel),,256,NaN
+UN,lesotho-butha-buthe,Lesotho,Butha-Buthe (Afriski Mountain Resort),,114,NaN
+UN,lesotho-butha-buthe,Lesotho,Butha-Buthe (New Oxbow Lodge),,95,NaN
+UN,lesotho-leribe,Lesotho,Leribe,,91,NaN
+UN,lesotho-leribe,Lesotho,Leribe (Maliba Mountain Lodge),,342,NaN
+UN,lesotho-mohale's-hoek,Lesotho,Mohale's Hoek,,91,NaN
+UN,lesotho-qacha's-neck,Lesotho,Qacha's Neck (New Central Guest House),,94,NaN
+UN,lesotho-teyateyaneng,Lesotho,Teyateyaneng,,118,NaN
+UN,lesotho-thaba-tseka,Lesotho,Thaba-Tseka (Motherland Guest House & Orion Katse Lodge),,91,NaN
+UN,lesotho,Lesotho,Elsewhere,,82,NaN
+UN,liberia-monrovia,Liberia,Monrovia,,303,NaN
+UN,liberia-robertsfield,Liberia,Robertsfield (Farmington Hotel),,240,NaN
+UN,liberia-robertsport,Liberia,Robertsport (Nana Lodge GH),,140,NaN
+UN,liberia,Liberia,Elsewhere,,95,NaN
+UN,libya-tripoli,Libya,Tripoli,,216,NaN
+UN,libya-tripoli,Libya,"Tripoli (Albustan, Corinthia, Radisson Blu)",,335,NaN
+UN,libya,Libya,Elsewhere,,177,NaN
+UN,lithuania-vilnius,Lithuania,Vilnius,,228,NaN
+UN,lithuania,Lithuania,Elsewhere,,153,NaN
+UN,luxembourg,Luxembourg,All Areas,,365,NaN
+UN,madagascar-antananarivo,Madagascar,Antananarivo,,200,NaN
+UN,madagascar-antananarivo,Madagascar,Antananarivo (Carlton),,469,NaN
+UN,madagascar-amboassary,Madagascar,Amboassary,,70,NaN
+UN,madagascar-antsirabe,Madagascar,Antsirabe,,94,NaN
+UN,madagascar-antsiranana,Madagascar,Antsiranana (Diego-Suarez),,182,NaN
+UN,madagascar-fianarantsoa,Madagascar,Fianarantsoa,,81,NaN
+UN,madagascar-mahajanga,Madagascar,Mahajanga,,102,NaN
+UN,madagascar-morondava,Madagascar,Morondava,,119,NaN
+UN,madagascar-morondava,Madagascar,Morondava (Palissandre Cote Ouest),,208,NaN
+UN,madagascar-nosy-be,Madagascar,Nosy-Be,,261,NaN
+UN,madagascar-ranomafana,Madagascar,Ranomafana,,87,NaN
+UN,madagascar-sainte-marie,Madagascar,Sainte Marie,,274,NaN
+UN,madagascar-toamasina,Madagascar,Toamasina,,134,NaN
+UN,madagascar-tolagnaro,Madagascar,Tolagnaro (Fort-Dauphin),,97,NaN
+UN,madagascar-toliara,Madagascar,Toliara,,107,NaN
+UN,madagascar,Madagascar,Elsewhere,,63,NaN
+UN,malawi-lilongwe,Malawi,Lilongwe,,186,NaN
+UN,malawi-blantyre,Malawi,Blantyre,,150,NaN
+UN,malawi-blantyre,Malawi,Blantyre (Mt. Soche & Ryalls),,221,NaN
+UN,malawi-mangochi,Malawi,Mangochi (Makokola Retreat),,236,NaN
+UN,malawi-mangochi,Malawi,Mangochi (Sunbird Nkopola Lodge),,190,NaN
+UN,malawi-mzuzu,Malawi,Mzuzu (Hotel Mzuzu),,207,NaN
+UN,malawi-salima,Malawi,"Salima (Livingstonia Beach, Safari Beach)",,221,NaN
+UN,malawi-zomba,Malawi,Zomba (Ku Chawe Inn),,225,NaN
+UN,malawi,Malawi,Elsewhere,,133,NaN
+UN,malaysia-kuala-lumpur,Malaysia,Kuala Lumpur,,217,NaN
+UN,malaysia-kota-kinabalu,Malaysia,Kota Kinabalu (Sabah),,172,NaN
+UN,malaysia-melaka,Malaysia,Melaka,,200,NaN
+UN,malaysia-penang,Malaysia,Penang,,170,NaN
+UN,malaysia,Malaysia,Elsewhere,,145,NaN
+UN,maldives-male,Maldives,Male,,236,NaN
+UN,maldives-male,Maldives,Male (Hulhule Island Hotel),,580,NaN
+UN,maldives-male,Maldives,Male (Jen),,295,NaN
+UN,maldives-resorts,Maldives,Resorts,,373,NaN
+UN,maldives,Maldives,Elsewhere,,101,NaN
+UN,mali-bamako,Mali,Bamako,,237,NaN
+UN,mali-bamako,Mali,Bamako (Radisson Bamako),,273,NaN
+UN,mali,Mali,Elsewhere,,129,NaN
+UN,malta,Malta,All Areas,,327,NaN
+UN,marshall-islands-majuro,Marshall Islands,Majuro,,221,NaN
+UN,marshall-islands-ebeye,Marshall Islands,Ebeye,,265,NaN
+UN,marshall-islands,Marshall Islands,Elsewhere,,144,NaN
+UN,mauritania-nouakchott,Mauritania,Nouakchott,,186,NaN
+UN,mauritania-nouakchott,Mauritania,"Nouakchott (Mauricenter, Monotel, Tfeila)",,241,NaN
+UN,mauritania-bassiknou,Mauritania,Bassiknou,,68,NaN
+UN,mauritania-nouadhibou,Mauritania,Nouadhibou,,150,NaN
+UN,mauritania-zouerate,Mauritania,Zouerate,,165,NaN
+UN,mauritania,Mauritania,Elsewhere,,86,NaN
+UN,mauritius-port-louismauritius,Mauritius,Port Louis/Mauritius,,242,NaN
+UN,mauritius,Mauritius,Elsewhere - Rodrigues Is & Outer Islands,,149,NaN
+UN,mexico-mexico-city,Mexico,Mexico City,,354,NaN
+UN,mexico-acapulco-guerrero,Mexico,"Acapulco, Guerrero",,264,NaN
+UN,mexico-aguascalientes-aguascalientes,Mexico,"Aguascalientes, Aguascalientes",,208,NaN
+UN,mexico-cancun-quintana-roo,Mexico,"Cancun, Quintana Roo",,311,NaN
+UN,mexico-cuernavaca-morelos,Mexico,"Cuernavaca, Morelos",,279,NaN
+UN,mexico-guadalajara-jalisco,Mexico,"Guadalajara, Jalisco",,257,NaN
+UN,mexico-merida-yucatan,Mexico,"Mérida, Yucatán",,229,NaN
+UN,mexico-monterrey-nuevo-leon,Mexico,"Monterrey, Nuevo Leon",,325,NaN
+UN,mexico-puebla-puebla,Mexico,"Puebla, Puebla",,244,NaN
+UN,mexico-puerto-vallarta-jalisco,Mexico,"Puerto Vallarta, Jalisco",,232,NaN
+UN,mexico-saltillo-coahuila,Mexico,"Saltillo, Coahuila",,188,NaN
+UN,mexico-san-cristobal-de-las-casas,Mexico,San Cristobal de las Casas,,167,NaN
+UN,mexico-san-luis-potosi-san-luis-potosi,Mexico,"San Luis Potosí, San Luis Potosi",,223,NaN
+UN,mexico-tapachula-chiapas,Mexico,"Tapachula, Chiapas",,137,NaN
+UN,mexico-tijuana-baja-california-norte,Mexico,"Tijuana, Baja California Norte",,279,NaN
+UN,mexico-toluca-edo.-de-mexico,Mexico,"Toluca, Edo. de México",,183,NaN
+UN,mexico-torreon-coahuila,Mexico,"Torreón, Coahuila",,226,NaN
+UN,mexico-tuxtla-gutierrez-chiapas,Mexico,"Tuxtla Gutierrez, Chiapas",,147,NaN
+UN,mexico-villahermosa-tabasco,Mexico,"Villahermosa, Tabasco",,167,NaN
+UN,mexico-zacatecas-zacatecas,Mexico,"Zacatecas, Zacatecas",,187,NaN
+UN,mexico,Mexico,Elsewhere,,120,NaN
+UN,micronesia-fed-states-of-kosrae,"Micronesia, Fed States Of",Kosrae,,241,NaN
+UN,micronesia-fed-states-of-ponape,"Micronesia, Fed States Of",Ponape,,223,NaN
+UN,micronesia-fed-states-of-truk,"Micronesia, Fed States Of",Truk,,225,NaN
+UN,micronesia-fed-states-of-yap,"Micronesia, Fed States Of",Yap,,262,NaN
+UN,moldova-chisinau,Moldova,Chisinau,,161,NaN
+UN,moldova-chisinau,Moldova,Chisinau (Radisson Blu Leogrand),,219,NaN
+UN,moldova-purcari,Moldova,Purcari (Purcari Winery),,203,NaN
+UN,moldova,Moldova,Elsewhere,,118,NaN
+UN,monaco,Monaco,All Areas,,344,NaN
+UN,mongolia-ulaanbaatar,Mongolia,Ulaanbaatar,,242,NaN
+UN,mongolia,Mongolia,Elsewhere,,103,NaN
+UN,montenegro-podgorica,Montenegro ,Podgorica,,157,NaN
+UN,montenegro-bar-becici-budva-kotor-milocer-petrovac-tivat-herceg-novi-ulcinj,Montenegro ,"Bar, Becici, Budva, Kotor, Milocer, Petrovac, Tivat, Herceg Novi, Ulcinj (The Coast)",,150,NaN
+UN,montenegro-budva,Montenegro ,Budva (Hotel Splendid),,295,NaN
+UN,montenegro-kolasin,Montenegro ,Kolasin (Hotel Bianca),,123,NaN
+UN,montenegro-tivat,Montenegro ,Tivat (Regent),,201,NaN
+UN,montenegro,Montenegro ,Elsewhere,,97,NaN
+UN,montserrat,Montserrat,All Areas,,230,NaN
+UN,morocco-rabat,Morocco,Rabat,,223,NaN
+UN,morocco-rabat,Morocco,Rabat (Sofitel Jardin des Roses),,383,NaN
+UN,morocco-rabat,Morocco,"Rabat (Tour Hassan, View)",,343,NaN
+UN,morocco-rabat,Morocco,Rabat (Villa Mandarine),,285,NaN
+UN,morocco-agadir,Morocco,Agadir,,156,NaN
+UN,morocco-agadir,Morocco,Agadir (Sofitel Royal Bay Resort),,262,NaN
+UN,morocco-agadir,Morocco,Agadir (Sofitel Royal Thalassa),,329,NaN
+UN,morocco-casablanca,Morocco,Casablanca,,244,NaN
+UN,morocco-casablanca,Morocco,Casablanca (Four Seasons),,464,NaN
+UN,morocco-casablanca,Morocco,"Casablanca (Hyatt Regency, Sofitel Tour Blanche)",,370,NaN
+UN,morocco-casablanca,Morocco,Casablanca (Kenzi Tower),,268,NaN
+UN,morocco-essaouira,Morocco,Essaouira (Le Medina Thalasa),,238,NaN
+UN,morocco-essaouira,Morocco,Essaouira (Sofitel) 26 Dec - 3 Jan,,327,NaN
+UN,morocco-essaouira,Morocco,Essaouira (Sofitel) 4 Jan - 25 Dec,,248,NaN
+UN,morocco-fes,Morocco,Fes,,162,NaN
+UN,morocco-fes,Morocco,Fes (Jnan Palace & Palace Medina),,200,NaN
+UN,morocco-marrakesh,Morocco,Marrakesh,,184,NaN
+UN,morocco-marrakesh,Morocco,Marrakesh (Four Seasons),,445,NaN
+UN,morocco-marrakesh,Morocco,"Marrakesh (Hivernage, Movenpick Mansour Eddahbi, Pullman Palmeraie)",,222,NaN
+UN,morocco-marrakesh,Morocco,Marrakesh (Kenzi Menara Palace),,247,NaN
+UN,morocco-marrakesh,Morocco,Marrakesh (Sofitel Marrakech),,393,NaN
+UN,morocco-marrakesh,Morocco,Marrakesh (Sofitel Palais Imperial) 1 Jan - 1 Jul,,363,NaN
+UN,morocco-marrakesh,Morocco,Marrakesh (Sofitel Palais Imperial) 2 Jul - 31 Dec,,466,NaN
+UN,morocco-marrakesh,Morocco,Marrakesh (The Pearl),,357,NaN
+UN,morocco-tangier,Morocco,Tangier  (Le Mirage),,261,NaN
+UN,morocco,Morocco,Elsewhere,,155,NaN
+UN,mozambique-maputo,Mozambique,Maputo,,290,NaN
+UN,mozambique-beira,Mozambique,Beira,,174,NaN
+UN,mozambique-chimoio,Mozambique,Chimoio,,195,NaN
+UN,mozambique-ilha-de-mocambique,Mozambique,Ilha de Mocambique,,226,NaN
+UN,mozambique-nampula,Mozambique,Nampula,,189,NaN
+UN,mozambique-pemba,Mozambique,Pemba,,223,NaN
+UN,mozambique-pemba,Mozambique,Pemba (Avani Pemba Beach),,380,NaN
+UN,mozambique-quelimane,Mozambique,Quelimane,,210,NaN
+UN,mozambique-tete,Mozambique,Tete,,227,NaN
+UN,mozambique-vilanculos,Mozambique,Vilanculos (Casa Rex),,212,NaN
+UN,mozambique,Mozambique,Elsewhere,,166,NaN
+UN,myanmar-yangon,Myanmar,Yangon,,181,NaN
+UN,myanmar-yangon,Myanmar,Yangon (Special Hotels),,268,NaN
+UN,myanmar-chaung-tha-beach,Myanmar,Chaung Tha Beach,,161,NaN
+UN,myanmar-dawei,Myanmar,Dawei,,95,NaN
+UN,myanmar-dawei,Myanmar,Dawei (Hotel Dawei),,193,NaN
+UN,myanmar-hpa-an,Myanmar,Hpa An,,96,NaN
+UN,myanmar-inle,Myanmar,Inle,,222,NaN
+UN,myanmar-inle,Myanmar,Inle (Aureum Palace and Inle Prince),,325,NaN
+UN,myanmar-kawthaung,Myanmar,Kawthaung,,116,NaN
+UN,myanmar-loikaw,Myanmar,Loikaw,,105,NaN
+UN,myanmar-mandalay,Myanmar,Mandalay,,86,NaN
+UN,myanmar-mandalay,Myanmar,"Mandalay (Mandalay Hill, Sedona, Shwe Pyi Thar)",,220,NaN
+UN,myanmar-maw-la-myine,Myanmar,Maw-La-Myine,,98,NaN
+UN,myanmar-maw-la-myine,Myanmar,Maw-La-Myine (Attaran) International Staff Only,,108,NaN
+UN,myanmar-maw-la-myine,Myanmar,Maw-La-Myine (Royal Hinthar and Strand) International Staff Only,,130,NaN
+UN,myanmar-monywa,Myanmar,Monywa (Jade Royal) International Staff Only,,91,NaN
+UN,myanmar-mrauk-oo,Myanmar,Mrauk Oo (International Staff),,103,NaN
+UN,myanmar-mrauk-oo,Myanmar,Mrauk Oo (Local Staff),,87,NaN
+UN,myanmar-mrauk-oo,Myanmar,Mrauk Oo (Mrauk U Prince) International Staff Only,,421,NaN
+UN,myanmar-mrauk-oo,Myanmar,Mrauk Oo (Mrauk U Prince) Local Staff Only,,181,NaN
+UN,myanmar-myeik,Myanmar,Myeik,,127,NaN
+UN,myanmar-myitkyina,Myanmar,Myitkyina,,101,NaN
+UN,myanmar-naypyitaw,Myanmar,Naypyitaw,,104,NaN
+UN,myanmar-naypyitaw,Myanmar,"Naypyitaw (Hilton, Horizon Lake View, Kempinski, Parkroyal)",,157,NaN
+UN,myanmar-ngwe-saung-beach,Myanmar,Ngwe Saung Beach,,207,NaN
+UN,myanmar-nyaungoo-bagan,Myanmar,Nyaungoo-Bagan,,168,NaN
+UN,myanmar-nyaungoo-bagan,Myanmar,Nyaungoo-Bagan (Aureum Palace),,308,NaN
+UN,myanmar-nyaungoo-bagan,Myanmar,"Nyaungoo-Bagan (Tharabar, Aye Yar Riverview)",,258,NaN
+UN,myanmar-pathein,Myanmar,Pathein,,104,NaN
+UN,myanmar-putao,Myanmar,Putao (International Staff),,141,NaN
+UN,myanmar-putao,Myanmar,Putao (Local Staff),,95,NaN
+UN,myanmar-pyinoolwin,Myanmar,Pyinoolwin,,108,NaN
+UN,myanmar-sittwe,Myanmar,Sittwe (Royal Sittwe) International Staff Only,,127,NaN
+UN,myanmar-taunggyi,Myanmar,Taunggyi (International Staff Only),,161,NaN
+UN,myanmar-taunggyi,Myanmar,Taunggyi (Local Staff Only),,118,NaN
+UN,myanmar-taungoo,Myanmar,Taungoo,,167,NaN
+UN,myanmar-thandwe,Myanmar,Thandwe (Ngapali Beach Only) October - April,,380,NaN
+UN,myanmar,Myanmar,Elsewhere,,83,NaN
+UN,namibia-windhoek,Namibia,Windhoek,,191,NaN
+UN,namibia-windhoek,Namibia,Windhoek (Avani Windhoek),,468,NaN
+UN,namibia-gobabis,Namibia,Gobabis,,138,NaN
+UN,namibia-henties-bay,Namibia,Henties Bay,,120,NaN
+UN,namibia-karibib,Namibia,Karibib (Etusis Lodge),,126,NaN
+UN,namibia-katima-mulilo,Namibia,Katima Mulilo,,163,NaN
+UN,namibia-keetmanshoop,Namibia,Keetmanshoop,,116,NaN
+UN,namibia-luderitz,Namibia,Luderitz (Nest),,237,NaN
+UN,namibia-luderitz,Namibia,Luderitz (Sea View Zum Sperrgebiet),,141,NaN
+UN,namibia-mariental,Namibia,"Mariental (Camelthorn, Suricate, Zebra Lodges)",,189,NaN
+UN,namibia-okahandja,Namibia,Okahandja,,217,NaN
+UN,namibia-omaruru,Namibia,Omaruru,,280,NaN
+UN,namibia-ondangwa,Namibia,Ondangwa,,127,NaN
+UN,namibia-opuwo,Namibia,Opuwo,,119,NaN
+UN,namibia-oshakati,Namibia,Oshakati,,113,NaN
+UN,namibia-otavi,Namibia,Otavi,,105,NaN
+UN,namibia-otjiwarongo,Namibia,Otjiwarongo,,106,NaN
+UN,namibia-otjiwarongo,Namibia,Otjiwarongo (Okondjima Lodge),,195,NaN
+UN,namibia-rundu,Namibia,Rundu,,144,NaN
+UN,namibia-rundu,Namibia,Rundu (Hakusembe River Lodge),,194,NaN
+UN,namibia-sossesvlei,Namibia,Sossesvlei (Sossesvlei Lodge),,300,NaN
+UN,namibia-swakopmund,Namibia,Swakopmund,,200,NaN
+UN,namibia-swakopmund,Namibia,Swakopmund (Swakopmund Entertainment Centre),,283,NaN
+UN,namibia-tsumeb,Namibia,Tsumeb,,151,NaN
+UN,namibia-tsumkwe,Namibia,Tsumkwe,,112,NaN
+UN,namibia-walvis-bay,Namibia,Walvis Bay,,162,NaN
+UN,namibia,Namibia,Elsewhere,,90,NaN
+UN,nauru,Nauru,All Areas,,207,NaN
+UN,nepal-kathmandu,Nepal,Kathmandu,,178,NaN
+UN,nepal-kathmandu,Nepal,Kathmandu (Dwarika's),,307,NaN
+UN,nepal-kathmandu,Nepal,Kathmandu (Hyatt Regency),,236,NaN
+UN,nepal-bhairahawa-bharatpur-biratnagar-birgunj,Nepal,"Bhairahawa, Bharatpur, Biratnagar, Birgunj",,60,NaN
+UN,nepal-damak,Nepal,Damak (IOM Guest House),,103,NaN
+UN,nepal-dhulikhel-and-nagarkot,Nepal,Dhulikhel and Nagarkot,,115,NaN
+UN,nepal-lumbini,Nepal,Lumbini (Nepal Hokke),,166,NaN
+UN,nepal-nepalgunj-hetauda-dhanagadhi,Nepal,"Nepalgunj, Hetauda, Dhanagadhi",,50,NaN
+UN,nepal-pokhara,Nepal,Pokhara (Pokhara Grande and Shangrila),,167,NaN
+UN,nepal-pokhara-and-lumbini,Nepal,Pokhara and Lumbini,,113,NaN
+UN,nepal-sauraha,Nepal,Sauraha,,63,NaN
+UN,nepal-sauraha,Nepal,Sauraha (Kasara Jungle Resort),,165,NaN
+UN,nepal,Nepal,Elsewhere,,43,NaN
+UN,netherlands,Netherlands,All Areas,,337,NaN
+UN,new-caledonia,New Caledonia,All Areas,,316,NaN
+UN,new-zealand-auckland-and-wellington,New Zealand,Auckland and Wellington,,295,NaN
+UN,new-zealand,New Zealand,Elsewhere,,268,NaN
+UN,nicaragua-managua,Nicaragua,Managua,,194,NaN
+UN,nicaragua-corn-island,Nicaragua,Corn Island,,157,NaN
+UN,nicaragua,Nicaragua,Elsewhere,,104,NaN
+UN,niger-niamey,Niger,Niamey,,191,NaN
+UN,niger-niamey,Niger,Niamey (Hotel Gaweye),,262,NaN
+UN,niger-niamey,Niger,Niamey (Soluxe),,303,NaN
+UN,niger,Niger,Elsewhere,,156,NaN
+UN,nigeria-abuja,Nigeria,Abuja,,117,NaN
+UN,nigeria-abuja,Nigeria,Abuja (Bon),,242,NaN
+UN,nigeria-abuja,Nigeria,Abuja (Fraser Suites),,241,NaN
+UN,nigeria-abuja,Nigeria,Abuja (Sheraton),,191,NaN
+UN,nigeria-abuja,Nigeria,Abuja (Transcorp Hilton),,305,NaN
+UN,nigeria-asaba,Nigeria,Asaba,,85,NaN
+UN,nigeria-bauchi,Nigeria,Bauchi,,88,NaN
+UN,nigeria-bayelsa,Nigeria,Bayelsa,,109,NaN
+UN,nigeria-calabar-city,Nigeria,Calabar City,,94,NaN
+UN,nigeria-enugu,Nigeria,Enugu (State Capital City),,72,NaN
+UN,nigeria-ibadan-city,Nigeria,Ibadan City,,75,NaN
+UN,nigeria-ibadan-city,Nigeria,Ibadan City (IITA Guest House),,153,NaN
+UN,nigeria-kaduna,Nigeria,Kaduna (State Capital City),,72,NaN
+UN,nigeria-kano,Nigeria,Kano (State Capital City),,83,NaN
+UN,nigeria-lagos,Nigeria,Lagos,,142,NaN
+UN,nigeria-lagos,Nigeria,"Lagos (Eko, Federal Palace, Southern Sun Ikoyi)",,201,NaN
+UN,nigeria-lagos,Nigeria,"Lagos (Four Points, Moorehouse Ikoyi, Renaissance)",,244,NaN
+UN,nigeria-lagos,Nigeria,Lagos (Intercontinental),,368,NaN
+UN,nigeria-lagos,Nigeria,Lagos (Protea Ikeja),,310,NaN
+UN,nigeria-lagos,Nigeria,Lagos (Wheatbaker),,449,NaN
+UN,nigeria-maiduguri,Nigeria,Maiduguri,,80,NaN
+UN,nigeria-obudu,Nigeria,Obudu (Obudu Mountain Resort),,93,NaN
+UN,nigeria-owerri,Nigeria,Owerri,,83,NaN
+UN,nigeria-port-harcourt,Nigeria,Port Harcourt,,119,NaN
+UN,nigeria-port-harcourt,Nigeria,Port Harcourt (Golden Tulip),,176,NaN
+UN,nigeria-port-harcourt,Nigeria,Port Harcourt (Le Meridien),,199,NaN
+UN,nigeria-port-harcourt,Nigeria,Port Harcourt (Swiss International),,147,NaN
+UN,nigeria-uyo,Nigeria,Uyo (Hotel Ibom),,169,NaN
+UN,nigeria-yenagoa-city,Nigeria,Yenagoa City,,96,NaN
+UN,nigeria,Nigeria,Elsewhere,,68,NaN
+UN,niue-all-areas,Niue,All areas,,229,NaN
+UN,norway,Norway,All Areas,,292,NaN
+UN,oman-muscat,Oman,Muscat,,278,NaN
+UN,oman,Oman,Elsewhere,,252,NaN
+UN,pakistan-islamabad,Pakistan,Islamabad (Marriott),,227,NaN
+UN,pakistan-islamabad,Pakistan,Islamabad (Serena),,326,NaN
+UN,pakistan-islamabadrawalpindi,Pakistan,Islamabad/Rawalpindi,,169,NaN
+UN,pakistan-bhurban,Pakistan,"Bhurban (PC), Faisalabad and Quetta (Serena)",,217,NaN
+UN,pakistan-gilgit,Pakistan,Gilgit (Serena),,136,NaN
+UN,pakistan-gwadar,Pakistan,Gwadar (Zaver Pearl Continental),,200,NaN
+UN,pakistan-karachi,Pakistan,Karachi,,181,NaN
+UN,pakistan-lahore,Pakistan,Lahore,,171,NaN
+UN,pakistan-lahore,Pakistan,Lahore (Avari),,242,NaN
+UN,pakistan-multan,Pakistan,Multan (Ramada),,173,NaN
+UN,pakistan-muzaffarabad,Pakistan,Muzaffarabad (Pearl Continental),,184,NaN
+UN,pakistan-nathiagali,Pakistan,Nathiagali,,106,NaN
+UN,pakistan-peshawar,Pakistan,Peshawar (Pearl Continental),,166,NaN
+UN,pakistan-skardu,Pakistan,Skardu,,144,NaN
+UN,pakistan-swat,Pakistan,Swat (Serena),,136,NaN
+UN,pakistan,Pakistan,Elsewhere,,82,NaN
+UN,palau,Palau,All Areas,,295,NaN
+UN,panama-panama-city,Panama,Panama City,,263,NaN
+UN,panama-comarca-kuna-yalasan-blas,Panama,Comarca Kuna Yala/San Blas,,198,NaN
+UN,panama-david,Panama,Davíd,,199,NaN
+UN,panama-el-valle-de-anton,Panama,El Valle de Anton,,267,NaN
+UN,panama-isla-colon,Panama,Isla Colon,,215,NaN
+UN,panama,Panama,Elsewhere,,186,NaN
+UN,papua-new-guinea-port-moresby,Papua New Guinea,Port Moresby,,344,NaN
+UN,papua-new-guinea-alotau,Papua New Guinea,Alotau,,203,NaN
+UN,papua-new-guinea-arawa,Papua New Guinea,Arawa,,221,NaN
+UN,papua-new-guinea-buin,Papua New Guinea,Buin,,200,NaN
+UN,papua-new-guinea-buka,Papua New Guinea,Buka,,279,NaN
+UN,papua-new-guinea-daru,Papua New Guinea,Daru,,166,NaN
+UN,papua-new-guinea-gaire,Papua New Guinea,Gaire,,203,NaN
+UN,papua-new-guinea-goroka,Papua New Guinea,Goroka,,181,NaN
+UN,papua-new-guinea-kavieng,Papua New Guinea,Kavieng,,215,NaN
+UN,papua-new-guinea-kimbe,Papua New Guinea,Kimbe,,178,NaN
+UN,papua-new-guinea-kiunga,Papua New Guinea,Kiunga,,203,NaN
+UN,papua-new-guinea-kokopo,Papua New Guinea,Kokopo,,203,NaN
+UN,papua-new-guinea-lae,Papua New Guinea,Lae,,215,NaN
+UN,papua-new-guinea-loloata,Papua New Guinea,Loloata,,282,NaN
+UN,papua-new-guinea-lorengau,Papua New Guinea,Lorengau,,190,NaN
+UN,papua-new-guinea-madang,Papua New Guinea,Madang,,169,NaN
+UN,papua-new-guinea-mt.-hagen,Papua New Guinea,Mt. Hagen,,163,NaN
+UN,papua-new-guinea-popondetta,Papua New Guinea,Popondetta,,169,NaN
+UN,papua-new-guinea-rabaul,Papua New Guinea,Rabaul,,190,NaN
+UN,papua-new-guinea-siwai,Papua New Guinea,Siwai,,193,NaN
+UN,papua-new-guinea-tabubil,Papua New Guinea,Tabubil,,187,NaN
+UN,papua-new-guinea-vanimo,Papua New Guinea,Vanimo,,187,NaN
+UN,papua-new-guinea-wewak,Papua New Guinea,Wewak,,160,NaN
+UN,papua-new-guinea,Papua New Guinea,Elsewhere,,145,NaN
+UN,paraguay-asuncion,Paraguay,Asuncion,,210,NaN
+UN,paraguay-ciudad-del-este,Paraguay,Ciudad del Este (Casino Acaray),,210,NaN
+UN,paraguay,Paraguay,Elsewhere,,143,NaN
+UN,peru-lima,Peru,Lima,,240,NaN
+UN,peru-arequipa,Peru,Arequipa,,171,NaN
+UN,peru-cuzco,Peru,Cuzco,,196,NaN
+UN,peru-iquitos,Peru,Iquitos,,152,NaN
+UN,peru-trujillo,Peru,Trujillo,,173,NaN
+UN,peru,Peru,Elsewhere,,126,NaN
+UN,philippines-metro-manila,Philippines,Metro Manila,,256,NaN
+UN,philippines-baguio-city,Philippines,Baguio City,,123,NaN
+UN,philippines-bataan,Philippines,Bataan,,186,NaN
+UN,philippines-batangas,Philippines,Batangas,,154,NaN
+UN,philippines-cebu-city,Philippines,Cebu City,,226,NaN
+UN,philippines-clark-pampanga,Philippines,"Clark, Pampanga",,160,NaN
+UN,philippines-davao-city,Philippines,Davao City,,147,NaN
+UN,philippines-tacloban,Philippines,Tacloban,,101,NaN
+UN,philippines-tagaytay,Philippines,Tagaytay,,171,NaN
+UN,philippines-tagbilaran,Philippines,Tagbilaran,,138,NaN
+UN,philippines,Philippines,Elsewhere,,89,NaN
+UN,poland-warsaw,Poland,Warsaw,,287,NaN
+UN,poland,Poland,Elsewhere,,200,NaN
+UN,portugal-lisbon,Portugal,Lisbon,,398,NaN
+UN,portugal-porto,Portugal,Porto,,335,NaN
+UN,portugal,Portugal,Elsewhere,,153,NaN
+UN,puerto-rico-all-areas,Puerto Rico,All  Areas (20 Dec. - 30 Apr.),,421,NaN
+UN,puerto-rico,Puerto Rico,All Areas (1 May - 20 Dec.),,304,NaN
+UN,qatar-doha,Qatar,Doha,,340,NaN
+UN,romania-bucharest,Romania,Bucharest,,240,NaN
+UN,romania-brasov-constanta-mamaia-timisoara,Romania,"Brasov, Constanta, Mamaia, Timisoara",,192,NaN
+UN,romania-cluj-and-sibiu,Romania,Cluj and Sibiu,,159,NaN
+UN,romania,Romania,Elsewhere,,142,NaN
+UN,russian-federation-moscow,Russian Federation,Moscow,,361,NaN
+UN,russian-federation-sakha,Russian Federation,Sakha,,146,NaN
+UN,russian-federation-sochi,Russian Federation,Sochi (1 Jun. - 15 Oct.),,202,NaN
+UN,russian-federation-sochi,Russian Federation,Sochi (16 Oct. - 31 May),,164,NaN
+UN,russian-federation-st.-petersburg,Russian Federation,St. Petersburg,,332,NaN
+UN,russian-federation-vladivostok,Russian Federation,Vladivostok,,278,NaN
+UN,russian-federation,Russian Federation,Elsewhere,,132,NaN
+UN,rwanda-kigali,Rwanda,Kigali,,185,NaN
+UN,rwanda-kigali,Rwanda,Kigali (Kigali Marriott & Kigali Serena),,292,NaN
+UN,rwanda-kigali,Rwanda,Kigali (Mille Collines),,245,NaN
+UN,rwanda-kigali,Rwanda,Kigali (Radisson Blu),,271,NaN
+UN,rwanda-bugesera,Rwanda,Bugesera,,124,NaN
+UN,rwanda-bugesera,Rwanda,Bugesera (Golden Tulip La Palisse),,145,NaN
+UN,rwanda-karongi,Rwanda,Karongi,,170,NaN
+UN,rwanda-kibungo,Rwanda,Kibungo (Akagera Lodge),,131,NaN
+UN,rwanda-musanze,Rwanda,Musanze,,145,NaN
+UN,rwanda-nyamasheke,Rwanda,Nyamasheke (Nyungwe),,475,NaN
+UN,rwanda-rubavu,Rwanda,Rubavu,,160,NaN
+UN,rwanda-rubavu,Rwanda,Rubavu (Serena Lake Kivu),,240,NaN
+UN,rwanda,Rwanda,Elsewhere,,83,NaN
+UN,saint-maarten,Saint Maarten,All Areas (15 April - 15 December),,249,NaN
+UN,saint-maarten,Saint Maarten,All Areas (16 December - 14 April),,289,NaN
+UN,samoa-apia-upolu,Samoa,"Apia, Upolu",,142,NaN
+UN,samoa-apia-upolu,Samoa,"Apia, Upolu (Aggie Grey Resort, Taumeasina)",,249,NaN
+UN,samoa-apia-upolu,Samoa,"Apia, Upolu (Tanoa Tusitala)",,213,NaN
+UN,samoa-cape-fatuosofia-upolu,Samoa,"Cape Fatuosofia, Upolu (Le Vasa Resort)",,168,NaN
+UN,samoa-lalomanu-upolu,Samoa,"Lalomanu, Upolu (Aga Reef Resort & Spa)",,304,NaN
+UN,samoa-savaii,Samoa,Savaii,,132,NaN
+UN,samoa-savaii,Samoa,Savaii (Le Legato),,284,NaN
+UN,samoa-siumu-upolu,Samoa,"Siumu, Upolu (Coconuts Beach Resort)",,233,NaN
+UN,samoa,Samoa,Elsewhere,,117,NaN
+UN,sao-tome-and-principe-sao-tome,Sao Tome and Principe,Sao Tome,,167,NaN
+UN,sao-tome-and-principe-sao-tome,Sao Tome and Principe,"Sao Tome (Omali Sao Tome, Pestana Sao Tome)",,242,NaN
+UN,sao-tome-and-principe-sao-tome,Sao Tome and Principe,Sao Tome (Pestana Equador),,190,NaN
+UN,sao-tome-and-principe-principe,Sao Tome and Principe,Principe,,97,NaN
+UN,sao-tome-and-principe-principe,Sao Tome and Principe,Principe (Bom Bom Island Resort),,394,NaN
+UN,saudi-arabia-riyadh,Saudi Arabia,Riyadh,,381,NaN
+UN,saudi-arabia-al-khobar,Saudi Arabia,Al-Khobar,,365,NaN
+UN,saudi-arabia-jeddah,Saudi Arabia,Jeddah,,280,NaN
+UN,saudi-arabia-jeddah,Saudi Arabia,"Jeddah (Crowne Plaza, Intercontinental)",,485,NaN
+UN,saudi-arabia,Saudi Arabia,Elsewhere,,320,NaN
+UN,senegal-dakar,Senegal,Dakar,,271,NaN
+UN,senegal-dakar,Senegal,Dakar (King Fahd Palace),,371,NaN
+UN,senegal-m'bour,Senegal,M'Bour,,189,NaN
+UN,senegal-m'bour,Senegal,M'Bour (Hotel Lamantin Beach),,312,NaN
+UN,senegal-toubacouta,Senegal,Toubacouta (Les Paletuviers),,186,NaN
+UN,senegal,Senegal,Elsewhere,,125,NaN
+UN,serbia-belgrade,Serbia,Belgrade,,180,NaN
+UN,serbia-pristina,Serbia,Pristina,,153,NaN
+UN,serbia,Serbia,Elsewhere,,101,NaN
+UN,seychelles-mahe-victoria,Seychelles,Mahe Victoria,,319,NaN
+UN,seychelles-la-digue,Seychelles,"La Digue (Le Repaire, Patatran)",,404,NaN
+UN,seychelles-la-digue-and-praslin,Seychelles,La Digue and Praslin,,295,NaN
+UN,seychelles-praslin,Seychelles,Praslin (Archipel),,680,NaN
+UN,seychelles-praslin,Seychelles,Praslin (Indian Ocean Lodge),,468,NaN
+UN,sierra-leone-freetown,Sierra Leone,Freetown,,268,NaN
+UN,sierra-leone-freetown,Sierra Leone,Freetown (Radisson Blu Mammy Yoko House),,284,NaN
+UN,sierra-leone-makeni,Sierra Leone,Makeni,,103,NaN
+UN,sierra-leone,Sierra Leone,Elsewhere,,92,NaN
+UN,singapore,Singapore,All Areas,,396,NaN
+UN,slovak-republic-bratislava,Slovak Republic,Bratislava,,244,NaN
+UN,slovak-republic,Slovak Republic,Elsewhere,,173,NaN
+UN,slovenia-republic-of,"Slovenia, Republic of",All Areas,,273,NaN
+UN,solomon-islands-honiara,Solomon Islands,Honiara,,275,NaN
+UN,solomon-islands-honiara,Solomon Islands,Honiara (Heritage Park),,472,NaN
+UN,solomon-islands-auki,Solomon Islands,Auki,,148,NaN
+UN,solomon-islands-gizo,Solomon Islands,Gizo,,194,NaN
+UN,solomon-islands,Solomon Islands,Elsewhere,,153,NaN
+UN,somalia-mogadishu,Somalia,Mogadishu (Bancroft/International Campus- MIA),,191,NaN
+UN,somalia-mogadishu,Somalia,Mogadishu (Chelsea Village),,173,NaN
+UN,somalia-mogadishu,Somalia,Mogadishu (Nadiif),,150,NaN
+UN,somalia-mogadishu,Somalia,Mogadishu (RA International),,224,NaN
+UN,somalia-mogadishu,Somalia,Mogadishu (Thorn Tree),,184,NaN
+UN,somalia-mogadishu,Somalia,Mogadishu (UNICEF Guest House),,185,NaN
+UN,somalia-mogadishu,Somalia,Mogadishu (UNSOS Camp - MIA),,144,NaN
+UN,somalia-mogadishu,Somalia,Mogadishu (WFP Guest House),,201,NaN
+UN,somalia-baidoa,Somalia,Baidoa (UNSOS Guest House),,144,NaN
+UN,somalia-baledongle,Somalia,Baledongle (UNSOS Guest House),,144,NaN
+UN,somalia-beletweyne,Somalia,Beletweyne (UNSOS Guest House),,144,NaN
+UN,somalia-berbera,Somalia,Berbera (Mansoor),,95,NaN
+UN,somalia-dhobley,Somalia,Dhobley (UNSOS Guest House),,144,NaN
+UN,somalia-dollow,Somalia,Dollow (WFP Guest House),,209,NaN
+UN,somalia-galkayo,Somalia,Galkayo (WFP Guest House),,92,NaN
+UN,somalia-garowe,Somalia,Garowe (UNCC New Villas),,213,NaN
+UN,somalia-garowe,Somalia,Garowe (UNSOS GIH),,230,NaN
+UN,somalia-hargeisa,Somalia,Hargeisa (Hotels Ambassador & Maansoor),,136,NaN
+UN,somalia-jowhar,Somalia,Jowhar (UNSOS Guest House),,144,NaN
+UN,somalia-kismayo,Somalia,Kismayo (Atlantean),,403,NaN
+UN,somalia-kismayo,Somalia,Kismayo (UNSOS Guest House),,144,NaN
+UN,somalia,Somalia,Elsewhere,,74,NaN
+UN,south-africa-pretoria,South Africa,Pretoria,,183,NaN
+UN,south-africa-bloemfontein,South Africa,Bloemfontein,,178,NaN
+UN,south-africa-capetown,South Africa,Capetown,,232,NaN
+UN,south-africa-durban,South Africa,Durban,,223,NaN
+UN,south-africa-east-london,South Africa,East London,,241,NaN
+UN,south-africa-johannesburg,South Africa,Johannesburg,,307,NaN
+UN,south-africa-johannesburg-sandton,South Africa,Johannesburg-Sandton,,286,NaN
+UN,south-africa-johannesburg-sandton,South Africa,Johannesburg-Sandton (Sandton Sun),,498,NaN
+UN,south-africa-magaliesburgmuldersdrift,South Africa,Magaliesburg/Muldersdrift,,234,NaN
+UN,south-africa-musina,South Africa,Musina,,155,NaN
+UN,south-africa-polokwane,South Africa,Polokwane,,145,NaN
+UN,south-africa-sun-city,South Africa,Sun City,,218,NaN
+UN,south-africa-sun-city,South Africa,Sun City (Special Hotels),,300,NaN
+UN,south-africa,South Africa,Elsewhere,,115,NaN
+UN,south-sudan-republic-of-juba,"South Sudan, Republic of",Juba,,221,NaN
+UN,south-sudan-republic-of-juba,"South Sudan, Republic of",Juba (Juba Grand),,258,NaN
+UN,south-sudan-republic-of-juba,"South Sudan, Republic of",Juba (Logali House),,238,NaN
+UN,south-sudan-republic-of-juba,"South Sudan, Republic of",Juba (UN Guest Houses),,80,NaN
+UN,south-sudan-republic-of-aweil,"South Sudan, Republic of",Aweil (Aweil Grand),,269,NaN
+UN,south-sudan-republic-of-aweil,"South Sudan, Republic of",Aweil (South Sudan),,192,NaN
+UN,south-sudan-republic-of-rumbek,"South Sudan, Republic of","Rumbek (Palm Tree, Safari Style)",,202,NaN
+UN,south-sudan-republic-of-torit,"South Sudan, Republic of",Torit,,117,NaN
+UN,south-sudan-republic-of-torit,"South Sudan, Republic of",Torit (Torit Hotel),,223,NaN
+UN,south-sudan-republic-of-wau,"South Sudan, Republic of","Wau (Amarula Lodge, Regency, Universal Gab, Wau River Lodge)",,181,NaN
+UN,south-sudan-republic-of-yambio,"South Sudan, Republic of","Yambio (Sunset, Tourist)",,181,NaN
+UN,south-sudan-republic-of,"South Sudan, Republic of",Elsewhere,,91,NaN
+UN,south-sudan-republic-of,"South Sudan, Republic of",Elsewhere (UN Guest Houses),,71,NaN
+UN,spain-madrid,Spain,Madrid,,310,NaN
+UN,spain-barcelona,Spain,Barcelona,,268,NaN
+UN,spain-las-palmas-canary-islands,Spain,"Las Palmas, Canary Islands",,263,NaN
+UN,spain,Spain,Elsewhere,,212,NaN
+UN,sri-lanka-colombo,Sri Lanka,Colombo,,214,NaN
+UN,sri-lanka-colombo,Sri Lanka,Colombo (Sri Lanka-based staff),,122,NaN
+UN,sri-lanka-ampara-batticaloa-trincomalee,Sri Lanka,"Ampara, Batticaloa, Trincomalee",,74,NaN
+UN,sri-lanka-jaffna-killinochchi-mannar-mullaitivu-vavunia,Sri Lanka,"Jaffna, Killinochchi, Mannar, Mullaitivu, Vavunia",,74,NaN
+UN,sri-lanka-kandy,Sri Lanka,Kandy,,152,NaN
+UN,sri-lanka,Sri Lanka,Elsewhere,,123,NaN
+UN,st.-kitts-and-nevis,St. Kitts and Nevis,All Areas (15 Apr. - 14 Dec.),,374,NaN
+UN,st.-kitts-and-nevis,St. Kitts and Nevis,All Areas (15 Dec - 14 Apr.),,456,NaN
+UN,st.-lucia,St. Lucia,All Areas (15 Apr.-14 Dec.),,448,NaN
+UN,st.-lucia,St. Lucia,"All Areas (15 Dec.-14 Apr,)",,485,NaN
+UN,st.vincent-grenadines,St.Vincent-Grenadines,All Areas (15 Apr. - 14 Dec.),,319,NaN
+UN,st.vincent-grenadines,St.Vincent-Grenadines,All Areas (15 Dec. - 14 Apr.),,333,NaN
+UN,sudan-khartoum,Sudan,Khartoum,,165,NaN
+UN,sudan-port-sudan,Sudan,Port Sudan,,141,NaN
+UN,sudan-port-sudan,Sudan,Port Sudan (Coral),,265,NaN
+UN,sudan,Sudan,Elsewhere,,117,NaN
+UN,suriname-paramaribo,Suriname,Paramaribo,,172,NaN
+UN,suriname,Suriname,Elsewhere,,98,NaN
+UN,swaziland-mbabane,Swaziland,Mbabane,,197,NaN
+UN,swaziland-ezulwini,Swaziland,Ezulwini,,262,NaN
+UN,swaziland-manzini,Swaziland,Manzini,,168,NaN
+UN,swaziland-piggs-peak,Swaziland,Piggs Peak,,145,NaN
+UN,swaziland,Swaziland,Elsewhere,,121,NaN
+UN,sweden-stockholm,Sweden,Stockholm,,397,NaN
+UN,sweden,Sweden,Elsewhere,,331,NaN
+UN,switzerland,Switzerland,All Areas,,386,NaN
+UN,syrian-arab-republic-damascus,Syrian Arab Republic,Damascus,,216,NaN
+UN,syrian-arab-republic-damascus,Syrian Arab Republic,Damascus (Four Seasons),,394,NaN
+UN,syrian-arab-republic-aleppo,Syrian Arab Republic,Aleppo,,195,NaN
+UN,syrian-arab-republic-homs,Syrian Arab Republic,Homs,,156,NaN
+UN,syrian-arab-republic-lattakia,Syrian Arab Republic,Lattakia,,137,NaN
+UN,syrian-arab-republic,Syrian Arab Republic,Elsewhere,,128,NaN
+UN,tajikistan-dushanbe,Tajikistan,Dushanbe,,170,NaN
+UN,tajikistan-darvaz,Tajikistan,Darvaz (Karon Palace),,145,NaN
+UN,tajikistan-regional-centers,Tajikistan,Regional Centers,,90,NaN
+UN,tajikistan,Tajikistan,Elsewhere,,51,NaN
+UN,tanzania-united-rep.-of-dar-es-salaam,"Tanzania, United Rep. of",Dar es Salaam,,223,NaN
+UN,tanzania-united-rep.-of-dar-es-salaam,"Tanzania, United Rep. of",Dar es Salaam  (Special hotels),,312,NaN
+UN,tanzania-united-rep.-of-arusha,"Tanzania, United Rep. of",Arusha,,188,NaN
+UN,tanzania-united-rep.-of-bagamoyo,"Tanzania, United Rep. of",Bagamoyo,,150,NaN
+UN,tanzania-united-rep.-of-dodoma,"Tanzania, United Rep. of",Dodoma,,141,NaN
+UN,tanzania-united-rep.-of-kigoma,"Tanzania, United Rep. of",Kigoma,,147,NaN
+UN,tanzania-united-rep.-of-mbeya,"Tanzania, United Rep. of",Mbeya,,105,NaN
+UN,tanzania-united-rep.-of-morogoro,"Tanzania, United Rep. of",Morogoro,,105,NaN
+UN,tanzania-united-rep.-of-moshi,"Tanzania, United Rep. of",Moshi,,134,NaN
+UN,tanzania-united-rep.-of-mtwara,"Tanzania, United Rep. of",Mtwara,,127,NaN
+UN,tanzania-united-rep.-of-mwanza,"Tanzania, United Rep. of",Mwanza,,150,NaN
+UN,tanzania-united-rep.-of-ngorongoroserengeti,"Tanzania, United Rep. of",Ngorongoro/Serengeti,,341,NaN
+UN,tanzania-united-rep.-of-pemba,"Tanzania, United Rep. of",Pemba,,127,NaN
+UN,tanzania-united-rep.-of-tanga,"Tanzania, United Rep. of",Tanga,,140,NaN
+UN,tanzania-united-rep.-of-zanzibar,"Tanzania, United Rep. of","Zanzibar (Park Hyatt, Serena Inn)",,310,NaN
+UN,tanzania-united-rep.-of-zanzibar-nungwi,"Tanzania, United Rep. of","Zanzibar, Nungwi (Diamond La Gema, Essque Zallu, Royal Zanzibar)",,398,NaN
+UN,tanzania-united-rep.-of-zanzibar-nungwi,"Tanzania, United Rep. of","Zanzibar, Nungwi (Hideaway, Melia)",,469,NaN
+UN,tanzania-united-rep.-of-zanzibar-nungwi,"Tanzania, United Rep. of","Zanzibar, Nungwi (Neptune)",,520,NaN
+UN,tanzania-united-rep.-of-zanzibar-stonetown,"Tanzania, United Rep. of","Zanzibar, Stonetown",,170,NaN
+UN,tanzania-united-rep.-of,"Tanzania, United Rep. of",Elsewhere,,95,NaN
+UN,thailand-bangkok,Thailand,Bangkok,,215,NaN
+UN,thailand-cha-am,Thailand,Cha Am,,179,NaN
+UN,thailand-chiang-mai,Thailand,Chiang Mai,,173,NaN
+UN,thailand-chiang-rai,Thailand,Chiang Rai,,135,NaN
+UN,thailand-hua-hin,Thailand,Hua Hin,,223,NaN
+UN,thailand-kanchanaburi,Thailand,Kanchanaburi,,121,NaN
+UN,thailand-koh-samui,Thailand,Koh Samui,,158,NaN
+UN,thailand-pattaya,Thailand,Pattaya,,155,NaN
+UN,thailand-phuket,Thailand,Phuket,,230,NaN
+UN,thailand-rayong,Thailand,Rayong,,149,NaN
+UN,thailand-songkla-hatyai,Thailand,"Songkla, HatYai",,92,NaN
+UN,thailand,Thailand,Elsewhere,,78,NaN
+UN,the-former-yugoslav-republic-of-macedonia-skopje,The former Yugoslav Republic of Macedonia,Skopje,,167,NaN
+UN,the-former-yugoslav-republic-of-macedonia-ohrid-and-struga,The former Yugoslav Republic of Macedonia,Ohrid & Struga,,90,NaN
+UN,the-former-yugoslav-republic-of-macedonia,The former Yugoslav Republic of Macedonia,Elsewhere,,74,NaN
+UN,timor-leste-dili,Timor-Leste,Dili,,160,NaN
+UN,timor-leste-dili,Timor-Leste,"Dili (Novo Turismo, Timor Plaza)",,227,NaN
+UN,timor-leste-baucau,Timor-Leste,Baucau (Hotel Pousada),,115,NaN
+UN,timor-leste-com-lautem,Timor-Leste,Com -Lautem (Com Beach Resort),,135,NaN
+UN,timor-leste-oecussi,Timor-Leste,Oecussi (RAO Hotel),,81,NaN
+UN,timor-leste,Timor-Leste,Elsewhere,,66,NaN
+UN,togo-lome,Togo,Lome,,189,NaN
+UN,togo-lome,Togo,"Lome (Palm Beach, Sancta Maria)",,275,NaN
+UN,togo-lome,Togo,Lome (Sarakawa),,328,NaN
+UN,togo,Togo,Elsewhere,,84,NaN
+UN,tokelau,Tokelau,All Areas,,87,NaN
+UN,tonga-nuku'alofa,Tonga,Nuku'Alofa,,220,NaN
+UN,tonga-vava'u,Tonga,Vava'u,,112,NaN
+UN,tonga,Tonga,Elsewhere,,63,NaN
+UN,trinidad-and-tobago,Trinidad and Tobago,Trinidad - All Areas,,313,NaN
+UN,trinidad-and-tobago-tobago,Trinidad and Tobago,Tobago (15 Apr.-15 Dec.),,294,NaN
+UN,trinidad-and-tobago-tobago,Trinidad and Tobago,Tobago (16 Dec.-14 Apr.),,313,NaN
+UN,tunisia-tunis,Tunisia,Tunis,,139,NaN
+UN,tunisia-tunis,Tunisia,"Tunis (Movenpick Tunis, Four Seasons)",,223,NaN
+UN,tunisia-tunis,Tunisia,"Tunis (Sheraton, Concorde)",,194,NaN
+UN,tunisia,Tunisia,Elsewhere,,90,NaN
 UN,turkey-ankara,Turkey,Ankara,,171,NaN
 UN,turkey-antalya,Turkey,Antalya,,185,NaN
 UN,turkey-diyarbakir,Turkey,Diyarbakir,,135,NaN
+UN,turkey-gaziantep,Turkey,Gaziantep,,133,NaN
 UN,turkey-istanbul,Turkey,Istanbul,,235,NaN
 UN,turkey-izmir,Turkey,Izmir,,191,NaN
-UN,turkey-gaziantep,Turkey,Gaziantep,,133,NaN
 UN,turkey-sanliurfa,Turkey,Sanliurfa,,135,NaN
 UN,turkey,Turkey,Elsewhere,,124,NaN
-UN,tuvalu,Tuvalu,All Areas,,195,NaN
-UN,united-kingdom-london,United Kingdom,London,,380,NaN
-UN,united-kingdom,United Kingdom,Elsewhere,,334,NaN
+UN,turkmenistan-ashgabat,Turkmenistan,Ashgabat,,250,NaN
+UN,turkmenistan-ashgabat,Turkmenistan,Ashgabat (Resident),,209,NaN
+UN,turkmenistan-balkanabat,Turkmenistan,Balkanabat (Nebitchi) Non-resident,,129,NaN
+UN,turkmenistan-turkmenbashi,Turkmenistan,Turkmenbashi,,132,NaN
+UN,turkmenistan-turkmenbashy,Turkmenistan,Turkmenbashy (Resident),,93,NaN
+UN,turkmenistan,Turkmenistan,Elsewhere,,113,NaN
+UN,turkmenistan,Turkmenistan,Elsewhere (Resident),,79,NaN
+UN,turks-and-caicos-islands-grand-turk,Turks & Caicos Islands,Grand Turk,,384,NaN
+UN,turks-and-caicos-islands-providenciales,Turks & Caicos Islands,Providenciales (14 Apr. - 21 Dec.),,438,NaN
+UN,turks-and-caicos-islands-providenciales,Turks & Caicos Islands,Providenciales (22 Dec. - 13 Apr.],,540,NaN
+UN,tuvalu,Tuvalu,All Areas,,199,NaN
+UN,uganda-kampala,Uganda,Kampala,,216,NaN
+UN,uganda-kampala,Uganda,Kampala (Kampala Serena),,530,NaN
+UN,uganda-kampala,Uganda,Kampala (Sheraton),,291,NaN
+UN,uganda-entebbe,Uganda,Entebbe,,203,NaN
+UN,uganda-entebbe,Uganda,Entebbe (Protea),,347,NaN
+UN,uganda-jinja,Uganda,Jinja (Jinja Nile Resort),,290,NaN
+UN,uganda-kabale,Uganda,"Kabale (Chobe Safari Lodge, Paraa Safari Lodge)",,281,NaN
+UN,uganda-kabale,Uganda,Kabale (Silverback Lodge),,315,NaN
+UN,uganda-kabarolefort-portal,Uganda,Kabarole/Fort Portal,,98,NaN
+UN,uganda-kisoro,Uganda,Kisoro,,149,NaN
+UN,uganda-mbarara,Uganda,Mbarara,,98,NaN
+UN,uganda-mbarara,Uganda,Mbarara (Mweya Safari Lodge),,284,NaN
+UN,uganda,Uganda,Elsewhere,,63,NaN
+UN,ukraine-kyiv,Ukraine,Kyiv,,205,NaN
+UN,ukraine-kyiv,Ukraine,Kyiv (Hyatt Regency),,351,NaN
+UN,ukraine-kyiv,Ukraine,"Kyiv (Intercontinental, Premier Palace)",,342,NaN
+UN,ukraine-kyiv,Ukraine,Kyiv (Radisson Blu),,308,NaN
+UN,ukraine-dnipro,Ukraine,Dnipro,,99,NaN
+UN,ukraine-dnipro,Ukraine,Dnipro (Grand),,146,NaN
+UN,ukraine-donetsk,Ukraine,Donetsk,,170,NaN
+UN,ukraine-kharkiv,Ukraine,Kharkiv,,100,NaN
+UN,ukraine-kharkiv,Ukraine,Kharkiv (Kharkiv Palats),,239,NaN
+UN,ukraine-lviv,Ukraine,Lviv,,99,NaN
+UN,ukraine-lviv,Ukraine,Lviv (Leopolis),,189,NaN
+UN,ukraine-odesa,Ukraine,Odesa,,106,NaN
+UN,ukraine-odesa,Ukraine,Odesa (Londonskaya),,151,NaN
+UN,ukraine,Ukraine,Elsewhere,,68,NaN
+UN,united-arab-emirates-abu-dhabi,United Arab Emirates,Abu Dhabi,,370,NaN
+UN,united-arab-emirates-dubai,United Arab Emirates,Dubai,,392,NaN
+UN,united-arab-emirates,United Arab Emirates,Elsewhere,,376,NaN
+UN,united-kingdom-london,United Kingdom,London,,390,NaN
+UN,united-kingdom,United Kingdom,Elsewhere,,343,NaN
+UN,uruguay-montevideo,Uruguay,Montevideo,,216,NaN
+UN,uruguay-colonia,Uruguay,Colonia,,247,NaN
+UN,uruguay-punta-del-este,Uruguay,Punta Del Este (April-Nov),,193,NaN
+UN,uruguay-punta-del-este,Uruguay,Punta Del Este (Conrad) December- March,,469,NaN
+UN,uruguay-punta-del-este,Uruguay,Punta Del Este (Dec-March),,345,NaN
+UN,uruguay-salto,Uruguay,Salto,,245,NaN
+UN,uruguay,Uruguay,Elsewhere,,169,NaN
+UN,usa-washington-d.c.,USA,Washington D.C.,,367,NaN
+UN,usa-boston,USA,Boston,,385,NaN
+UN,usa-chicago,USA,Chicago,,339,NaN
+UN,usa-honolulu,USA,Honolulu,,385,NaN
+UN,usa-los-angeles,USA,Los Angeles,,385,NaN
+UN,usa-miami,USA,Miami,,348,NaN
+UN,usa-new-york,USA,New York (First 30 Days),,410,NaN
+UN,usa-new-york,USA,New York (Next 30 Days),,349,NaN
+UN,usa-new-york-special-hotels,USA,New York Special Hotels (Jan-Aug) First 30 days,,500,NaN
+UN,usa-new-york-special-hotels,USA,New York Special Hotels (Jan-Aug) Next 30 days,,425,NaN
+UN,usa-new-york-special-hotels,USA,New York Special Hotels (Sep-Dec) First 30 days,,600,NaN
+UN,usa-new-york-special-hotels,USA,New York Special Hotels (Sep-Dec) Next 30 days,,510,NaN
+UN,usa-philadelphia,USA,Philadelphia,,326,NaN
+UN,usa-san-francisco,USA,San Francisco,,381,NaN
+UN,usa,USA,Elsewhere,,303,NaN
+UN,uzbekistan-tashkent,Uzbekistan,Tashkent,,182,NaN
+UN,uzbekistan-tashkent,Uzbekistan,"Tashkent (International, Hyatt)",,275,NaN
+UN,uzbekistan-tashkent,Uzbekistan,Tashkent (Residents),,133,NaN
+UN,uzbekistan-bukhara,Uzbekistan,Bukhara,,79,NaN
+UN,uzbekistan-bukhara,Uzbekistan,Bukhara (Residents),,49,NaN
+UN,uzbekistan-fergana,Uzbekistan,Fergana,,89,NaN
+UN,uzbekistan-fergana,Uzbekistan,Fergana (Residents),,59,NaN
+UN,uzbekistan-gazalkent,Uzbekistan,Gazalkent,,81,NaN
+UN,uzbekistan-gazalkent,Uzbekistan,Gazalkent (Charos),,148,NaN
+UN,uzbekistan-nukus-and-urgench,Uzbekistan,Nukus and Urgench,,56,NaN
+UN,uzbekistan-samarkhand,Uzbekistan,Samarkhand,,139,NaN
+UN,uzbekistan-samarkhand,Uzbekistan,Samarkhand (Residents),,64,NaN
+UN,uzbekistan-termez,Uzbekistan,Termez,,60,NaN
+UN,uzbekistan,Uzbekistan,Elsewhere,,71,NaN
+UN,uzbekistan,Uzbekistan,Elsewhere (Residents),,36,NaN
+UN,vanuatu-port-vila,Vanuatu,Port Vila,,351,NaN
+UN,vanuatu-santos,Vanuatu,Santos,,256,NaN
+UN,vanuatu-tanna-island,Vanuatu,Tanna Island,,294,NaN
+UN,vanuatu,Vanuatu,Elsewhere,,108,NaN
 UN,venezuela-caracas,Venezuela,Caracas,,146,NaN
-UN,venezuela-san-cristobal,Venezuela,San Cristobal,,52,NaN
+UN,venezuela-barcelona-puerto-la-cruz,Venezuela,"Barcelona, Puerto La Cruz",,109,NaN
 UN,venezuela-barinas,Venezuela,Barinas,,56,NaN
+UN,venezuela-barquisimieto,Venezuela,Barquisimieto,,100,NaN
+UN,venezuela-cumana,Venezuela,Cumana,,78,NaN
 UN,venezuela-isla-de-margarita,Venezuela,Isla de Margarita,,108,NaN
 UN,venezuela-la-guaira,Venezuela,La Guaira,,146,NaN
 UN,venezuela-maracaibo,Venezuela,Maracaibo,,90,NaN
-UN,venezuela-cumana,Venezuela,Cumana,,78,NaN
 UN,venezuela-maracay-and-valencia,Venezuela,Maracay and Valencia,,98,NaN
+UN,venezuela-maturin,Venezuela,Maturin,,68,NaN
 UN,venezuela-merida,Venezuela,Merida,,67,NaN
 UN,venezuela-puerto-ordaz,Venezuela,Puerto Ordaz,,112,NaN
 UN,venezuela-punto-fijo,Venezuela,Punto Fijo,,73,NaN
-UN,venezuela-barcelona-puerto-la-cruz,Venezuela,"Barcelona, Puerto La Cruz",,109,NaN
-UN,venezuela-barquisimieto,Venezuela,Barquisimieto,,100,NaN
-UN,venezuela-maturin,Venezuela,Maturin,,68,NaN
+UN,venezuela-san-cristobal,Venezuela,San Cristobal,,52,NaN
 UN,venezuela,Venezuela,Elsewhere,,47,NaN
+UN,vietnam-hanoi,Vietnam,Hanoi,,168,NaN
+UN,vietnam-can-tho,Vietnam,Can Tho,,89,NaN
+UN,vietnam-da-lat,Vietnam,Da Lat,,130,NaN
+UN,vietnam-da-nang-city-nha-trang,Vietnam,"Da Nang City, Nha Trang",,132,NaN
+UN,vietnam-ha-long-city,Vietnam,Ha Long City,,98,NaN
+UN,vietnam-hai-phong-city-do-son,Vietnam,"Hai Phong City , Do Son",,132,NaN
+UN,vietnam-ho-chi-minh-city,Vietnam,Ho Chi Minh City,,159,NaN
+UN,vietnam-hoi-an-city,Vietnam,Hoi An City,,128,NaN
+UN,vietnam-hue-city,Vietnam,Hue City,,103,NaN
+UN,vietnam,Vietnam,Elsewhere,,69,NaN
+UN,virgin-islands,Virgin Islands,All Areas (1 May -14 Dec.),,381,NaN
+UN,virgin-islands,Virgin Islands,All Areas (15 Dec. - 30 Apr.),,530,NaN
+UN,west-bank-jericho-area,West Bank,Jericho Area,,186,NaN
+UN,west-bank-the-gaza-strip,West Bank,The Gaza Strip,,165,NaN
+UN,west-bank,West Bank,Elsewhere in the West Bank,,217,NaN
+UN,western-sahara-laayoune,Western Sahara,Laayoune,,118,NaN
 UN,yemen-republic-of-sana'a,"Yemen, Republic of",Sana'a,,150,NaN
+UN,yemen-republic-of-sana'a,"Yemen, Republic of",Sana'a (DTF-Former Sheraton),,291,NaN
+UN,yemen-republic-of-sana'a,"Yemen, Republic of","Sana'a (Movenpick, Sheba)",,220,NaN
 UN,yemen-republic-of-aden,"Yemen, Republic of",Aden,,134,NaN
 UN,yemen-republic-of-hodeidah,"Yemen, Republic of",Hodeidah,,104,NaN
+UN,yemen-republic-of-mukalla,"Yemen, Republic of",Mukalla (Ramada),,144,NaN
 UN,yemen-republic-of-socotra,"Yemen, Republic of",Socotra,,127,NaN
 UN,yemen-republic-of-taiz,"Yemen, Republic of",Taiz (Al-Saeed),,184,NaN
-UN,yemen-republic-of-mukalla,"Yemen, Republic of",Mukalla (Ramada),,144,NaN
-UN,yemen-republic-of-sana'a,"Yemen, Republic of","Sana'a (Movenpick, Sheba)",,220,NaN
-UN,yemen-republic-of-sana'a,"Yemen, Republic of",Sana'a (DTF-Former Sheraton),,291,NaN
 UN,yemen-republic-of,"Yemen, Republic of",Elsewhere,,100,NaN
+UN,zambia-lusaka,Zambia,Lusaka,,246,NaN
+UN,zambia-lusaka,Zambia,Lusaka (Intercontinental Hotel),,313,NaN
+UN,zambia-lusaka,Zambia,"Lusaka (Protea Arcade, Southern Sun Ridgeway, Taj Pamodzi)",,343,NaN
+UN,zambia-chingola,Zambia,Chingola,,186,NaN
+UN,zambia-chipata,Zambia,Chipata,,137,NaN
+UN,zambia-chipata,Zambia,Chipata (Protea),,299,NaN
+UN,zambia-kitwe,Zambia,Kitwe,,219,NaN
+UN,zambia-livingstone,Zambia,Livingstone,,187,NaN
+UN,zambia-livingstone,Zambia,"Livingstone (Protea, David Livingstone, Avani Victoria Falls)",,445,NaN
+UN,zambia-ndola,Zambia,Ndola,,289,NaN
+UN,zambia-siavonga,Zambia,"Siavonga (Lake Safari, Lake Kariba, Freshview)",,174,NaN
+UN,zambia-solwezi,Zambia,Solwezi,,183,NaN
+UN,zambia-solwezi,Zambia,"Solwezi (Kasanshi, Royal Solwezi)",,269,NaN
+UN,zambia,Zambia,Elsewhere,,128,NaN
+UN,zimbabwe-harare,Zimbabwe,Harare,,188,NaN
+UN,zimbabwe-harare,Zimbabwe,Harare (Meikles),,202,NaN
+UN,zimbabwe-bulawayo,Zimbabwe,Bulawayo,,151,NaN
+UN,zimbabwe-chegutu,Zimbabwe,Chegutu (Pamuzunda Hotel),,189,NaN
+UN,zimbabwe-kadoma,Zimbabwe,Kadoma,,160,NaN
+UN,zimbabwe-kariba,Zimbabwe,Kariba,,157,NaN
+UN,zimbabwe-masvingo,Zimbabwe,Masvingo,,127,NaN
+UN,zimbabwe-mutare,Zimbabwe,Mutare,,156,NaN
+UN,zimbabwe-nyanga,Zimbabwe,Nyanga,,150,NaN
+UN,zimbabwe-victoria-falls,Zimbabwe,Victoria Falls,,199,NaN
+UN,zimbabwe-victoria-falls,Zimbabwe,Victoria Falls (Victoria Falls Hotel),,293,NaN
+UN,zimbabwe-vumba,Zimbabwe,Vumba (Leopard Rock),,196,NaN
+UN,zimbabwe,Zimbabwe,Elsewhere,,110,NaN
 US,afghanistan,AFGHANISTAN,[Other],S1,15,15
 US,afghanistan-kabul,AFGHANISTAN,Kabul,S1,33,33
 US,albania,ALBANIA,[Other],S1,132,43

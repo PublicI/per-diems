@@ -59,7 +59,7 @@ function cleanMoney(code, value) {
 function calcTotal(row) {
     // find the field that corresponds to the per diem for this particular jurisidiction
     let total = [
-        'First 60 Days (US$)',
+        'First 60 Days US$',
         'Per Diem',
         'Total residual',
         'GRAND TOTAL (taxes included)',
