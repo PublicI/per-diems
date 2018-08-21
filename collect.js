@@ -75,7 +75,7 @@ function calcTotal(row) {
     if (row['First 60 Days US$']) {
         currencyCode = null;
     }
-    if (row['Amount (Euros)']) {
+    if (row['Amount (Euros)'] || row['Daily allowance']) {
         currencyCode = 'EUR';
     }
 
@@ -105,7 +105,7 @@ function calcRoomRate(row) {
         return cleanMoney('EUR', row['Hotel ceiling']);
     }
     // Canada
-    if (row['Meal Rate']) {
+    if (row['Incidental Amount']) {
         return 0;
     }
     // US
@@ -135,7 +135,7 @@ function calcMealsAndIncidentals(row) {
         return calcTotal(row)*(1-(+row['Room as % of DSA']/100));
     }
     // Canada
-    if (row['Meal Rate']) {
+    if (row['Incidental Amount']) {
         return calcTotal(row);
     }
     // UK
